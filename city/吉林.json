@@ -1,0 +1,430 @@
+{
+  "code": "",
+  "name": "吉林省",
+  "level": 1,
+  "districts": [
+    {
+      "code": "",
+      "name": "长春市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "公主岭市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "双阳区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "南关区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "朝阳区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "绿园区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "农安县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "九台区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "德惠市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "宽城区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "榆树市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "二道区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "白城市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "洮南市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "大安市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "镇赉县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "通榆县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "洮北区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "吉林市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "昌邑区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "舒兰市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "蛟河市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "船营区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "丰满区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "龙潭区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "永吉县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "桦甸市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "磐石市",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "延边朝鲜族自治州",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "敦化市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "和龙市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "安图县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "延吉市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "汪清县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "珲春市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "龙井市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "图们市",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "通化市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "辉南县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "梅河口市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "东昌区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "柳河县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "通化县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "二道江区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "集安市",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "松原市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "宁江区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "扶余市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "长岭县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "前郭尔罗斯蒙古族自治县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "乾安县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "四平市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "铁东区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "伊通满族自治县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "梨树县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "双辽市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "铁西区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "辽源市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "西安区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "龙山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "东辽县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "东丰县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "白山市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "临江市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "抚松县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "长白朝鲜族自治县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "江源区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "浑江区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "靖宇县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    }
+  ]
+}

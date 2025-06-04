@@ -1,0 +1,1164 @@
+{
+  "code": "",
+  "name": "湖北省",
+  "level": 1,
+  "districts": [
+    {
+      "code": "",
+      "name": "孝感市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "汉川市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "应城市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "云梦县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "孝昌县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "大悟县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "安陆市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "孝南区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "荆州市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "江陵县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "洪湖市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "石首市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "监利市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "公安县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "荆州区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "沙市区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "松滋市",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "襄阳市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "南漳县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "襄城区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "樊城区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "保康县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "老河口市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "襄州区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "枣阳市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "谷城县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "宜城市",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "荆门市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "钟祥市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "沙洋县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "东宝区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "京山市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "掇刀区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "宜昌市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "西陵区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "枝江市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "猇亭区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "伍家岗区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "当阳市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "秭归县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "点军区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "五峰土家族自治县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "兴山县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "夷陵区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "远安县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "宜都市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "长阳土家族自治县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "随州市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "广水市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "随县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "曾都区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "恩施土家族苗族自治州",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "利川市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "咸丰县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "建始县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "来凤县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "恩施市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "巴东县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "鹤峰县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "宣恩县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "武汉市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "江夏区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "东西湖区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "汉阳区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "武昌区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "洪山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "黄陂区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "江汉区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "硚口区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "青山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "江岸区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "蔡甸区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "新洲区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "汉南区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "潜江市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "高场街道",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "园林街道",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "后湖管理区",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "龙湾镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "广华寺街道",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "总口管理区",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "熊口管理区",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "熊口镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "泰丰街道",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "张金镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "运粮湖管理区",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "积玉口镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "竹根滩镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "王场镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "泽口街道",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "高石碑镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "周矶街道",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "渔洋镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "老新镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "浩口镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "杨市街道",
+          "level": 4,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "十堰市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "郧阳区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "竹溪县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "房县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "丹江口市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "郧西县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "竹山县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "张湾区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "茅箭区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "天门市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "沉湖管委会",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "干驿镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "净潭乡",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "彭市镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "麻洋镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "多宝镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "胡市镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "拖市镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "马湾镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "黄潭镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "横林镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "张港镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "蒋场镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "汪场镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "杨林街道",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "岳口镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "候口街道",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "竟陵街道",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "小板镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "多祥镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "卢市镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "渔薪镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "佛子山镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "九真镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "石家河镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "皂市镇",
+          "level": 4,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "仙桃市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "仙桃工业园",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "沙嘴街道",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "彭场镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "郭河镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "张沟镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "胡场镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "三伏潭镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "郑场镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "豆河镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "毛嘴镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "陈场镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "通海口镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "沔城回族镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "杨林尾镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "龙华山街道",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "干河街道",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "沙湖镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "西流河镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "长埫口镇",
+          "level": 4,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "黄冈市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "麻城市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "武穴市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "黄州区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "黄梅县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "团风县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "浠水县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "蕲春县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "罗田县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "英山县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "红安县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "咸宁市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "崇阳县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "通城县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "通山县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "赤壁市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "嘉鱼县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "咸安区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "神农架林区",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "松柏镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "下谷坪土家族乡",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "木鱼镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "红坪镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "宋洛乡",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "阳日镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "新华镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "九湖镇",
+          "level": 4,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "鄂州市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "华容区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "梁子湖区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "鄂城区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "黄石市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "下陆区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "西塞山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "铁山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "阳新县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "大冶市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "黄石港区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    }
+  ]
+}

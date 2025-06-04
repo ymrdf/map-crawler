@@ -1,0 +1,500 @@
+{
+  "code": "",
+  "name": "西藏自治区",
+  "level": 1,
+  "districts": [
+    {
+      "code": "",
+      "name": "拉萨市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "城关区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "尼木县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "曲水县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "达孜区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "当雄县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "堆龙德庆区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "林周县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "墨竹工卡县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "昌都市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "八宿县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "左贡县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "卡若区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "类乌齐县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "洛隆县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "贡觉县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "边坝县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "察雅县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "丁青县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "芒康县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "江达县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "林芝市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "巴宜区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "波密县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "工布江达县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "察隅县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "朗县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "墨脱县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "米林市",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "山南市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "错那市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "措美县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "浪卡子县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "隆子县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "加查县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "曲松县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "桑日县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "乃东区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "琼结县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "扎囊县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "贡嘎县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "洛扎县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "日喀则市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "江孜县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "谢通门县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "白朗县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "昂仁县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "萨嘎县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "仲巴县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "聂拉木县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "吉隆县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "康马县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "南木林县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "仁布县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "桑珠孜区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "萨迦县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "岗巴县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "定结县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "拉孜县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "定日县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "亚东县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "那曲市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "安多县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "尼玛县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "申扎县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "双湖县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "班戈县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "索县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "比如县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "聂荣县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "色尼区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "巴青县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "嘉黎县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "阿里地区",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "措勤县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "革吉县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "改则县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "噶尔县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "札达县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "日土县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "普兰县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    }
+  ]
+}

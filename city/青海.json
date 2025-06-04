@@ -1,0 +1,333 @@
+{
+  "code": "",
+  "name": "青海省",
+  "level": 1,
+  "districts": [
+    {
+      "code": "",
+      "name": "海北藏族自治州",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "刚察县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "祁连县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "门源回族自治县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "海晏县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "海南藏族自治州",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "贵南县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "兴海县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "共和县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "同德县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "贵德县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "海西蒙古族藏族自治州",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "都兰县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "天峻县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "乌兰县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "德令哈市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "格尔木市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "茫崖市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "大柴旦行政区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "黄南藏族自治州",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "同仁市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "泽库县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "河南蒙古族自治县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "尖扎县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "西宁市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "城西区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "城东区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "城中区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "大通回族土族自治县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "湟中区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "城北区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "湟源县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "果洛藏族自治州",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "班玛县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "达日县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "甘德县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "久治县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "玛沁县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "玛多县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "玉树藏族自治州",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "称多县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "曲麻莱县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "杂多县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "囊谦县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "玉树市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "治多县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "海东市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "化隆回族自治县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "互助土族自治县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "民和回族土族自治县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "乐都区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "平安区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "循化撒拉族自治县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    }
+  ]
+}

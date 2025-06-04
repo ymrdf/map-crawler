@@ -1,0 +1,935 @@
+{
+  "code": "",
+  "name": "山东省",
+  "level": 1,
+  "districts": [
+    {
+      "code": "",
+      "name": "菏泽市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "曹县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "成武县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "定陶区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "单县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "郓城县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "牡丹区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "鄄城县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "东明县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "巨野县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "烟台市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "福山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "莱州市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "莱阳市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "海阳市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "芝罘区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "招远市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "栖霞市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "牟平区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "龙口市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "蓬莱区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "莱山区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "滨州市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "无棣县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "邹平市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "阳信县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "惠民县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "博兴县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "沾化区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "滨城区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "德州市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "临邑县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "陵城区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "夏津县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "宁津县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "武城县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "庆云县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "齐河县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "平原县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "乐陵市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "禹城市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "德城区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "枣庄市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "薛城区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "滕州市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "市中区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "台儿庄区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "峄城区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "山亭区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "潍坊市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "安丘市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "昌乐县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "寿光市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "寒亭区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "临朐县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "坊子区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "昌邑市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "青州市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "高密市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "奎文区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "潍城区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "诸城市",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "淄博市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "张店区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "桓台县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "周村区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "淄川区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "沂源县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "博山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "高青县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "临淄区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "聊城市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "东昌府区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "茌平区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "莘县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "临清市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "冠县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "高唐县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "阳谷县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "东阿县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "泰安市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "新泰市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "东平县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "泰山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "宁阳县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "岱岳区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "肥城市",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "济宁市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "嘉祥县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "金乡县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "曲阜市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "泗水县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "任城区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "微山县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "鱼台县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "兖州区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "汶上县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "梁山县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "邹城市",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "威海市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "环翠区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "乳山市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "荣成市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "文登区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "临沂市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "郯城县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "蒙阴县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "沂水县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "兰山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "平邑县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "河东区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "兰陵县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "莒南县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "沂南县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "罗庄区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "临沭县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "费县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "东营市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "广饶县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "利津县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "东营区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "垦利区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "河口区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "济南市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "槐荫区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "市中区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "莱芜区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "历城区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "历下区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "济阳区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "天桥区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "商河县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "长清区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "平阴县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "章丘区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "钢城区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "青岛市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "莱西市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "李沧区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "市北区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "即墨区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "平度市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "市南区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "黄岛区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "胶州市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "城阳区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "崂山区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "日照市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "莒县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "东港区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "岚山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "五莲县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    }
+  ]
+}

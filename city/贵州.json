@@ -1,0 +1,598 @@
+{
+  "code": "",
+  "name": "贵州省",
+  "level": 1,
+  "districts": [
+    {
+      "code": "",
+      "name": "毕节市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "威宁彝族回族苗族自治县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "大方县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "黔西市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "织金县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "纳雍县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "赫章县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "金沙县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "七星关区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "贵阳市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "白云区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "观山湖区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "花溪区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "南明区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "清镇市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "开阳县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "乌当区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "修文县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "云岩区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "息烽县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "安顺市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "紫云苗族布依族自治县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "平坝区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "西秀区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "镇宁布依族苗族自治县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "普定县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "关岭布依族苗族自治县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "六盘水市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "盘州市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "钟山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "六枝特区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "水城区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "黔东南苗族侗族自治州",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "天柱县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "台江县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "施秉县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "麻江县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "黎平县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "剑河县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "黄平县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "丹寨县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "岑巩县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "镇远县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "凯里市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "三穗县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "锦屏县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "从江县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "榕江县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "雷山县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "黔南布依族苗族自治州",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "独山县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "福泉市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "贵定县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "罗甸县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "三都水族自治县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "长顺县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "都匀市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "平塘县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "惠水县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "荔波县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "龙里县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "瓮安县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "黔西南布依族苗族自治州",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "安龙县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "望谟县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "册亨县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "普安县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "贞丰县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "晴隆县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "兴义市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "兴仁市",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "遵义市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "汇川区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "赤水市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "播州区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "务川仡佬族苗族自治县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "绥阳县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "桐梓县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "习水县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "正安县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "湄潭县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "凤冈县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "红花岗区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "余庆县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "道真仡佬族苗族自治县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "仁怀市",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "铜仁市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "万山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "碧江区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "思南县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "松桃苗族自治县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "石阡县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "沿河土家族自治县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "玉屏侗族自治县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "印江土家族苗族自治县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "德江县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "江口县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    }
+  ]
+}

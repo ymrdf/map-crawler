@@ -1,0 +1,129 @@
+[
+  {
+    "name": "KissABC少儿英语",
+    "location": {
+      "lat": 31.028883,
+      "lng": 121.20732
+    },
+    "address": "上海市松江区沪昆高速(昌鑫花园)",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "松江区",
+    "detail": 1,
+    "uid": "de418f280fa4936ce507380d"
+  },
+  {
+    "name": "绘本树英语(弘基广场店)",
+    "location": {
+      "lat": 31.084354,
+      "lng": 121.349931
+    },
+    "address": "上海市松江区明中路881弄-3号-102室弘基广场F2",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "松江区",
+    "telephone": "13472875405",
+    "detail": 1,
+    "uid": "a289db3721a0345532f71d42"
+  },
+  {
+    "name": "爱贝国际少儿英语(亚繁亚乐城店)",
+    "location": {
+      "lat": 31.103597,
+      "lng": 121.355629
+    },
+    "address": "上海市松江区莘松路1266号亚繁亚乐城F3",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "松江区",
+    "telephone": "(021)67640188,4000881298",
+    "detail": 1,
+    "uid": "999f169c3bc39bafcbfa5f11"
+  },
+  {
+    "name": "昂立凯顿·少儿英语·美术书法(松江新城分校)",
+    "location": {
+      "lat": 31.057572,
+      "lng": 121.240513
+    },
+    "address": "上海市松江区广富林街道梅家浜路1493号",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "松江区",
+    "detail": 1,
+    "uid": "6bca77954c074cfb97ec84eb"
+  },
+  {
+    "name": "吉的堡成长中心(上海新汇园)",
+    "location": {
+      "lat": 31.159921,
+      "lng": 121.419028
+    },
+    "address": "上海市徐汇区百花街6-18号",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "徐汇区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "d0b8923f23cef79fb5f42fcd"
+  },
+  {
+    "name": "吉的堡少儿英语(徐汇中心店)",
+    "location": {
+      "lat": 31.203062,
+      "lng": 121.464178
+    },
+    "address": "人民南路999号3楼",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "徐汇区",
+    "street_id": "dc7039f9cbe328f9c4f025f1",
+    "telephone": "(021)64037712",
+    "detail": 1,
+    "uid": "dc7039f9cbe328f9c4f025f1"
+  },
+  {
+    "name": "英孚教育青少儿(徐汇漕河泾中心)",
+    "location": {
+      "lat": 31.167454,
+      "lng": 121.405927
+    },
+    "address": "上海市徐汇区漕宝路1011号漕河泾印象城F2",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "徐汇区",
+    "telephone": "4009200726",
+    "detail": 1,
+    "uid": "4159e7eab9774109b1077d11"
+  },
+  {
+    "name": "英孚教育青少儿(徐汇滨江中心)",
+    "location": {
+      "lat": 31.192766,
+      "lng": 121.465109
+    },
+    "address": "上海市徐汇区龙华中路598号正大乐城购物中心商场二层6-203、204号",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "徐汇区",
+    "street_id": "21dad29bc496fa732bb97c55",
+    "telephone": "4009210693",
+    "detail": 1,
+    "uid": "21dad29bc496fa732bb97c55"
+  },
+  {
+    "name": "瑞思少儿中心(徐家汇校区)",
+    "location": {
+      "lat": 31.198728,
+      "lng": 121.450093
+    },
+    "address": "上海市徐汇区辛耕路109号3-4层",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "徐汇区",
+    "street_id": "",
+    "telephone": "4006101100",
+    "detail": 1,
+    "uid": "232d4ccc4d3f3b1df90cadc5"
+  }
+]

@@ -1,0 +1,103 @@
+{
+  "code": "",
+  "name": "上海市",
+  "level": 2,
+  "districts": [
+    {
+      "code": "",
+      "name": "宝山区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "嘉定区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "崇明区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "闵行区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "奉贤区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "金山区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "松江区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "浦东新区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "青浦区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "长宁区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "黄浦区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "虹口区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "杨浦区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "普陀区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "徐汇区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "静安区",
+      "level": 3,
+      "districts": []
+    }
+  ]
+}

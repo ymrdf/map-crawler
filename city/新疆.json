@@ -1,0 +1,1119 @@
+{
+  "code": "",
+  "name": "新疆维吾尔自治区",
+  "level": 1,
+  "districts": [
+    {
+      "code": "",
+      "name": "巴音郭楞蒙古自治州",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "若羌县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "轮台县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "博湖县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "库尔勒市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "且末县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "和静县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "尉犁县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "和硕县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "焉耆回族自治县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "昌吉回族自治州",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "奇台县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "玛纳斯县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "昌吉市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "呼图壁县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "木垒哈萨克自治县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "阜康市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "吉木萨尔县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "哈密市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "伊吾县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "伊州区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "巴里坤哈萨克自治县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "和田地区",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "皮山县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "民丰县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "于田县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "洛浦县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "和田县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "墨玉县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "策勒县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "和田市",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "塔城地区",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "乌苏市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "和布克赛尔蒙古自治县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "额敏县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "裕民县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "托里县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "沙湾市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "塔城市",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "阿克苏地区",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "拜城县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "新和县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "温宿县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "库车市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "沙雅县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "乌什县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "阿克苏市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "阿瓦提县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "柯坪县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "阿勒泰地区",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "富蕴县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "哈巴河县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "布尔津县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "福海县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "阿勒泰市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "青河县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "吉木乃县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "阿拉尔市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "青松路街道",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "兵团十一团",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "兵团十二团",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "兵团十三团",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "托喀依乡",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "兵团十四团",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "南口街道",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "九团",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "幸福路街道",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "金银川路街道",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "兵团八团",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "兵团十团",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "兵团七团",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "兵团十六团",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "新井子镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "甘泉镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "金银川镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "永宁镇",
+          "level": 4,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "白杨市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "白杨市",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "博尔塔拉蒙古自治州",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "阿拉山口市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "精河县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "温泉县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "博乐市",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "伊犁哈萨克自治州",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "霍城县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "昭苏县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "察布查尔锡伯自治县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "新源县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "伊宁市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "伊宁县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "尼勒克县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "奎屯市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "霍尔果斯市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "巩留县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "特克斯县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "五家渠市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "兵团一零一团",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "军垦路街道",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "青湖路街道",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "兵团一零三团",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "五家渠经济技术开区",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "人民路街道",
+          "level": 4,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "乌鲁木齐市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "天山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "沙依巴克区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "乌鲁木齐县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "头屯河区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "新市区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "达坂城区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "米东区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "水磨沟区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "吐鲁番市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "鄯善县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "托克逊县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "高昌区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "克孜勒苏柯尔克孜自治州",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "乌恰县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "阿克陶县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "阿图什市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "阿合奇县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "克拉玛依市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "乌尔禾区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "克拉玛依区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "白碱滩区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "独山子区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "喀什地区",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "泽普县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "巴楚县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "伽师县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "喀什市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "麦盖提县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "疏附县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "叶城县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "莎车县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "疏勒县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "岳普湖县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "塔什库尔干塔吉克自治县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "英吉沙县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "昆玉市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "昆玉市",
+          "level": 4,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "北屯市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "丰庆镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "双渠镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "海川镇",
+          "level": 4,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "铁门关市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "博古其镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "双丰镇",
+          "level": 4,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "可克达拉市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "兵团六十四团",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "兵团六十八团",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "兵团六十六团(中心团场)",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "兵团六十三团",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "兵团六十七团",
+          "level": 4,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "石河子市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "新城街道",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "东城街道",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "老街街道",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "红山街道",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "北泉镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "向阳街道",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "石河子镇",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "兵团一五二团",
+          "level": 4,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "图木舒克市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "前海街道",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "兵团五十三团",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "兵团五十团",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "兵团五十一团",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "兵团四十九团",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "兵团四十四团",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "草湖镇",
+          "level": 4,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "双河市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "兵团八十一团",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "兵团八十六团",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "兵团八十五团",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "兵团八十四团",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "兵团八十九团",
+          "level": 4,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "兵团九十团",
+          "level": 4,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "新星市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "新星市",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "胡杨河市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "胡杨河市",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    }
+  ]
+}

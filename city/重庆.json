@@ -1,0 +1,163 @@
+{
+  "code": "",
+  "name": "重庆市",
+  "level": 2,
+  "districts": [
+    {
+      "code": "",
+      "name": "沙坪坝区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "永川区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "武隆区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "江津区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "铜梁区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "合川区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "巴南区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "綦江区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "南川区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "大足区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "涪陵区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "北碚区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "万州区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "长寿区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "黔江区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "南岸区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "荣昌区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "大渡口区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "渝北区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "九龙坡区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "璧山区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "潼南区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "梁平区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "开州区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "渝中区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "江北区",
+      "level": 3,
+      "districts": []
+    }
+  ]
+}

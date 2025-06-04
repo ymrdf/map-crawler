@@ -1,0 +1,104 @@
+
+{
+  "code": "",
+  "name": "北京市",
+  "level": 2,
+  "districts": [
+    {
+      "code": "",
+      "name": "朝阳区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "延庆区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "通州区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "平谷区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "大兴区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "东城区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "怀柔区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "房山区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "昌平区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "密云区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "顺义区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "西城区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "海淀区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "丰台区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "门头沟区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "石景山区",
+      "level": 3,
+      "districts": []
+    }
+  ]
+}

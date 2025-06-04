@@ -1,0 +1,705 @@
+{
+  "code": "",
+  "name": "辽宁省",
+  "level": 1,
+  "districts": [
+    {
+      "code": "",
+      "name": "营口市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "西市区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "大石桥市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "鲅鱼圈区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "盖州市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "站前区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "老边区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "鞍山市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "海城市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "岫岩满族自治县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "台安县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "千山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "立山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "铁东区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "铁西区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "沈阳市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "浑南区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "沈北新区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "铁西区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "新民市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "法库县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "苏家屯区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "皇姑区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "沈河区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "康平县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "大东区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "和平区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "于洪区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "辽中区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "阜新市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "彰武县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "阜新蒙古族自治县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "新邱区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "细河区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "太平区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "清河门区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "海州区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "锦州市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "黑山县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "凌海市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "北镇市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "义县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "太和区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "凌河区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "古塔区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "抚顺市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "望花区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "新抚区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "东洲区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "清原满族自治县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "新宾满族自治县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "顺城区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "抚顺县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "铁岭市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "铁岭县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "昌图县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "开原市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "调兵山市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "银州区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "清河区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "西丰县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "大连市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "甘井子区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "金州区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "庄河市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "普兰店区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "瓦房店市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "中山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "西岗区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "旅顺口区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "沙河口区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "长海县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "葫芦岛市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "龙港区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "连山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "兴城市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "绥中县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "建昌县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "南票区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "辽阳市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "文圣区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "灯塔市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "辽阳县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "白塔区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "弓长岭区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "宏伟区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "太子河区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "朝阳市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "建平县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "朝阳县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "龙城区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "北票市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "喀喇沁左翼蒙古族自治县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "凌源市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "双塔区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "盘锦市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "兴隆台区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "盘山县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "双台子区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "大洼区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "本溪市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "本溪满族自治县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "溪湖区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "平山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "明山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "南芬区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "桓仁满族自治县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "丹东市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "元宝区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "振兴区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "宽甸满族自治县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "东港市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "振安区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "凤城市",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    }
+  ]
+}

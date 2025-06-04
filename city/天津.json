@@ -1,0 +1,103 @@
+{
+  "code": "",
+  "name": "天津市",
+  "level": 2,
+  "districts": [
+    {
+      "code": "",
+      "name": "红桥区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "北辰区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "河东区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "河北区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "宝坻区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "蓟州区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "滨海新区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "南开区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "武清区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "河西区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "和平区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "西青区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "静海区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "宁河区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "东丽区",
+      "level": 3,
+      "districts": []
+    },
+    {
+      "code": "",
+      "name": "津南区",
+      "level": 3,
+      "districts": []
+    }
+  ]
+}

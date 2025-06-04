@@ -1,0 +1,743 @@
+{
+  "code": "",
+  "name": "安徽省",
+  "level": 1,
+  "districts": [
+    {
+      "code": "",
+      "name": "阜阳市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "临泉县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "太和县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "阜南县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "颍东区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "界首市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "颍上县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "颍州区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "颍泉区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "淮南市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "田家庵区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "寿县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "凤台县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "大通区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "潘集区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "八公山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "谢家集区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "滁州市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "明光市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "琅琊区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "来安县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "南谯区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "天长市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "定远县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "凤阳县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "全椒县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "安庆市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "桐城市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "潜山市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "大观区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "宿松县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "怀宁县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "岳西县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "望江县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "迎江区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "宜秀区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "太湖县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "蚌埠市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "五河县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "禹会区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "固镇县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "淮上区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "蚌山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "怀远县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "龙子湖区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "亳州市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "蒙城县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "谯城区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "涡阳县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "利辛县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "池州市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "青阳县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "东至县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "贵池区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "石台县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "淮北市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "相山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "烈山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "杜集区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "濉溪县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "马鞍山市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "花山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "和县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "博望区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "含山县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "当涂县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "雨山区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "芜湖市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "镜湖区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "鸠江区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "无为市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "繁昌区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "南陵县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "弋江区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "湾沚区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "宿州市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "埇桥区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "砀山县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "萧县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "泗县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "灵璧县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "六安市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "裕安区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "舒城县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "金安区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "霍邱县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "金寨县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "霍山县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "叶集区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "合肥市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "包河区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "庐阳区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "巢湖市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "瑶海区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "肥东县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "蜀山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "肥西县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "庐江县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "长丰县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "宣城市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "绩溪县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "泾县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "宣州区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "宁国市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "郎溪县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "广德市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "旌德县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "黄山市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "黄山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "祁门县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "休宁县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "徽州区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "黟县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "屯溪区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "歙县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "铜陵市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "枞阳县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "铜官区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "郊区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "义安区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    }
+  ]
+}

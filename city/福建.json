@@ -1,0 +1,574 @@
+{
+  "code": "",
+  "name": "福建省",
+  "level": 1,
+  "districts": [
+    {
+      "code": "",
+      "name": "莆田市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "涵江区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "秀屿区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "仙游县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "城厢区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "荔城区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "福州市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "晋安区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "仓山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "罗源县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "闽侯县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "长乐区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "福清市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "平潭县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "连江县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "鼓楼区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "永泰县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "闽清县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "台江区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "马尾区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "三明市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "尤溪县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "永安市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "建宁县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "将乐县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "泰宁县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "沙县区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "三元区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "大田县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "宁化县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "明溪县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "清流县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "宁德市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "蕉城区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "霞浦县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "福鼎市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "屏南县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "福安市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "寿宁县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "古田县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "周宁县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "柘荣县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "龙岩市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "连城县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "漳平市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "长汀县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "上杭县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "新罗区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "永定区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "武平县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "南平市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "顺昌县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "建瓯市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "延平区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "武夷山市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "光泽县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "邵武市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "政和县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "松溪县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "浦城县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "建阳区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "厦门市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "思明区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "翔安区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "湖里区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "海沧区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "集美区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "同安区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "漳州市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "龙海区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "长泰区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "云霄县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "芗城区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "平和县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "漳浦县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "南靖县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "东山县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "诏安县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "华安县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "龙文区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "泉州市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "永春县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "金门县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "安溪县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "德化县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "洛江区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "丰泽区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "泉港区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "南安市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "鲤城区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "石狮市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "晋江市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "惠安县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    }
+  ]
+}

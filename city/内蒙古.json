@@ -1,0 +1,709 @@
+{
+  "code": "",
+  "name": "内蒙古自治区",
+  "level": 1,
+  "districts": [
+    {
+      "code": "",
+      "name": "呼和浩特市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "玉泉区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "清水河县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "和林格尔县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "武川县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "回民区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "新城区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "赛罕区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "土默特左旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "托克托县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "包头市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "昆都仑区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "九原区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "青山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "东河区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "石拐区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "土默特右旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "达尔罕茂明安联合旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "白云鄂博矿区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "固阳县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "鄂尔多斯市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "乌审旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "达拉特旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "东胜区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "鄂托克旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "杭锦旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "准格尔旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "伊金霍洛旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "鄂托克前旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "康巴什区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "呼伦贝尔市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "新巴尔虎右旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "陈巴尔虎旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "根河市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "扎兰屯市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "鄂温克族自治旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "牙克石市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "鄂伦春自治旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "海拉尔区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "新巴尔虎左旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "阿荣旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "莫力达瓦达斡尔族自治旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "额尔古纳市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "扎赉诺尔区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "满洲里市",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "兴安盟",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "乌兰浩特市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "科尔沁右翼前旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "阿尔山市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "科尔沁右翼中旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "扎赉特旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "突泉县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "通辽市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "霍林郭勒市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "库伦旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "科尔沁左翼后旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "奈曼旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "科尔沁区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "扎鲁特旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "科尔沁左翼中旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "开鲁县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "赤峰市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "翁牛特旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "阿鲁科尔沁旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "敖汉旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "松山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "元宝山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "克什克腾旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "巴林左旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "林西县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "巴林右旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "宁城县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "喀喇沁旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "红山区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "乌兰察布市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "商都县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "察哈尔右翼中旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "察哈尔右翼后旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "集宁区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "凉城县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "四子王旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "兴和县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "丰镇市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "察哈尔右翼前旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "卓资县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "化德县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "乌海市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "海勃湾区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "海南区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "乌达区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "巴彦淖尔市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "乌拉特后旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "磴口县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "临河区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "乌拉特中旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "杭锦后旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "乌拉特前旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "五原县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "锡林郭勒盟",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "太仆寺旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "东乌珠穆沁旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "阿巴嘎旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "锡林浩特市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "正蓝旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "多伦县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "正镶白旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "西乌珠穆沁旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "二连浩特市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "苏尼特右旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "镶黄旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "苏尼特左旗",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "阿拉善盟",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "额济纳旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "阿拉善左旗",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "阿拉善右旗",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    }
+  ]
+}

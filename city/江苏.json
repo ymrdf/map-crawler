@@ -1,0 +1,674 @@
+{
+  "code": "",
+  "name": "江苏省",
+  "level": 1,
+  "districts": [
+    {
+      "code": "",
+      "name": "扬州市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "江都区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "高邮市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "宝应县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "仪征市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "邗江区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "广陵区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "徐州市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "铜山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "鼓楼区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "泉山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "贾汪区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "丰县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "云龙区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "新沂市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "邳州市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "沛县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "睢宁县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "淮安市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "清江浦区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "洪泽区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "淮安区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "淮阴区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "盱眙县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "金湖县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "涟水县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "盐城市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "阜宁县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "亭湖区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "东台市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "建湖县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "滨海县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "响水县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "射阳县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "盐都区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "大丰区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "连云港市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "赣榆区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "海州区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "灌云县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "灌南县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "东海县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "连云区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "宿迁市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "泗阳县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "沭阳县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "宿豫区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "宿城区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "泗洪县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "南通市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "海安市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "海门区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "崇川区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "如东县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "启东市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "如皋市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "通州区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "镇江市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "润州区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "丹徒区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "京口区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "句容市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "丹阳市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "扬中市",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "泰州市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "泰兴市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "姜堰区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "兴化市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "高港区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "靖江市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "海陵区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "南京市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "溧水区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "六合区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "高淳区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "江宁区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "浦口区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "秦淮区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "雨花台区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "鼓楼区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "建邺区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "玄武区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "栖霞区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "苏州市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "虎丘区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "太仓市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "常熟市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "张家港市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "昆山市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "吴江区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "吴中区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "姑苏区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "相城区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "苏州工业园区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "常州市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "新北区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "溧阳市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "武进区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "天宁区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "金坛区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "钟楼区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "无锡市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "新吴区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "惠山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "江阴市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "滨湖区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "锡山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "宜兴市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "梁溪区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    }
+  ]
+}

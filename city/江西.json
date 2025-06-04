@@ -1,0 +1,684 @@
+{
+  "code": "",
+  "name": "江西省",
+  "level": 1,
+  "districts": [
+    {
+      "code": "",
+      "name": "鹰潭市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "贵溪市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "余江区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "月湖区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "南昌市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "东湖区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "新建区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "西湖区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "红谷滩区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "进贤县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "青山湖区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "南昌县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "安义县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "青云谱区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "抚州市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "东乡区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "南丰县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "临川区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "南城县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "资溪县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "乐安县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "崇仁县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "金溪县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "广昌县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "宜黄县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "黎川县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "新余市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "分宜县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "渝水区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "九江市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "柴桑区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "庐山市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "都昌县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "濂溪区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "永修县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "瑞昌市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "德安县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "修水县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "彭泽县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "湖口县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "浔阳区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "共青城市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "武宁县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "上饶市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "鄱阳县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "广信区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "余干县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "广丰区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "弋阳县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "信州区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "铅山县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "婺源县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "玉山县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "德兴市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "横峰县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "万年县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "吉安市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "遂川县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "吉安县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "峡江县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "吉水县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "永丰县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "井冈山市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "吉州区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "万安县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "永新县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "新干县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "安福县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "青原区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "泰和县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "宜春市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "樟树市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "袁州区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "上高县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "万载县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "高安市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "丰城市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "靖安县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "奉新县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "宜丰县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "铜鼓县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "赣州市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "章贡区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "会昌县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "寻乌县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "兴国县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "于都县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "南康区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "石城县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "宁都县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "崇义县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "赣县区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "大余县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "上犹县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "安远县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "瑞金市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "定南县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "龙南市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "信丰县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "全南县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "景德镇市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "珠山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "昌江区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "浮梁县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "乐平市",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "萍乡市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "安源区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "上栗县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "湘东区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "芦溪县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "莲花县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    }
+  ]
+}

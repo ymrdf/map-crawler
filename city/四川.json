@@ -1,0 +1,1252 @@
+{
+  "code": "",
+  "name": "四川省",
+  "level": 1,
+  "districts": [
+    {
+      "code": "",
+      "name": "绵阳市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "盐亭县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "三台县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "北川羌族自治县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "游仙区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "梓潼县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "安州区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "江油市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "平武县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "涪城区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "宜宾市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "叙州区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "筠连县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "江安县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "屏山县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "长宁县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "兴文县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "翠屏区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "高县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "南溪区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "珙县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "成都市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "武侯区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "都江堰市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "蒲江县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "新都区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "崇州市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "简阳市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "成华区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "青白江区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "金堂县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "邛崃市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "大邑县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "双流区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "新津区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "彭州市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "锦江区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "金牛区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "青羊区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "郫都区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "温江区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "龙泉驿区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "德阳市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "什邡市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "中江县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "广汉市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "绵竹市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "旌阳区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "罗江区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "广元市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "青川县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "利州区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "苍溪县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "昭化区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "剑阁县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "旺苍县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "朝天区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "巴中市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "南江县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "巴州区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "恩阳区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "平昌县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "通江县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "甘孜藏族自治州",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "丹巴县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "康定市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "泸定县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "道孚县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "稻城县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "石渠县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "雅江县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "色达县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "德格县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "新龙县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "白玉县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "得荣县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "炉霍县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "甘孜县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "乡城县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "巴塘县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "九龙县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "理塘县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "阿坝藏族羌族自治州",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "茂县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "金川县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "小金县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "黑水县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "红原县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "马尔康市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "若尔盖县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "九寨沟县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "汶川县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "理县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "松潘县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "壤塘县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "阿坝县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "乐山市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "犍为县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "市中区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "金口河区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "五通桥区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "夹江县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "井研县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "马边彝族自治县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "峨眉山市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "峨边彝族自治县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "沐川县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "沙湾区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "眉山市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "洪雅县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "仁寿县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "东坡区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "丹棱县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "彭山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "青神县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "雅安市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "芦山县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "宝兴县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "天全县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "石棉县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "雨城区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "汉源县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "名山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "荥经县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "自贡市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "荣县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "大安区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "富顺县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "贡井区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "沿滩区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "自流井区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "广安市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "邻水县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "岳池县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "前锋区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "广安区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "武胜县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "华蓥市",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "凉山彝族自治州",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "木里藏族自治县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "盐源县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "布拖县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "会理市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "冕宁县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "昭觉县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "德昌县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "宁南县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "西昌市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "甘洛县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "美姑县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "金阳县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "雷波县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "会东县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "越西县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "喜德县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "普格县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "南充市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "营山县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "蓬安县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "西充县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "南部县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "仪陇县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "嘉陵区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "阆中市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "顺庆区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "高坪区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "泸州市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "合江县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "古蔺县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "江阳区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "龙马潭区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "纳溪区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "叙永县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "泸县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "达州市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "万源市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "宣汉县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "达川区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "通川区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "渠县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "大竹县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "开江县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "内江市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "东兴区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "市中区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "威远县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "资中县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "隆昌市",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "遂宁市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "蓬溪县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "安居区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "射洪市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "船山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "大英县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "攀枝花市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "西区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "盐边县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "东区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "仁和区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "米易县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "资阳市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "安岳县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "雁江区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "乐至县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    }
+  ]
+}

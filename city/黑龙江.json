@@ -1,0 +1,848 @@
+{
+  "code": "",
+  "name": "黑龙江省",
+  "level": 1,
+  "districts": [
+    {
+      "code": "",
+      "name": "牡丹江市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "东安区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "阳明区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "海林市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "林口县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "宁安市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "爱民区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "穆棱市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "西安区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "东宁市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "绥芬河市",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "黑河市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "北安市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "孙吴县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "五大连池市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "逊克县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "嫩江市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "爱辉区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "哈尔滨市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "木兰县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "宾县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "阿城区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "依兰县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "延寿县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "五常市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "通河县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "双城区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "尚志市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "方正县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "道外区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "松北区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "呼兰区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "巴彦县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "香坊区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "南岗区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "道里区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "平房区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "佳木斯市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "富锦市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "同江市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "桦南县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "前进区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "郊区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "桦川县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "抚远市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "汤原县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "东风区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "向阳区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "齐齐哈尔市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "龙江县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "富拉尔基区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "铁锋区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "甘南县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "拜泉县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "克东县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "富裕县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "泰来县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "碾子山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "讷河市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "克山县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "梅里斯达斡尔族区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "依安县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "建华区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "龙沙区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "昂昂溪区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "大庆市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "龙凤区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "肇州县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "红岗区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "大同区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "肇源县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "让胡路区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "萨尔图区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "林甸县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "杜尔伯特蒙古族自治县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "鸡西市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "密山市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "城子河区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "滴道区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "麻山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "虎林市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "鸡冠区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "恒山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "鸡东县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "梨树区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "大兴安岭地区",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "呼玛县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "塔河县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "漠河市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "加格达奇区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "松岭区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "新林区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "呼中区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "伊春市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "南岔县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "金林区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "乌翠区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "丰林县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "汤旺县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "大箐山县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "嘉荫县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "铁力市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "伊美区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "友好区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "鹤岗市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "东山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "萝北县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "兴安区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "兴山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "向阳区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "南山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "工农区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "绥滨县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "七台河市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "勃利县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "新兴区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "茄子河区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "桃山区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "双鸭山市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "饶河县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "岭东区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "友谊县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "四方台区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "尖山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "宝山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "集贤县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "宝清县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "绥化市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "北林区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "望奎县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "海伦市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "青冈县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "绥棱县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "庆安县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "兰西县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "安达市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "肇东市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "明水县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    }
+  ]
+}

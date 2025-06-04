@@ -1,0 +1,837 @@
+{
+  "code": "",
+  "name": "湖南省",
+  "level": 1,
+  "districts": [
+    {
+      "code": "",
+      "name": "株洲市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "芦淞区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "天元区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "炎陵县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "醴陵市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "荷塘区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "石峰区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "渌口区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "茶陵县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "攸县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "郴州市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "资兴市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "宜章县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "桂阳县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "嘉禾县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "永兴县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "北湖区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "临武县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "苏仙区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "安仁县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "汝城县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "桂东县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "永州市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "零陵区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "双牌县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "江永县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "宁远县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "祁阳市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "新田县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "冷水滩区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "江华瑶族自治县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "蓝山县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "东安县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "道县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "怀化市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "沅陵县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "洪江市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "中方县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "芷江侗族自治县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "会同县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "溆浦县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "通道侗族自治县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "靖州苗族侗族自治县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "麻阳苗族自治县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "鹤城区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "辰溪县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "新晃侗族自治县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "常德市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "武陵区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "鼎城区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "津市市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "汉寿县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "澧县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "临澧县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "石门县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "桃源县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "安乡县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "娄底市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "新化县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "冷水江市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "娄星区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "涟源市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "双峰县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "张家界市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "慈利县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "桑植县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "永定区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "武陵源区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "湘潭市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "湘乡市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "雨湖区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "韶山市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "岳塘区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "湘潭县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "湘西土家族苗族自治州",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "泸溪县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "吉首市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "龙山县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "保靖县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "花垣县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "永顺县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "古丈县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "凤凰县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "岳阳市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "临湘市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "岳阳县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "湘阴县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "汨罗市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "平江县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "岳阳楼区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "华容县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "云溪区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "君山区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "邵阳市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "绥宁县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "北塔区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "邵东市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "洞口县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "武冈市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "城步苗族自治县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "邵阳县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "大祥区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "隆回县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "新宁县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "新邵县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "双清区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "益阳市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "桃江县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "赫山区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "安化县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "资阳区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "沅江市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "南县",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "衡阳市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "珠晖区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "雁峰区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "衡南县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "常宁市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "衡东县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "蒸湘区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "石鼓区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "衡阳县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "耒阳市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "祁东县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "衡山县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "南岳区",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    },
+    {
+      "code": "",
+      "name": "长沙市",
+      "level": 2,
+      "districts": [
+        {
+          "code": "",
+          "name": "雨花区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "长沙县",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "望城区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "宁乡市",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "岳麓区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "开福区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "天心区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "芙蓉区",
+          "level": 3,
+          "districts": []
+        },
+        {
+          "code": "",
+          "name": "浏阳市",
+          "level": 3,
+          "districts": []
+        }
+      ]
+    }
+  ]
+}
