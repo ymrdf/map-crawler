@@ -1,0 +1,125 @@
+[
+  {
+    "name": "甬通救援·全国轿运",
+    "location": {
+      "lat": 29.833426,
+      "lng": 121.588851
+    },
+    "address": "浙江省宁波市鄞州区中河街道嵩江东路99",
+    "province": "浙江省",
+    "city": "宁波市",
+    "area": "鄞州区",
+    "detail": 1,
+    "uid": "39a3d0700805d9cfae0457f3",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B66232903bbf4610955.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B66232903bbf4610955.jpeg"
+    ]
+  },
+  {
+    "name": "大碶消防救援站",
+    "location": {
+      "lat": 29.876588,
+      "lng": 121.768259
+    },
+    "address": "浙江省宁波市北仑区璎珞河路49-号",
+    "province": "浙江省",
+    "city": "宁波市",
+    "area": "北仑区",
+    "detail": 1,
+    "uid": "1a290cbeb43f2b531894c62d",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B5fd87bf75d7b210954.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B5fd87bf75d7b210954.jpeg",
+      "https://pic-map.cdn.bcebos.com/img/217fb13b323f9c8007879ccac9f7b50e"
+    ]
+  },
+  {
+    "name": "宁波市鄞州蓝天救援队",
+    "location": {
+      "lat": 29.855263,
+      "lng": 121.600128
+    },
+    "address": "浙江省宁波市鄞州区兴宁路1028号",
+    "province": "浙江省",
+    "city": "宁波市",
+    "area": "鄞州区",
+    "detail": 1,
+    "uid": "82bf80ac5ec7c4a744572651",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_67d9bebbc89dfcf9394b793cfc4b7211.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_67d9bebbc89dfcf9394b793cfc4b7211.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 30.132886,
+      "lng": 121.569365
+    },
+    "address": "宁波市慈溪市观蜃路慈东边防派出所西北侧约70米",
+    "province": "浙江省",
+    "city": "宁波市",
+    "area": "慈溪市",
+    "detail": 1,
+    "uid": "82cc945bb4c1a12de5073830",
+    "cover": "https://pic-map.cdn.bcebos.com/img/13a864c3a1d34f5901358670b947505a",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/13a864c3a1d34f5901358670b947505a"
+    ]
+  },
+  {
+    "name": "阳明消防救援站",
+    "location": {
+      "lat": 30.062172,
+      "lng": 121.149458
+    },
+    "address": "宁波市余姚市胜山路三碧酒店(余姚胜山店)北侧约30米",
+    "province": "浙江省",
+    "city": "宁波市",
+    "area": "余姚市",
+    "detail": 1,
+    "uid": "6ef7008ae25e6e912902e14b",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B64a4dd4bd9528e534.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B64a4dd4bd9528e534.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_907c8be61e0f1a72203c92178186d0f4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_df6390fa84a79e0b5b36d895936c10e4.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65f2a808c33c3ba8b.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 29.732111,
+      "lng": 121.417002
+    },
+    "address": "宁波市奉化区新浦路罗蒙总部大厦(新浦路)西北侧约30米",
+    "province": "浙江省",
+    "city": "宁波市",
+    "area": "奉化区",
+    "detail": 1,
+    "uid": "e463c289b01cc59d80a00cb0",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_139a21bc85c67a9c5ab32aafd0f6c0a1.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_139a21bc85c67a9c5ab32aafd0f6c0a1.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 29.868797,
+      "lng": 121.451599
+    },
+    "address": "宁波市海曙区日葵路宁波市海曙区集士港镇人民政府",
+    "province": "浙江省",
+    "city": "宁波市",
+    "area": "海曙区",
+    "detail": 1,
+    "uid": "2c2ef9d772429d2cefdfca5b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_180198e1038aac1274f788724868208e.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_180198e1038aac1274f788724868208e.jpeg"
+    ]
+  }
+]

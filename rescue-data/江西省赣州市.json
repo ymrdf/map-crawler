@@ -1,0 +1,127 @@
+[
+  {
+    "name": "赣州百顺道路救援服务有限公司",
+    "location": {
+      "lat": 25.677071,
+      "lng": 114.753578
+    },
+    "address": "赣州市南康区旭山北路蓉江派出所北侧约220米",
+    "province": "江西省",
+    "city": "赣州市",
+    "area": "南康区",
+    "telephone": "13407978266",
+    "detail": 1,
+    "uid": "5ed8f53604b93676081cc7a3",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_9f50977cb5b8f09736ebe61243494abe.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9f50977cb5b8f09736ebe61243494abe.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B614c8a18e25df9613.jpeg"
+    ]
+  },
+  {
+    "name": "捷顺拖车施救",
+    "location": {
+      "lat": 25.393395,
+      "lng": 114.369957
+    },
+    "address": "江西省赣州市大余县G220(伯坚大道骑行道)",
+    "province": "江西省",
+    "city": "赣州市",
+    "area": "大余县",
+    "street_id": "0d799580319c2262b15c6a50",
+    "telephone": "13807976306",
+    "detail": 1,
+    "uid": "0d799580319c2262b15c6a50",
+    "cover": "https://taojin-his.cdn.bcebos.com/79f0f736afc37931470c2c28e6c4b74543a9114e.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=0d799580319c2262b15c6a50&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic.cdn.bcebos.com/3e3fc4264752a42e27054bf3df0af93d.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/Hc9fcc3cec3fdfc030d60f5acde3f8794a4c2268d.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_16b0b0c5d41576db64ef4515619d8d2f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c45f2da5f8a99214e86305d47f60f855.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6577fd2ec96ba1759a.jpeg"
+    ]
+  },
+  {
+    "name": "赣南救援",
+    "location": {
+      "lat": 25.660317,
+      "lng": 114.763916
+    },
+    "address": "赣州市南康区赣州市南康滨江公园(芙蓉大道)步道南康区育童早教园东侧约230米",
+    "province": "江西省",
+    "city": "赣州市",
+    "area": "南康区",
+    "street_id": "e83d2ec4c123f55ec909f09b",
+    "telephone": "4000449958",
+    "detail": 1,
+    "uid": "e83d2ec4c123f55ec909f09b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_6a423664eeee4da4de61e16ae56fbde6.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=e83d2ec4c123f55ec909f09b&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c973e1aa118ce9b3175b646c3eca4345.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B666c0a974bca516795.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B666c09f6e1d4a5cf4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_60046f0b05c96c370b173cc350229f8d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c0ef546428fab561e2e8773bb8590f92.jpeg"
+    ]
+  },
+  {
+    "name": "蓝天救援",
+    "location": {
+      "lat": 25.656181,
+      "lng": 114.694625
+    },
+    "address": "赣州市南康区横寨中学西侧约40米",
+    "province": "江西省",
+    "city": "赣州市",
+    "area": "南康区",
+    "detail": 1,
+    "uid": "7d1fff13026e2c01110daa4b",
+    "cover": "https://pic-map.cdn.bcebos.com/img/e1c522220f06f4d75f01b7d0ee1ddb06",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/e1c522220f06f4d75f01b7d0ee1ddb06"
+    ]
+  },
+  {
+    "name": "赣州市应急救援综合保障基地",
+    "location": {
+      "lat": 25.863159,
+      "lng": 114.842021
+    },
+    "address": "江西省赣州市章贡区岗边大道辅路",
+    "province": "江西省",
+    "city": "赣州市",
+    "area": "章贡区",
+    "detail": 1,
+    "uid": "934ac1c454db3e29eedfca3b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_b8cb8f44807261df7dd1feb9e671547f.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b8cb8f44807261df7dd1feb9e671547f.jpeg"
+    ]
+  },
+  {
+    "name": "南康蓝天救援队",
+    "location": {
+      "lat": 25.673105,
+      "lng": 114.76499
+    },
+    "address": "江西省赣州市南康区金赣北大道明珠大酒店(赣州泰康中大道店)西北侧约210米",
+    "province": "江西省",
+    "city": "赣州市",
+    "area": "南康区",
+    "street_id": "bc9b16656bc1f837fe0eb033",
+    "telephone": "(0797)6669958",
+    "detail": 1,
+    "uid": "bc9b16656bc1f837fe0eb033",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_80366cb034007e9cc150cf2fccadeed8.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=bc9b16656bc1f837fe0eb033&width=720&height=360&quality=80&fovx=120",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_f9e248860416c2815e4a12c72b1c1525.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_bf4f983dc95caff012b08c0d8d8f9b23.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3b3317e04eb225d4f33041e8a43e9869.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9b425979a8152b8280a702f57f364e50.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B666cf1c964e2b1151f.jpeg"
+    ]
+  }
+]

@@ -1,0 +1,133 @@
+[
+  {
+    "name": "来宾市八哥道路救援服务有限公司",
+    "location": {
+      "lat": 23.74741,
+      "lng": 109.237874
+    },
+    "address": "来宾市兴宾区古三路丽景苑东侧约30米",
+    "province": "广西壮族自治区",
+    "city": "来宾市",
+    "area": "兴宾区",
+    "detail": 1,
+    "uid": "96864dc4b0fb57556318097b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_eb6e9ee62d412ec095193d89fae622eb.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_eb6e9ee62d412ec095193d89fae622eb.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d9afa0fa82e7f4bd6338e50cd21bb9a8.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7eedbc8dbcf2e51fb7c015dd426fe5c3.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65a8b3d0a1d277bb2.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65cd9e93bf0eaa28e.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6684ab57a156c17eb3.jpeg"
+    ]
+  },
+  {
+    "name": "来宾市博盛汽车修配中心",
+    "location": {
+      "lat": 23.760594,
+      "lng": 109.202394
+    },
+    "address": "来宾市兴宾区华侨大道乐福家园东北侧约240米汽车修配搭电救援",
+    "province": "广西壮族自治区",
+    "city": "来宾市",
+    "area": "兴宾区",
+    "telephone": "18978264355",
+    "detail": 1,
+    "uid": "c6f2ea661b4e7c7ef33cbab6",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_f013c470bb4d5b32e9d4ffe6e5cf6598.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f013c470bb4d5b32e9d4ffe6e5cf6598.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6e4f26aa1ba26a15720c4a2777d6bed7.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_57fde40efd8d55902c702aef16d8ba4b.jpeg"
+    ]
+  },
+  {
+    "name": "合山市消防救援大队",
+    "location": {
+      "lat": 23.813748,
+      "lng": 108.894498
+    },
+    "address": "人民中路36号",
+    "province": "广西壮族自治区",
+    "city": "来宾市",
+    "area": "合山市",
+    "street_id": "",
+    "detail": 1,
+    "uid": "ecdf351a0fbaa64441d63e88",
+    "cover": "https://taojin-his.cdn.bcebos.com/b3fb43166d224f4acab00f810ff790529822d173.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/b3fb43166d224f4acab00f810ff790529822d173.jpg"
+    ]
+  },
+  {
+    "name": "来宾市消防救援支队",
+    "location": {
+      "lat": 23.755116,
+      "lng": 109.232472
+    },
+    "address": "来宾市兴宾区祥和路硅谷大厦东南侧约170米",
+    "province": "广西壮族自治区",
+    "city": "来宾市",
+    "area": "兴宾区",
+    "detail": 1,
+    "uid": "5357f7f4e9b9ac0215c9052e",
+    "cover": "https://pic-map.cdn.bcebos.com/img/3cd9009ca168da27ec35dce81a8529aa",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/3cd9009ca168da27ec35dce81a8529aa"
+    ]
+  },
+  {
+    "name": "矿山应急救援",
+    "location": {
+      "lat": 23.809535,
+      "lng": 108.89001
+    },
+    "address": "广西壮族自治区来宾市合山市岭南镇人民南路72号",
+    "province": "广西壮族自治区",
+    "city": "来宾市",
+    "area": "合山市",
+    "detail": 1,
+    "uid": "1d0ee25e98ffe2b5d7851fc3",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_fb9b7021c9c455f6ffc7a487146d8e23.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_fb9b7021c9c455f6ffc7a487146d8e23.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8ebc44443475a3182f84d7f2ba26c2a4.jpeg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_59630bc8f999641a23359eb0e2a4256c.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_893acefa2a17a3cb4d940a4ecd715e33.jpeg"
+    ]
+  },
+  {
+    "name": "象州县消防救援大队",
+    "location": {
+      "lat": 23.97326,
+      "lng": 109.715162
+    },
+    "address": "广西壮族自治区来宾市象州县银象路40号",
+    "province": "广西壮族自治区",
+    "city": "来宾市",
+    "area": "象州县",
+    "detail": 1,
+    "uid": "96db5cc7d61aca233a13fda8",
+    "cover": "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_b836b233e366fb8038060c17f4cce8c4.jpg",
+    "photo_list": [
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_b836b233e366fb8038060c17f4cce8c4.jpg"
+    ]
+  },
+  {
+    "name": "象州县古象消防救援站",
+    "location": {
+      "lat": 23.973704,
+      "lng": 109.715235
+    },
+    "address": "来宾市象州县银象路象州县公务员小区西南侧约110米",
+    "province": "广西壮族自治区",
+    "city": "来宾市",
+    "area": "象州县",
+    "detail": 1,
+    "uid": "2f43f3cefb4b718625e0a03e",
+    "cover": "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_b836b233e366fb8038060c17f4cce8c4.jpg",
+    "photo_list": [
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_b836b233e366fb8038060c17f4cce8c4.jpg"
+    ]
+  }
+]

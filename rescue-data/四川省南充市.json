@@ -1,0 +1,123 @@
+[
+  {
+    "name": "南充春林道路救援",
+    "location": {
+      "lat": 30.779596,
+      "lng": 106.129942
+    },
+    "address": "南充市高坪区永丰路三段丽景福园东南侧约90米",
+    "province": "四川省",
+    "city": "南充市",
+    "area": "高坪区",
+    "detail": 1,
+    "uid": "6af03f8aa02fbc61754ff17d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_063dea9e432b05886e68d238866d006d.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_063dea9e432b05886e68d238866d006d.jpeg"
+    ]
+  },
+  {
+    "name": "南充市嘉陵区嘉虹路消防救援站",
+    "location": {
+      "lat": 30.754905,
+      "lng": 106.068392
+    },
+    "address": "南充市嘉陵区嘉虹路水慕清华东侧约40米",
+    "province": "四川省",
+    "city": "南充市",
+    "area": "嘉陵区",
+    "detail": 1,
+    "uid": "2215ae212ea6fcccfadc8520",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_420dd8e3affa2e735d437d6361715e4a.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_420dd8e3affa2e735d437d6361715e4a.jpg"
+    ]
+  },
+  {
+    "name": "南充市消防救援支队",
+    "location": {
+      "lat": 30.833804,
+      "lng": 106.109622
+    },
+    "address": "四川省南充市顺庆区石化路245号",
+    "province": "四川省",
+    "city": "南充市",
+    "area": "顺庆区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "369413ea9e8b66881d580026",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_84b67464917258b1819fc52b0b4b16e3.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_84b67464917258b1819fc52b0b4b16e3.jpg"
+    ]
+  },
+  {
+    "name": "仪陇县消防救援大队",
+    "location": {
+      "lat": 31.272049,
+      "lng": 106.312926
+    },
+    "address": "南充市仪陇县新政镇春晖路六一二安置区19号楼鑫驰汽车钣金喷漆",
+    "province": "四川省",
+    "city": "南充市",
+    "area": "仪陇县",
+    "street_id": "",
+    "detail": 1,
+    "uid": "b0d41528b6b48724f7e73bc7",
+    "cover": "https://taojin-his.cdn.bcebos.com/d52a2834349b033b12f1ccef12ce36d3d539bd8d.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/d52a2834349b033b12f1ccef12ce36d3d539bd8d.jpg"
+    ]
+  },
+  {
+    "name": "营山县白塔大道消防救援站",
+    "location": {
+      "lat": 31.072759,
+      "lng": 106.591368
+    },
+    "address": "南充市营山县兰花巷南城花苑西侧约120米",
+    "province": "四川省",
+    "city": "南充市",
+    "area": "营山县",
+    "detail": 1,
+    "uid": "0a61b07d5decff6ab54f54de",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_5b9477487cb491d0d4f0545cd4e19ca5.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5b9477487cb491d0d4f0545cd4e19ca5.jpg"
+    ]
+  },
+  {
+    "name": "蓬安县安汉大道消防救援站",
+    "location": {
+      "lat": 31.004092,
+      "lng": 106.432104
+    },
+    "address": "四川省南充市蓬安县安汉大道北段199号",
+    "province": "四川省",
+    "city": "南充市",
+    "area": "蓬安县",
+    "detail": 1,
+    "uid": "ad8894f5fa5e3b2eb21e36e0",
+    "cover": "https://pic-map.cdn.bcebos.com/img/11ee45150a1f77ffbd72afa4739124b5",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/11ee45150a1f77ffbd72afa4739124b5"
+    ]
+  },
+  {
+    "name": "嘉陵区消防综合应急抢险救援队",
+    "location": {
+      "lat": 30.754659,
+      "lng": 106.068717
+    },
+    "address": "南充市嘉陵区嘉虹路66号",
+    "province": "四川省",
+    "city": "南充市",
+    "area": "嘉陵区",
+    "detail": 1,
+    "uid": "d751034b13e4fafdabf0cd1f",
+    "cover": "https://pic-map.cdn.bcebos.com/img/760c2c936c57757a310cb5ba3bab4aa0",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/760c2c936c57757a310cb5ba3bab4aa0"
+    ]
+  }
+]

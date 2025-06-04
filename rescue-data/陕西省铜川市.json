@@ -1,0 +1,42 @@
+[
+  {
+    "name": "铜川市王益区消防救援大队",
+    "location": {
+      "lat": 35.079357,
+      "lng": 109.093485
+    },
+    "address": "陕西省铜川市王益区七一路40号",
+    "province": "陕西省",
+    "city": "铜川市",
+    "area": "王益区",
+    "telephone": "(0919)2166851",
+    "detail": 1,
+    "uid": "8c9e721b15e65bf79eec2b54",
+    "cover": "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_1f952380467a63d53589a826b69e1721.jpg",
+    "photo_list": [
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_1f952380467a63d53589a826b69e1721.jpg",
+      "https://taojin-his.cdn.bcebos.com/b64543a98226cffc7b4c18a6b0014a90f603ea44.jpg"
+    ]
+  },
+  {
+    "name": "铜川防雷",
+    "location": {
+      "lat": 34.912508,
+      "lng": 108.948466
+    },
+    "address": "陕西省铜川市耀州区金谟东路5号",
+    "province": "陕西省",
+    "city": "铜川市",
+    "area": "耀州区",
+    "street_id": "",
+    "telephone": "(0919)8100535",
+    "detail": 1,
+    "uid": "9473c68fd4511fed88fc068b",
+    "cover": "https://taojin-his.cdn.bcebos.com/29381f30e924b8997eee722769061d950b7bf6db.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/29381f30e924b8997eee722769061d950b7bf6db.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_67159bbe281e4954bf883535e0e906a9.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_95530ea5b7cb5c5803ef3289c20c4912.jpeg"
+    ]
+  }
+]

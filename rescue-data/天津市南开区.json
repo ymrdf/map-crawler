@@ -1,0 +1,143 @@
+[
+  {
+    "name": "南开区凌奥消防救援站",
+    "location": {
+      "lat": 39.073,
+      "lng": 117.174441
+    },
+    "address": "天津市南开区凌庄子道与凌宾路交叉口西320米",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "南开区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "eb0cc3f935fad843fe0eb017",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_8e13a86039cecc60452354427890f0ad.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8e13a86039cecc60452354427890f0ad.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1fe317442063bca6396735f4d4b1f244.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_696eb6ed1ce30d6079aadfb52bf85f9a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bafed67f8d8e890315bbe17f63c7099f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8980d8669b3524219a0e8cc3f5bd3b9e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_54fb5e993d58b2948ec31b7716ed68bd.jpeg"
+    ]
+  },
+  {
+    "name": "南开区五马路消防救援站",
+    "location": {
+      "lat": 39.140871,
+      "lng": 117.173326
+    },
+    "address": "天津市南开区广开二马路纯善里东北侧约30米",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "南开区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "dfd842d0fad84c7f9703192b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_f88cd75e3a7f3a5cee64a9104e0890bc.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f88cd75e3a7f3a5cee64a9104e0890bc.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_821398b378c86f96c42eb09087e6c742.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_05fec533b0ade9a242eeba3cd41a349a.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_d68a9e3955135e0207bf81addaab8a4d.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_52b96aafe7e20083608a3d1ba3fa1c5c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_32a93b6baf8a8cfb5ad2d9f3d5c7de6c.jpeg"
+    ]
+  },
+  {
+    "name": "天津市救援拖运有限公司",
+    "location": {
+      "lat": 39.045352,
+      "lng": 117.639557
+    },
+    "address": "天津市滨海新区塘黄路翔鹤园西侧约50米",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "滨海新区",
+    "detail": 1,
+    "uid": "4dd8df6233fd0450ad31e553",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_488c0670056dbfb373c65169969440e9.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_488c0670056dbfb373c65169969440e9.jpeg"
+    ]
+  },
+  {
+    "name": "南开消防救援支队",
+    "location": {
+      "lat": 39.131421,
+      "lng": 117.165102
+    },
+    "address": "天津市南开区灵隐道与三潭路交叉口",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "南开区",
+    "street_id": "7f5531c200a9daad94ec8428",
+    "telephone": "(022)27695119",
+    "detail": 1,
+    "uid": "7f5531c200a9daad94ec8428",
+    "cover": "https://taojin-his.cdn.bcebos.com/11385343fbf2b211b0c287afc08065380dd78e66.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=7f5531c200a9daad94ec8428&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "南开区延安路消防救援站",
+    "location": {
+      "lat": 39.136595,
+      "lng": 117.125759
+    },
+    "address": "天津市南开区密云一支路15号",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "南开区",
+    "street_id": "cf8a4c31a7b2e1fd5e0d02cc",
+    "detail": 1,
+    "uid": "cf8a4c31a7b2e1fd5e0d02cc",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_1e194f9940b90625e32ed19ef80ecaef.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=cf8a4c31a7b2e1fd5e0d02cc&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2dc23a7414898318ae3683de065fc8a7.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6deefe970dc3ee6324f1cf26012a6709.jpeg"
+    ]
+  },
+  {
+    "name": "南开区西湖道消防救援站",
+    "location": {
+      "lat": 39.127632,
+      "lng": 117.152852
+    },
+    "address": "天津市南开区西湖道164号",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "南开区",
+    "street_id": "381e3a7561abe507b45f1e19",
+    "detail": 1,
+    "uid": "381e3a7561abe507b45f1e19",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_891d68d83b41b9d093d3b3d83bb06187.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=381e3a7561abe507b45f1e19&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_652aaece6812b532498d443008d35ae7.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_066d38b6f82d9bc62aa616335a81ee80.jpeg"
+    ]
+  },
+  {
+    "name": "天津市消防救援总队",
+    "location": {
+      "lat": 39.14364,
+      "lng": 117.1887
+    },
+    "address": "天津市南开区南马路708号(鼓楼地铁站D口旁)",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "南开区",
+    "street_id": "c76d16ff8ffc5b2c8f55ece3",
+    "telephone": "(022)27330119",
+    "detail": 1,
+    "uid": "c76d16ff8ffc5b2c8f55ece3",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_de30679dc033ffbf7f931ce9b5adaded.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=c76d16ff8ffc5b2c8f55ece3&width=720&height=360&quality=80&fovx=120"
+    ]
+  }
+]

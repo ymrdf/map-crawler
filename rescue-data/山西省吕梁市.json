@@ -1,0 +1,77 @@
+[
+  {
+    "name": "畅捷救援",
+    "location": {
+      "lat": 38.283825,
+      "lng": 111.696631
+    },
+    "address": "东村镇马家坪钢材市场内",
+    "province": "山西省",
+    "city": "吕梁市",
+    "area": "岚县",
+    "telephone": "13503587510",
+    "detail": 1,
+    "uid": "1865ce69efc2970ff4231066",
+    "cover": "https://poi-pic.cdn.bcebos.com/eb2a1a5323a69be834f0c0ded35c8be2.jpg",
+    "photo_list": [
+      "https://poi-pic.cdn.bcebos.com/eb2a1a5323a69be834f0c0ded35c8be2.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B65da00b718153d717.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/H6609c93d70cf3bc75d931796de00baa1cd112a3d.jpg"
+    ]
+  },
+  {
+    "name": "清障救援",
+    "location": {
+      "lat": 37.453497,
+      "lng": 112.032337
+    },
+    "address": "G307(凤凰路)",
+    "province": "山西省",
+    "city": "吕梁市",
+    "area": "文水县",
+    "street_id": "569550f0eaf78072441a3289",
+    "detail": 1,
+    "uid": "569550f0eaf78072441a3289",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_e909532e2859a60a8ca632fa13a65e40.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e909532e2859a60a8ca632fa13a65e40.jpg"
+    ]
+  },
+  {
+    "name": "天龙救援队",
+    "location": {
+      "lat": 37.429742,
+      "lng": 112.039033
+    },
+    "address": "吕梁市文水县山西徐特立高级职业中学西南侧约80米",
+    "province": "山西省",
+    "city": "吕梁市",
+    "area": "文水县",
+    "detail": 1,
+    "uid": "9500fc89218c1a3942ab9af8",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d27df066d6bf6f2a7f220cfdd72de189.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d27df066d6bf6f2a7f220cfdd72de189.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c7abcb24f08d35b5243fee0a95a496d1.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_00d0b6fe564f60eee3f6252f3baad655.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_226c6b45c7ac775450d6ba52b64813c5.jpeg"
+    ]
+  },
+  {
+    "name": "临县消防救援大队",
+    "location": {
+      "lat": 37.997972,
+      "lng": 111.001362
+    },
+    "address": "山西省吕梁市临县从龙北路(黄白塔村旁)",
+    "province": "山西省",
+    "city": "吕梁市",
+    "area": "临县",
+    "detail": 1,
+    "uid": "d7bab7d02ce42344e8e58271",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_e41d0239561ccefdb260bf6c9b094395.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e41d0239561ccefdb260bf6c9b094395.jpeg"
+    ]
+  }
+]

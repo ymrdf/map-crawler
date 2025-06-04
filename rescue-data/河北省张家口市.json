@@ -1,0 +1,103 @@
+[
+  {
+    "name": "蓝天救援",
+    "location": {
+      "lat": 40.959474,
+      "lng": 115.275527
+    },
+    "address": "亚豪小区对面",
+    "province": "河北省",
+    "city": "张家口市",
+    "area": "崇礼区",
+    "detail": 1,
+    "uid": "af561d17b05b9e50901fc96e",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B615d9c6e5c5dae55c.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B615d9c6e5c5dae55c.jpeg"
+    ]
+  },
+  {
+    "name": "张家口德驰道路救援有限公司",
+    "location": {
+      "lat": 40.825961,
+      "lng": 114.925624
+    },
+    "address": "张家口市桥东区林园北街东麓泽安小区",
+    "province": "河北省",
+    "city": "张家口市",
+    "area": "桥东区",
+    "detail": 1,
+    "uid": "b3a5410fdffc9c9aa8f0cdfa",
+    "cover": "https://poi-pic.cdn.bcebos.com/a5b261785582abf822cdf5a8aae10162.jpg",
+    "photo_list": [
+      "https://poi-pic.cdn.bcebos.com/a5b261785582abf822cdf5a8aae10162.jpg",
+      "https://poi-pic.cdn.bcebos.com/1ba3578f3f27779089930261efdefbfa.jpg",
+      "https://poi-pic.cdn.bcebos.com/a33430d4ff614e1dfd536042e4bdd410.jpg"
+    ]
+  },
+  {
+    "name": "优驰救援",
+    "location": {
+      "lat": 40.61992,
+      "lng": 115.072755
+    },
+    "address": "张家口市宣化区京银线钟楼大街-71号院东北侧",
+    "province": "河北省",
+    "city": "张家口市",
+    "area": "宣化区",
+    "detail": 1,
+    "uid": "6bf1012f554b8279c8213d3b",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B6595086d1746ba838.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B6595086d1746ba838.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6593c6ca04d2dbdca.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_584f85b1fae506571df83c97df5a863a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_34cf0ab946370a39cd056c143ed6d4c1.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7e1672f9a4c4501e51b9f38408f0b46b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_74453fa50c5d27335f4476398a9a503e.jpeg"
+    ]
+  },
+  {
+    "name": "老梁轮胎专业补胎救援",
+    "location": {
+      "lat": 40.424915,
+      "lng": 115.491378
+    },
+    "address": "河北省张家口市怀来县G110(京银线)",
+    "province": "河北省",
+    "city": "张家口市",
+    "area": "怀来县",
+    "telephone": "18803135758",
+    "detail": 1,
+    "uid": "067c8a544b7ef6e5d13ce385",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_425169a5401ef15ce02a757d4f0316b3.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_425169a5401ef15ce02a757d4f0316b3.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9c6caaa575558a636672ca0cecda07df.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a8616cb543723658a3225cc0d9c65bec.jpeg"
+    ]
+  },
+  {
+    "name": "涿鹿县蓝天救援队",
+    "location": {
+      "lat": 40.389151,
+      "lng": 115.221894
+    },
+    "address": "河北省张家口市涿鹿县人民北街29号",
+    "province": "河北省",
+    "city": "张家口市",
+    "area": "涿鹿县",
+    "street_id": "",
+    "detail": 1,
+    "uid": "5202cae8085d9bec2811d16b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_28d8c8465880e8d4ca35c5b26e90239f.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_28d8c8465880e8d4ca35c5b26e90239f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0237cf38722b332bafd1e42805a5c47b.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_23000652842e8e09937cf06dd6e73258.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_525ad11fa1ee332fbead69012a771eec.jpg",
+      "https://poi-pic.cdn.bcebos.com/0237cf38722b332bafd1e42805a5c47b.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d9ff02c76d4dc0e782868f207d289945.jpeg"
+    ]
+  }
+]

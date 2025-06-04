@@ -1,0 +1,89 @@
+[
+  {
+    "name": "玉门市消防救援大队",
+    "location": {
+      "lat": 40.291569,
+      "lng": 97.048351
+    },
+    "address": "甘肃省酒泉市玉门市永宁路3号",
+    "province": "甘肃省",
+    "city": "酒泉市",
+    "area": "玉门市",
+    "detail": 1,
+    "uid": "af9b096af8a3011f2811d17c",
+    "cover": "https://taojin-his.cdn.bcebos.com/f11f3a292df5e0fe31165b9a556034a85edf721b.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/f11f3a292df5e0fe31165b9a556034a85edf721b.jpg"
+    ]
+  },
+  {
+    "name": "酒泉市肃州区鼓楼消防救援站",
+    "location": {
+      "lat": 39.747309,
+      "lng": 98.519913
+    },
+    "address": "酒泉市肃州区东文化街酒泉市第一幼儿园东北侧约30米",
+    "province": "甘肃省",
+    "city": "酒泉市",
+    "area": "肃州区",
+    "detail": 1,
+    "uid": "1d5a5c0c301e047948cc4a88",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_f3b8fee19ae8b7bee70910532591002f.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f3b8fee19ae8b7bee70910532591002f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_627e94ec1ea94bb416910d0eddb3f6be.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_475fc9dbeb8414dd54c8287638fdd4fe.jpg"
+    ]
+  },
+  {
+    "name": "酒泉市消防救援支队古泉特勤站",
+    "location": {
+      "lat": 39.753257,
+      "lng": 98.494041
+    },
+    "address": "甘肃省酒泉市肃州区西关路15号",
+    "province": "甘肃省",
+    "city": "酒泉市",
+    "area": "肃州区",
+    "detail": 1,
+    "uid": "f0a7e66bb63b10de6f476075",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_150db5148620812c8fc76a85f6eb4e4e.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_150db5148620812c8fc76a85f6eb4e4e.jpeg"
+    ]
+  },
+  {
+    "name": "玉门李建龙轮胎钢板救援服务中心",
+    "location": {
+      "lat": 40.329018,
+      "lng": 97.05111
+    },
+    "address": "酒泉市玉门市沪霍线",
+    "province": "甘肃省",
+    "city": "酒泉市",
+    "area": "玉门市",
+    "detail": 1,
+    "uid": "53fa7d169eda09c00f0e6b5b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_644bc1e37211cc0e6dc2450b224f576f.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_644bc1e37211cc0e6dc2450b224f576f.jpeg"
+    ]
+  },
+  {
+    "name": "阿克塞县消防救援大队",
+    "location": {
+      "lat": 39.642266,
+      "lng": 94.335325
+    },
+    "address": "酒泉市阿克塞哈萨克族自治县X282与环城路交叉路口往东南约240米",
+    "province": "甘肃省",
+    "city": "酒泉市",
+    "area": "阿克塞哈萨克族自治县",
+    "detail": 1,
+    "uid": "a512e116b98211df95f08c17",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_7e5de2f29d3f18bebf0e084c3c938e5b.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7e5de2f29d3f18bebf0e084c3c938e5b.jpeg"
+    ]
+  }
+]

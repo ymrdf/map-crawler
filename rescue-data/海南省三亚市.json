@@ -1,0 +1,94 @@
+[
+  {
+    "name": "三亚市吉阳区南边海消防救援站",
+    "location": {
+      "lat": 18.236075,
+      "lng": 109.511836
+    },
+    "address": "海南省三亚市天涯区南边海路119号",
+    "province": "海南省",
+    "city": "三亚市",
+    "area": "天涯区",
+    "detail": 1,
+    "uid": "56b3ffd8c15422689de321c2",
+    "cover": "https://pic-map.cdn.bcebos.com/img/22ec8d1806c758af75e22b7b2c28fe78",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/22ec8d1806c758af75e22b7b2c28fe78"
+    ]
+  },
+  {
+    "name": "海南中立道路救援服务有限公司",
+    "location": {
+      "lat": 18.300361,
+      "lng": 109.544602
+    },
+    "address": "海南省三亚市吉阳区同心路同心家园一期",
+    "province": "海南省",
+    "city": "三亚市",
+    "area": "吉阳区",
+    "telephone": "15103000037",
+    "detail": 1,
+    "uid": "3c66aa743a8f77872b11d19a",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/d8a75e6dd0bfc2eedee5c7889e2d15e0_7441.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/d8a75e6dd0bfc2eedee5c7889e2d15e0_7441.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/58c3f4bf3a38898b9b241b6a296ca1fe_8286.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_84aa4bad418c720386bc42543858de80.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0df9c98a172758fcc683505f7bf81364.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f4e1b1d3cd6e8a835db6e0c55bbda744.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 18.359033,
+      "lng": 109.178379
+    },
+    "address": "三亚市崖州区崖州大道三亚市公安局崖城分局崖城派出所",
+    "province": "海南省",
+    "city": "三亚市",
+    "area": "崖州区",
+    "detail": 1,
+    "uid": "176279bbe2c42139a5da398b",
+    "cover": "https://pic-map.cdn.bcebos.com/img/53e46d5ae201b62f4ad719fd578c540c",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/53e46d5ae201b62f4ad719fd578c540c"
+    ]
+  },
+  {
+    "name": "三亚市天涯区消防救援大队",
+    "location": {
+      "lat": 18.30323,
+      "lng": 109.42676
+    },
+    "address": "三亚市天涯区凤翔路三亚西藏大厦酒店(凤翔路店)北侧约40米",
+    "province": "海南省",
+    "city": "三亚市",
+    "area": "天涯区",
+    "detail": 1,
+    "uid": "ee994504178524030d3dda88",
+    "cover": "https://pic-map.cdn.bcebos.com/img/7f97f37b5d43162391926698189e9d9c",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/7f97f37b5d43162391926698189e9d9c"
+    ]
+  },
+  {
+    "name": "三亚市吉阳区港门消防站",
+    "location": {
+      "lat": 18.246387,
+      "lng": 109.521161
+    },
+    "address": "三亚市吉阳区港门村上村路海南中学三亚学校东侧",
+    "province": "海南省",
+    "city": "三亚市",
+    "area": "吉阳区",
+    "street_id": "52ec90c292505074a7c75657",
+    "detail": 1,
+    "uid": "52ec90c292505074a7c75657",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_c7d43f7323c4db708239df00cbf8fde1.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=52ec90c292505074a7c75657&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_030efe632bfc46c78afb89e338c7177e.jpeg"
+    ]
+  }
+]

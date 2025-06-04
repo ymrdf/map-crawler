@@ -1,0 +1,160 @@
+[
+  {
+    "name": "道路救援",
+    "location": {
+      "lat": 38.976869,
+      "lng": 116.11219
+    },
+    "address": "雄县",
+    "province": "河北省",
+    "city": "保定市",
+    "area": "雄县",
+    "detail": 1,
+    "uid": "1d6525585a60af854e2fdfc7",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_dd7e08b39d8bc80b7ab9bf0d143a246c.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_dd7e08b39d8bc80b7ab9bf0d143a246c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c80ad7968581eeb4db1daa154d8cfb6f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2a73edf00045548348b1724be19c14a8.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0d37d6bfcdb579ade1046ed2f7e37ec6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e484df2a2075e73e3aeaa93f9432f6f7.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 38.79794,
+      "lng": 115.475099
+    },
+    "address": "河北省保定市莲池区五尧乡保沧高速路口东行200米",
+    "province": "河北省",
+    "city": "保定市",
+    "area": "莲池区",
+    "detail": 1,
+    "uid": "7b1955e2ade56bb6bb17e768",
+    "cover": "https://pic-map.cdn.bcebos.com/img/eb5eed924270823795bfe6782ae3e9c8",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/eb5eed924270823795bfe6782ae3e9c8"
+    ]
+  },
+  {
+    "name": "名车匠汽车维修保养中心",
+    "location": {
+      "lat": 38.705014,
+      "lng": 115.165482
+    },
+    "address": "谷家村东区6排1号24小时道路救援汽修厂",
+    "province": "河北省",
+    "city": "保定市",
+    "area": "望都县",
+    "telephone": "15175291253,17325588969",
+    "detail": 1,
+    "uid": "03a3a327dd3e9d874c6d462d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_15279c2ab3d2a8f2466dd915a3321d8a.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_15279c2ab3d2a8f2466dd915a3321d8a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_04b816e5b2597953f730afed5a4a867f.jpeg"
+    ]
+  },
+  {
+    "name": "汽车维修救援",
+    "location": {
+      "lat": 38.798694,
+      "lng": 114.633404
+    },
+    "address": "河北省保定市曲阳县G337(黄榆线)",
+    "province": "河北省",
+    "city": "保定市",
+    "area": "曲阳县",
+    "telephone": "13731495542,18132792512",
+    "detail": 1,
+    "uid": "31b5f8f8667ca0a02b201ad8",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B643811742c250104ca.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B643811742c250104ca.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B64381174b554bbdfa.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B643811741b48280ff.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B643811744378a65da.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B64381174aeef6a60c.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6438117425766b3fe.jpeg"
+    ]
+  },
+  {
+    "name": "雄州救援队",
+    "location": {
+      "lat": 38.975779,
+      "lng": 116.067737
+    },
+    "address": "雄县",
+    "province": "河北省",
+    "city": "保定市",
+    "area": "雄县",
+    "detail": 1,
+    "uid": "6a94d057314f2b1eeedfca0d",
+    "cover": "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_8e71ebafe878639c6a203215be6c5584.jpg",
+    "photo_list": [
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_8e71ebafe878639c6a203215be6c5584.jpg",
+      "https://taojin-his.cdn.bcebos.com/902397dda144ad34acdfd844dea20cf430ad8595.jpg"
+    ]
+  },
+  {
+    "name": "河北大兵应急救援",
+    "location": {
+      "lat": 39.141252,
+      "lng": 116.049938
+    },
+    "address": "保定市高碑店市北环路理想城东南侧约200米",
+    "province": "河北省",
+    "city": "保定市",
+    "area": "高碑店市",
+    "detail": 1,
+    "uid": "a3c769823682ff65e215f9db",
+    "cover": "https://pic-map.cdn.bcebos.com/img/1583c912946ac5708de0d829298f25c5",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/1583c912946ac5708de0d829298f25c5",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7cd8f9eb84203b7e8144a5ff96352d5d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_10d5851ed1395a4d99cb381d07bc016f.jpeg"
+    ]
+  },
+  {
+    "name": "补胎救援",
+    "location": {
+      "lat": 39.223144,
+      "lng": 115.772428
+    },
+    "address": "保定市定兴县G107北河派出所北侧约200米",
+    "province": "河北省",
+    "city": "保定市",
+    "area": "定兴县",
+    "telephone": "13722976927,13933234070",
+    "detail": 1,
+    "uid": "f378bffd2dabdc4dc7f50dde",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_f5c067fb9e7f0eed506b44502a4b7ab1.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f5c067fb9e7f0eed506b44502a4b7ab1.jpeg",
+      "https://taojin-pic-bj.cdn.bcebos.com/e4eacda941603982f243c0915b421066.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1fbe43254f485e496895ad4a6c995a52.jpeg"
+    ]
+  },
+  {
+    "name": "汽修救援",
+    "location": {
+      "lat": 38.640282,
+      "lng": 114.705487
+    },
+    "address": "河北省保定市曲阳县北环路270号",
+    "province": "河北省",
+    "city": "保定市",
+    "area": "曲阳县",
+    "street_id": "f3827eb85a7b783195ca070d",
+    "detail": 1,
+    "uid": "f3827eb85a7b783195ca070d",
+    "cover": "https://taojin-his.cdn.bcebos.com/f603918fa0ec08fa48eb2da255ee3d6d54fbdacf.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=f3827eb85a7b783195ca070d&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a5a1782077a8c21966a2f81b83d27e5a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_df352bf00eee9f2c81272ac0e99197f6.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B67540fb4a10b110153.jpeg"
+    ]
+  }
+]

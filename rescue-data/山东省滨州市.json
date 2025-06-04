@@ -1,0 +1,96 @@
+[
+  {
+    "name": "山东通达道路救援服务有限公司",
+    "location": {
+      "lat": 36.899198,
+      "lng": 117.756191
+    },
+    "address": "山东省滨州市邹平市G308(黄山五路)",
+    "province": "山东省",
+    "city": "滨州市",
+    "area": "邹平市",
+    "telephone": "15554335556",
+    "detail": 1,
+    "uid": "c49be68fdf8008a6c3364428",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_99f8f98ea22876bda004768f4e783b8b.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_99f8f98ea22876bda004768f4e783b8b.jpeg"
+    ]
+  },
+  {
+    "name": "无棣神鹰救援队",
+    "location": {
+      "lat": 38.012914,
+      "lng": 117.844942
+    },
+    "address": "山东省滨州市无棣县马山子镇北圈村",
+    "province": "山东省",
+    "city": "滨州市",
+    "area": "无棣县",
+    "detail": 1,
+    "uid": "04b2c296271cb01af319376c",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d078682cdf1d33e8f3fd758abf244c0e.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d078682cdf1d33e8f3fd758abf244c0e.jpeg"
+    ]
+  },
+  {
+    "name": "山东畅通拖车救援",
+    "location": {
+      "lat": 36.888295,
+      "lng": 117.833523
+    },
+    "address": "山东省滨州市邹平市会仙二路971号",
+    "province": "山东省",
+    "city": "滨州市",
+    "area": "邹平市",
+    "telephone": "15666801000,16265073456",
+    "detail": 1,
+    "uid": "6bde4a5c17e74db751e5c5db",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a02c0ab99c28e943c19f28d3264d1899.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a02c0ab99c28e943c19f28d3264d1899.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_93670446afb0b85c0ad1f406e4cb8692.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d772f565a9d2ab0bbd34ce87afb393de.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1847f9bf3c4dcd8a97f91b6a0172caa7.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_32944bd2c1a9e50f149f6f67546c9e3c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9e1d3e87b32529ec4dbd158d033cc2d2.jpeg"
+    ]
+  },
+  {
+    "name": "博兴县9958应急救援队指挥中心",
+    "location": {
+      "lat": 37.14479,
+      "lng": 118.146379
+    },
+    "address": "山东省滨州市博兴县博城六路26号",
+    "province": "山东省",
+    "city": "滨州市",
+    "area": "博兴县",
+    "detail": 1,
+    "uid": "121e3ba8e02b6e13a5da390b",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B6063c644838caf30d.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B6063c644838caf30d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2d8fc806dcc162911651f63671f197d1.jpeg"
+    ]
+  },
+  {
+    "name": "阳信蓝天救援队",
+    "location": {
+      "lat": 37.661681,
+      "lng": 117.597737
+    },
+    "address": "滨州市阳信县幸福一路智慧星幼儿园东北侧约130米",
+    "province": "山东省",
+    "city": "滨州市",
+    "area": "阳信县",
+    "detail": 1,
+    "uid": "7ab34c758084933e9122e099",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_4b41ea15bcfd103660b499ef898c2dda.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4b41ea15bcfd103660b499ef898c2dda.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ef96085a016050d30b1b6441849bdf15.jpeg"
+    ]
+  }
+]

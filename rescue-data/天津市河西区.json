@@ -1,0 +1,135 @@
+[
+  {
+    "name": "天津市救援拖运有限公司",
+    "location": {
+      "lat": 39.045352,
+      "lng": 117.639557
+    },
+    "address": "天津市滨海新区塘黄路翔鹤园西侧约50米",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "滨海新区",
+    "detail": 1,
+    "uid": "4dd8df6233fd0450ad31e553",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_488c0670056dbfb373c65169969440e9.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_488c0670056dbfb373c65169969440e9.jpeg"
+    ]
+  },
+  {
+    "name": "河西区大沽南路消防救援站",
+    "location": {
+      "lat": 39.080661,
+      "lng": 117.273102
+    },
+    "address": "天津市河西区大沽南路八一楼",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "河西区",
+    "street_id": "77ebf5edbbcd70eff03cba01",
+    "detail": 1,
+    "uid": "77ebf5edbbcd70eff03cba01",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_704e86730fe1fa99bfb041a788afe950.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=77ebf5edbbcd70eff03cba01&width=720&height=360&quality=80&fovx=120",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_7f9db91500ad46edc995fc7074f30ba2.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ce0ae7306d491df1659ab63222553f24.jpeg"
+    ]
+  },
+  {
+    "name": "河西区体院北道消防救援站",
+    "location": {
+      "lat": 39.084245,
+      "lng": 117.198937
+    },
+    "address": "天津市河西区天塔街道体院北道2号",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "河西区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "59656e5a8d3be7d9cb213d03",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_5f45f6b0cd4c3ff99e4362a8fb5273c7.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5f45f6b0cd4c3ff99e4362a8fb5273c7.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_05465e013a70d15370348475b12e526a.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_ad1afb1624efa2b81d23cb581815c3f3.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B658f790a0aeb7af16.jpeg"
+    ]
+  },
+  {
+    "name": "河西区洪泽路消防救援站",
+    "location": {
+      "lat": 39.090903,
+      "lng": 117.249836
+    },
+    "address": "天津市河西区大沽南路924号",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "河西区",
+    "street_id": "",
+    "telephone": "(022)28020283",
+    "detail": 1,
+    "uid": "ae49218476e2aa9deb56fa5a",
+    "cover": "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_1eb9a847c54952bc671c69f4b39ed948.jpg",
+    "photo_list": [
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_1eb9a847c54952bc671c69f4b39ed948.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0c4ae96a4292bb6896682d14da1bc862.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9fe1c51658f566b30e2c1ef2ae1a3ae5.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 39.066598,
+      "lng": 117.271084
+    },
+    "address": "天津市河西区陵水道元山里小区西北侧",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "河西区",
+    "detail": 1,
+    "uid": "8178e46fdaa258063362125f",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ca253dce37c1f595eb885fe9d8860675.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ca253dce37c1f595eb885fe9d8860675.jpeg"
+    ]
+  },
+  {
+    "name": "河西区围堤道消防救援站",
+    "location": {
+      "lat": 39.104344,
+      "lng": 117.208272
+    },
+    "address": "天津市河西区围堤道天津市公安消防总队医院",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "河西区",
+    "detail": 1,
+    "uid": "75078c3260375690f8221387",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_77694b3b14215d513526b55ece0f95b6.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_77694b3b14215d513526b55ece0f95b6.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a9ff20fedba4eeb4c2f17967019261fd.jpeg"
+    ]
+  },
+  {
+    "name": "补胎换胎救援",
+    "location": {
+      "lat": 39.485325,
+      "lng": 116.981809
+    },
+    "address": "天津市武清区大东线",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "武清区",
+    "telephone": "18656256462",
+    "detail": 1,
+    "uid": "9757fc59b4739919f50e7705",
+    "cover": "https://taojin-his.cdn.bcebos.com/42166d224f4a20a499db44519e529822730ed05b.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/42166d224f4a20a499db44519e529822730ed05b.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B65d4531cadfdd12b91.jpeg"
+    ]
+  }
+]

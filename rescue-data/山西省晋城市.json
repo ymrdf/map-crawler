@@ -1,0 +1,84 @@
+[
+  {
+    "name": "郭向兵补胎店(可道路救援)",
+    "location": {
+      "lat": 35.519684,
+      "lng": 112.385123
+    },
+    "address": "晋城市阳城县",
+    "province": "山西省",
+    "city": "晋城市",
+    "area": "阳城县",
+    "telephone": "13097655934",
+    "detail": 1,
+    "uid": "7ac4c08d40089000b817e718",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_f5007080142c9b228e89333438a03df6.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f5007080142c9b228e89333438a03df6.jpeg"
+    ]
+  },
+  {
+    "name": "顺顺顺救援指挥中心",
+    "location": {
+      "lat": 35.774707,
+      "lng": 112.952633
+    },
+    "address": "晋城市高平市高平汇鑫商贸城",
+    "province": "山西省",
+    "city": "晋城市",
+    "area": "高平市",
+    "detail": 1,
+    "uid": "a72e1e907ef5893fb64f54ec",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_f3072c2df9ff91194bc5aec6070cb6ac.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f3072c2df9ff91194bc5aec6070cb6ac.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_fe2639d48853465f7dfbc50563eff174.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4efeea31f52d4200da64394a815d6f61.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_519f735f9e7238c025c3ac30ef8f111d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9b5dfe532bdb4c9b70514b3fe60b25be.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0fe00c97459f89f9678d0ec14babb452.jpeg"
+    ]
+  },
+  {
+    "name": "晋城市消防救援支队",
+    "location": {
+      "lat": 35.485189,
+      "lng": 112.866356
+    },
+    "address": "山西省晋城市城区迎宾街411号",
+    "province": "山西省",
+    "city": "晋城市",
+    "area": "城区",
+    "street_id": "c457fcac8f75a3c2e3110359",
+    "detail": 1,
+    "uid": "c457fcac8f75a3c2e3110359",
+    "cover": "https://taojin-his.cdn.bcebos.com/8d5494eef01f3a293c9197609725bc315d607cc6.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/8d5494eef01f3a293c9197609725bc315d607cc6.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B65b617ae4196f12e5d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_fbed3eaf56a30b1f952fcc2413b08663.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ffe33d1aecce7fb0d276b9ed4852c1eb.jpeg"
+    ]
+  },
+  {
+    "name": "泽州县凤城路消防救援站",
+    "location": {
+      "lat": 35.494539,
+      "lng": 112.834865
+    },
+    "address": "晋城市城区凤城路泽州县消防救援大队",
+    "province": "山西省",
+    "city": "晋城市",
+    "area": "城区",
+    "detail": 1,
+    "uid": "f18bb315a6ae0dfc990050fa",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_c870e911df6590fa23339a2198611146.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c870e911df6590fa23339a2198611146.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_daa01268c2a35ae375b354f2ae973917.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1ff48dc2831eac7cb901ac8d5870e99f.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ee76e0606eceb98b799579c4cc0648a6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_034c0583e97e18e88d7e90fe1ea8786f.jpeg"
+    ]
+  }
+]

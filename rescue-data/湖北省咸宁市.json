@@ -1,0 +1,164 @@
+[
+  {
+    "name": "嘉鱼县消防救援大队",
+    "location": {
+      "lat": 29.969409,
+      "lng": 113.940879
+    },
+    "address": "湖北省咸宁市嘉鱼县发展大道110号",
+    "province": "湖北省",
+    "city": "咸宁市",
+    "area": "嘉鱼县",
+    "detail": 1,
+    "uid": "0264f4e5cf257ef0f942b23c",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_f7ac5687bb1743072eb4e3be98d602de.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f7ac5687bb1743072eb4e3be98d602de.jpeg"
+    ]
+  },
+  {
+    "name": "咸宁市通山县消防救援大队",
+    "location": {
+      "lat": 29.628416,
+      "lng": 114.497904
+    },
+    "address": "湖北省咸宁市通山县通羊镇007县道",
+    "province": "湖北省",
+    "city": "咸宁市",
+    "area": "通山县",
+    "detail": 1,
+    "uid": "74c607eac61f782baeb22a31",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_561a6d4fa812d6239f4e0fe80ad0a1b4.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_561a6d4fa812d6239f4e0fe80ad0a1b4.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 29.60381,
+      "lng": 114.532879
+    },
+    "address": "咸宁市通山县通羊大道通山县通羊镇第三小学东南侧约80米",
+    "province": "湖北省",
+    "city": "咸宁市",
+    "area": "通山县",
+    "detail": 1,
+    "uid": "0a0ffea0d7f728ff7f29bd6b",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B65f001c43c52ebc13.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B65f001c43c52ebc13.jpeg",
+      "https://pic-map.cdn.bcebos.com/img/ea0330e33fe96443dae80ef24cadce31"
+    ]
+  },
+  {
+    "name": "通城县消防救援大队",
+    "location": {
+      "lat": 29.282971,
+      "lng": 113.824001
+    },
+    "address": "湖北省咸宁市通城县通城大道",
+    "province": "湖北省",
+    "city": "咸宁市",
+    "area": "通城县",
+    "detail": 1,
+    "uid": "8e317f893cf1396cbbbd63e4",
+    "cover": "https://pic-map.cdn.bcebos.com/img/0d59429b3260a55196efe3bd0aefcf1f",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/0d59429b3260a55196efe3bd0aefcf1f"
+    ]
+  },
+  {
+    "name": "咸宁市消防救援支队",
+    "location": {
+      "lat": 29.854282,
+      "lng": 114.350476
+    },
+    "address": "湖北省咸宁市咸安区咸宁大道特2号",
+    "province": "湖北省",
+    "city": "咸宁市",
+    "area": "咸安区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "02f8d7b39f4fcf48a8059d30",
+    "cover": "https://taojin-his.cdn.bcebos.com/962bd40735fae6cdc2e7b93e0cb30f2442a70f19.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/962bd40735fae6cdc2e7b93e0cb30f2442a70f19.jpg"
+    ]
+  },
+  {
+    "name": "普利司通轮胎(宝塔大道店)",
+    "location": {
+      "lat": 29.880187,
+      "lng": 114.273927
+    },
+    "address": "咸宝路134号24小时道路救援",
+    "province": "湖北省",
+    "city": "咸宁市",
+    "area": "咸安区",
+    "telephone": "15671811736",
+    "detail": 1,
+    "uid": "fb7e05355c0df3a0246e9822",
+    "cover": "https://taojin-his.cdn.bcebos.com/9e3df8dcd100baa1aa4622b14a10b912c8fc2e55.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/9e3df8dcd100baa1aa4622b14a10b912c8fc2e55.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f83ae7a04ef5397bfffafcad4e52ef70.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1ea490ed94b73d5e01320c0eaba51650.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_46ea414ff55682263cc2d03bca19b46f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8914a78bf9932321117f1f64f0bc7d05.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c2f8550bcfc970aeb5c289148b8f2226.jpg"
+    ]
+  },
+  {
+    "name": "文庙山政府专职小型消防救援站",
+    "location": {
+      "lat": 29.983233,
+      "lng": 113.911464
+    },
+    "address": "湖北省咸宁市嘉鱼县文庙山巷30号",
+    "province": "湖北省",
+    "city": "咸宁市",
+    "area": "嘉鱼县",
+    "detail": 1,
+    "uid": "0576aa0158ef762fd1ff233b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_1544802078ba57a18229b877a689eecf.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1544802078ba57a18229b877a689eecf.jpeg"
+    ]
+  },
+  {
+    "name": "咸宁市消防救援支队-南门",
+    "location": {
+      "lat": 29.853991,
+      "lng": 114.351028
+    },
+    "address": "咸宁市咸安区咸宁大道2号",
+    "province": "湖北省",
+    "city": "咸宁市",
+    "area": "咸安区",
+    "detail": 1,
+    "uid": "0b19b2b65467cdc222f01769",
+    "cover": "https://taojin-his.cdn.bcebos.com/962bd40735fae6cdc2e7b93e0cb30f2442a70f19.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/962bd40735fae6cdc2e7b93e0cb30f2442a70f19.jpg"
+    ]
+  },
+  {
+    "name": "湖北省红十字会咸宁救援中心",
+    "location": {
+      "lat": 29.834261,
+      "lng": 114.347142
+    },
+    "address": "咸宁市咸安区桂花街169号",
+    "province": "湖北省",
+    "city": "咸宁市",
+    "area": "咸安区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "38a3a31231be8b94b320a82f",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_c0a168dfc65400d69d7f1271583d44a7.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c0a168dfc65400d69d7f1271583d44a7.jpg"
+    ]
+  }
+]

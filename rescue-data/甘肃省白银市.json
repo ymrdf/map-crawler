@@ -1,0 +1,138 @@
+[
+  {
+    "name": "顺达道路救援",
+    "location": {
+      "lat": 36.564237,
+      "lng": 104.705368
+    },
+    "address": "白银市靖远县胶海线",
+    "province": "甘肃省",
+    "city": "白银市",
+    "area": "靖远县",
+    "telephone": "18794400027",
+    "detail": 1,
+    "uid": "6278d7a100d7186d45e27458",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_8fafdb073058ba3e9c6dc5f7c7fb2b9b.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8fafdb073058ba3e9c6dc5f7c7fb2b9b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_931168650798817eb33441bc24cb36ef.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f04f48ac9d33ac86536d533067387bb4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5534105148396670d0d991d94cc96b9e.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f61651c90a9bf918e299a9632c5388d1.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2c8361a059f4b01a30e9422c4e0cf91a.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 36.555853,
+      "lng": 104.180741
+    },
+    "address": "白银市白银区中心街白银市第一人民医院南侧约80米",
+    "province": "甘肃省",
+    "city": "白银市",
+    "area": "白银区",
+    "detail": 1,
+    "uid": "3d9b47e9c86f77c22cb96d85",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a50aa78dc69487dfb2b855792c4e91b1.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a50aa78dc69487dfb2b855792c4e91b1.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c2e033cc51fd9750fb7312437eaf9708.jpeg"
+    ]
+  },
+  {
+    "name": "小俞汽配汽修救援",
+    "location": {
+      "lat": 37.195641,
+      "lng": 104.082848
+    },
+    "address": "甘肃省白银市景泰县环城路民安小区门口",
+    "province": "甘肃省",
+    "city": "白银市",
+    "area": "景泰县",
+    "telephone": "13884232992,15393493505",
+    "detail": 1,
+    "uid": "905cd1b12110897907026fe2",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_e84c6ca43496363e3c183f19e70501d5.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e84c6ca43496363e3c183f19e70501d5.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_baacb1e7db8512285b6ba9f144d12e7e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c11080df1273c4c6115275aad876eb4f.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6145423a5ec90144e1.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_631762f68744aa5057325d9cb581c4e6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_65497e47371378ee05a30670eff72d52.jpeg"
+    ]
+  },
+  {
+    "name": "白银市消防救援支队",
+    "location": {
+      "lat": 36.551083,
+      "lng": 104.137605
+    },
+    "address": "甘肃省白银市白银区万盛路65号",
+    "province": "甘肃省",
+    "city": "白银市",
+    "area": "白银区",
+    "detail": 1,
+    "uid": "be4cc60d38a093c201897288",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_713785e6a9a98d3e4296f4f4d7deba10.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_713785e6a9a98d3e4296f4f4d7deba10.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4abdf467f60c1a563bef90f28bee1603.jpeg"
+    ]
+  },
+  {
+    "name": "会宁县消防救援大队",
+    "location": {
+      "lat": 35.690646,
+      "lng": 105.074115
+    },
+    "address": "白银市会宁县会师镇遵义东路59号",
+    "province": "甘肃省",
+    "city": "白银市",
+    "area": "会宁县",
+    "street_id": "228edcb01118be612afc487d",
+    "detail": 1,
+    "uid": "228edcb01118be612afc487d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_c7416376b61dd536bbf0aa0d485e9b7e.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=228edcb01118be612afc487d&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "靖远县消防救援大队",
+    "location": {
+      "lat": 36.572738,
+      "lng": 104.668531
+    },
+    "address": "甘肃省白银市靖远县S207",
+    "province": "甘肃省",
+    "city": "白银市",
+    "area": "靖远县",
+    "detail": 1,
+    "uid": "f6257763c9b908e43ce231c3",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_5ca6b019394295b6b7a6cfb764f1ec0f.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5ca6b019394295b6b7a6cfb764f1ec0f.jpeg"
+    ]
+  },
+  {
+    "name": "景泰县消防救援大队",
+    "location": {
+      "lat": 37.195674,
+      "lng": 104.060191
+    },
+    "address": "甘肃省白银市景泰县车站路东50米",
+    "province": "甘肃省",
+    "city": "白银市",
+    "area": "景泰县",
+    "detail": 1,
+    "uid": "286b094301fdd8156c4760f8",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B653d3c25c4cac8925.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B653d3c25c4cac8925.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B653d3c25b46f0c4cb.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_daf8a2b70105644f68033ce54d762304.jpeg"
+    ]
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "name": "淮南朝阳道路救援有限公司",
+    "location": {
+      "lat": 32.665396,
+      "lng": 117.0264
+    },
+    "address": "安徽省淮南市田家庵区人民北路232号",
+    "province": "安徽省",
+    "city": "淮南市",
+    "area": "田家庵区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "5b222bc3c39a7ad6601c6726",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_8021ad13cd55fcb8574f9c7a5396f611.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8021ad13cd55fcb8574f9c7a5396f611.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_802b83825e5fdd242653396d105742b4.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65c479f79a8f9ba64.jpeg"
+    ]
+  },
+  {
+    "name": "淮南路通快速车辆救援有限公司",
+    "location": {
+      "lat": 32.532024,
+      "lng": 117.010666
+    },
+    "address": "安徽省淮南市田家庵区G206(合淮路)",
+    "province": "安徽省",
+    "city": "淮南市",
+    "area": "田家庵区",
+    "telephone": "(0554)6616966",
+    "detail": 1,
+    "uid": "4ccbc4a4ec15f540a2acc484",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/H63d9f2d3572c11df224c1ba56f2762d0f603c293.jpg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/H63d9f2d3572c11df224c1ba56f2762d0f603c293.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B6049c225f256b55c5.jpeg"
+    ]
+  },
+  {
+    "name": "晨通道路救援",
+    "location": {
+      "lat": 32.684643,
+      "lng": 117.104706
+    },
+    "address": "淮南市大通区威汕线淮南广仁中西医结合医院西南侧约150米",
+    "province": "安徽省",
+    "city": "淮南市",
+    "area": "大通区",
+    "telephone": "13866338787,13956447777",
+    "detail": 1,
+    "uid": "3c5cf4eaf994d995bfa240af",
+    "cover": "https://pic-map.cdn.bcebos.com/img/398947b796d7fe53d88aadd28ae795c4",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/398947b796d7fe53d88aadd28ae795c4",
+      "https://lbsugc.cdn.bcebos.com/images/B66a23022b201a3a74.jpeg"
+    ]
+  },
+  {
+    "name": "淮南市田家庵区淮滨路消防救援站",
+    "location": {
+      "lat": 32.668185,
+      "lng": 117.035527
+    },
+    "address": "淮南市田家庵区淮滨路淮滨街道淮河路社区",
+    "province": "安徽省",
+    "city": "淮南市",
+    "area": "田家庵区",
+    "detail": 1,
+    "uid": "780da602b7b95d1b5cbe868d",
+    "cover": "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_f5a043a00e874bde3b79f0559b5bdbc1.jpg",
+    "photo_list": [
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_f5a043a00e874bde3b79f0559b5bdbc1.jpg"
+    ]
+  },
+  {
+    "name": "国家矿山应急救援淮南队",
+    "location": {
+      "lat": 32.580582,
+      "lng": 116.889689
+    },
+    "address": "淮南市谢家集区春申大街与西经十八路交叉口东南100米",
+    "province": "安徽省",
+    "city": "淮南市",
+    "area": "谢家集区",
+    "detail": 1,
+    "uid": "fc72619faa58b0a6ad31e54d",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B67022deab968b17f69.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B67022deab968b17f69.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 32.668166,
+      "lng": 117.035374
+    },
+    "address": "淮南市田家庵区淮滨路淮滨街道淮河路社区",
+    "province": "安徽省",
+    "city": "淮南市",
+    "area": "田家庵区",
+    "detail": 1,
+    "uid": "079538e2121ac127d8eceddb",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a0df7270da5e0a7456dcb5cedefd0b2a.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a0df7270da5e0a7456dcb5cedefd0b2a.jpeg"
+    ]
+  },
+  {
+    "name": "中煤新集救护大队",
+    "location": {
+      "lat": 32.691579,
+      "lng": 116.550699
+    },
+    "address": "淮南市凤台县新集镇",
+    "province": "安徽省",
+    "city": "淮南市",
+    "area": "凤台县",
+    "detail": 1,
+    "uid": "13edc7e9d41a2c75f8f0cb02",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a47c88bff205483d67c778f654f424f7.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a47c88bff205483d67c778f654f424f7.jpeg"
+    ]
+  }
+]

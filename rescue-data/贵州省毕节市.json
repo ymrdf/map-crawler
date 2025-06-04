@@ -1,0 +1,110 @@
+[
+  {
+    "name": "路政救援",
+    "location": {
+      "lat": 27.2106,
+      "lng": 105.543129
+    },
+    "address": "毕节市大方县贵毕公路",
+    "province": "贵州省",
+    "city": "毕节市",
+    "area": "大方县",
+    "detail": 1,
+    "uid": "9064728e5f37a9cc09a8d4c8",
+    "cover": "https://pic-map.cdn.bcebos.com/img/a118919afa74126a58ea3db215a1264b",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/a118919afa74126a58ea3db215a1264b"
+    ]
+  },
+  {
+    "name": "119消防救援",
+    "location": {
+      "lat": 27.312442,
+      "lng": 105.286459
+    },
+    "address": "毕节市七星关区环城北路贵州省七星关区幼儿园西南侧约190米",
+    "province": "贵州省",
+    "city": "毕节市",
+    "area": "七星关区",
+    "detail": 1,
+    "uid": "db47573417c5776641d63ef5",
+    "cover": "https://pic-map.cdn.bcebos.com/img/9b133bd86e876c0f296305567020f6d7",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/9b133bd86e876c0f296305567020f6d7"
+    ]
+  },
+  {
+    "name": "威扬汽车维修救援",
+    "location": {
+      "lat": 27.229884,
+      "lng": 105.858782
+    },
+    "address": "百里杜鹃",
+    "province": "贵州省",
+    "city": "毕节市",
+    "area": "大方县",
+    "telephone": "15934773446",
+    "detail": 1,
+    "uid": "1776022f088702ccab059dc4",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_0493443134dd71d3f6e8e5377c6b5ffe.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0493443134dd71d3f6e8e5377c6b5ffe.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B60a5b6e632acea47a.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6090a6be7ffc84627.jpeg"
+    ]
+  },
+  {
+    "name": "威宁县辉创道路救援有限公司",
+    "location": {
+      "lat": 26.851887,
+      "lng": 104.315857
+    },
+    "address": "贵州省毕节市威宁彝族回族苗族自治县环城路",
+    "province": "贵州省",
+    "city": "毕节市",
+    "area": "威宁彝族回族苗族自治县",
+    "detail": 1,
+    "uid": "6027ee91baa4c5641c3894e7",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_2d8167cc02f10f498b61ec150e72c317.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2d8167cc02f10f498b61ec150e72c317.jpeg"
+    ]
+  },
+  {
+    "name": "威宁彝族回族苗族自治县紧急医学救援站",
+    "location": {
+      "lat": 26.872147,
+      "lng": 104.294964
+    },
+    "address": "毕节市威宁彝族回族苗族自治县健康路(毕节市威宁县人民医院南侧约150米)",
+    "province": "贵州省",
+    "city": "毕节市",
+    "area": "威宁彝族回族苗族自治县",
+    "detail": 1,
+    "uid": "08feb33cf426c6d830169bf8",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_4851d2766c8019fd277893323e9e6c26.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4851d2766c8019fd277893323e9e6c26.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_d33f76eea5828dbe95260e1cb5ae6426.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bee5c9ad45f6f68caf04e3753322aa79.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_97dd6b06e7c0eff3a575dbd306fd40b4.jpeg"
+    ]
+  },
+  {
+    "name": "金沙县紧急医学救援站",
+    "location": {
+      "lat": 27.468371,
+      "lng": 106.232559
+    },
+    "address": "毕节市金沙县",
+    "province": "贵州省",
+    "city": "毕节市",
+    "area": "金沙县",
+    "detail": 1,
+    "uid": "9b64af6421610c90f02d839c",
+    "cover": "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_1d87e15a01ae795daa59ba5728c9e983.jpg",
+    "photo_list": [
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_1d87e15a01ae795daa59ba5728c9e983.jpg"
+    ]
+  }
+]

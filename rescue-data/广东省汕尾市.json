@@ -1,0 +1,61 @@
+[
+  {
+    "name": "深汕消防救援中心",
+    "location": {
+      "lat": 22.83748,
+      "lng": 115.020246
+    },
+    "address": "汕尾市海丰县创文路与新风路交叉路口往东约190米",
+    "province": "广东省",
+    "city": "汕尾市",
+    "area": "海丰县",
+    "detail": 1,
+    "uid": "c50904f5731174cc1676439f",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B630d88e9d887de71a.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B630d88e9d887de71a.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B630d88e9d1c1d16adc.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B630d88837820d3687.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B630d888378721545d.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B630d88e9d2bc570fc.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B630d88837d0ab7a73.jpeg"
+    ]
+  },
+  {
+    "name": "汕尾市消防救援局",
+    "location": {
+      "lat": 22.784929,
+      "lng": 115.383597
+    },
+    "address": "广东省汕尾市城区城建路9号",
+    "province": "广东省",
+    "city": "汕尾市",
+    "area": "城区",
+    "street_id": "c5dcc3e8f96ac3346d20b919",
+    "detail": 1,
+    "uid": "c5dcc3e8f96ac3346d20b919",
+    "cover": "https://pic-map.cdn.bcebos.com/img/e309498ea4c8030cc027aecae113ff63",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/e309498ea4c8030cc027aecae113ff63"
+    ]
+  },
+  {
+    "name": "海城镇应急救援队",
+    "location": {
+      "lat": 22.98954,
+      "lng": 115.337645
+    },
+    "address": "广东省汕尾市海丰县X128(海银路)",
+    "province": "广东省",
+    "city": "汕尾市",
+    "area": "海丰县",
+    "detail": 1,
+    "uid": "324c1115124fc73e8bdb732c",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_11a313195875acbbc491bc600b6bb09c.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_11a313195875acbbc491bc600b6bb09c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_78e8a8915d308c01a58018dc80f5db9c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e549ece012fea0e1cab681e2968f603b.jpeg"
+    ]
+  }
+]

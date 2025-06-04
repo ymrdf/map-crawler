@@ -1,0 +1,159 @@
+[
+  {
+    "name": "巴南区李家沱消防救援站",
+    "location": {
+      "lat": 29.472171,
+      "lng": 106.54601
+    },
+    "address": "重庆市巴南区马王坪后街立丹大厦东侧约30米",
+    "province": "重庆市",
+    "city": "重庆市",
+    "area": "巴南区",
+    "street_id": "8a7c3328e3d32652c9291511",
+    "detail": 1,
+    "uid": "8a7c3328e3d32652c9291511",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_cd0096126e597e6244782ef2331c0bf0.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=8a7c3328e3d32652c9291511&width=720&height=360&quality=80&fovx=120",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_03b7f6dd9e44b611e58c8afe12914f96.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a18f329aa13107e2e03b830f531c4b72.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_fb2e6477a318536be248cb99048b2cb0.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_508d9a53369c62369426b6668f5c4909.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0ab0fa52bd6987562886bda9cb503861.jpeg"
+    ]
+  },
+  {
+    "name": "巴南区木洞消防救援站",
+    "location": {
+      "lat": 29.553888,
+      "lng": 106.795449
+    },
+    "address": "重庆市巴南区G210(渝巴路)",
+    "province": "重庆市",
+    "city": "重庆市",
+    "area": "巴南区",
+    "detail": 1,
+    "uid": "d673b1741190696232870af2",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B60e942ab7df311797f.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B60e942ab7df311797f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_81cc4e4eef57769da071856b117dea0f.jpeg"
+    ]
+  },
+  {
+    "name": "昂冠汽修补胎搭电拖车救援",
+    "location": {
+      "lat": 29.568508,
+      "lng": 106.593128
+    },
+    "address": "陕西路33号(朝天门地铁站1号口步行140米)协信商厦F2",
+    "province": "重庆市",
+    "city": "重庆市",
+    "area": "渝中区",
+    "telephone": "13035019283",
+    "detail": 1,
+    "uid": "8ae51508d6700cbf1ef74dea",
+    "cover": "https://taojin-pic-gz.cdn.bcebos.com/78e96620235f288f94844a37e04ff719.jpeg",
+    "photo_list": [
+      "https://taojin-pic-gz.cdn.bcebos.com/78e96620235f288f94844a37e04ff719.jpeg"
+    ]
+  },
+  {
+    "name": "巴南区南彭消防救援站",
+    "location": {
+      "lat": 29.332135,
+      "lng": 106.645526
+    },
+    "address": "重庆市巴南区重庆绕城高速",
+    "province": "重庆市",
+    "city": "重庆市",
+    "area": "巴南区",
+    "detail": 1,
+    "uid": "c68bb6e12b61cf0c26d2bb40",
+    "cover": "https://pic-map.cdn.bcebos.com/img/b68cd6d58f755c4cda12a2db767b92db",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/b68cd6d58f755c4cda12a2db767b92db"
+    ]
+  },
+  {
+    "name": "极致车服拖车救援",
+    "location": {
+      "lat": 29.54495,
+      "lng": 106.519224
+    },
+    "address": "重庆市渝中区茶亭南路4号附4号",
+    "province": "重庆市",
+    "city": "重庆市",
+    "area": "渝中区",
+    "telephone": "17353277358",
+    "detail": 1,
+    "uid": "f1d1500c6762c0dd95f08c34",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_3b2694e5e894c61f17c41a09a59087a6.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3b2694e5e894c61f17c41a09a59087a6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cbceec7e913f9890855076f7d1c39c28.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_013b400aff19b6998952bfe9a892a95f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d36e1c61434890a66d0262b580c672b5.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_20a01a4edfd77e1f6ebd5b6afd8ee744.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2f4939678668f615551888823fde2fa4.jpeg"
+    ]
+  },
+  {
+    "name": "重庆非同汽修补胎搭电拖车救援",
+    "location": {
+      "lat": 29.592274,
+      "lng": 106.521112
+    },
+    "address": "重庆市渝北区松桥路75号上海大厦c-1~2号",
+    "province": "重庆市",
+    "city": "重庆市",
+    "area": "渝北区",
+    "street_id": "",
+    "telephone": "13215522769",
+    "detail": 1,
+    "uid": "68d7187347b9f2c8c71e518e",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B5ebba1dcdeb1e1835c.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B5ebba1dcdeb1e1835c.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B5ebba1b68b64612bbf.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f9765b7a09192932c654af9ecb1d4ef5.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ff25609a6595e6737cfb76ffa795eeab.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a8835ec34cc2f9617df3062c64a0a0f4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2a7b880cbe7f767c2bd104934ecb4f99.jpeg"
+    ]
+  },
+  {
+    "name": "有道轮胎救援",
+    "location": {
+      "lat": 29.434448,
+      "lng": 106.428353
+    },
+    "address": "重庆市九龙坡区",
+    "province": "重庆市",
+    "city": "重庆市",
+    "area": "九龙坡区",
+    "detail": 1,
+    "uid": "7182126cb3c0dd6c4afc8df7",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_accd6c440e01082435e0f9e51bbbc3b9.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_accd6c440e01082435e0f9e51bbbc3b9.jpeg"
+    ]
+  },
+  {
+    "name": "中国救援重庆机动专业支队",
+    "location": {
+      "lat": 29.461922,
+      "lng": 106.539506
+    },
+    "address": "重庆市巴南区红光大道65号",
+    "province": "重庆市",
+    "city": "重庆市",
+    "area": "巴南区",
+    "detail": 1,
+    "uid": "a36c2f584be0b7ac17948e9a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_757d1446aedf2056737046022035a5f7.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_757d1446aedf2056737046022035a5f7.jpeg"
+    ]
+  }
+]

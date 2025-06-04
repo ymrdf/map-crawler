@@ -1,0 +1,151 @@
+[
+  {
+    "name": "道路救援",
+    "location": {
+      "lat": 44.152891,
+      "lng": 123.407966
+    },
+    "address": "吉林省松原市长岭县S304",
+    "province": "吉林省",
+    "city": "松原市",
+    "area": "长岭县",
+    "detail": 1,
+    "uid": "aa4865d30e6bb8797f29bd7b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_913bd6d895fb0e9f6006495dd5f1168f.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_913bd6d895fb0e9f6006495dd5f1168f.jpeg"
+    ]
+  },
+  {
+    "name": "王瑞24小时道路救援(拖车)",
+    "location": {
+      "lat": 45.119988,
+      "lng": 126.147933
+    },
+    "address": "吉林省松原市扶余市正阳北街",
+    "province": "吉林省",
+    "city": "松原市",
+    "area": "扶余市",
+    "telephone": "13804388099",
+    "detail": 1,
+    "uid": "f0514ec4e6544d9688fc0620",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B6400720075283dacc.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B6400720075283dacc.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c0340aef43112e32bdedd6df67ba54a4.jpeg"
+    ]
+  },
+  {
+    "name": "松原市消防救援支队",
+    "location": {
+      "lat": 45.148911,
+      "lng": 124.795341
+    },
+    "address": "吉林省松原市宁江区西松原大路御翠华庭东南侧约60米",
+    "province": "吉林省",
+    "city": "松原市",
+    "area": "宁江区",
+    "street_id": "",
+    "telephone": "(0438)2119119",
+    "detail": 1,
+    "uid": "dcd57603e09093832cb9086b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_86282486c94d20e9e55b545c0331f674.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_86282486c94d20e9e55b545c0331f674.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_64e992bc316f8bc5b00ef7bbaf453e29.jpeg"
+    ]
+  },
+  {
+    "name": "中国人民保险救援集团",
+    "location": {
+      "lat": 45.11066,
+      "lng": 125.733954
+    },
+    "address": "吉林省松原市扶余市康复医院西侧3门正北方向70米",
+    "province": "吉林省",
+    "city": "松原市",
+    "area": "扶余市",
+    "detail": 1,
+    "uid": "a4bbd53e1b8665ab3062128f",
+    "cover": "https://taojin-his.cdn.bcebos.com/0df3d7ca7bcb0a46ae5f61046363f6246b60af8a.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/0df3d7ca7bcb0a46ae5f61046363f6246b60af8a.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_47d8666e65e0c19f6054500647f5f8dd.jpeg"
+    ]
+  },
+  {
+    "name": "鑫顺德灯光音响升级中心",
+    "location": {
+      "lat": 45.12342,
+      "lng": 124.850403
+    },
+    "address": "吉林省松原市前郭尔罗斯蒙古族自治县天达名仕5栋101",
+    "province": "吉林省",
+    "city": "松原市",
+    "area": "前郭尔罗斯蒙古族自治县",
+    "telephone": "15584568880",
+    "detail": 1,
+    "uid": "94269277deefe750c7f50dac",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B649ffbba5490212526.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B649ffbba5490212526.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bd0a66aa4d06c65eeba2953186965faf.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7e2e87ee42b262a37aa4a065d4416173.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8b172082eee70cfa150e2bd63d1f95e7.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5860da6546a67e143918b0894dad66c3.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6295f0a166a44ab233b2fbfd8708be7e.jpeg"
+    ]
+  },
+  {
+    "name": "松原市消防救援支队江北大队",
+    "location": {
+      "lat": 45.191432,
+      "lng": 124.878937
+    },
+    "address": "松原市宁江区新城东路2900号",
+    "province": "吉林省",
+    "city": "松原市",
+    "area": "宁江区",
+    "detail": 1,
+    "uid": "e8135b4b5e4062495d17c39e",
+    "cover": "https://pic-map.cdn.bcebos.com/img/7ef4c167bef03d677956d50c43fa1bc7",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/7ef4c167bef03d677956d50c43fa1bc7"
+    ]
+  },
+  {
+    "name": "扶余市消防救援大队",
+    "location": {
+      "lat": 45.007098,
+      "lng": 126.058991
+    },
+    "address": "吉林省松原市扶余市北环路与扶余大街交汇路口向东50米处",
+    "province": "吉林省",
+    "city": "松原市",
+    "area": "扶余市",
+    "detail": 1,
+    "uid": "3248e38f9509ea081b11d59d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_186f3a7246deacf8549688e6c6d3124e.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_186f3a7246deacf8549688e6c6d3124e.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 45.176133,
+      "lng": 124.826966
+    },
+    "address": "松原市宁江区长宁南街世纪之星商务宾馆(长宁南街店)北侧约70米",
+    "province": "吉林省",
+    "city": "松原市",
+    "area": "宁江区",
+    "detail": 1,
+    "uid": "f9c06526dd2f1a5732870a35",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ca8b448e28163e3b129b3d2f5d2c9cb4.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ca8b448e28163e3b129b3d2f5d2c9cb4.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65a7385414b099ac8.jpeg"
+    ]
+  }
+]

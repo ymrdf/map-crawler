@@ -1,0 +1,164 @@
+[
+  {
+    "name": "矿山救援",
+    "location": {
+      "lat": 37.66281,
+      "lng": 120.402182
+    },
+    "address": "山东省烟台市龙口市S264与桑园路交叉路口往西北约100米",
+    "province": "山东省",
+    "city": "烟台市",
+    "area": "龙口市",
+    "detail": 1,
+    "uid": "12fdd7b7d7afcb7928d7ab4b",
+    "cover": "https://pic-map.cdn.bcebos.com/img/1c034245321c44784d453672ecf3184f",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/1c034245321c44784d453672ecf3184f"
+    ]
+  },
+  {
+    "name": "龙口市圣达道路救援",
+    "location": {
+      "lat": 37.621197,
+      "lng": 120.339919
+    },
+    "address": "烟台市龙口市和平路与302省道交叉口北行100米路西",
+    "province": "山东省",
+    "city": "烟台市",
+    "area": "龙口市",
+    "telephone": "15953503361",
+    "detail": 1,
+    "uid": "7268d6df0e055adcb6147ff2",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_14fd0f781d59a5f8975d2d1d49f07c71.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_14fd0f781d59a5f8975d2d1d49f07c71.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7b3b1e21f6d6ac94f1bea7a675dcf769.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_66ed16c1737a99097c239c7bc63d6d6b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e9323a5b6f7c39fea8f2fdc33c6dbb87.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b2661175156dd8861ef5be56fb361666.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6cd7d4a46b3fed14eff3af07522df83b.jpg"
+    ]
+  },
+  {
+    "name": "应急救援站",
+    "location": {
+      "lat": 37.524524,
+      "lng": 121.328816
+    },
+    "address": "山东省烟台市芝罘区楚泰街锦绣新城",
+    "province": "山东省",
+    "city": "烟台市",
+    "area": "芝罘区",
+    "telephone": "(0535)6236119",
+    "detail": 1,
+    "uid": "e23686da3403e85d9dec2b39",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_4025a30f6d57e84e06a0515ce9db3310.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4025a30f6d57e84e06a0515ce9db3310.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_70be886f4926becd1ee8cf2d52a11131.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_c2c28530f38e851f65a58e2b1e2f895b.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c2e341bb903a6e2241676413b449c926.jpeg"
+    ]
+  },
+  {
+    "name": "鑫旺汽车救援",
+    "location": {
+      "lat": 36.752742,
+      "lng": 121.119073
+    },
+    "address": "202省道二十里店派出所",
+    "province": "山东省",
+    "city": "烟台市",
+    "area": "海阳市",
+    "street_id": "dd4769c88ef8365c901fc957",
+    "telephone": "(0535)3333612",
+    "detail": 1,
+    "uid": "dd4769c88ef8365c901fc957",
+    "cover": "https://photo-meituan.cdn.bcebos.com/photo/1739872358427b9f72096bcd3191330de36cda7a0b",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=dd4769c88ef8365c901fc957&width=720&height=360&quality=80&fovx=120",
+      "https://lbsugc.cdn.bcebos.com/images/B5ee58c633544435b0.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/f9a3fb3594a1611e0ffff34bd0658f79_6950.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_184475b0e9e4943b2b9b9704057e52b1.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b102d8cc6ec56e5bf805e4f674e50258.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1c79202d55afb070013dd108c9b752e3.jpeg"
+    ]
+  },
+  {
+    "name": "烟台市芝罘区三站消防救援站",
+    "location": {
+      "lat": 37.55519,
+      "lng": 121.381956
+    },
+    "address": "山东省烟台市芝罘区青年路副13号三站汇通广场C座",
+    "province": "山东省",
+    "city": "烟台市",
+    "area": "芝罘区",
+    "detail": 1,
+    "uid": "52f29fc0724e040e621c678f",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_fc0cba61afaf649f71ab63cec786e699.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_fc0cba61afaf649f71ab63cec786e699.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B615a4ce729496dbc8.jpeg"
+    ]
+  },
+  {
+    "name": "润彬汽车救援",
+    "location": {
+      "lat": 37.345108,
+      "lng": 120.401563
+    },
+    "address": "山东省烟台市招远市金城路122号",
+    "province": "山东省",
+    "city": "烟台市",
+    "area": "招远市",
+    "telephone": "18753545556",
+    "detail": 1,
+    "uid": "2c54ffd9ec2ad01ff90cad09",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_caa60b8a1922eb32e5c4ef6cbb70e867.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_caa60b8a1922eb32e5c4ef6cbb70e867.jpeg"
+    ]
+  },
+  {
+    "name": "晓林救援",
+    "location": {
+      "lat": 37.17175,
+      "lng": 119.918489
+    },
+    "address": "山东省烟台市莱州市206国道西50米",
+    "province": "山东省",
+    "city": "烟台市",
+    "area": "莱州市",
+    "street_id": "",
+    "telephone": "13605450298,15954528298",
+    "detail": 1,
+    "uid": "ab58ec89d0f086845cd4feb1",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_feed6884e674373be19420a8e56df5dd.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_feed6884e674373be19420a8e56df5dd.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9389b80190c6f9be2f63d3ddcc36c0f9.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a51b7198223b0efb02dd1826fe656560.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b7d57cfa13da71071b5160050f280de7.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_fb0b80a95ed297ad4d657d1396d216b1.jpg",
+      "https://taojin-his.cdn.bcebos.com/2f738bd4b31c8701c31f2b0c227f9e2f0608ffab.jpg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 37.570686,
+      "lng": 121.282685
+    },
+    "address": "烟台市福山区黄河路元山机械设备有限公司",
+    "province": "山东省",
+    "city": "烟台市",
+    "area": "福山区",
+    "detail": 1,
+    "uid": "7cc4daf684f59a4aad045738",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_4a968a0880c2730421bebb8ebd9a8e11.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4a968a0880c2730421bebb8ebd9a8e11.jpeg"
+    ]
+  }
+]

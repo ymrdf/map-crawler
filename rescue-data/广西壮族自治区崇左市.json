@@ -1,0 +1,77 @@
+[
+  {
+    "name": "易捷养车(崇左扶绥那密店)",
+    "location": {
+      "lat": 22.621067,
+      "lng": 107.924189
+    },
+    "address": "新宁镇",
+    "province": "广西壮族自治区",
+    "city": "崇左市",
+    "area": "扶绥县",
+    "telephone": "(0771)7527508,13617819382",
+    "detail": 1,
+    "uid": "8d3a35c1aa122f9f2afc481e",
+    "cover": "https://photo-meituan.cdn.bcebos.com/photo/1740042538be5046b8181b8b7721a0cac188d18f42",
+    "photo_list": [
+      "https://photo-meituan.cdn.bcebos.com/photo/1740042538be5046b8181b8b7721a0cac188d18f42"
+    ]
+  },
+  {
+    "name": "广西零距离国际旅行社崇左营业部",
+    "location": {
+      "lat": 22.420189,
+      "lng": 107.353611
+    },
+    "address": "广西壮族自治区崇左市江州区新华路",
+    "province": "广西壮族自治区",
+    "city": "崇左市",
+    "area": "江州区",
+    "detail": 1,
+    "uid": "132d47c127995b28f7231081",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_58effea7001072e8b62a51a2793e3e09.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_58effea7001072e8b62a51a2793e3e09.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3d33f70d4512704f0ee56494e880e5bc.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4ae418d559285cf84a538076459d4339.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c92400dd15a794c81cf12ae4d88b03d3.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_99352ea9d06e924bfa3de842b98ff2ac.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a5d839c222a2832b7a0217bd797a318c.jpeg"
+    ]
+  },
+  {
+    "name": "鑫盛道路救援服务",
+    "location": {
+      "lat": 22.548757,
+      "lng": 107.255087
+    },
+    "address": "广西壮族自治区崇左市江州区G359",
+    "province": "广西壮族自治区",
+    "city": "崇左市",
+    "area": "江州区",
+    "telephone": "13878633138",
+    "detail": 1,
+    "uid": "685c90256d3aafe81e1d1105",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_332cc24b38c353ac9b135f618ab86f76.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_332cc24b38c353ac9b135f618ab86f76.jpeg"
+    ]
+  },
+  {
+    "name": "崇左市江州区石林消防救援站",
+    "location": {
+      "lat": 22.416588,
+      "lng": 107.350999
+    },
+    "address": "崇左市江州区建设路陆加壹精品酒店东侧约60米",
+    "province": "广西壮族自治区",
+    "city": "崇左市",
+    "area": "江州区",
+    "detail": 1,
+    "uid": "8ef0e249d49081a251e5c551",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d3a23bcbc57f55b087c287b9b4ee9008.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d3a23bcbc57f55b087c287b9b4ee9008.jpeg"
+    ]
+  }
+]

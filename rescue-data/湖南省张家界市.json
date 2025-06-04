@@ -1,0 +1,109 @@
+[
+  {
+    "name": "桑植县文明路消防救援站",
+    "location": {
+      "lat": 29.411288,
+      "lng": 110.187498
+    },
+    "address": "张家界市桑植县文明路桑植县民族中医院东南侧约30米",
+    "province": "湖南省",
+    "city": "张家界市",
+    "area": "桑植县",
+    "detail": 1,
+    "uid": "d4b716bfcb515683c26c142d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a03438515ce299815f78cb1ebd9783e0.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a03438515ce299815f78cb1ebd9783e0.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_1d674fd66978bfabfc09d7f764079ee2.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3d2c60175f67a60c15bbdb9857da0c2d.jpeg"
+    ]
+  },
+  {
+    "name": "桑植县消防救援大队",
+    "location": {
+      "lat": 29.411329,
+      "lng": 110.187588
+    },
+    "address": "张家界市桑植县文明路桑植县民族中医院东南侧约40米",
+    "province": "湖南省",
+    "city": "张家界市",
+    "area": "桑植县",
+    "detail": 1,
+    "uid": "a70449f637b6498649fd3fb3",
+    "cover": "https://taojin-his.cdn.bcebos.com/3b87e950352ac65c9a84998ff7f2b21192138a4d.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/3b87e950352ac65c9a84998ff7f2b21192138a4d.jpg"
+    ]
+  },
+  {
+    "name": "滴滴出行科技有限公司(张家界办事处)",
+    "location": {
+      "lat": 29.172916,
+      "lng": 110.472815
+    },
+    "address": "湖南省张家界市永定区张家界西站久盛网约车运营中心二楼",
+    "province": "湖南省",
+    "city": "张家界市",
+    "area": "永定区",
+    "telephone": "17775986794",
+    "detail": 1,
+    "uid": "8dd56689e11c65f4d3ff232b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_0ad75188ac4df18d57f059919f6e53ef.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0ad75188ac4df18d57f059919f6e53ef.jpeg"
+    ]
+  },
+  {
+    "name": "张家界市雷神应急救援队",
+    "location": {
+      "lat": 29.109405,
+      "lng": 110.481796
+    },
+    "address": "张家界市永定区天门路民悦家园东北侧约210米",
+    "province": "湖南省",
+    "city": "张家界市",
+    "area": "永定区",
+    "telephone": "15607443888",
+    "detail": 1,
+    "uid": "048d8d92699ad58db426557f",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_4b72f3006cfdfc4160778d0e9d169e72.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4b72f3006cfdfc4160778d0e9d169e72.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_52f232e2d49207e07e06323153eec19e.jpeg"
+    ]
+  },
+  {
+    "name": "慈利县猛虎应急救援队",
+    "location": {
+      "lat": 29.438153,
+      "lng": 111.129697
+    },
+    "address": "张家界市慈利县蒋家坪派出所南侧约240米",
+    "province": "湖南省",
+    "city": "张家界市",
+    "area": "慈利县",
+    "detail": 1,
+    "uid": "44b4c5c8670f017a621c67bc",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_2b596850b44cd09a6aac625118d7906b.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2b596850b44cd09a6aac625118d7906b.jpeg"
+    ]
+  },
+  {
+    "name": "武陵源区应急救援大队-南门",
+    "location": {
+      "lat": 29.352491,
+      "lng": 110.57577
+    },
+    "address": "湖南省张家界市武陵源区武陵路",
+    "province": "湖南省",
+    "city": "张家界市",
+    "area": "武陵源区",
+    "detail": 1,
+    "uid": "b20068702ead1ae4c7f025c5",
+    "cover": "https://taojin-his.cdn.bcebos.com/dcc451da81cb39db1bb777dcd8160924aa1830c0.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/dcc451da81cb39db1bb777dcd8160924aa1830c0.jpg"
+    ]
+  }
+]

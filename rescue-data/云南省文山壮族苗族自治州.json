@@ -1,0 +1,60 @@
+[
+  {
+    "name": "文山市环城东路消防救援站",
+    "location": {
+      "lat": 23.401312,
+      "lng": 104.256632
+    },
+    "address": "云南省文山壮族苗族自治州文山市沁春园东侧310米",
+    "province": "云南省",
+    "city": "文山壮族苗族自治州",
+    "area": "文山市",
+    "detail": 1,
+    "uid": "35e02d6b16987247ee74f865",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B6141a2f083b0d1593f.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B6141a2f083b0d1593f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7df02bd9371050ac8ee13a0a9c199952.jpeg"
+    ]
+  },
+  {
+    "name": "古木镇消防救援站",
+    "location": {
+      "lat": 23.279373,
+      "lng": 104.273329
+    },
+    "address": "文山壮族苗族自治州文都线",
+    "province": "云南省",
+    "city": "文山壮族苗族自治州",
+    "area": "文山市",
+    "detail": 1,
+    "uid": "122e43ef129976b81c389485",
+    "cover": "https://pic-map.cdn.bcebos.com/img/d65eb2a1ef48f531dbec04428cb9624b",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/d65eb2a1ef48f531dbec04428cb9624b"
+    ]
+  },
+  {
+    "name": "普利司通轮胎车之翼(广南县莲城镇交通轮胎经营部)",
+    "location": {
+      "lat": 24.05912,
+      "lng": 105.073065
+    },
+    "address": "云南省文山壮族苗族自治州广南县莲城镇北坛社区果者村1号",
+    "province": "云南省",
+    "city": "文山壮族苗族自治州",
+    "area": "广南县",
+    "telephone": "13658762314",
+    "detail": 1,
+    "uid": "26b3e227264bbf898c1a896a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_c94978bdc65d4cf690279f649b0e61db.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c94978bdc65d4cf690279f649b0e61db.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4960e580c700b8954a1116915be0de61.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3c5f74a1e6582f6c4a8cc60c2f2da55b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a73c978b9e02a299c4e88f5e5a56f894.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_efd7b7484471389fdc4ef925a264c3aa.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f030c71c8af2ec2c86f3cb783b9e05b1.jpeg"
+    ]
+  }
+]

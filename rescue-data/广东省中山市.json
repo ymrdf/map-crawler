@@ -1,0 +1,207 @@
+[
+  {
+    "name": "凌顺道路救援",
+    "location": {
+      "lat": 22.255924,
+      "lng": 113.493462
+    },
+    "address": "广东省中山市界狮南路30号金色名都162卡",
+    "province": "广东省",
+    "city": "中山市",
+    "area": "",
+    "telephone": "(0760)22947430",
+    "detail": 1,
+    "uid": "69744728c3a60b1b8bf15def",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B61c46629cf7c9101bc.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B61c46629cf7c9101bc.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/H30adcbef76094b3699721fc5accc7cd98d109d31.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/H96dda144ad3459829c6ae1ba03f431adcbef8431.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_723724c6135c4f6d5fb9cad65e2f9fc1.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3e1fcfca94d48ced4d70ba15f6e0800d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_73636ddf33725fab680bb2bac62e092d.jpeg"
+    ]
+  },
+  {
+    "name": "乐星汽修补胎搭电拖车救援",
+    "location": {
+      "lat": 22.681194,
+      "lng": 113.273613
+    },
+    "address": "广东省中山市泗涌路12号",
+    "province": "广东省",
+    "city": "中山市",
+    "area": "",
+    "street_id": "99d8e503045ea5434d2fdfc3",
+    "detail": 1,
+    "uid": "99d8e503045ea5434d2fdfc3",
+    "cover": "https://taojin-his.cdn.bcebos.com/3812b31bb051f8197cdd3206d7b44aed2f73e786.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=99d8e503045ea5434d2fdfc3&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c09ce30a9e3fafe6849e167c296e5f26.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e88377531f0507ebf08fe431b4ef587a.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_4d06bb57bc4e29a29ae699cf8cfa88b8.jpg",
+      "https://taojin-his.cdn.bcebos.com/203fb80e7bec54e7d483a06cb6389b504fc26a51.jpg",
+      "https://taojin-his.cdn.bcebos.com/cc11728b4710b912249d0d27cdfdfc039345228f.jpg"
+    ]
+  },
+  {
+    "name": "中山丽锦汽车道路救援有限公司",
+    "location": {
+      "lat": 22.485662,
+      "lng": 113.541784
+    },
+    "address": "中山市佳景路佳璟楼南侧约260米",
+    "province": "广东省",
+    "city": "中山市",
+    "area": "",
+    "detail": 1,
+    "uid": "3e29a9151a4e636c95f08c23",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/H9f510fb30f2442a7c27f76d0de43ad4bd1130255.jpg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/H9f510fb30f2442a7c27f76d0de43ad4bd1130255.jpg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 22.684631,
+      "lng": 113.407456
+    },
+    "address": "中山市金鲤路盈天可乐国际北侧约230米",
+    "province": "广东省",
+    "city": "中山市",
+    "area": "",
+    "street_id": "c5a7ab2abfdec2bff6c59c22",
+    "detail": 1,
+    "uid": "c5a7ab2abfdec2bff6c59c22",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d794540e90a89c9388343c1078f37f55.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=c5a7ab2abfdec2bff6c59c22&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9d8376daeb7f38ccdc27ed123e195c2b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_78bfd965f6f7c88c14f902680b718872.jpeg"
+    ]
+  },
+  {
+    "name": "中山市三乡消防救援站",
+    "location": {
+      "lat": 22.352125,
+      "lng": 113.41078
+    },
+    "address": "中山市谷都大道与文昌西路交叉路口往西约190米",
+    "province": "广东省",
+    "city": "中山市",
+    "area": "",
+    "detail": 1,
+    "uid": "ae5b2f737963ecad770269da",
+    "cover": "https://pic-map.cdn.bcebos.com/img/696e4adac128b5992da08e29dcc07c5d",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/696e4adac128b5992da08e29dcc07c5d"
+    ]
+  },
+  {
+    "name": "中山市永安消防救援站",
+    "location": {
+      "lat": 22.498215,
+      "lng": 113.375143
+    },
+    "address": "中山市永安一路恒大绿洲-2期西南侧约40米",
+    "province": "广东省",
+    "city": "中山市",
+    "area": "",
+    "street_id": "ab60c2f232d7ba3badb22a2e",
+    "detail": 1,
+    "uid": "ab60c2f232d7ba3badb22a2e",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_db9549ccb3c045f16fac5f5bc5bd3a99.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=ab60c2f232d7ba3badb22a2e&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "中山市畅通道路救援有限公司",
+    "location": {
+      "lat": 22.498628,
+      "lng": 113.345157
+    },
+    "address": "广东省中山市翠林路中海翠林兰溪园f1栋02号",
+    "province": "广东省",
+    "city": "中山市",
+    "area": "",
+    "telephone": "13432168916,18813849239",
+    "detail": 1,
+    "uid": "24ce0510bbc783f6f02d8340",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_45933a1008484318f78d086a3dd565b6.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_45933a1008484318f78d086a3dd565b6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_82c7be214ac3f73b1d523ed1853e5d15.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_94587f5e199839f149e15f7390b7f0ba.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B603c360d9b0ef9a8d.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B603c36360fbc010b8a.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B603c35edaf839d851.jpeg"
+    ]
+  },
+  {
+    "name": "中山市消防救援支队港口大队",
+    "location": {
+      "lat": 22.592943,
+      "lng": 113.404874
+    },
+    "address": "广东省中山市港口镇胜隆东路2号",
+    "province": "广东省",
+    "city": "中山市",
+    "area": "",
+    "detail": 1,
+    "uid": "035d9ca4c2e5860cf32d8376",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B61ad91c676c0811a03.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B61ad91c676c0811a03.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d49016f2f689d119845be2b974e0c89e.jpeg"
+    ]
+  },
+  {
+    "name": "畅清汽车救援服务中心",
+    "location": {
+      "lat": 22.511096,
+      "lng": 113.37223
+    },
+    "address": "广东省中山市建华路美景楼5幢",
+    "province": "广东省",
+    "city": "中山市",
+    "area": "",
+    "street_id": "ce9b774b94c564611e5800ad",
+    "telephone": "13902596272",
+    "detail": 1,
+    "uid": "ce9b774b94c564611e5800ad",
+    "cover": "https://taojin-his.cdn.bcebos.com/6c224f4a20a446230b61bcde9522720e0df3d7e6.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=ce9b774b94c564611e5800ad&width=720&height=360&quality=80&fovx=120",
+      "https://lbsugc.cdn.bcebos.com/images/Hd009b3de9c82d1580776a3af8e0a19d8bc3e423c.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_09b8842889da7dccfde7771f14b0d750.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_304831510fbca45e1a4ca43b07257a30.jpeg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_dfbd698a6a9e6bddff74a1688b0b539e.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_96157ed0db83f408019747aac4ced9d6.jpg"
+    ]
+  },
+  {
+    "name": "粤信救援",
+    "location": {
+      "lat": 22.269046,
+      "lng": 113.516474
+    },
+    "address": "中山市环市东南路志洪嘉园",
+    "province": "广东省",
+    "city": "中山市",
+    "area": "",
+    "telephone": "18898484808",
+    "detail": 1,
+    "uid": "b9d3f1dc93b993ea4f6d46a3",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_400703a58211922ea08af8c5dec3d786.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_400703a58211922ea08af8c5dec3d786.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_215b2050fe9ab608495fe4571b6c946b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3e6bcca84cb157fad0a6edd8cb4450f2.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_41507b4babc37cd198a058fc9174354f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_117a2deea4cd2919190156713a4775f9.jpeg"
+    ]
+  }
+]

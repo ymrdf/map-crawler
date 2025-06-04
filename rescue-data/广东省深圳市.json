@@ -1,0 +1,80 @@
+[
+  {
+    "name": "119消防救援",
+    "location": {
+      "lat": 22.596902,
+      "lng": 114.194072
+    },
+    "address": "深圳市罗湖区望桐新路梧桐山风景名胜区",
+    "province": "广东省",
+    "city": "深圳市",
+    "area": "罗湖区",
+    "detail": 1,
+    "uid": "cafaf2a4b38439a8441a32e3",
+    "cover": "https://pic-map.cdn.bcebos.com/img/9c0c1ac42e217ef3d8137f22bf6d8d8e",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/9c0c1ac42e217ef3d8137f22bf6d8d8e"
+    ]
+  },
+  {
+    "name": "深圳市消防救援支队",
+    "location": {
+      "lat": 22.554667,
+      "lng": 114.099049
+    },
+    "address": "广东省深圳市福田区红荔路2009号",
+    "province": "广东省",
+    "city": "深圳市",
+    "area": "福田区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "24ffafcd5850a6f27f29bd42",
+    "cover": "https://taojin-his.cdn.bcebos.com/5bafa40f4bfbfbed616d1dcc73f0f736afc31f48.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/5bafa40f4bfbfbed616d1dcc73f0f736afc31f48.jpg",
+      "https://taojin-his.cdn.bcebos.com/0b55b319ebc4b74520e80c46c3fc1e178a821565.jpg",
+      "https://taojin-his.cdn.bcebos.com/b2de9c82d158ccbf8455371d13d8bc3eb1354128.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8f212b41d14268300ee317e37e903b9e.jpeg",
+      "https://taojin-his.cdn.bcebos.com/4bed2e738bd4b31cc80d19c38cd6277f9e2ff891.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7f91b8db58688d68c60da034b81d74da.jpeg"
+    ]
+  },
+  {
+    "name": "深圳市南山区消防救援大队",
+    "location": {
+      "lat": 22.59794,
+      "lng": 113.971149
+    },
+    "address": "广东省深圳市南山区桃源街道丽山路150号",
+    "province": "广东省",
+    "city": "深圳市",
+    "area": "南山区",
+    "street_id": "",
+    "telephone": "(0755)86098055",
+    "detail": 1,
+    "uid": "95fcc3b74269f4ea6f47604d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_dea461763a6a9f8f1ec78ca008267595.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_dea461763a6a9f8f1ec78ca008267595.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_32df02077d24c1cd9496b0e31076aa4a.jpeg"
+    ]
+  },
+  {
+    "name": "深圳市宝安区西乡消防救援站",
+    "location": {
+      "lat": 22.577894,
+      "lng": 113.85612
+    },
+    "address": "广东省深圳市宝安区银田路51号",
+    "province": "广东省",
+    "city": "深圳市",
+    "area": "宝安区",
+    "detail": 1,
+    "uid": "31fbfa27060f9ab328fc48ac",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B615d47e3d0642912f.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B615d47e3d0642912f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_710d6223a1a290d19de9d3f720747ce0.jpeg"
+    ]
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "name": "新余市三川汽车救援有限公司",
+    "location": {
+      "lat": 27.812735,
+      "lng": 114.937846
+    },
+    "address": "新余市渝水区公园北路丽景新村幼儿园(新余市妇幼保健院住院部西北)东南侧约30米",
+    "province": "江西省",
+    "city": "新余市",
+    "area": "渝水区",
+    "detail": 1,
+    "uid": "bb09875a42ace67eb5147fd5",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d613bc6f7cdf2e9b38893fbde4af4e25.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d613bc6f7cdf2e9b38893fbde4af4e25.jpg"
+    ]
+  },
+  {
+    "name": "新余市应急救援支队",
+    "location": {
+      "lat": 27.839128,
+      "lng": 114.930377
+    },
+    "address": "江西省新余市渝水区平安路11号",
+    "province": "江西省",
+    "city": "新余市",
+    "area": "渝水区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "1240caf43c921a71ddee8b6d",
+    "cover": "https://taojin-his.cdn.bcebos.com/738b4710b912c8fc32fc0c61f5039245d688210b.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/738b4710b912c8fc32fc0c61f5039245d688210b.jpg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 27.841597,
+      "lng": 114.98859
+    },
+    "address": "新余市渝水区春龙大道盛泽园东北侧约50米",
+    "province": "江西省",
+    "city": "新余市",
+    "area": "渝水区",
+    "detail": 1,
+    "uid": "940871d076375961c9e33cfe",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d1115f7fe47f290c1f24aa0df2b52c74.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d1115f7fe47f290c1f24aa0df2b52c74.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ecaf56f8a5c306470517789f0c8eb63c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f1ed7788f14b869523f516540d99a22b.jpeg"
+    ]
+  },
+  {
+    "name": "新余市公安消防支队袁河大队",
+    "location": {
+      "lat": 27.811512,
+      "lng": 114.922255
+    },
+    "address": "新余市渝水区白竹路香博丽晶北侧约60米",
+    "province": "江西省",
+    "city": "新余市",
+    "area": "渝水区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "a8ee0b6106e4bbfacd04ef13",
+    "cover": "https://taojin-his.cdn.bcebos.com/8644ebf81a4c510f3d42b7b36959252dd52aa591.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/8644ebf81a4c510f3d42b7b36959252dd52aa591.jpg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 27.839169,
+      "lng": 114.930643
+    },
+    "address": "新余市渝水区平安路凯光中央华府东北侧",
+    "province": "江西省",
+    "city": "新余市",
+    "area": "渝水区",
+    "detail": 1,
+    "uid": "05fd3ec342ce9ac6b04c4902",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_306c8ad3bfce34c1053a7fddb8b83f79.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_306c8ad3bfce34c1053a7fddb8b83f79.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_fa3701b2391a80ef27f08425bc91e7cd.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_60e6c3dcbec3fb51c23d48a51c48941b.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 27.809845,
+      "lng": 114.943779
+    },
+    "address": "新余市渝水区亚新北路渝水第三小学东南侧约110米",
+    "province": "江西省",
+    "city": "新余市",
+    "area": "渝水区",
+    "detail": 1,
+    "uid": "176ca05540357f7400ff2da6",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_4121aa4621fb7c9aff1ca12b6cc640b3.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4121aa4621fb7c9aff1ca12b6cc640b3.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a4b4322d1f8811e5a6899b0da53f61fe.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_48182089d1906e6b5f97ca7d81d219a1.jpeg"
+    ]
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "name": "九江市应急救援训练基地",
+    "location": {
+      "lat": 29.673002,
+      "lng": 115.845302
+    },
+    "address": "江西省九江市柴桑区城门乡罗村狮城大道西150米",
+    "province": "江西省",
+    "city": "九江市",
+    "area": "柴桑区",
+    "detail": 1,
+    "uid": "6d85afa11d46e8571e5800d5",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B5f961b678b488b54c.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B5f961b678b488b54c.jpeg"
+    ]
+  },
+  {
+    "name": "东升汽车修理厂",
+    "location": {
+      "lat": 29.681895,
+      "lng": 115.981704
+    },
+    "address": "前进西路403-8号车辆保养轮胎钣金喷漆道路救援",
+    "province": "江西省",
+    "city": "九江市",
+    "area": "濂溪区",
+    "telephone": "13879271227",
+    "detail": 1,
+    "uid": "f5ac74a5d000633488f15dc4",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_56335b303f9cccb4e60caf18790c7446.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_56335b303f9cccb4e60caf18790c7446.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f5cc7651f890a70bd7058fa17eb9e89a.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f6d045f3498305330976b918fcf2ff05.jpeg"
+    ]
+  },
+  {
+    "name": "启源吊车救援租赁",
+    "location": {
+      "lat": 29.002118,
+      "lng": 114.538353
+    },
+    "address": "江西省九江市修水县久鑫医药对面停车场",
+    "province": "江西省",
+    "city": "九江市",
+    "area": "修水县",
+    "detail": 1,
+    "uid": "c8c80cdc0e4e78e2077ce88f",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_91799559e468c092cdf21f12537ca710.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_91799559e468c092cdf21f12537ca710.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 29.617798,
+      "lng": 115.89767
+    },
+    "address": "九江市柴桑区沿河北路金贝贝幼儿园(渊明路)西南侧约190米",
+    "province": "江西省",
+    "city": "九江市",
+    "area": "柴桑区",
+    "detail": 1,
+    "uid": "d7e39562a58470fe7ec8767c",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_cdaa8de62de578e3a2ccc161459cbe7e.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cdaa8de62de578e3a2ccc161459cbe7e.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_58b75d2b4999a4ebaacc1a6391e93b80.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B677215427a9ced642.jpeg"
+    ]
+  },
+  {
+    "name": "都昌蓝天救援队",
+    "location": {
+      "lat": 29.286095,
+      "lng": 116.234555
+    },
+    "address": "九江市都昌县鄱阳湖大道转盘幼儿园东南侧约240米",
+    "province": "江西省",
+    "city": "九江市",
+    "area": "都昌县",
+    "detail": 1,
+    "uid": "3e4f468523468c9746e274d7",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_19008b274275b42de926500763b81a07.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_19008b274275b42de926500763b81a07.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1658b33dc12a24a7b00170bbe60a9be4.jpeg"
+    ]
+  }
+]

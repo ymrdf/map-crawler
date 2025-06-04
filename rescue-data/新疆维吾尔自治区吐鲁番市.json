@@ -1,0 +1,98 @@
+[
+  {
+    "name": "秀山汽车拖车道路救援送油",
+    "location": {
+      "lat": 42.991299,
+      "lng": 89.162032
+    },
+    "address": "吐鲁番市高昌区312国道附近",
+    "province": "新疆维吾尔自治区",
+    "city": "吐鲁番市",
+    "area": "高昌区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "8ab0dfc4387b8f14d8ecedd1",
+    "cover": "https://poi-pic.cdn.bcebos.com/6b4cf635fb15280180529d426e861d21.jpg",
+    "photo_list": [
+      "https://poi-pic.cdn.bcebos.com/6b4cf635fb15280180529d426e861d21.jpg"
+    ]
+  },
+  {
+    "name": "吐鲁番电瓶修复总店",
+    "location": {
+      "lat": 42.954677,
+      "lng": 89.126188
+    },
+    "address": "新疆维吾尔自治区吐鲁番市高昌区亚尔镇塔格托维村3组",
+    "province": "新疆维吾尔自治区",
+    "city": "吐鲁番市",
+    "area": "高昌区",
+    "telephone": "18094869468,18149957005",
+    "detail": 1,
+    "uid": "924020765d314737eedfcaa0",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B63ebe1c0a9dca12daa.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B63ebe1c0a9dca12daa.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B63ebe1c09901c8800.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/aaaca1b0f01b92793518b8990d8aa4b8_9836.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/ae66dd5ebadb2ee965756bc1d4650b2f_2884.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/6b484f648e548e2e83b400e9ab1c1629_2835.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/0294d293ef11187cbc801f9cc82e37cb_1922.jpeg"
+    ]
+  },
+  {
+    "name": "佳通轮胎(七克台店)",
+    "location": {
+      "lat": 43.042124,
+      "lng": 90.725671
+    },
+    "address": "新疆维吾尔自治区吐鲁番市鄯善县七克台南湖木垒出口石化加油站斜对面补胎换胎道路救援修补大小车真空轮胎批发零售流动补胎",
+    "province": "新疆维吾尔自治区",
+    "city": "吐鲁番市",
+    "area": "鄯善县",
+    "telephone": "13999698204",
+    "detail": 1,
+    "uid": "48489f7ca2aaf26c5af6bec1",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B62957d1fb92d510e4e.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B62957d1fb92d510e4e.jpeg"
+    ]
+  },
+  {
+    "name": "鄯善县银盾保安服务有限责任公司(保安器材销售分公司)",
+    "location": {
+      "lat": 42.892924,
+      "lng": 90.224107
+    },
+    "address": "新疆维吾尔自治区吐鲁番市鄯善县新城路858号",
+    "province": "新疆维吾尔自治区",
+    "city": "吐鲁番市",
+    "area": "鄯善县",
+    "telephone": "(0995)8396219",
+    "detail": 1,
+    "uid": "62be9810894312cb82288a67",
+    "cover": "https://taojin-his.cdn.bcebos.com/0d338744ebf81a4cdb3a659ad12a6059252da65d.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/0d338744ebf81a4cdb3a659ad12a6059252da65d.jpg"
+    ]
+  },
+  {
+    "name": "滴滴出行(吐鲁番市戎泰店)",
+    "location": {
+      "lat": 42.949402,
+      "lng": 89.166488
+    },
+    "address": "新疆维吾尔自治区吐鲁番市高昌区",
+    "province": "新疆维吾尔自治区",
+    "city": "吐鲁番市",
+    "area": "高昌区",
+    "telephone": "17690919505",
+    "detail": 1,
+    "uid": "49d6dab0db7b27ddd3ff23c0",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/1ad2d8a9366da34cb4ba76e7ba035a5e_7229.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/1ad2d8a9366da34cb4ba76e7ba035a5e_7229.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/757278c1e1da47f9878dc09d5dadfd34_5823.jpeg"
+    ]
+  }
+]

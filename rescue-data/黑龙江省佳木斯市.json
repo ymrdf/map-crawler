@@ -1,0 +1,125 @@
+[
+  {
+    "name": "补胎救援",
+    "location": {
+      "lat": 46.809082,
+      "lng": 130.297424
+    },
+    "address": "佳木斯市郊区松桦街嘉禾西城北侧约60米",
+    "province": "黑龙江省",
+    "city": "佳木斯市",
+    "area": "郊区",
+    "telephone": "15590905228,18545044447",
+    "detail": 1,
+    "uid": "0711f262f04d4a407dc8762d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_de9d039b1d14802de5f79df7c80163de.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_de9d039b1d14802de5f79df7c80163de.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7b9d5c7d20986a13c77fa0c66d128f7a.jpeg"
+    ]
+  },
+  {
+    "name": "远望汽车救援公司",
+    "location": {
+      "lat": 47.260578,
+      "lng": 132.062424
+    },
+    "address": "黑龙江省佳木斯市富锦市中央大街东段四建公司东院",
+    "province": "黑龙江省",
+    "city": "佳木斯市",
+    "area": "富锦市",
+    "telephone": "15764544444,18946444444",
+    "detail": 1,
+    "uid": "5287b12a9e36322dc8213dbb",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_9ee9da5e120858a759963a2f29c3478d.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9ee9da5e120858a759963a2f29c3478d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_475a0a02cc14f25024a33c353a81d9a4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_471c4687f0d37f0cac1876b2baaee888.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6246bd843cf7f1eaa8e0e147ba61d0dc.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B665004b4d529d1125c.jpeg"
+    ]
+  },
+  {
+    "name": "兄弟汽车救援中心",
+    "location": {
+      "lat": 46.830788,
+      "lng": 130.32648
+    },
+    "address": "黑龙江省佳木斯市向阳区江南村63栋",
+    "province": "黑龙江省",
+    "city": "佳木斯市",
+    "area": "向阳区",
+    "telephone": "(0454)5665678,18104547890",
+    "detail": 1,
+    "uid": "f18d82e1d90c3a8949fd3f8b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_7bf699d154f3af77eb8f175972154053.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7bf699d154f3af77eb8f175972154053.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9fd42f461f6d6208ed9c2d1acd1ea41e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1f14d982ffbfc68e093f09a48d0abfda.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6018d8ce00134359171b2cbb8bae281e.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3bc1b16b5c1f0ebe9f671ad96a51e6cd.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_29e1276c321d1a80266e936e342ffd54.jpeg"
+    ]
+  },
+  {
+    "name": "鸿锋汽车救援",
+    "location": {
+      "lat": 46.792757,
+      "lng": 130.302271
+    },
+    "address": "黑龙江省佳木斯市郊区松桦街",
+    "province": "黑龙江省",
+    "city": "佳木斯市",
+    "area": "郊区",
+    "telephone": "(0454)5663666,18445414777",
+    "detail": 1,
+    "uid": "75198a07c568494ee6073830",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_b56182b5072fdedafdd8dae196f16198.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b56182b5072fdedafdd8dae196f16198.jpeg"
+    ]
+  },
+  {
+    "name": "辉腾道路救援",
+    "location": {
+      "lat": 46.255289,
+      "lng": 130.574925
+    },
+    "address": "黑龙江省佳木斯市桦南县前进路22号",
+    "province": "黑龙江省",
+    "city": "佳木斯市",
+    "area": "桦南县",
+    "telephone": "13019763366",
+    "detail": 1,
+    "uid": "448937f743583ade9e9d6830",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_b03d945987abfc3a84f55e91133e17bb.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b03d945987abfc3a84f55e91133e17bb.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B639e993d3613212909.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B639e993d194886b2b.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B639e993d1464b5cee.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B639e993d1e8bde35c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_71c08bb4d5104319285c360bb030c687.jpeg"
+    ]
+  },
+  {
+    "name": "平安应急救援队",
+    "location": {
+      "lat": 46.792586,
+      "lng": 130.350924
+    },
+    "address": "佳木斯市向阳区万粮街三江国际商贸城",
+    "province": "黑龙江省",
+    "city": "佳木斯市",
+    "area": "向阳区",
+    "detail": 1,
+    "uid": "300f7b8f6e0b20937369d3e0",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_25631cfb8c3222eb2790451558a7f14b.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_25631cfb8c3222eb2790451558a7f14b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9294d2875cfb8997e9867a9d26d68953.jpeg"
+    ]
+  }
+]

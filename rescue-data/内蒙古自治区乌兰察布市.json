@@ -1,0 +1,135 @@
+[
+  {
+    "name": "久通救援",
+    "location": {
+      "lat": 40.948262,
+      "lng": 113.122659
+    },
+    "address": "内蒙古自治区乌兰察布市察哈尔右翼前旗钧杰汽车主题广场b区58号",
+    "province": "内蒙古自治区",
+    "city": "乌兰察布市",
+    "area": "察哈尔右翼前旗",
+    "detail": 1,
+    "uid": "c34764b362ebda6d0869d975",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a4457fc606834a40965cfc157972c3a7.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a4457fc606834a40965cfc157972c3a7.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_37533818e8bc6fc2e1edcb928c88fc2a.jpeg"
+    ]
+  },
+  {
+    "name": "道路救援",
+    "location": {
+      "lat": 41.569073,
+      "lng": 113.575606
+    },
+    "address": "乌兰察布市商都县七台北街天福佳苑小区(A区)东南侧约50米",
+    "province": "内蒙古自治区",
+    "city": "乌兰察布市",
+    "area": "商都县",
+    "telephone": "15247433397",
+    "detail": 1,
+    "uid": "e4c0d7ac2a1ed8245d0d0213",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_8354cc6a10dcd204e1d18ecab3ee5214.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8354cc6a10dcd204e1d18ecab3ee5214.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_788b423b240fb200c27fb621e8573456.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B65f40ca55f1c916594.jpeg"
+    ]
+  },
+  {
+    "name": "捷顺救援维修服务部",
+    "location": {
+      "lat": 41.136505,
+      "lng": 113.191436
+    },
+    "address": "内蒙古自治区乌兰察布市集宁区G55(二广高速)",
+    "province": "内蒙古自治区",
+    "city": "乌兰察布市",
+    "area": "集宁区",
+    "detail": 1,
+    "uid": "fb6977b4c6a699eb51e5c5dd",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a003c6fe21d1101463977ed759812ba3.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a003c6fe21d1101463977ed759812ba3.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B60e5129156ecfe3cf.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b3f1cf49f63b1007250e31b6cd07a9d2.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_999e61168d89cdc324c55d2374707446.jpg"
+    ]
+  },
+  {
+    "name": "内蒙古中杰牵引汽车救援服务有限责任公司",
+    "location": {
+      "lat": 41.019897,
+      "lng": 113.157479
+    },
+    "address": "内蒙古自治区乌兰察布市集宁区星光工业园区友谊路南侧集宁彩印包装有限公司院内",
+    "province": "内蒙古自治区",
+    "city": "乌兰察布市",
+    "area": "集宁区",
+    "telephone": "13734881874",
+    "detail": 1,
+    "uid": "92090f050464c17a09ccdd5e",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B62909a5fce60cd10f.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B62909a5fce60cd10f.jpeg"
+    ]
+  },
+  {
+    "name": "万通进口国产维修中心",
+    "location": {
+      "lat": 40.433022,
+      "lng": 113.156622
+    },
+    "address": "乌兰察布市丰镇市电厂路中国石化(新华路加油站)西南侧约60米",
+    "province": "内蒙古自治区",
+    "city": "乌兰察布市",
+    "area": "丰镇市",
+    "telephone": "15049992131",
+    "detail": 1,
+    "uid": "09181a62da997676adcb664f",
+    "cover": "https://taojin-his.cdn.bcebos.com/838ba61ea8d3fd1f5e871a9e374e251f94ca5f83.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/838ba61ea8d3fd1f5e871a9e374e251f94ca5f83.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6c807051c6a4f29143e7b199446b6544.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_96ca17e067963aed7ce34af9df7f7c16.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cb56ccde69457bd7fd1724735f206bb1.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8654c2a33312bbb2323f54d10127554f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_502b0c26ba36f7c3bf77ef03d742ab79.jpeg"
+    ]
+  },
+  {
+    "name": "商都县消防救援大队",
+    "location": {
+      "lat": 41.543787,
+      "lng": 113.586099
+    },
+    "address": "内蒙古自治区乌兰察布市商都县",
+    "province": "内蒙古自治区",
+    "city": "乌兰察布市",
+    "area": "商都县",
+    "detail": 1,
+    "uid": "bb90447ee289a11e130daaf3",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_60828d7d290a27fbe6a7cc4486c66653.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_60828d7d290a27fbe6a7cc4486c66653.jpeg"
+    ]
+  },
+  {
+    "name": "凉城县消防救援大队",
+    "location": {
+      "lat": 40.54592,
+      "lng": 112.513229
+    },
+    "address": "内蒙古自治区乌兰察布市凉城县X560",
+    "province": "内蒙古自治区",
+    "city": "乌兰察布市",
+    "area": "凉城县",
+    "detail": 1,
+    "uid": "a41da82bfc368ad025e0a04a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_0a7b5511e649fa9fd329740efeb1235b.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0a7b5511e649fa9fd329740efeb1235b.jpeg"
+    ]
+  }
+]

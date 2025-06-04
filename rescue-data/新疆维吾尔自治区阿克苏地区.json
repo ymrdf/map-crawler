@@ -1,0 +1,19 @@
+[
+  {
+    "name": "阿克苏市双拥路消防救援站",
+    "location": {
+      "lat": 41.18983,
+      "lng": 80.261688
+    },
+    "address": "新疆维吾尔自治区阿克苏地区阿克苏市民主北路与兴业街交叉口东北侧约380米",
+    "province": "新疆维吾尔自治区",
+    "city": "阿克苏地区",
+    "area": "阿克苏市",
+    "detail": 1,
+    "uid": "eb1b2bf87da49ff6e9f85318",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ecbaac08abd55ec1cf02b5b8d199f339.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ecbaac08abd55ec1cf02b5b8d199f339.jpeg"
+    ]
+  }
+]

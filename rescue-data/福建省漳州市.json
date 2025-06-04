@@ -1,0 +1,153 @@
+[
+  {
+    "name": "鼎顺救援",
+    "location": {
+      "lat": 24.529082,
+      "lng": 117.697466
+    },
+    "address": "福建省漳州市龙文区九龙大道明兴二手车旁",
+    "province": "福建省",
+    "city": "漳州市",
+    "area": "龙文区",
+    "detail": 1,
+    "uid": "a8b25c6e0e23147976e5b64f",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B6627dae6630c518413.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B6627dae6630c518413.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6627dae660924a624.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B605c4da4daed9d29e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_26ea40e1e53c853235fd7ad393593384.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8b09e3be84abcbc2954fd47588bf2a2d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_20e0b226173d9130f77e1afdb236c8a3.jpeg"
+    ]
+  },
+  {
+    "name": "曙光救援",
+    "location": {
+      "lat": 24.503477,
+      "lng": 117.892583
+    },
+    "address": "福建省漳州市龙海区台商投资区角美镇石美村北门路口622号",
+    "province": "福建省",
+    "city": "漳州市",
+    "area": "龙海区",
+    "telephone": "(0596)6769995",
+    "detail": 1,
+    "uid": "1e8a39e3cf9d44ccb23c81bf",
+    "cover": "https://pic-map.cdn.bcebos.com/img/3803663e6e01cc29a65ef6ea69188e5d",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/3803663e6e01cc29a65ef6ea69188e5d"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 24.508107,
+      "lng": 117.659311
+    },
+    "address": "漳州市芗城区博爱西道江景花园-西区西侧约90米",
+    "province": "福建省",
+    "city": "漳州市",
+    "area": "芗城区",
+    "street_id": "c3d22ddc169654f12ce67b61",
+    "detail": 1,
+    "uid": "c3d22ddc169654f12ce67b61",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_f963084e56ca79dbae78dbf8eeea5932.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=c3d22ddc169654f12ce67b61&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3899c40d700df869831559b8742212d6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1cea1d99101d58bfb330d5c40e201728.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6ec2b11c47f0e013b085e7afc0b9c571.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_024866e4be4e2bfe465a134c1fc0432d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4f8dd8851dcfbc594bfe206125715944.jpeg"
+    ]
+  },
+  {
+    "name": "漳州辰鑫道路救援拖车",
+    "location": {
+      "lat": 24.532823,
+      "lng": 117.723964
+    },
+    "address": "福建省漳州市龙文区龙文北路97号",
+    "province": "福建省",
+    "city": "漳州市",
+    "area": "龙文区",
+    "telephone": "18950174038",
+    "detail": 1,
+    "uid": "95437c2c4ca7cda671210b63",
+    "cover": "https://pic-map.cdn.bcebos.com/img/048cd235ab0e017f52c7a4117429c997",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/048cd235ab0e017f52c7a4117429c997"
+    ]
+  },
+  {
+    "name": "雅驰救援",
+    "location": {
+      "lat": 24.522492,
+      "lng": 117.918225
+    },
+    "address": "福建省漳州市龙海区S201(角海路)",
+    "province": "福建省",
+    "city": "漳州市",
+    "area": "龙海区",
+    "street_id": "da4a6c3d0f870d7300ff2de1",
+    "detail": 1,
+    "uid": "da4a6c3d0f870d7300ff2de1",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ce8f38b5f902d6c1597ab2122a497ddb.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=da4a6c3d0f870d7300ff2de1&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_26b03297966dca020a09ddcb72cc351b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_be873c323ef940ae31c3774262d8d6b0.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e68bd460712fb0b3945c05e7843f8e68.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bb4755a70cb4dd9b0009faa684d6a58e.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/c6b5d8df5938cb6d46706166543792c9_7199.jpeg"
+    ]
+  },
+  {
+    "name": "漳州胜景汽车拖车有限公司",
+    "location": {
+      "lat": 24.51481,
+      "lng": 117.686439
+    },
+    "address": "福建省漳州市龙文区南昌东路浦东批发市场4栋",
+    "province": "福建省",
+    "city": "漳州市",
+    "area": "龙文区",
+    "street_id": "f20a02cfced86274faf0cbc1",
+    "telephone": "18659686987",
+    "detail": 1,
+    "uid": "f20a02cfced86274faf0cbc1",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_93d5895434c32301b619b9b15e5ed678.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=f20a02cfced86274faf0cbc1&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_02bc9a2dda2f6720e58664d348b587c7.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2e3b2a4832de7013d3ed601bd740439b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d8fe45c32c0761ffff8e6459cedbe278.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_83c70a391d100c83786e96100cf418a1.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_90f8bc49beefbda6df96f344d38ca7d0.jpg"
+    ]
+  },
+  {
+    "name": "龙海蓝天救援队",
+    "location": {
+      "lat": 24.45266,
+      "lng": 117.829987
+    },
+    "address": "福建省漳州市龙海区锦江道66号",
+    "province": "福建省",
+    "city": "漳州市",
+    "area": "龙海区",
+    "street_id": "488f82c5ffe5a11a14948ee2",
+    "detail": 1,
+    "uid": "488f82c5ffe5a11a14948ee2",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_2b69e32d3d8558d8d58552285aa152ed.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=488f82c5ffe5a11a14948ee2&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e327a74bce4591879d10ec4702f2bdf4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c19e69a6d1cc124899837dfb4aafe050.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3d7b9d3947e041fbdb68501b56f820e5.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e12864d700fee8febc3d1d375c029711.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bd3b1f6c6ccdd05ed68638b8de6a6beb.jpeg"
+    ]
+  }
+]

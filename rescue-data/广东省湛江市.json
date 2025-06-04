@@ -1,0 +1,151 @@
+[
+  {
+    "name": "高山救援",
+    "location": {
+      "lat": 21.623559,
+      "lng": 110.066757
+    },
+    "address": "广东省湛江市廉江市雅塘镇高山下村委樟木桐中路东面",
+    "province": "广东省",
+    "city": "湛江市",
+    "area": "廉江市",
+    "telephone": "19107594041",
+    "detail": 1,
+    "uid": "ec7b0cb0e07422156268584c",
+    "cover": "https://pic-map.cdn.bcebos.com/img/79e91d4152a9c1ef52c769c53a5c3d83",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/79e91d4152a9c1ef52c769c53a5c3d83"
+    ]
+  },
+  {
+    "name": "湛江天柱救援队",
+    "location": {
+      "lat": 21.447628,
+      "lng": 110.794892
+    },
+    "address": "广东省湛江市吴川市德邦物流(东风路店)东100米",
+    "province": "广东省",
+    "city": "湛江市",
+    "area": "吴川市",
+    "detail": 1,
+    "uid": "954f82c9455761c5d13ce320",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_8318d9814da12eaaf75606c6b03fff01.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8318d9814da12eaaf75606c6b03fff01.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 21.215027,
+      "lng": 110.391399
+    },
+    "address": "湛江市霞山区椹川西五路中油BP(湛江新村加油站)西北侧约160米",
+    "province": "广东省",
+    "city": "湛江市",
+    "area": "霞山区",
+    "street_id": "0731e22c7d011c5c8e7727dd",
+    "detail": 1,
+    "uid": "0731e22c7d011c5c8e7727dd",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_8e7211682e85c32704561ac5db635c96.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=0731e22c7d011c5c8e7727dd&width=720&height=360&quality=80&fovx=120",
+      "https://lbsugc.cdn.bcebos.com/images/B668e6f1bdd73d17ebb.jpeg"
+    ]
+  },
+  {
+    "name": "湛江市消防救援支队",
+    "location": {
+      "lat": 21.240809,
+      "lng": 110.398369
+    },
+    "address": "广东省湛江市经济技术开发区人民大道中58号",
+    "province": "广东省",
+    "city": "湛江市",
+    "area": "霞山区",
+    "street_id": "",
+    "telephone": "(0759)3188388",
+    "detail": 1,
+    "uid": "722e486750ade4d225d2bbae",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_2b44f677570964497bbdef8b03203fed.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2b44f677570964497bbdef8b03203fed.jpeg"
+    ]
+  },
+  {
+    "name": "湛江市赤坎区沙湾消防救援站",
+    "location": {
+      "lat": 21.286088,
+      "lng": 110.386728
+    },
+    "address": "广东省湛江市赤坎区广田路6号",
+    "province": "广东省",
+    "city": "湛江市",
+    "area": "赤坎区",
+    "street_id": "4ae2652bd7b8430a5e0d0265",
+    "detail": 1,
+    "uid": "4ae2652bd7b8430a5e0d0265",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_73bf9c6534847189052d08658a06e9ba.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=4ae2652bd7b8430a5e0d0265&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1df6988f04c6c70a8851beea22ee08d8.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5da9507b442fa6d5d8060b25451540ab.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6c56db76b8a6decb3a8ec0d6316fe205.jpeg"
+    ]
+  },
+  {
+    "name": "硇洲镇消防救援站",
+    "location": {
+      "lat": 20.899064,
+      "lng": 110.568423
+    },
+    "address": "湛江市麻章区新华街湛江市硇洲中心小学东南侧约270米",
+    "province": "广东省",
+    "city": "湛江市",
+    "area": "麻章区",
+    "detail": 1,
+    "uid": "a54c7b352828c3af84154193",
+    "cover": "https://pic-map.cdn.bcebos.com/img/35ecb4bc379d9fed72c54cf53369a0da",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/35ecb4bc379d9fed72c54cf53369a0da"
+    ]
+  },
+  {
+    "name": "吴川市消防救援大队",
+    "location": {
+      "lat": 21.431951,
+      "lng": 110.785422
+    },
+    "address": "广东省湛江市吴川解放路134号",
+    "province": "广东省",
+    "city": "湛江市",
+    "area": "吴川市",
+    "street_id": "",
+    "detail": 1,
+    "uid": "fd959bf87f3111d6455726b9",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_880924c53be13c716673bcac1295bc0e.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_880924c53be13c716673bcac1295bc0e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0924cfd08a6aca0f6f72c09ab81eac5d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0f1987b711422d07bddec06eab2571c5.jpeg"
+    ]
+  },
+  {
+    "name": "湛江市麻章区金川路消防救援站",
+    "location": {
+      "lat": 21.276593,
+      "lng": 110.313179
+    },
+    "address": "广东省湛江市麻章区金川路100号",
+    "province": "广东省",
+    "city": "湛江市",
+    "area": "麻章区",
+    "telephone": "(0759)3303119",
+    "detail": 1,
+    "uid": "a0447b47e87d6a65d72ce2a1",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_9f2f132190ab06b2241c3f6ce93a16c5.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9f2f132190ab06b2241c3f6ce93a16c5.jpeg"
+    ]
+  }
+]

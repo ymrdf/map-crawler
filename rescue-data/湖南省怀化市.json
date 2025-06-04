@@ -1,0 +1,19 @@
+[
+  {
+    "name": "沅陵县消防救援大队",
+    "location": {
+      "lat": 28.467673,
+      "lng": 110.415347
+    },
+    "address": "怀化市沅陵县鸭子尾路中国石化加油站(沅陵县江北站)东北侧约200米",
+    "province": "湖南省",
+    "city": "怀化市",
+    "area": "沅陵县",
+    "detail": 1,
+    "uid": "5d4d4f6bad860184ae0457b2",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B67bbfd3c95daf8bea.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B67bbfd3c95daf8bea.jpeg"
+    ]
+  }
+]

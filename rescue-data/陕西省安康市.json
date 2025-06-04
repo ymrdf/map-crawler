@@ -1,0 +1,150 @@
+[
+  {
+    "name": "紫阳县诚信汽车修理厂道路救援",
+    "location": {
+      "lat": 32.601518,
+      "lng": 108.635711
+    },
+    "address": "陕西省安康市紫阳县S310",
+    "province": "陕西省",
+    "city": "安康市",
+    "area": "紫阳县",
+    "telephone": "(0915)4766600,17772959009",
+    "detail": 1,
+    "uid": "872852b80d114ded8bfc062d",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/f143189d0b058553ffe75ec89fdbdeb9_6690.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/f143189d0b058553ffe75ec89fdbdeb9_6690.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/f03634f885a17f7ea2a6ce45c4b9403d_6523.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/6e08c5e5a7b44f4ce43c9501235e62c2_1098.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/29ed597282c1ec73e17a6199060fec0b_1811.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/30138583fba8547c40eb606eb9156a20_0343.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/02aa6813ca991e331cab7ab1a3a3efea_0014.jpeg"
+    ]
+  },
+  {
+    "name": "汉滨区应急救援大队",
+    "location": {
+      "lat": 32.700792,
+      "lng": 109.029073
+    },
+    "address": "安康市汉滨区西大街安康爱客森酒店东侧约60米",
+    "province": "陕西省",
+    "city": "安康市",
+    "area": "汉滨区",
+    "detail": 1,
+    "uid": "d4d9c11356665671b020a89e",
+    "cover": "https://taojin-his.cdn.bcebos.com/29381f30e924b89900782a5863061d950a7bf60e.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/29381f30e924b89900782a5863061d950a7bf60e.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9d51a14ccc60da2d7e228174569c7e18.jpg"
+    ]
+  },
+  {
+    "name": "安康市汉滨区西大街消防救援站",
+    "location": {
+      "lat": 32.700754,
+      "lng": 109.029052
+    },
+    "address": "安康市汉滨区西大街安康爱客森酒店东侧约70米",
+    "province": "陕西省",
+    "city": "安康市",
+    "area": "汉滨区",
+    "detail": 1,
+    "uid": "a8a1ec6804e0070072455bef",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_9d51a14ccc60da2d7e228174569c7e18.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9d51a14ccc60da2d7e228174569c7e18.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_67bf4df74748280554509e7bb88091eb.jpg"
+    ]
+  },
+  {
+    "name": "白河县消防救援大队",
+    "location": {
+      "lat": 32.805466,
+      "lng": 110.103295
+    },
+    "address": "陕西省安康市白河县城关镇白界路东北侧",
+    "province": "陕西省",
+    "city": "安康市",
+    "area": "白河县",
+    "detail": 1,
+    "uid": "8050dc2cdcf67a4e62685846",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_09429940a30da21586121531d4555f3e.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_09429940a30da21586121531d4555f3e.jpeg"
+    ]
+  },
+  {
+    "name": "白河县事故车救援中心",
+    "location": {
+      "lat": 32.803437,
+      "lng": 110.103718
+    },
+    "address": "安康市白河县",
+    "province": "陕西省",
+    "city": "安康市",
+    "area": "白河县",
+    "telephone": "(0915)7828000,13679151789",
+    "detail": 1,
+    "uid": "034cdb05dc302f24400245c0",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_5ce8ff0bda11cf89fa90868561ef35bb.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5ce8ff0bda11cf89fa90868561ef35bb.jpeg"
+    ]
+  },
+  {
+    "name": "安康市汉阴县消防救援大队",
+    "location": {
+      "lat": 32.904684,
+      "lng": 108.510225
+    },
+    "address": "安康市汉阴县北城街御景龙城西侧约30米",
+    "province": "陕西省",
+    "city": "安康市",
+    "area": "汉阴县",
+    "street_id": "ca3464ca5cbd6db3f02d834e",
+    "detail": 1,
+    "uid": "ca3464ca5cbd6db3f02d834e",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_9b604b3d984ae2aeeabb2d8de086ff8d.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=ca3464ca5cbd6db3f02d834e&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "石泉县消防救援大队",
+    "location": {
+      "lat": 33.045538,
+      "lng": 108.263173
+    },
+    "address": "安康市石泉县北环路中段红花广场西侧约130米",
+    "province": "陕西省",
+    "city": "安康市",
+    "area": "石泉县",
+    "street_id": "",
+    "detail": 1,
+    "uid": "09858388adf132d949fc8d71",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_b7e235025ea10e991c3187582c9da919.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b7e235025ea10e991c3187582c9da919.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_32d14c28c0d73e1e3c1ceae48950619a.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 31.89536,
+      "lng": 109.531679
+    },
+    "address": "安康市镇坪县国心北路镇坪汽车站",
+    "province": "陕西省",
+    "city": "安康市",
+    "area": "镇坪县",
+    "detail": 1,
+    "uid": "21a838b3acd16f41354aae0d",
+    "cover": "https://pic-map.cdn.bcebos.com/img/d35b4d3fd59c82afe8c0d9af1fb165e0",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/d35b4d3fd59c82afe8c0d9af1fb165e0"
+    ]
+  }
+]

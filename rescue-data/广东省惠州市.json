@@ -1,0 +1,140 @@
+[
+  {
+    "name": "俊达救援",
+    "location": {
+      "lat": 23.170818,
+      "lng": 113.942524
+    },
+    "address": "广东省惠州市博罗县石湾镇铁场村将军路西侧久大厂对面",
+    "province": "广东省",
+    "city": "惠州市",
+    "area": "博罗县",
+    "street_id": "ca15e819d3376d8fb54f5429",
+    "telephone": "15767364860,18942097999",
+    "detail": 1,
+    "uid": "ca15e819d3376d8fb54f5429",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_0d740f7bd011552ed76dc7b6bc92e491.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=ca15e819d3376d8fb54f5429&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8b983db3cfc13d28cf69f45aa7c4230e.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0ab5b4fc7978f217611bd3a56100b8b2.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B60e92ce4b0bdb174bb.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_58b435c146fe9a6fe1a32302ec980cb7.jpeg"
+    ]
+  },
+  {
+    "name": "越野救援大队",
+    "location": {
+      "lat": 22.819149,
+      "lng": 114.467146
+    },
+    "address": "惠州市惠阳区荔兴路嘉兴苑",
+    "province": "广东省",
+    "city": "惠州市",
+    "area": "惠阳区",
+    "detail": 1,
+    "uid": "2a573082b3a664720782c26c",
+    "cover": "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_e16e146e97ed92beaa1cfa8b44776b2c.jpg",
+    "photo_list": [
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_e16e146e97ed92beaa1cfa8b44776b2c.jpg"
+    ]
+  },
+  {
+    "name": "路援通拖车救援(惠州)有限公司",
+    "location": {
+      "lat": 23.131683,
+      "lng": 114.438893
+    },
+    "address": "广东省惠州市惠城区新兴一路205号",
+    "province": "广东省",
+    "city": "惠州市",
+    "area": "惠城区",
+    "telephone": "13829950774,18318928041",
+    "detail": 1,
+    "uid": "d7725c2aebbffc5f3f9a5e63",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B64da71572fe6a12bf5.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B64da71572fe6a12bf5.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B64da715715e8416360.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B61af1d38cd5b54b9a.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6159374a044f3181cd.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1dbe6367385a40c2ccf6246a6066839a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6e33ae38d4c9fdc56acfa13c94b7d694.jpeg"
+    ]
+  },
+  {
+    "name": "东平消防救援站",
+    "location": {
+      "lat": 23.090314,
+      "lng": 114.436825
+    },
+    "address": "广东省惠州市惠城区东湖北路西门-1号",
+    "province": "广东省",
+    "city": "惠州市",
+    "area": "惠城区",
+    "detail": 1,
+    "uid": "5e585308485117c39c09f7a2",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ba6f3f29d8f9ad685c350e39df732d2f.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ba6f3f29d8f9ad685c350e39df732d2f.jpeg"
+    ]
+  },
+  {
+    "name": "博罗县罗浮山消防救援站",
+    "location": {
+      "lat": 23.205298,
+      "lng": 114.062288
+    },
+    "address": "广东省惠州市博罗县罗浮山消防中队(G324南)",
+    "province": "广东省",
+    "city": "惠州市",
+    "area": "博罗县",
+    "detail": 1,
+    "uid": "ec911974a7a56aff0bccddcc",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B615a6c09cbb71159d1.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B615a6c09cbb71159d1.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_91fd9f65479faf8833a09539b5a42724.jpeg"
+    ]
+  },
+  {
+    "name": "惠州市惠阳区淡水消防救援站",
+    "location": {
+      "lat": 22.812662,
+      "lng": 114.458213
+    },
+    "address": "广东省惠州市惠阳区泗水路金城苑",
+    "province": "广东省",
+    "city": "惠州市",
+    "area": "惠阳区",
+    "detail": 1,
+    "uid": "8252351308e3ea46e81e97b8",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_2f0c168a2f577adf32ebf33c715a06b7.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2f0c168a2f577adf32ebf33c715a06b7.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_3d7e064b4cf110730af0c880c019471d.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_14fe1d212f61de0035101912e65b6f2d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1a04c65ec6d993c7a301574eb9a52b0a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_abe67c8369831f9c69f2869fdb9c52d8.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c253edfacbd545c5460b873d5c3b7a29.jpeg"
+    ]
+  },
+  {
+    "name": "永湖消防救援站",
+    "location": {
+      "lat": 22.985838,
+      "lng": 114.510586
+    },
+    "address": "广东省惠州市惠阳区福地村",
+    "province": "广东省",
+    "city": "惠州市",
+    "area": "惠阳区",
+    "detail": 1,
+    "uid": "4cb030399ada54fc067ce802",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B5fc06cb60e0d7cbd8.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B5fc06cb60e0d7cbd8.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_075362cb280e9641c36b826f6349d574.jpeg"
+    ]
+  }
+]

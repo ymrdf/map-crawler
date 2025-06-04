@@ -1,0 +1,99 @@
+[
+  {
+    "name": "方舟救援",
+    "location": {
+      "lat": 36.826214,
+      "lng": 115.724818
+    },
+    "address": "聊城市临清市新兴路万豪·星河湾",
+    "province": "山东省",
+    "city": "聊城市",
+    "area": "临清市",
+    "detail": 1,
+    "uid": "3c177a38b5c9be57ab059d58",
+    "cover": "https://pic-map.cdn.bcebos.com/img/66f83cc210675d8970f5b4a0ecd92c17",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/66f83cc210675d8970f5b4a0ecd92c17"
+    ]
+  },
+  {
+    "name": "冠县道路救援服务中心",
+    "location": {
+      "lat": 36.481102,
+      "lng": 115.494616
+    },
+    "address": "山东省聊城市冠县清泉街道湿地公园东北门对面",
+    "province": "山东省",
+    "city": "聊城市",
+    "area": "冠县",
+    "telephone": "13869525106",
+    "detail": 1,
+    "uid": "12b7d015faaa276356bfffa9",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/0cf2281b92a16366ca0367cc1cf5a75b_2606.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/0cf2281b92a16366ca0367cc1cf5a75b_2606.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/16e08a0aa622822c659be9b31db94e90_1161.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/ea5f491dea9a55264f92274aba943c9b_3786.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/87db90b66b808c1c2fb8d7ae5702ac82_2348.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/047c5d8d4a4b0fd56e17c27296a872b6_1639.jpeg"
+    ]
+  },
+  {
+    "name": "江山救援",
+    "location": {
+      "lat": 36.511755,
+      "lng": 116.02016
+    },
+    "address": "山东省聊城市东昌府区北城街道现代农机国际商城D5南12号临沂市冠泰工程机械有限公司",
+    "province": "山东省",
+    "city": "聊城市",
+    "area": "东昌府区",
+    "telephone": "4001129558",
+    "detail": 1,
+    "uid": "86f2082df243efd7f6c59cf1",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a631600c983ddf866920a8de2a0d8339.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a631600c983ddf866920a8de2a0d8339.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7e652a5152853954883997d8ef6bc136.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c977f9833604b3b8b010a0ad907695f8.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_03dafe438c549d4300cc11d6d6992a55.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_539ff2e695687f60e262709262fe5bd6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_983093b326221a568c5b379844bc677f.jpeg"
+    ]
+  },
+  {
+    "name": "聚源道路救援有限公司",
+    "location": {
+      "lat": 36.267418,
+      "lng": 115.686401
+    },
+    "address": "聊城市莘县鸿图街",
+    "province": "山东省",
+    "city": "聊城市",
+    "area": "莘县",
+    "detail": 1,
+    "uid": "9d6bee1e1cbbbbb4bfa82214",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B6229d1c7c722d11843.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B6229d1c7c722d11843.jpeg"
+    ]
+  },
+  {
+    "name": "特战救援队",
+    "location": {
+      "lat": 36.437731,
+      "lng": 115.986689
+    },
+    "address": "聊城市东昌府区新东方·龙湾在水一方",
+    "province": "山东省",
+    "city": "聊城市",
+    "area": "东昌府区",
+    "detail": 1,
+    "uid": "680989eba467f2932afc4862",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a4e68f6fa472fa3966e9bc854663e718.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a4e68f6fa472fa3966e9bc854663e718.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c1fb5542d13c6ed58701b91f07b30211.jpeg"
+    ]
+  }
+]

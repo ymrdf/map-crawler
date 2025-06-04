@@ -1,0 +1,38 @@
+[
+  {
+    "name": "新疆百安泽顺消防设施检测维护(阿拉尔经销部)",
+    "location": {
+      "lat": 40.554104,
+      "lng": 81.277137
+    },
+    "address": "新疆维吾尔自治区阿拉尔市新井子路421号",
+    "province": "新疆维吾尔自治区",
+    "city": "阿拉尔市",
+    "area": "",
+    "telephone": "18799917427",
+    "detail": 1,
+    "uid": "8acb6e727e74d1e9a1046474",
+    "cover": "https://pic-map.cdn.bcebos.com/img/a7e8184d41ed2ae66d39b5968c53f3a5",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/a7e8184d41ed2ae66d39b5968c53f3a5"
+    ]
+  },
+  {
+    "name": "新疆中国旅行社有限公司阿拉尔市分公司",
+    "location": {
+      "lat": 40.554169,
+      "lng": 81.281389
+    },
+    "address": "新疆维吾尔自治区阿拉尔市金银川路塔里木商贸城左侧B-18号",
+    "province": "新疆维吾尔自治区",
+    "city": "阿拉尔市",
+    "area": "",
+    "telephone": "13999663319",
+    "detail": 1,
+    "uid": "69d9d23ea88ca31681a12ed1",
+    "cover": "https://pic-map.cdn.bcebos.com/img/36d244dfa7c10fd45a8a3d5753e91d67",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/36d244dfa7c10fd45a8a3d5753e91d67"
+    ]
+  }
+]

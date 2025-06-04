@@ -1,0 +1,21 @@
+[
+  {
+    "name": "白山市消防救援支队供水中队",
+    "location": {
+      "lat": 41.959274,
+      "lng": 126.429219
+    },
+    "address": "吉林省白山市浑江区G201(北安大街)",
+    "province": "吉林省",
+    "city": "白山市",
+    "area": "浑江区",
+    "detail": 1,
+    "uid": "aba80d0024ec03ee276e98c2",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B60d50c5d0e3032a49.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B60d50c5d0e3032a49.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B60d50d14224ee782d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9e3506d8441623c65e84550ae92f7240.jpeg"
+    ]
+  }
+]

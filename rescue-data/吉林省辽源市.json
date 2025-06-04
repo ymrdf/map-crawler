@@ -1,0 +1,82 @@
+[
+  {
+    "name": "24小时汽车救援",
+    "location": {
+      "lat": 42.873499,
+      "lng": 125.205821
+    },
+    "address": "辽源市龙山区",
+    "province": "吉林省",
+    "city": "辽源市",
+    "area": "龙山区",
+    "detail": 1,
+    "uid": "ee3aa4352c46d139c4f50ddf",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_26dabfe168ecd63a787f72c2667f1947.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_26dabfe168ecd63a787f72c2667f1947.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4fd27f965bfe1fb804ebd6cbcabc55b0.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8327a639e3a237553bd6092cd297e566.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b1e88b381a22889ec1dbf563fd7769b5.jpeg"
+    ]
+  },
+  {
+    "name": "辽源市森达报废机动车回收有限公司",
+    "location": {
+      "lat": 42.703086,
+      "lng": 125.530255
+    },
+    "address": "吉林省辽源市东丰县东丰镇苗胜村村委会旁",
+    "province": "吉林省",
+    "city": "辽源市",
+    "area": "东丰县",
+    "telephone": "13944161678",
+    "detail": 1,
+    "uid": "57de8e5f641c4303f603b86f",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ef5f5b7317bee7bb3b5afc9c1e01172b.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ef5f5b7317bee7bb3b5afc9c1e01172b.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 42.914039,
+      "lng": 125.154654
+    },
+    "address": "辽源市龙山区人民大街北寿物业小区西北侧约60米",
+    "province": "吉林省",
+    "city": "辽源市",
+    "area": "龙山区",
+    "detail": 1,
+    "uid": "2865431a6e738690a1a934c7",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d15e4149503a9e2a1504d0b882fe9ffb.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d15e4149503a9e2a1504d0b882fe9ffb.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_890331be3f97d226548a641396f3f975.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2d492b0b56b4e27400d0d4a5ed08b9e8.jpeg"
+    ]
+  },
+  {
+    "name": "吉林鑫晟防雷检测有限公司",
+    "location": {
+      "lat": 42.915966,
+      "lng": 125.141901
+    },
+    "address": "吉林省辽源市龙山区和宁街阳光新城b区21号楼105门市",
+    "province": "吉林省",
+    "city": "辽源市",
+    "area": "龙山区",
+    "telephone": "18204370088",
+    "detail": 1,
+    "uid": "a086b93bdeae16a5a8f0cde4",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_2db1e7d8417034a1bceab27c9cc48239.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2db1e7d8417034a1bceab27c9cc48239.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0321fe1753b9fcd2bd1ecf0ddaf79c97.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f3a3da256d04a0ac64d1aea7600a8611.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7c8021e7c06614d427d32f8628281abd.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d1e4c66b838e55dd2cec7bdc5be14d39.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_3ad98432f9d7030bfebdb28cfcc3b57b.jpg"
+    ]
+  }
+]

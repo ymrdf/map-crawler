@@ -1,0 +1,20 @@
+[
+  {
+    "name": "阿克陶县安达出租车有限责任公司",
+    "location": {
+      "lat": 39.156778,
+      "lng": 75.945074
+    },
+    "address": "克孜勒苏柯尔克孜自治州阿克陶县团结北路阿克陶县小胡杨小学西侧",
+    "province": "新疆维吾尔自治区",
+    "city": "克孜勒苏柯尔克孜自治州",
+    "area": "阿克陶县",
+    "telephone": "(0908)5700091",
+    "detail": 1,
+    "uid": "b5a7673e5bfd660dc3364415",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_225e37883b24b6f6e4ee9b7bd559c1c3.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_225e37883b24b6f6e4ee9b7bd559c1c3.jpeg"
+    ]
+  }
+]

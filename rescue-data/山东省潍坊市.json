@@ -1,0 +1,97 @@
+[
+  {
+    "name": "陆安轮胎救援",
+    "location": {
+      "lat": 36.417006,
+      "lng": 119.220565
+    },
+    "address": "山东省潍坊市安丘市永安路与南苑路红绿灯东120米路南",
+    "province": "山东省",
+    "city": "潍坊市",
+    "area": "安丘市",
+    "street_id": "26016ff911bf931b43afe6ca",
+    "telephone": "(0536)4566700,15725666700",
+    "detail": 1,
+    "uid": "26016ff911bf931b43afe6ca",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_2b431eab47b823fd83b0f5ddeb4d388c.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=26016ff911bf931b43afe6ca&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d16939dc94982530401489b7bf22ab9b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f9529958823c566b25e636a4f0d18e81.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_49127167d20bdafe61f642ecf2cc9768.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_a5e3186ede1871f5150dbf84ee6c8257.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_78fefa32cf9c59ca5dec4e209c64f312.jpg"
+    ]
+  },
+  {
+    "name": "保险救援",
+    "location": {
+      "lat": 36.708099,
+      "lng": 119.097031
+    },
+    "address": "潍坊市潍城区健康西街顺通商务大厦",
+    "province": "山东省",
+    "city": "潍坊市",
+    "area": "潍城区",
+    "detail": 1,
+    "uid": "81dae27c78dfc3030d3dda42",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_3602e19226c910783c454ca2412ad5f3.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3602e19226c910783c454ca2412ad5f3.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B672da8d79679f14e02.jpeg"
+    ]
+  },
+  {
+    "name": "临朐聚新道路救援有限公司",
+    "location": {
+      "lat": 36.540845,
+      "lng": 118.66086
+    },
+    "address": "潍坊市临朐县S223与凰山路交叉路口往东约90米",
+    "province": "山东省",
+    "city": "潍坊市",
+    "area": "临朐县",
+    "detail": 1,
+    "uid": "52e268d60439bdcf5e17c3b3",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_e6ae3eb40eb5f30629aa9efe97edb75a.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e6ae3eb40eb5f30629aa9efe97edb75a.jpeg"
+    ]
+  },
+  {
+    "name": "综合救援排办事处",
+    "location": {
+      "lat": 36.668582,
+      "lng": 118.884052
+    },
+    "address": "潍坊市昌乐县",
+    "province": "山东省",
+    "city": "潍坊市",
+    "area": "昌乐县",
+    "detail": 1,
+    "uid": "f658b631121c112dc8fa5fac",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_e5e86a1f6888b034a8e01585b9df1c53.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e5e86a1f6888b034a8e01585b9df1c53.jpg"
+    ]
+  },
+  {
+    "name": "滨海危化救援",
+    "location": {
+      "lat": 37.158197,
+      "lng": 119.089281
+    },
+    "address": "潍坊市寒亭区辽河西二街与临港路交叉路口往东约180米",
+    "province": "山东省",
+    "city": "潍坊市",
+    "area": "寒亭区",
+    "telephone": "(0536)5319119",
+    "detail": 1,
+    "uid": "70e3a55aa786ca37b817e70c",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B602c7f28b5d611745f.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B602c7f28b5d611745f.jpeg",
+      "https://pic-map.cdn.bcebos.com/img/169c181942a5ba7059697c945f693709"
+    ]
+  }
+]

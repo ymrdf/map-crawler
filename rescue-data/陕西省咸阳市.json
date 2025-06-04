@@ -1,0 +1,151 @@
+[
+  {
+    "name": "咸阳九裕顺道路拖车服务有限公司",
+    "location": {
+      "lat": 34.563008,
+      "lng": 108.891615
+    },
+    "address": "陕西省咸阳市泾阳县S208",
+    "province": "陕西省",
+    "city": "咸阳市",
+    "area": "泾阳县",
+    "detail": 1,
+    "uid": "6f53dfae363e001af723109a",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B63954b962703910068.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B63954b962703910068.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B63954b962ab367fc6.jpeg"
+    ]
+  },
+  {
+    "name": "零距离汽车服务有限公司",
+    "location": {
+      "lat": 34.642241,
+      "lng": 108.965529
+    },
+    "address": "咸阳市三原县关中环线三原新阳光果蔬农产品交易市场北门东北侧约80米",
+    "province": "陕西省",
+    "city": "咸阳市",
+    "area": "三原县",
+    "telephone": "15667146447",
+    "detail": 1,
+    "uid": "5514143e84c9b43f43e192f6",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_aef9ea00bb9f847b71b05d3de735adc5.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_aef9ea00bb9f847b71b05d3de735adc5.jpeg"
+    ]
+  },
+  {
+    "name": "安久救援运输公司",
+    "location": {
+      "lat": 35.0287,
+      "lng": 108.111916
+    },
+    "address": "陕西省咸阳市彬州市鸣玉池村村委会西北侧170米",
+    "province": "陕西省",
+    "city": "咸阳市",
+    "area": "彬州市",
+    "detail": 1,
+    "uid": "eefd966f3c9fd134e115f9a9",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_2adfdd39a77287fd586447233fbb9d98.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2adfdd39a77287fd586447233fbb9d98.jpeg"
+    ]
+  },
+  {
+    "name": "特种应急救援",
+    "location": {
+      "lat": 34.320808,
+      "lng": 108.768862
+    },
+    "address": "咸阳市秦都区东二街世纪锦城东南侧约240米",
+    "province": "陕西省",
+    "city": "咸阳市",
+    "area": "秦都区",
+    "detail": 1,
+    "uid": "964b9bb49d402e48047ce89b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_35afadef69b401765bf8a1424a59f25c.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_35afadef69b401765bf8a1424a59f25c.jpeg"
+    ]
+  },
+  {
+    "name": "彬长集团救援中心",
+    "location": {
+      "lat": 35.082713,
+      "lng": 107.972575
+    },
+    "address": "咸阳市长武县312国道东50米",
+    "province": "陕西省",
+    "city": "咸阳市",
+    "area": "长武县",
+    "detail": 1,
+    "uid": "c7d9171852f8fa9f8bf15ddc",
+    "cover": "https://pic-map.cdn.bcebos.com/img/dc8a74cc44f852a9df909bbdafe463a1",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/dc8a74cc44f852a9df909bbdafe463a1"
+    ]
+  },
+  {
+    "name": "咸阳市渭城区消防救援大队",
+    "location": {
+      "lat": 34.37023,
+      "lng": 108.72647
+    },
+    "address": "陕西省咸阳市渭城区文苑路通驰加气站西20米",
+    "province": "陕西省",
+    "city": "咸阳市",
+    "area": "渭城区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "c29a71ec263888ef2cb96deb",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_6586274a7ae0a51a5c679501a863f82f.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6586274a7ae0a51a5c679501a863f82f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_95dbbb030dd2c31c431d405a7e55b980.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 34.269043,
+      "lng": 108.110017
+    },
+    "address": "陕西咸阳市杨陵区东新路5号",
+    "province": "陕西省",
+    "city": "咸阳市",
+    "area": "杨陵区",
+    "street_id": "4488df0fbae87cb6eb12e416",
+    "detail": 1,
+    "uid": "4488df0fbae87cb6eb12e416",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_b5d650783755fcd68f6ea094c304a182.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=4488df0fbae87cb6eb12e416&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_96e1afe7a864f6ba34f925c6d2f261bc.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7809eef3e752c10cc290cb590e8b3c7c.jpeg"
+    ]
+  },
+  {
+    "name": "拖车救援",
+    "location": {
+      "lat": 34.642562,
+      "lng": 108.967241
+    },
+    "address": "陕西省咸阳市三原县环线阳光市场北门东300米路北(双钱轮胎隔壁)",
+    "province": "陕西省",
+    "city": "咸阳市",
+    "area": "三原县",
+    "telephone": "13468514382",
+    "detail": 1,
+    "uid": "47b776a69fa35506861541b9",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/aecf42f29f7fa54fd394edac6f274cfe_6715.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/aecf42f29f7fa54fd394edac6f274cfe_6715.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/08d7a0f09936d75745b635c164541902_0281.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B62db85682b800129d8.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B62db85681129b103ee.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_479dc7608e515eb380dfecd3dc9aee20.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cc10ce32113b4f7c9028d4e6ef07968d.jpeg"
+    ]
+  }
+]

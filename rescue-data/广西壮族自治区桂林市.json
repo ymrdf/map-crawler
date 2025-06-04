@@ -1,0 +1,96 @@
+[
+  {
+    "name": "全州蓝天救援队",
+    "location": {
+      "lat": 25.93264,
+      "lng": 111.071016
+    },
+    "address": "广西壮族自治区桂林市全州县江南路101号",
+    "province": "广西壮族自治区",
+    "city": "桂林市",
+    "area": "全州县",
+    "detail": 1,
+    "uid": "f36b938656873aaa1811d5a7",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_881089f18b118d37e8b4db2cd4f462d5.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_881089f18b118d37e8b4db2cd4f462d5.jpeg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_99b9a36bcaba111824e686becf023b52.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_c171e66ff099bf589555a62f0557edd3.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_10658bd6f9df11dac029ef61a0dffb06.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7fd30fb712b0e06aea6850a19948dc92.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d9276a004ad693e8fb00ed70d559d782.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 25.102477,
+      "lng": 110.265219
+    },
+    "address": "桂林市临桂区",
+    "province": "广西壮族自治区",
+    "city": "桂林市",
+    "area": "临桂区",
+    "detail": 1,
+    "uid": "15178234c5a3e76e1c38947a",
+    "cover": "https://pic-map.cdn.bcebos.com/img/8511b14d295e318e91b4eb29c05e5076",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/8511b14d295e318e91b4eb29c05e5076"
+    ]
+  },
+  {
+    "name": "桂林市叠彩区北门消防救援站",
+    "location": {
+      "lat": 25.299986,
+      "lng": 110.304155
+    },
+    "address": "桂林市叠彩区中山北路观音阁庄园东南侧约70米",
+    "province": "广西壮族自治区",
+    "city": "桂林市",
+    "area": "叠彩区",
+    "detail": 1,
+    "uid": "45330d12119e0b66250bd026",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_8cf0db8ef8dda2e546aae356903eff94.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8cf0db8ef8dda2e546aae356903eff94.jpg"
+    ]
+  },
+  {
+    "name": "广西消防救援",
+    "location": {
+      "lat": 25.3,
+      "lng": 110.304193
+    },
+    "address": "桂林市叠彩区中山北路观音阁庄园东南侧约70米",
+    "province": "广西壮族自治区",
+    "city": "桂林市",
+    "area": "叠彩区",
+    "street_id": "12062c09ef8f69af5a3ac825",
+    "detail": 1,
+    "uid": "12062c09ef8f69af5a3ac825",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_408b6c386f209deef93e0b85229a7a46.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=12062c09ef8f69af5a3ac825&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7df9a8041ff66c5b29b27912329e1833.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8cf0db8ef8dda2e546aae356903eff94.jpg"
+    ]
+  },
+  {
+    "name": "广西消防救援",
+    "location": {
+      "lat": 25.269832,
+      "lng": 110.316706
+    },
+    "address": "桂林市七星区辅星路桂林国际会展中心",
+    "province": "广西壮族自治区",
+    "city": "桂林市",
+    "area": "七星区",
+    "detail": 1,
+    "uid": "83b54f49610da4167af79663",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_8388b8d9bb2f84298572c8b0923313ee.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8388b8d9bb2f84298572c8b0923313ee.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a92a42e561b4830771b4716b2ce6c44b.jpeg"
+    ]
+  }
+]

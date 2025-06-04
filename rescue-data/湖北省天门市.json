@@ -1,0 +1,53 @@
+[
+  {
+    "name": "天门市农机安全应急救援中心",
+    "location": {
+      "lat": 30.672662,
+      "lng": 113.154578
+    },
+    "address": "天门市陆羽大道西西龙小区-幼儿园西北侧约190米",
+    "province": "湖北省",
+    "city": "天门市",
+    "area": "",
+    "detail": 1,
+    "uid": "641134ca4f61e99638e4a6b1",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_3895c537e6a2023052f0eeffe259ff8f.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3895c537e6a2023052f0eeffe259ff8f.jpg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 30.651212,
+      "lng": 113.169491
+    },
+    "address": "湖北省天门市竟陵中街172号",
+    "province": "湖北省",
+    "city": "天门市",
+    "area": "",
+    "detail": 1,
+    "uid": "08ce9737668f43122d473390",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a8c678653ecc78a0afdccb5fb2686fe6.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a8c678653ecc78a0afdccb5fb2686fe6.jpeg"
+    ]
+  },
+  {
+    "name": "天门市渔薪镇消防救援所",
+    "location": {
+      "lat": 30.681271,
+      "lng": 112.997299
+    },
+    "address": "天门市人民大道渔薪镇政府",
+    "province": "湖北省",
+    "city": "天门市",
+    "area": "",
+    "detail": 1,
+    "uid": "b9c490f48da2a1d1715e80aa",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_f312d3741dad9f8b5147b8edd2d8d7d6.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f312d3741dad9f8b5147b8edd2d8d7d6.jpeg"
+    ]
+  }
+]

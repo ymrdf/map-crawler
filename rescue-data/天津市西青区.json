@@ -1,0 +1,108 @@
+[
+  {
+    "name": "天津市救援拖运有限公司",
+    "location": {
+      "lat": 39.045352,
+      "lng": 117.639557
+    },
+    "address": "天津市滨海新区塘黄路翔鹤园西侧约50米",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "滨海新区",
+    "detail": 1,
+    "uid": "4dd8df6233fd0450ad31e553",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_488c0670056dbfb373c65169969440e9.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_488c0670056dbfb373c65169969440e9.jpeg"
+    ]
+  },
+  {
+    "name": "南开区王顶堤消防救援站",
+    "location": {
+      "lat": 39.104299,
+      "lng": 117.137318
+    },
+    "address": "天津市西青区复康路立交桥科馨公寓北侧约140米",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "西青区",
+    "street_id": "4176023f196e7ca6eee4a560",
+    "detail": 1,
+    "uid": "4176023f196e7ca6eee4a560",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_f0838c9a43ad69cb7711584a229b6a95.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=4176023f196e7ca6eee4a560&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "天津市鑫永康捷汽车救援服务有限公司",
+    "location": {
+      "lat": 39.080112,
+      "lng": 117.033343
+    },
+    "address": "家诚里7号楼1601室",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "西青区",
+    "street_id": "",
+    "telephone": "13032227587",
+    "detail": 1,
+    "uid": "60cf43754604b74c26d2bb74",
+    "cover": "https://photo-meituan.cdn.bcebos.com/photo/1739868186e7203a0527dda7652fa827d3e7359428",
+    "photo_list": [
+      "https://photo-meituan.cdn.bcebos.com/photo/1739868186e7203a0527dda7652fa827d3e7359428"
+    ]
+  },
+  {
+    "name": "西青区王稳庄消防救援站",
+    "location": {
+      "lat": 38.894465,
+      "lng": 117.256103
+    },
+    "address": "天津市西青区天源道泰康园西北侧约90米",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "西青区",
+    "detail": 1,
+    "uid": "ef26802f4b3716cc82a12e6d",
+    "cover": "https://pic-map.cdn.bcebos.com/img/dd080c0d4ae640909f4d373fde64d904",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/dd080c0d4ae640909f4d373fde64d904"
+    ]
+  },
+  {
+    "name": "中北消防救援站",
+    "location": {
+      "lat": 39.143925,
+      "lng": 117.07501
+    },
+    "address": "中北镇三星路与阜锦道交口",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "西青区",
+    "detail": 1,
+    "uid": "611d368bfe1dd510d518b779",
+    "cover": "https://pic-map.cdn.bcebos.com/img/62333b6f60dffc5e9cf963bd58d2cd41",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/62333b6f60dffc5e9cf963bd58d2cd41"
+    ]
+  },
+  {
+    "name": "西青区梨园头消防救援站",
+    "location": {
+      "lat": 39.034108,
+      "lng": 117.202849
+    },
+    "address": "天津市西青区山深线与荣乌联络线交叉路口往东北约100米",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "西青区",
+    "detail": 1,
+    "uid": "da807f4f13a2b9913586f460",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_53269db8d2c179f9c801fb402804f43a.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_53269db8d2c179f9c801fb402804f43a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8eb3d1db2d7738a4d246585137ee7d20.jpeg"
+    ]
+  }
+]

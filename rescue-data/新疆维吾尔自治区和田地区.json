@@ -1,0 +1,73 @@
+[
+  {
+    "name": "墨玉县消防救援大队",
+    "location": {
+      "lat": 37.259822,
+      "lng": 79.766718
+    },
+    "address": "新疆维吾尔自治区和田地区墨玉县S326",
+    "province": "新疆维吾尔自治区",
+    "city": "和田地区",
+    "area": "墨玉县",
+    "detail": 1,
+    "uid": "5d7606499ae3450862685845",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B62a41323e72d71341b.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B62a41323e72d71341b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b81110e1ca1d0b28371ba5e82fce35af.jpeg"
+    ]
+  },
+  {
+    "name": "新疆魅力汽车保养服务有限公司",
+    "location": {
+      "lat": 37.261033,
+      "lng": 79.755893
+    },
+    "address": "新疆维吾尔自治区和田地区墨玉县火车站路喀地儿乡第二店",
+    "province": "新疆维吾尔自治区",
+    "city": "和田地区",
+    "area": "墨玉县",
+    "detail": 1,
+    "uid": "0e2016ba8b3db4612cb96da6",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_57819eb2a339d2ceec1ebfba2b17cafe.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_57819eb2a339d2ceec1ebfba2b17cafe.jpeg"
+    ]
+  },
+  {
+    "name": "一顺路润滑油电瓶轮胎服务部",
+    "location": {
+      "lat": 37.112408,
+      "lng": 79.95622
+    },
+    "address": "和田地区和田市夏玛勒巴格路和田东郊客运站东南侧约120米",
+    "province": "新疆维吾尔自治区",
+    "city": "和田地区",
+    "area": "和田市",
+    "detail": 1,
+    "uid": "20c8961c35c1bbff9eec2b51",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_67b607fd02aaafc3058168a81d4d6cac.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_67b607fd02aaafc3058168a81d4d6cac.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6787455a1af0a173cf.jpeg"
+    ]
+  },
+  {
+    "name": "裕顺机动车报废有限公司",
+    "location": {
+      "lat": 37.511264,
+      "lng": 78.362325
+    },
+    "address": "新疆维吾尔自治区和田地区皮山县木奎拉乡",
+    "province": "新疆维吾尔自治区",
+    "city": "和田地区",
+    "area": "皮山县",
+    "telephone": "15199726116",
+    "detail": 1,
+    "uid": "02c0fe8d35f0c445da2f28d4",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_5b83a5fcf520e67f18b61463a87e6278.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5b83a5fcf520e67f18b61463a87e6278.jpeg"
+    ]
+  }
+]

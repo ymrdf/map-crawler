@@ -1,0 +1,116 @@
+[
+  {
+    "name": "乐山市卫生应急救援指挥中心",
+    "location": {
+      "lat": 29.591444,
+      "lng": 103.77537
+    },
+    "address": "乐山市市中区滨江路中段交大嘉合北侧约70米",
+    "province": "四川省",
+    "city": "乐山市",
+    "area": "市中区",
+    "street_id": "b7743695f5b24a358bf15ddd",
+    "detail": 1,
+    "uid": "b7743695f5b24a358bf15ddd",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_f9d10d7d0998ec71153c5ef64eb2288b.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=b7743695f5b24a358bf15ddd&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_32292b565d64e1c39cf4794bb894e646.jpg",
+      "https://poi-pic.cdn.bcebos.com/aaf5bed6625e7da33499a2893820816c.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b4dd86ad890d2a12448ab26247336797.jpg",
+      "https://poi-pic.cdn.bcebos.com/f9d10d7d0998ec71153c5ef64eb2288b.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_97c052973bcabe04403ffa0b66055483.jpeg"
+    ]
+  },
+  {
+    "name": "乐山救援",
+    "location": {
+      "lat": 29.565897,
+      "lng": 103.764871
+    },
+    "address": "乐山市市中区高标巷海棠实验小学西南侧约50米",
+    "province": "四川省",
+    "city": "乐山市",
+    "area": "市中区",
+    "detail": 1,
+    "uid": "fb8a15b894ea78443be4a626",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_32695145de82acac0b73f61b007bda83.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_32695145de82acac0b73f61b007bda83.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_983a56dc5b770bd826f019593ad33a19.jpeg"
+    ]
+  },
+  {
+    "name": "乐山市消防救援支队百禄路消防救援站",
+    "location": {
+      "lat": 29.589786,
+      "lng": 103.770186
+    },
+    "address": "四川省乐山市市中区百禄路346号",
+    "province": "四川省",
+    "city": "乐山市",
+    "area": "市中区",
+    "detail": 1,
+    "uid": "417b10cc479aa668b1077d17",
+    "cover": "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_bb78c31504a07a1ba872ed43fd271575.jpg",
+    "photo_list": [
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_bb78c31504a07a1ba872ed43fd271575.jpg"
+    ]
+  },
+  {
+    "name": "乐山市消防救援支队金顶路消防救援站",
+    "location": {
+      "lat": 29.601658,
+      "lng": 103.494601
+    },
+    "address": "四川省乐山市峨眉山市金顶南路39号",
+    "province": "四川省",
+    "city": "乐山市",
+    "area": "峨眉山市",
+    "detail": 1,
+    "uid": "a0a5510b066bc0c98f1a89bc",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_bdfa8309d6385f32c66d313be12f52c5.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bdfa8309d6385f32c66d313be12f52c5.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_75760e64831aa1fb0075e52b09d6f875.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_8e84fe840a9e8017d41c45c9284bb1d1.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cd5bdc09e132f9006aaa4f6bfc33143b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_24bf353685f02385f52990745fa5dd41.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4cc74d98c5399777ae4c6fb3c43850e5.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 29.240897,
+      "lng": 103.263462
+    },
+    "address": "乐山市峨边彝族自治县新村路峨边彝族自治县职业高级中学校(顺河路)东南侧约60米",
+    "province": "四川省",
+    "city": "乐山市",
+    "area": "峨边彝族自治县",
+    "detail": 1,
+    "uid": "bb5b850d3b18749821026214",
+    "cover": "https://pic-map.cdn.bcebos.com/img/a8955da54f661b76cf3dbbeb27f38b34",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/a8955da54f661b76cf3dbbeb27f38b34"
+    ]
+  },
+  {
+    "name": "峨边县消防救援大队",
+    "location": {
+      "lat": 29.240832,
+      "lng": 103.263488
+    },
+    "address": "新村路峨边彝族自治县职业高级中学校顺河路东南侧约70米",
+    "province": "四川省",
+    "city": "乐山市",
+    "area": "峨边彝族自治县",
+    "detail": 1,
+    "uid": "045003ab19366a9c25e0a07d",
+    "cover": "https://pic-map.cdn.bcebos.com/img/fc961584e7394b8b429d6806a7563c87",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/fc961584e7394b8b429d6806a7563c87"
+    ]
+  }
+]

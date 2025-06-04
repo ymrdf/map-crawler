@@ -1,0 +1,116 @@
+[
+  {
+    "name": "恒康汽车拖车道路救援公司",
+    "location": {
+      "lat": 30.87194,
+      "lng": 120.623907
+    },
+    "address": "江苏省苏州市吴江区南三环路2778号",
+    "province": "江苏省",
+    "city": "苏州市",
+    "area": "吴江区",
+    "detail": 1,
+    "uid": "c938c77e3c17c537ad080ff2",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_58073a65e31d3ba50e133c45d7eb62be.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_58073a65e31d3ba50e133c45d7eb62be.jpeg"
+    ]
+  },
+  {
+    "name": "货车汽修快速道路救援",
+    "location": {
+      "lat": 31.236441,
+      "lng": 121.044263
+    },
+    "address": "江苏省苏州市昆山市Y520(玉溪东路)",
+    "province": "江苏省",
+    "city": "苏州市",
+    "area": "昆山市",
+    "detail": 1,
+    "uid": "763271c78b98316d43e1922c",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B6316a9d25d823b4f9.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B6316a9d25d823b4f9.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6316a9d260a6a17b13.jpeg"
+    ]
+  },
+  {
+    "name": "锋峰救援",
+    "location": {
+      "lat": 31.937431,
+      "lng": 120.453481
+    },
+    "address": "苏州市张家港市晨丰公路与金田路交叉路口西侧",
+    "province": "江苏省",
+    "city": "苏州市",
+    "area": "张家港市",
+    "detail": 1,
+    "uid": "1102053c9f01a7b359bbbc7b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_5d269ee4ce4f9c2453aa0eeb4c0c6ef1.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5d269ee4ce4f9c2453aa0eeb4c0c6ef1.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d34305bc5720f3848a1793eabc5f67db.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_875605b81c82ce23078bac3c2ef9ad9b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_519fe8a089e76333d4a05ae1c3cd7486.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e1597d50cb7389c01abc4894e21a4d31.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_db89876b35ec586694ba22606b2c2fe7.jpeg"
+    ]
+  },
+  {
+    "name": "昆山市鹿城路消防救援站",
+    "location": {
+      "lat": 31.384678,
+      "lng": 120.937217
+    },
+    "address": "江苏省苏州市昆山市鹿城路55号",
+    "province": "江苏省",
+    "city": "苏州市",
+    "area": "昆山市",
+    "street_id": "",
+    "detail": 1,
+    "uid": "71284ac212417d7284330426",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_734955d9af853b3f4aedf0792c75f419.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_734955d9af853b3f4aedf0792c75f419.jpeg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_ee0218925856938804d10dd1a62ba259.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2d9ef17e88aa8e1ae72a302569e67652.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d2787124eb1bf08414421ad39b4701c4.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 31.322877,
+      "lng": 120.594481
+    },
+    "address": "苏州市姑苏区西园路新东吴珍珠大酒店东南侧约40米",
+    "province": "江苏省",
+    "city": "苏州市",
+    "area": "姑苏区",
+    "street_id": "3b7d51b94bb3fd82d8eced24",
+    "detail": 1,
+    "uid": "3b7d51b94bb3fd82d8eced24",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_c15d16d7d34d0653f8776ddf172d5338.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=3b7d51b94bb3fd82d8eced24&width=720&height=360&quality=80&fovx=120",
+      "https://lbsugc.cdn.bcebos.com/images/B6590d5b919dcfb72e.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 31.383176,
+      "lng": 120.456263
+    },
+    "address": "苏州市虎丘区华金路",
+    "province": "江苏省",
+    "city": "苏州市",
+    "area": "虎丘区",
+    "detail": 1,
+    "uid": "7370b3b9502e85279a005049",
+    "cover": "https://pic-map.cdn.bcebos.com/img/5442acd774bfa066559abd85427bc6f6",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/5442acd774bfa066559abd85427bc6f6"
+    ]
+  }
+]

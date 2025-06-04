@@ -1,0 +1,77 @@
+[
+  {
+    "name": "小李道路救援",
+    "location": {
+      "lat": 40.767997,
+      "lng": 107.45335
+    },
+    "address": "巴彦淖尔市临河区山河湾",
+    "province": "内蒙古自治区",
+    "city": "巴彦淖尔市",
+    "area": "临河区",
+    "detail": 1,
+    "uid": "02379f041c985ac39122e0c5",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B5fe87364e33e198ef.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B5fe87364e33e198ef.jpeg"
+    ]
+  },
+  {
+    "name": "利明修理救援",
+    "location": {
+      "lat": 40.925419,
+      "lng": 109.626678
+    },
+    "address": "内蒙古自治区巴彦淖尔市乌拉特前旗石哈线",
+    "province": "内蒙古自治区",
+    "city": "巴彦淖尔市",
+    "area": "乌拉特前旗",
+    "telephone": "13947831310",
+    "detail": 1,
+    "uid": "85b8c8d6a97f73a79ff77930",
+    "cover": "https://pic-map.cdn.bcebos.com/img/2dab2998d8f60e378dd3ec7993d7235c",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/2dab2998d8f60e378dd3ec7993d7235c",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7e5b9a008910b5629575e753ebdf149f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e4d3792d1aaa420b5330285949c7b207.jpeg"
+    ]
+  },
+  {
+    "name": "五原蓝天救援联络中心",
+    "location": {
+      "lat": 41.100041,
+      "lng": 108.27715
+    },
+    "address": "巴彦淖尔市五原县团结路广原小区东侧约80米",
+    "province": "内蒙古自治区",
+    "city": "巴彦淖尔市",
+    "area": "五原县",
+    "detail": 1,
+    "uid": "ad05c3ff615bf5418a36ee13",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_4f804a707bffa224d9b987ba3cab91fe.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4f804a707bffa224d9b987ba3cab91fe.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9a306236e26a970c26f5134ae1dfb4c6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ad9eab2b6e512ca835d8a5f5c27ac3b2.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f1d2279d9a3d213085f2347a7d3fc173.jpeg"
+    ]
+  },
+  {
+    "name": "磴口县消防救援大队",
+    "location": {
+      "lat": 40.36829,
+      "lng": 107.020991
+    },
+    "address": "内蒙古自治区巴彦淖尔市磴口县X710",
+    "province": "内蒙古自治区",
+    "city": "巴彦淖尔市",
+    "area": "磴口县",
+    "detail": 1,
+    "uid": "4b87fadce2f68ac9c71b757d",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B61501f99b06ee117de.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B61501f99b06ee117de.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_dc42e5a37a6bc96ae45ead698d446b72.jpeg"
+    ]
+  }
+]

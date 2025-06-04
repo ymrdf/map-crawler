@@ -1,0 +1,37 @@
+[
+  {
+    "name": "国家危险化学品应急救援克拉玛依基地",
+    "location": {
+      "lat": 45.618628,
+      "lng": 84.853301
+    },
+    "address": "克拉玛依市克拉玛依区银河路风云小区霞园星园东侧约200米",
+    "province": "新疆维吾尔自治区",
+    "city": "克拉玛依市",
+    "area": "克拉玛依区",
+    "detail": 1,
+    "uid": "cd28b8a2387559878505bfe4",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_58fe00461d445be3084f286d00099ec1.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_58fe00461d445be3084f286d00099ec1.jpeg"
+    ]
+  },
+  {
+    "name": "克拉玛依市鑫杰检测站",
+    "location": {
+      "lat": 44.363633,
+      "lng": 84.932742
+    },
+    "address": "新疆维吾尔自治区克拉玛依市独山子区昆山路2798号",
+    "province": "新疆维吾尔自治区",
+    "city": "克拉玛依市",
+    "area": "独山子区",
+    "telephone": "0992-3650376",
+    "detail": 1,
+    "uid": "c8adebb4994c3f67f6c59cc8",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/Hf636afc379310a557a79c728b24543a983261088.jpg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/Hf636afc379310a557a79c728b24543a983261088.jpg"
+    ]
+  }
+]

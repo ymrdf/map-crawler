@@ -1,0 +1,109 @@
+[
+  {
+    "name": "119消防救援",
+    "location": {
+      "lat": 25.482962,
+      "lng": 119.210678
+    },
+    "address": "莆田市涵江区涵港东路与康南路交叉路口往东约270米",
+    "province": "福建省",
+    "city": "莆田市",
+    "area": "涵江区",
+    "detail": 1,
+    "uid": "d70cfdd6f94673e92902e176",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B66c318b070aeb171d9.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B66c318b070aeb171d9.jpeg"
+    ]
+  },
+  {
+    "name": "莆田市城厢区霞林小型消防救援站",
+    "location": {
+      "lat": 25.422558,
+      "lng": 118.998452
+    },
+    "address": "莆田市城厢区荔华东大道与棠霞路交叉口东北侧",
+    "province": "福建省",
+    "city": "莆田市",
+    "area": "城厢区",
+    "detail": 1,
+    "uid": "a5fadbc191433c1814c8f624",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_6b71d0299f86bff121d1d5cb7f09156f.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6b71d0299f86bff121d1d5cb7f09156f.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6770c7d7d114217956.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6770c7d7ba1219973.jpeg"
+    ]
+  },
+  {
+    "name": "应急救援中心",
+    "location": {
+      "lat": 25.257852,
+      "lng": 119.042605
+    },
+    "address": "莆田市秀屿区礼泉西路莆田市秀屿区东庄镇人民政府西侧约70米",
+    "province": "福建省",
+    "city": "莆田市",
+    "area": "秀屿区",
+    "detail": 1,
+    "uid": "f03474d096fbf8684354d73d",
+    "cover": "https://pic-map.cdn.bcebos.com/img/40fdf15d9d81815524c884cbf285c42f",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/40fdf15d9d81815524c884cbf285c42f"
+    ]
+  },
+  {
+    "name": "莆田蓝天救援队",
+    "location": {
+      "lat": 25.449734,
+      "lng": 119.04522
+    },
+    "address": "福建省莆田市荔城区西洪南街262号",
+    "province": "福建省",
+    "city": "莆田市",
+    "area": "荔城区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "2d999350ef41f939eedfca40",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B5fd433cde4a3aaff7.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B5fd433cde4a3aaff7.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a2ba6caa733574b087eb3dd1f6f0d698.jpeg"
+    ]
+  },
+  {
+    "name": "莆田市荔城区消防救援大队",
+    "location": {
+      "lat": 25.445056,
+      "lng": 119.04124
+    },
+    "address": "福建省莆田市荔城区拱辰街道仪莘路918号",
+    "province": "福建省",
+    "city": "莆田市",
+    "area": "荔城区",
+    "street_id": "76346d7d7ff96db70a69d9d0",
+    "detail": 1,
+    "uid": "76346d7d7ff96db70a69d9d0",
+    "cover": "https://taojin-his.cdn.bcebos.com/dc54564e9258d109119a6b24dd58ccbf6c814d2f.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=76346d7d7ff96db70a69d9d0&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "湄洲消防救援站",
+    "location": {
+      "lat": 25.055113,
+      "lng": 119.128819
+    },
+    "address": "湄洲南大道1399号",
+    "province": "福建省",
+    "city": "莆田市",
+    "area": "秀屿区",
+    "detail": 1,
+    "uid": "2b21e5f4814014c8f4b9167b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_811065d8025402e91e762cc6566ccdf5.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_811065d8025402e91e762cc6566ccdf5.jpeg"
+    ]
+  }
+]

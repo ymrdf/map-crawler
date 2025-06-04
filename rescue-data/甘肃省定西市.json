@@ -1,0 +1,122 @@
+[
+  {
+    "name": "承垲汽修道路救援",
+    "location": {
+      "lat": 35.394926,
+      "lng": 103.867984
+    },
+    "address": "甘肃省定西市临洮县文峰南路32号附6号",
+    "province": "甘肃省",
+    "city": "定西市",
+    "area": "临洮县",
+    "telephone": "18293054116",
+    "detail": 1,
+    "uid": "ad364d84b586681af942b2b5",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_761499591f720ecf58ddd5fd6112e526.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_761499591f720ecf58ddd5fd6112e526.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a979ab0aaa23c3b9d588fec6a73838a4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_726a9c1afb07381f9872044b4efa6c75.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a3888d02e394e449ae338943af5d5aea.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9156b0053f3e884aeb1936d302565243.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_fc057a477b2556a5a7d591f43d2b126a.jpg"
+    ]
+  },
+  {
+    "name": "应急救援中心",
+    "location": {
+      "lat": 35.215609,
+      "lng": 105.258067
+    },
+    "address": "定西市通渭县襄和路银泰嘉苑小区东南侧约230米",
+    "province": "甘肃省",
+    "city": "定西市",
+    "area": "通渭县",
+    "detail": 1,
+    "uid": "4141bc99f80c93256d20b9aa",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_93654b7cb4ede709be1eafbe9308b44e.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_93654b7cb4ede709be1eafbe9308b44e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_158ff3eba20f389625da9305bde2607e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c7ab524b3d3bd293fd4957a6a40eec16.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4ad596706833e75ea9e628e3cd34bde2.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e73f94797331ac2982465c7592fb6f17.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7026d1af0d516114f039741c9ec692ee.jpg"
+    ]
+  },
+  {
+    "name": "通渭县应急救援服务中心",
+    "location": {
+      "lat": 35.205001,
+      "lng": 105.280647
+    },
+    "address": "甘肃省定西市通渭县S207",
+    "province": "甘肃省",
+    "city": "定西市",
+    "area": "通渭县",
+    "detail": 1,
+    "uid": "6d0c9b11fc53747bbb17e791",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_74892e55da1aad1185912fbfc477cf63.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_74892e55da1aad1185912fbfc477cf63.jpeg"
+    ]
+  },
+  {
+    "name": "高速公路定西清障救援大队",
+    "location": {
+      "lat": 35.587991,
+      "lng": 104.644851
+    },
+    "address": "甘肃省定西市安定区解放路108号",
+    "province": "甘肃省",
+    "city": "定西市",
+    "area": "安定区",
+    "detail": 1,
+    "uid": "e96d0fba66c11c3a9ee321db",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B65b3cdfcb0f23b823.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B65b3cdfcb0f23b823.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65b3cdfcafadbd8d6.jpeg"
+    ]
+  },
+  {
+    "name": "陇西县消防救援大队",
+    "location": {
+      "lat": 35.017978,
+      "lng": 104.663624
+    },
+    "address": "定西市陇西县巩昌镇新陇西三中对面",
+    "province": "甘肃省",
+    "city": "定西市",
+    "area": "陇西县",
+    "detail": 1,
+    "uid": "e29a02acc3bf03a2ee74f81a",
+    "cover": "https://pic-map.cdn.bcebos.com/img/755b28910c1fd027797634b6a812baa9",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/755b28910c1fd027797634b6a812baa9"
+    ]
+  },
+  {
+    "name": "永福汽修道路救援",
+    "location": {
+      "lat": 35.72378,
+      "lng": 104.538327
+    },
+    "address": "甘肃省定西市安定区巉口镇旧开发区28号金灿湘驾校院内",
+    "province": "甘肃省",
+    "city": "定西市",
+    "area": "安定区",
+    "telephone": "15509001533,15593253858",
+    "detail": 1,
+    "uid": "2dc36d735000bdd28afc0647",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_47a0c3cfca35a66274ea5dc2f6142aad.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_47a0c3cfca35a66274ea5dc2f6142aad.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_721774a3d510d7b0fe51a0a479a7fa37.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_116a96f45e91e85f2b56b0125ec0a0c7.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65b9c48a610bf111a8.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_259040b5c655cd510e04bb6b9bcf7d90.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d97ec1ed084fa413c7537f50adf0a3a3.jpeg"
+    ]
+  }
+]

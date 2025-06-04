@@ -1,0 +1,97 @@
+[
+  {
+    "name": "曙光救援(梅州)",
+    "location": {
+      "lat": 24.249088,
+      "lng": 116.148431
+    },
+    "address": "梅州市梅江区环湖路",
+    "province": "广东省",
+    "city": "梅州市",
+    "area": "梅江区",
+    "telephone": "(0753)2345995",
+    "detail": 1,
+    "uid": "e0539ef7bbf56c84d12dd634",
+    "cover": "https://pic-map.cdn.bcebos.com/img/e06e0d881bd943af5b464117a25cd4a4",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/e06e0d881bd943af5b464117a25cd4a4",
+      "https://lbsugc.cdn.bcebos.com/images/B675e98326114e5254.jpeg"
+    ]
+  },
+  {
+    "name": "江南消防救援站",
+    "location": {
+      "lat": 24.293196,
+      "lng": 116.126735
+    },
+    "address": "广东省梅州市梅江区定民路6号",
+    "province": "广东省",
+    "city": "梅州市",
+    "area": "梅江区",
+    "street_id": "09213b1a3e4aba8ab817e7dc",
+    "detail": 1,
+    "uid": "09213b1a3e4aba8ab817e7dc",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B66763e4381a021003e.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=09213b1a3e4aba8ab817e7dc&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 24.518475,
+      "lng": 116.685486
+    },
+    "address": "梅州市大埔县G235大埔中学西侧约160米",
+    "province": "广东省",
+    "city": "梅州市",
+    "area": "大埔县",
+    "detail": 1,
+    "uid": "931718bf98bf31033a13fda0",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_815c3885da6efefa46737cc58d605618.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_815c3885da6efefa46737cc58d605618.jpeg"
+    ]
+  },
+  {
+    "name": "梅州市鑫旺汽车拖车道路救援脱困公司",
+    "location": {
+      "lat": 24.283273,
+      "lng": 116.103558
+    },
+    "address": "区扶外路69",
+    "province": "广东省",
+    "city": "梅州市",
+    "area": "梅县区",
+    "street_id": "f3e5054a0054b9e5d4851f7d",
+    "telephone": "13670819775",
+    "detail": 1,
+    "uid": "f3e5054a0054b9e5d4851f7d",
+    "cover": "https://taojin-his.cdn.bcebos.com/caef76094b36acaf40255eed77d98d1000e99cde.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=ff0d5b0126c973fda11de9ca&width=720&height=360&quality=80&fovx=120",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_af717523d2bb5911aa1d71f8faad0358.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_0330bc1d49b8da0c34e9020d95989bfd.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f178341182db7400a16585200aa3ad0b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_35f604f43d7a7d694ebb670cdb5ec1f4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_63b22ac5a7999f7f7837d0b11e9f5b17.jpg"
+    ]
+  },
+  {
+    "name": "五华县消防救援大队",
+    "location": {
+      "lat": 23.968415,
+      "lng": 115.771473
+    },
+    "address": "广东省梅州市五华县水寨大道北4号",
+    "province": "广东省",
+    "city": "梅州市",
+    "area": "五华县",
+    "detail": 1,
+    "uid": "72b5e23e38d524d17adbd203",
+    "cover": "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_9d674e8099f9e69aaad510338ebd09d3.jpg",
+    "photo_list": [
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_9d674e8099f9e69aaad510338ebd09d3.jpg"
+    ]
+  }
+]

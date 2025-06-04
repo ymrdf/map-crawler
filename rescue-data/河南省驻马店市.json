@@ -1,0 +1,96 @@
+[
+  {
+    "name": "新蔡县路通拖车救援有限公司",
+    "location": {
+      "lat": 32.784998,
+      "lng": 114.937497
+    },
+    "address": "河南省驻马店市新蔡县月亮湾大道新通电商物流产业园斜对面",
+    "province": "河南省",
+    "city": "驻马店市",
+    "area": "新蔡县",
+    "detail": 1,
+    "uid": "3720fadf4980b29625e0a091",
+    "cover": "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_36887edd1f43ec4814ef4e91af128c87.jpg",
+    "photo_list": [
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_36887edd1f43ec4814ef4e91af128c87.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3f9ca038c90b40d3a9880dcb7c213493.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b88683186a7553f3241e073d522ed2e4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3cd5c4cf01856b489011150cafcb2bee.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e78101fb6654b0aac5377595cf2cb7d1.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 32.807867,
+      "lng": 114.040925
+    },
+    "address": "驻马店市确山县解放路宝仙都小区南侧约190米",
+    "province": "河南省",
+    "city": "驻马店市",
+    "area": "确山县",
+    "street_id": "",
+    "detail": 1,
+    "uid": "04ee2f1c92a2e64d1ce99933",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d0871f671905c6882c0105a30517df1d.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d0871f671905c6882c0105a30517df1d.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65e96b277882b12938.jpeg"
+    ]
+  },
+  {
+    "name": "拖车救援",
+    "location": {
+      "lat": 32.819199,
+      "lng": 114.827565
+    },
+    "address": "驻马店市新蔡县G328与大广高速交叉路口往西约230米",
+    "province": "河南省",
+    "city": "驻马店市",
+    "area": "新蔡县",
+    "street_id": "41fc7d37aa6b1a4d2b3a9f49",
+    "telephone": "13723072221,16583389888",
+    "detail": 1,
+    "uid": "41fc7d37aa6b1a4d2b3a9f49",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_26232b9379e16b2c69aab245c7bfedf4.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=41fc7d37aa6b1a4d2b3a9f49&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 32.735416,
+      "lng": 113.318703
+    },
+    "address": "驻马店市泌阳县花园大道泌阳县第三人民医院(碧水中路)东北侧约40米",
+    "province": "河南省",
+    "city": "驻马店市",
+    "area": "泌阳县",
+    "detail": 1,
+    "uid": "b3b3bab1384a397b41d63e7f",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_cebfd9a85c7e2e81572b53180ba7fc6d.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cebfd9a85c7e2e81572b53180ba7fc6d.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 32.723115,
+      "lng": 113.330626
+    },
+    "address": "驻马店市泌阳县东方红大街泌阳一中西北侧约50米",
+    "province": "河南省",
+    "city": "驻马店市",
+    "area": "泌阳县",
+    "detail": 1,
+    "uid": "eb7e06becb82fdf59e82ea48",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d01ce0541057596c0d2684412d8efa66.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d01ce0541057596c0d2684412d8efa66.jpeg",
+      "https://pic-map.cdn.bcebos.com/img/7dc30e07f402170ac45c33db5fb786aa"
+    ]
+  }
+]

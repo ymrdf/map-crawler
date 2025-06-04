@@ -1,0 +1,40 @@
+[
+  {
+    "name": "国泰民安道路救援",
+    "location": {
+      "lat": 44.334364,
+      "lng": 85.640461
+    },
+    "address": "新疆维吾尔自治区塔城地区沙湾市乌鲁木齐东路45-13号",
+    "province": "新疆维吾尔自治区",
+    "city": "塔城地区",
+    "area": "沙湾市",
+    "detail": 1,
+    "uid": "447438bfa05505fbdbd891ff",
+    "cover": "https://taojin-his.cdn.bcebos.com/30adcbef76094b36a295753bafcc7cd98c109de4.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/30adcbef76094b36a295753bafcc7cd98c109de4.jpg"
+    ]
+  },
+  {
+    "name": "深达汽车玻璃",
+    "location": {
+      "lat": 44.333072,
+      "lng": 85.605693
+    },
+    "address": "新疆维吾尔自治区塔城地区沙湾市乌鲁木齐西路86号",
+    "province": "新疆维吾尔自治区",
+    "city": "塔城地区",
+    "area": "沙湾市",
+    "street_id": "",
+    "telephone": "13899529444",
+    "detail": 1,
+    "uid": "80710ff9cbeed9917069d3c0",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_b1a8fc570b40770ae4eca554a9abaecb.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b1a8fc570b40770ae4eca554a9abaecb.jpg",
+      "https://poi-pic.cdn.bcebos.com/fc006a0a5f710c4da729c4e3c35ccf26.jpg",
+      "https://taojin-his.cdn.bcebos.com/242dd42a2834349bccde25bfceea15ce36d3be34.jpg"
+    ]
+  }
+]

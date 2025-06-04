@@ -1,0 +1,167 @@
+[
+  {
+    "name": "补胎救援",
+    "location": {
+      "lat": 40.859651,
+      "lng": 118.161735
+    },
+    "address": "河北省承德市承德县京沈线",
+    "province": "河北省",
+    "city": "承德市",
+    "area": "承德县",
+    "detail": 1,
+    "uid": "798bdf311de277085a3ac865",
+    "cover": "https://pic-map.cdn.bcebos.com/img/577f8b5c44d2818fb1d8f8b6c4695c5a",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/577f8b5c44d2818fb1d8f8b6c4695c5a"
+    ]
+  },
+  {
+    "name": "补胎救援",
+    "location": {
+      "lat": 40.989378,
+      "lng": 117.568753
+    },
+    "address": "承德市滦平县京环线",
+    "province": "河北省",
+    "city": "承德市",
+    "area": "滦平县",
+    "detail": 1,
+    "uid": "5fd1f1a09d578847e115f9f1",
+    "cover": "https://pic-map.cdn.bcebos.com/img/5558c9eac049f6a2e723be6b3d2beee5",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/5558c9eac049f6a2e723be6b3d2beee5"
+    ]
+  },
+  {
+    "name": "小白补胎救援",
+    "location": {
+      "lat": 40.948747,
+      "lng": 117.719247
+    },
+    "address": "承德市双滦区京环线与钢城路交叉路口往北约180米",
+    "province": "河北省",
+    "city": "承德市",
+    "area": "双滦区",
+    "detail": 1,
+    "uid": "8e9117903648e0d49e82ea9b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_837d9ad9d71bf0739353caf41120d767.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_837d9ad9d71bf0739353caf41120d767.jpeg"
+    ]
+  },
+  {
+    "name": "救援补胎",
+    "location": {
+      "lat": 40.822645,
+      "lng": 118.031066
+    },
+    "address": "承德市双桥区上滦线",
+    "province": "河北省",
+    "city": "承德市",
+    "area": "双桥区",
+    "detail": 1,
+    "uid": "1718d5ef983d9bc601897247",
+    "cover": "https://pic-map.cdn.bcebos.com/img/9a63265826095b693b3dc3d986a5484a",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/9a63265826095b693b3dc3d986a5484a"
+    ]
+  },
+  {
+    "name": "承德市双桥区武烈路消防救援站",
+    "location": {
+      "lat": 40.938901,
+      "lng": 117.965925
+    },
+    "address": "承德市双桥区武烈路新世家南侧约120米",
+    "province": "河北省",
+    "city": "承德市",
+    "area": "双桥区",
+    "street_id": "0baa8e4559a783463586f468",
+    "detail": 1,
+    "uid": "0baa8e4559a783463586f468",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_b6e42d61076b3f50a70e060a9c61ec2f.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=0baa8e4559a783463586f468&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "救护救援寿衣寿材",
+    "location": {
+      "lat": 41.965754,
+      "lng": 117.769402
+    },
+    "address": "承德市围场满族蒙古族自治县凤凰北路木兰家园",
+    "province": "河北省",
+    "city": "承德市",
+    "area": "围场满族蒙古族自治县",
+    "street_id": "df2dde57a14f29285d17c389",
+    "detail": 1,
+    "uid": "df2dde57a14f29285d17c389",
+    "cover": "https://taojin-his.cdn.bcebos.com/77c6a7efce1b9d169a44b303f8deb48f8d5464d4.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=df2dde57a14f29285d17c389&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ae91f23651df4f93bb2e7dcdbf84418d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_28c5a63e9f483094b12bbcc51d071d9c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_50cd2de2339dbc8b5f05e62ee4148208.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65765ce2a61abb714.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65e6cdbb51081100de.jpeg"
+    ]
+  },
+  {
+    "name": "承德盛元道路救援有限公司",
+    "location": {
+      "lat": 40.896923,
+      "lng": 117.956335
+    },
+    "address": "河北省承德市双桥区大刘线天都嘉城二期5号楼5号",
+    "province": "河北省",
+    "city": "承德市",
+    "area": "双桥区",
+    "street_id": "a91bbb96f965ce3dabf0cda1",
+    "detail": 1,
+    "uid": "a91bbb96f965ce3dabf0cda1",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_46e091a020f54254448a13899c923d58.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=a91bbb96f965ce3dabf0cda1&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c8e5fa666a608b28b856b772109d8d09.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_72ae5a1856eb0a77db90ed7c7732360a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d7473028423b6467750568886dd9f0df.jpeg"
+    ]
+  },
+  {
+    "name": "补胎救援卖胎",
+    "location": {
+      "lat": 40.733511,
+      "lng": 117.20463
+    },
+    "address": "河北省承德市滦平县S354(京承线)",
+    "province": "河北省",
+    "city": "承德市",
+    "area": "滦平县",
+    "telephone": "15632462465",
+    "detail": 1,
+    "uid": "37eec503e58396fd276e98d3",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_f30d969a89a864e03a91b4ec9088baa8.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f30d969a89a864e03a91b4ec9088baa8.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 40.728896,
+      "lng": 117.205373
+    },
+    "address": "承德市滦平县京沈线金山岭商住广场东侧约200米",
+    "province": "河北省",
+    "city": "承德市",
+    "area": "滦平县",
+    "detail": 1,
+    "uid": "259d487b95a4301b077ce8b0",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_c895a24a255c6f8823570578c5736fcd.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c895a24a255c6f8823570578c5736fcd.jpeg"
+    ]
+  }
+]

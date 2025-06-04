@@ -1,0 +1,76 @@
+[
+  {
+    "name": "甘肃运通道路清障救援服务有限公司",
+    "location": {
+      "lat": 37.891847,
+      "lng": 102.654182
+    },
+    "address": "甘肃省武威市凉州区312国道与151县道交叉口西北340米",
+    "province": "甘肃省",
+    "city": "武威市",
+    "area": "凉州区",
+    "detail": 1,
+    "uid": "932fdc412f65a4dedbeced31",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ba3e3ba0e6d0e409a592b350eccb4005.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ba3e3ba0e6d0e409a592b350eccb4005.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_88202c9f0f03358ed1a17c5bf1243335.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c3aab8c8d8fa6f1bf5b60cb7df2b78c0.jpeg"
+    ]
+  },
+  {
+    "name": "武威市凉州区康宁消防救援站",
+    "location": {
+      "lat": 37.932829,
+      "lng": 102.621943
+    },
+    "address": "武威市凉州区民勤路海锦天商务酒店(武威西关店)东南侧约40米",
+    "province": "甘肃省",
+    "city": "武威市",
+    "area": "凉州区",
+    "detail": 1,
+    "uid": "dd7e538f4ee70763d13ce3ee",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d40e4f0417e8482ba4b38c34584bfcc9.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d40e4f0417e8482ba4b38c34584bfcc9.jpeg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_f20c0e42221e20f7e3ff89f5f9aba3db.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B65ed6bc21deb86cbc.jpeg"
+    ]
+  },
+  {
+    "name": "武威市凉州区消防救援大队-西门",
+    "location": {
+      "lat": 37.932938,
+      "lng": 102.621825
+    },
+    "address": "甘肃省武威市凉州区西关街中路17-10",
+    "province": "甘肃省",
+    "city": "武威市",
+    "area": "凉州区",
+    "detail": 1,
+    "uid": "d61ed41a852650cdc37da22b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_2bba4a8acc641aa3aa1f5db1022934d6.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2bba4a8acc641aa3aa1f5db1022934d6.jpeg"
+    ]
+  },
+  {
+    "name": "武威市凉州区消防救援大队",
+    "location": {
+      "lat": 37.932983,
+      "lng": 102.621947
+    },
+    "address": "武威市凉州区民勤路海锦天商务酒店(武威西关店)东侧约40米",
+    "province": "甘肃省",
+    "city": "武威市",
+    "area": "凉州区",
+    "detail": 1,
+    "uid": "261f925dd6bc246ca8f729ca",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_2bba4a8acc641aa3aa1f5db1022934d6.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2bba4a8acc641aa3aa1f5db1022934d6.jpeg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_f20c0e42221e20f7e3ff89f5f9aba3db.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B65ed6bc21f04e108a4.jpeg"
+    ]
+  }
+]

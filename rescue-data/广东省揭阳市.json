@@ -1,0 +1,136 @@
+[
+  {
+    "name": "潜水救援",
+    "location": {
+      "lat": 23.568883,
+      "lng": 116.35102
+    },
+    "address": "揭阳市揭东区临江北路揭阳市(国际)金属材料市场",
+    "province": "广东省",
+    "city": "揭阳市",
+    "area": "揭东区",
+    "street_id": "39e69f0753ffc179c909f0a3",
+    "detail": 1,
+    "uid": "39e69f0753ffc179c909f0a3",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_eccfe127f88cb75a0bed921cd72f248c.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=39e69f0753ffc179c909f0a3&width=720&height=360&quality=80&fovx=120",
+      "https://lbsugc.cdn.bcebos.com/images/B65a0ac516854ea41d.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6766922f30177117ef.jpeg"
+    ]
+  },
+  {
+    "name": "公益救援",
+    "location": {
+      "lat": 23.431353,
+      "lng": 116.148031
+    },
+    "address": "揭阳市揭西县湖西大道金寰豪庭酒店",
+    "province": "广东省",
+    "city": "揭阳市",
+    "area": "揭西县",
+    "detail": 1,
+    "uid": "8543d5d242a40904f7b916e4",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_2cc06d17e9107c3e99f8bc10f154496c.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2cc06d17e9107c3e99f8bc10f154496c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2ebefa7fdd0fb52aa3aeaf74fbb7eed0.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_50df3c464f21ef516fd7ba8ea7cd98ac.jpeg"
+    ]
+  },
+  {
+    "name": "119消防救援",
+    "location": {
+      "lat": 23.501649,
+      "lng": 116.254292
+    },
+    "address": "揭阳市普宁市钟南路普宁市南溪镇人民政府北侧约40米",
+    "province": "广东省",
+    "city": "揭阳市",
+    "area": "普宁市",
+    "detail": 1,
+    "uid": "80ea02a60bfdc7c08505bf67",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ec1e2422ca5acdcfb2900061377a458d.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ec1e2422ca5acdcfb2900061377a458d.jpeg"
+    ]
+  },
+  {
+    "name": "揭阳市综合应急救援支队",
+    "location": {
+      "lat": 23.560073,
+      "lng": 116.35737
+    },
+    "address": "揭阳市榕城区淡浦路慈云医院南侧约190米",
+    "province": "广东省",
+    "city": "揭阳市",
+    "area": "榕城区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "dfa1b649caf03309b8bd6316",
+    "cover": "https://taojin-his.cdn.bcebos.com/f7246b600c338744403c882b5c0fd9f9d62aa0e8.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/f7246b600c338744403c882b5c0fd9f9d62aa0e8.jpg"
+    ]
+  },
+  {
+    "name": "粤安救援服务中心",
+    "location": {
+      "lat": 23.419506,
+      "lng": 115.801638
+    },
+    "address": "广东省揭阳市揭西县S238",
+    "province": "广东省",
+    "city": "揭阳市",
+    "area": "揭西县",
+    "detail": 1,
+    "uid": "fe2a4ae6b2d736ae9ee32175",
+    "cover": "https://pic-map.cdn.bcebos.com/img/084e25cf28165d2e2abbea1ff21a287e",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/084e25cf28165d2e2abbea1ff21a287e"
+    ]
+  },
+  {
+    "name": "粤昌拖车救援",
+    "location": {
+      "lat": 23.56901,
+      "lng": 116.202429
+    },
+    "address": "广东省揭阳市揭东区昌潮汽修厂东南侧",
+    "province": "广东省",
+    "city": "揭阳市",
+    "area": "揭东区",
+    "street_id": "2976beef6e1d8fdea8f72910",
+    "telephone": "13822011834",
+    "detail": 1,
+    "uid": "2976beef6e1d8fdea8f72910",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_799e759e4a292d67378644ba5089dce6.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=2976beef6e1d8fdea8f72910&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6c28ebb87aea7abbfb1aa4c8cde54ac9.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d08a9c69fc9f909aca9da311d0703e00.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B60c23924e829e110be.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_050efed615fee0aee1fc1ce22942fe5d.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_44ee3e9a0bc625d7d747f58abd1e0d32.jpg"
+    ]
+  },
+  {
+    "name": "揭阳市消防救援支队",
+    "location": {
+      "lat": 23.560229,
+      "lng": 116.356999
+    },
+    "address": "揭阳市榕城区新阳路4号",
+    "province": "广东省",
+    "city": "揭阳市",
+    "area": "榕城区",
+    "street_id": "b1eab787c087f6f1ca291545",
+    "detail": 1,
+    "uid": "b1eab787c087f6f1ca291545",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ffec4b801ccec0a9204a1248601cac26.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=b1eab787c087f6f1ca291545&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7eabd261008a9784423f7f3f7d0500df.jpg"
+    ]
+  }
+]

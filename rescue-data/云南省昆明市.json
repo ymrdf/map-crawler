@@ -1,0 +1,102 @@
+[
+  {
+    "name": "云南黑豹救援队",
+    "location": {
+      "lat": 25.029619,
+      "lng": 102.732137
+    },
+    "address": "云南省昆明市官渡区春城路195号",
+    "province": "云南省",
+    "city": "昆明市",
+    "area": "官渡区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "4007816a9d8bc903e215f9dd",
+    "cover": "https://taojin-his.cdn.bcebos.com/d50735fae6cd7b89291b1003012442a7d9330e3e.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/d50735fae6cd7b89291b1003012442a7d9330e3e.jpg"
+    ]
+  },
+  {
+    "name": "云南千裕救援",
+    "location": {
+      "lat": 25.055775,
+      "lng": 102.774337
+    },
+    "address": "云南省昆明市盘龙区寺瓦路佳农集团3楼",
+    "province": "云南省",
+    "city": "昆明市",
+    "area": "盘龙区",
+    "telephone": "15198987619",
+    "detail": 1,
+    "uid": "5c8d8363bf72f5544d2fdf04",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_8e88b8b6e31dfbc4c3efb411718aab7e.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8e88b8b6e31dfbc4c3efb411718aab7e.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/26c4b5c0bad643496f82ded5557c45ae_3921.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/5583073124f89de6003a4389b0b28eb0_3080.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/2ce031fe4a5fdb0ddc22be5659bd9019_9555.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/023e04622f90fc0b9d5acc683053b104_7780.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/1a5c27e6362670fe00cd18b246fa683d_0112.jpeg"
+    ]
+  },
+  {
+    "name": "昆明市盘龙区宝善街消防救援站",
+    "location": {
+      "lat": 25.042306,
+      "lng": 102.71985
+    },
+    "address": "云南省昆明市五华区护国街道宝善街194号",
+    "province": "云南省",
+    "city": "昆明市",
+    "area": "五华区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "ac1becfdff42c7ea3ce2310b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_7f2a0c36fe9b3de962485844770f4548.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7f2a0c36fe9b3de962485844770f4548.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a5817d163761e8afd4b94cbf622c0a6b.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b291f8abdc512d1a7f0d6e022ef310a9.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ceb0dd42d37e716c07c562a414194b2d.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6593dd24cb55f5eef.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6593dd6f972dc34ad.jpeg"
+    ]
+  },
+  {
+    "name": "云南航空综合应急救援基地",
+    "location": {
+      "lat": 25.043294,
+      "lng": 102.771596
+    },
+    "address": "昆明市盘龙区虹桥路实力山语间北侧约180米",
+    "province": "云南省",
+    "city": "昆明市",
+    "area": "盘龙区",
+    "detail": 1,
+    "uid": "60fd82621ea2134b32870a3a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_72979a5f5ab5b01068e28fa9999c8584.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_72979a5f5ab5b01068e28fa9999c8584.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 25.026803,
+      "lng": 102.763375
+    },
+    "address": "云南省昆明市官渡区小石坝村435号",
+    "province": "云南省",
+    "city": "昆明市",
+    "area": "官渡区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "6fadc5d99e89e508f5c59cfa",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_63fb940c843b13d8d562d9ad8e0398cc.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_63fb940c843b13d8d562d9ad8e0398cc.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_08508b4a7bbd149cd505337fb1bac2fc.jpg"
+    ]
+  }
+]

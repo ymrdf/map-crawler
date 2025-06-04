@@ -1,0 +1,38 @@
+[
+  {
+    "name": "潮州市消防救援支队",
+    "location": {
+      "lat": 23.659245,
+      "lng": 116.640546
+    },
+    "address": "广东省潮州市湘桥区枫春南路35号",
+    "province": "广东省",
+    "city": "潮州市",
+    "area": "湘桥区",
+    "street_id": "9bb7bba3ad3287995cbe86b2",
+    "detail": 1,
+    "uid": "9bb7bba3ad3287995cbe86b2",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ae16327ff0a3b086e10d6b9b2fd52624.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=9bb7bba3ad3287995cbe86b2&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 23.664725,
+      "lng": 116.65107
+    },
+    "address": "潮州市湘桥区环城西路金兴楼东侧约60米",
+    "province": "广东省",
+    "city": "潮州市",
+    "area": "湘桥区",
+    "detail": 1,
+    "uid": "912762334eca8aab7369d35a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_2e00c74694e39bb1a96032bc5564dd1c.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2e00c74694e39bb1a96032bc5564dd1c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ab717c5a320f127af13fcef55b7b577c.jpeg"
+    ]
+  }
+]

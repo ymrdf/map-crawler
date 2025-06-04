@@ -1,0 +1,134 @@
+[
+  {
+    "name": "洛南县信诚救援汽车服务中心",
+    "location": {
+      "lat": 34.105522,
+      "lng": 110.168424
+    },
+    "address": "陕西省商洛市洛南县S202(黄洛线)",
+    "province": "陕西省",
+    "city": "商洛市",
+    "area": "洛南县",
+    "street_id": "e7d801e076fa7e97bbbd637a",
+    "telephone": "13991424555",
+    "detail": 1,
+    "uid": "e7d801e076fa7e97bbbd637a",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/27f371e7a5314a964d85b089671c9676_8375.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=e7d801e076fa7e97bbbd637a&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bad4535f242c59b25529932863355b9b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_524b690df81a82f226104ff0b648f893.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6433930a11f732cd988fb02bb0886575.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9824a5e85b5490a2b6d27f5ee7cd2c90.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_df79d21cd2ec29e2a2e26128ca17f384.jpeg"
+    ]
+  },
+  {
+    "name": "汽车救援",
+    "location": {
+      "lat": 33.86152,
+      "lng": 109.953402
+    },
+    "address": "商洛市商州区沪霍线东方威尼斯水城",
+    "province": "陕西省",
+    "city": "商洛市",
+    "area": "商州区",
+    "telephone": "13991427029",
+    "detail": 1,
+    "uid": "c46b146eb07ecb72c8213df1",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_7ae5d16d6d19df711c591c7fd6cfda4c.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7ae5d16d6d19df711c591c7fd6cfda4c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3d1e8985325582b8e4837859b9e7c92b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4ac159acb65683453a37f1dac0c7c88c.jpeg"
+    ]
+  },
+  {
+    "name": "镇安县消防救援大队",
+    "location": {
+      "lat": 33.43268,
+      "lng": 109.178808
+    },
+    "address": "陕西省商洛市镇安县G211",
+    "province": "陕西省",
+    "city": "商洛市",
+    "area": "镇安县",
+    "detail": 1,
+    "uid": "cd73f410b269fee548cc4a9e",
+    "cover": "https://pic-map.cdn.bcebos.com/img/5a95b1b15dbbc7238462fd21f4f73ab4",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/5a95b1b15dbbc7238462fd21f4f73ab4"
+    ]
+  },
+  {
+    "name": "商洛翼援达汽车救援有限公司",
+    "location": {
+      "lat": 33.834331,
+      "lng": 110.015675
+    },
+    "address": "陕西省商洛市商州区",
+    "province": "陕西省",
+    "city": "商洛市",
+    "area": "商州区",
+    "detail": 1,
+    "uid": "20cadd31066bbd5403ec01dc",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B61a43cca8c5dee693.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B61a43cca8c5dee693.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B61a43ce4624266c3c.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 33.870132,
+      "lng": 109.937799
+    },
+    "address": "商洛市商州区名人街华庭快捷宾馆西南侧约110米",
+    "province": "陕西省",
+    "city": "商洛市",
+    "area": "商州区",
+    "detail": 1,
+    "uid": "9d4e53df2bf8dc6cb320a8b9",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_335985d185f759dfdb8daff79658d01c.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_335985d185f759dfdb8daff79658d01c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a9ecec7bb6735588edf702bbfced7a53.jpeg"
+    ]
+  },
+  {
+    "name": "山阳县消防大队",
+    "location": {
+      "lat": 33.543207,
+      "lng": 109.879183
+    },
+    "address": "商洛市山阳县西河大道与西河三路交叉路口往东约70米",
+    "province": "陕西省",
+    "city": "商洛市",
+    "area": "山阳县",
+    "telephone": "(0914)8322019",
+    "detail": 1,
+    "uid": "e8e9ad63f4e7730975e5b69f",
+    "cover": "https://pic-map.cdn.bcebos.com/img/79d940b987492b688d8ea079881c177f",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/79d940b987492b688d8ea079881c177f"
+    ]
+  },
+  {
+    "name": "洛南县四洪路消防救援站",
+    "location": {
+      "lat": 34.08269,
+      "lng": 110.124191
+    },
+    "address": "商洛市洛南县洛洪线文圣名城西北侧约50米",
+    "province": "陕西省",
+    "city": "商洛市",
+    "area": "洛南县",
+    "detail": 1,
+    "uid": "20229c0021371f5a4107c130",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_82652cb6913bdcfe6e2b8b9ae750629f.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_82652cb6913bdcfe6e2b8b9ae750629f.jpeg"
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "name": "濮阳市平安道路救援服务中心",
+    "location": {
+      "lat": 35.704081,
+      "lng": 114.963493
+    },
+    "address": "濮阳市华龙区S101",
+    "province": "河南省",
+    "city": "濮阳市",
+    "area": "华龙区",
+    "detail": 1,
+    "uid": "b793a2fe44b300383b221c30",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_4634dfcb8b64cfbe912c0c3bb0d974c4.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4634dfcb8b64cfbe912c0c3bb0d974c4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_753cf689376e77db5d6e8d56bc5a506f.jpeg"
+    ]
+  },
+  {
+    "name": "南乐县法律援助中心",
+    "location": {
+      "lat": 36.075743,
+      "lng": 115.209703
+    },
+    "address": "濮阳市南乐县文昌路南乐县改革幼儿园东北侧约60米",
+    "province": "河南省",
+    "city": "濮阳市",
+    "area": "南乐县",
+    "telephone": "(0393)6212348",
+    "detail": 1,
+    "uid": "a7e68a745ee7e1db4207c1c8",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_978979517a621e8c1f3d24fedaee2680.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_978979517a621e8c1f3d24fedaee2680.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_196ee2aab72914e91eee4363d95c72f2.jpeg"
+    ]
+  }
+]

@@ -1,0 +1,168 @@
+[
+  {
+    "name": "小飞轮胎修理野外救援",
+    "location": {
+      "lat": 43.728361,
+      "lng": 122.804844
+    },
+    "address": "通辽市科尔沁区集锡线七彩童画双语幼儿园北侧约60米",
+    "province": "内蒙古自治区",
+    "city": "通辽市",
+    "area": "科尔沁区",
+    "telephone": "15148775624",
+    "detail": 1,
+    "uid": "914ac4d3ac82a46402294f1f",
+    "cover": "https://pic-map.cdn.bcebos.com/img/7263bb2989dbfa00c994ff160c616970",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/7263bb2989dbfa00c994ff160c616970"
+    ]
+  },
+  {
+    "name": "鑫鹏程汽修拖车救援",
+    "location": {
+      "lat": 44.04408,
+      "lng": 122.023952
+    },
+    "address": "内蒙古自治区通辽市科尔沁左翼中旗463县道南50米",
+    "province": "内蒙古自治区",
+    "city": "通辽市",
+    "area": "科尔沁左翼中旗",
+    "detail": 1,
+    "uid": "6f0224da0cf8a70409b93a7b",
+    "cover": "https://pic-map.cdn.bcebos.com/img/c6d301c00726352c09f6973720502edc",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/c6d301c00726352c09f6973720502edc"
+    ]
+  },
+  {
+    "name": "强仔汽修救援",
+    "location": {
+      "lat": 43.634445,
+      "lng": 122.286251
+    },
+    "address": "平安路与西拉木伦大街交叉口南100米路西",
+    "province": "内蒙古自治区",
+    "city": "通辽市",
+    "area": "科尔沁区",
+    "street_id": "441cae9c4a142703b05c6a36",
+    "telephone": "15047464443",
+    "detail": 1,
+    "uid": "441cae9c4a142703b05c6a36",
+    "cover": "https://photo-meituan.cdn.bcebos.com/photo/1732959751c5dd255849fd0ff6115370b6d81d6820",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=441cae9c4a142703b05c6a36&width=720&height=360&quality=80&fovx=120",
+      "https://taojin-his.cdn.bcebos.com/6a600c338744ebf833e346acd2f9d72a6159a796.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_44b310860e531d0be358971ca980d20a.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/H29381f30e924b89979250df465061d950b7bf6e5.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_06fdbd152a9267419b6b571e2a16f5f0.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_59fb6c6424ad37ac57c6f76a5193624b.jpeg"
+    ]
+  },
+  {
+    "name": "余粮堡服务区救援",
+    "location": {
+      "lat": 43.15543,
+      "lng": 121.210716
+    },
+    "address": "通辽市奈曼旗东明镇浩特村G45东明服务区",
+    "province": "内蒙古自治区",
+    "city": "通辽市",
+    "area": "奈曼旗",
+    "detail": 1,
+    "uid": "dee487daddd1cf3c0482c251",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_9b2f508bcefdcda79ac12f6e1bdf8936.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9b2f508bcefdcda79ac12f6e1bdf8936.jpeg"
+    ]
+  },
+  {
+    "name": "通赤汽车救援",
+    "location": {
+      "lat": 43.155397,
+      "lng": 121.210348
+    },
+    "address": "通辽市奈曼旗大广高速东明服务区",
+    "province": "内蒙古自治区",
+    "city": "通辽市",
+    "area": "奈曼旗",
+    "detail": 1,
+    "uid": "1dfa01f88808e76143e192f5",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a63cbef93c6d7d21e53e98da3209a806.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a63cbef93c6d7d21e53e98da3209a806.jpeg"
+    ]
+  },
+  {
+    "name": "奈曼服务区救援",
+    "location": {
+      "lat": 43.155318,
+      "lng": 121.210563
+    },
+    "address": "通辽市奈曼旗大广高速东明服务区",
+    "province": "内蒙古自治区",
+    "city": "通辽市",
+    "area": "奈曼旗",
+    "detail": 1,
+    "uid": "b85ae973b2416dccdbeceda3",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_2f6a6ccfbc2155d04e4a334bea5e4bf3.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2f6a6ccfbc2155d04e4a334bea5e4bf3.jpeg"
+    ]
+  },
+  {
+    "name": "嘉利车辆救援有限公司",
+    "location": {
+      "lat": 44.571057,
+      "lng": 120.904057
+    },
+    "address": "内蒙古通辽市扎鲁特旗北苑小区西侧大中小型车辆救援拖车野外脱困送油送水吊装等业务",
+    "province": "内蒙古自治区",
+    "city": "通辽市",
+    "area": "扎鲁特旗",
+    "telephone": "13848857705",
+    "detail": 1,
+    "uid": "cf79e3ef5892e656f423100f",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/H38dbb6fd5266d0161aef1030982bd40735fa3537.jpg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/H38dbb6fd5266d0161aef1030982bd40735fa3537.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/Heac4b74543a98226fa37a53f8582b9014a90eb30.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/Hbf096b63f6246b6072f83c6ce4f81a4c510fa230.jpg"
+    ]
+  },
+  {
+    "name": "通辽市科尔沁区建国路消防救援站",
+    "location": {
+      "lat": 43.62224,
+      "lng": 122.278067
+    },
+    "address": "通辽市科尔沁区建国路科区实验小学东南侧约30米",
+    "province": "内蒙古自治区",
+    "city": "通辽市",
+    "area": "科尔沁区",
+    "detail": 1,
+    "uid": "8d2d00e7ecdf8d7f621809b9",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_2a1693ce04cfefbceb89afc9d4350241.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2a1693ce04cfefbceb89afc9d4350241.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_03676788adc8a73546375f2c728598b6.jpeg"
+    ]
+  },
+  {
+    "name": "鑫凯汽车维修中心道路救援",
+    "location": {
+      "lat": 43.729136,
+      "lng": 122.811515
+    },
+    "address": "内蒙古自治区通辽市科尔沁区G303",
+    "province": "内蒙古自治区",
+    "city": "通辽市",
+    "area": "科尔沁区",
+    "telephone": "15144831003",
+    "detail": 1,
+    "uid": "1dbc1014b08676f6d13ce3e3",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_77d5c7d5f24664bf66eb2aacfb729368.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_77d5c7d5f24664bf66eb2aacfb729368.jpeg"
+    ]
+  }
+]

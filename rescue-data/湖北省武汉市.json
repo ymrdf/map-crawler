@@ -1,0 +1,140 @@
+[
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 30.619311,
+      "lng": 114.26668
+    },
+    "address": "湖北省武汉市江汉区马场角119号",
+    "province": "湖北省",
+    "city": "武汉市",
+    "area": "江汉区",
+    "street_id": "41490c1f095b67ea16c9059f",
+    "detail": 1,
+    "uid": "41490c1f095b67ea16c9059f",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_e0368108b9f6132e469407859d1a8aab.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=41490c1f095b67ea16c9059f&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b62557f6334aa2440bcb740d13dca959.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B667cca7bad44116e6e.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 30.511906,
+      "lng": 114.181442
+    },
+    "address": "湖北省武汉市经济技术开发区东风大道111号万达广场F1",
+    "province": "湖北省",
+    "city": "武汉市",
+    "area": "蔡甸区",
+    "detail": 1,
+    "uid": "6792b26974967a2eb05c6a2a",
+    "cover": "https://taojin-pic-gz.cdn.bcebos.com/0d5aad419aaedc5ec8616109f847f743.jpeg",
+    "photo_list": [
+      "https://taojin-pic-gz.cdn.bcebos.com/0d5aad419aaedc5ec8616109f847f743.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_68fd8f09c36e1b7fe5d2575adfc38c13.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9592b6ae94153ea092cec0477d255aed.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B657bef271407a6e73.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4a9831ebfa4fd7c648d35d9a9ca58aed.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 30.598515,
+      "lng": 114.210102
+    },
+    "address": "湖北省武汉市硚口区古田三路融侨锦城",
+    "province": "湖北省",
+    "city": "武汉市",
+    "area": "硚口区",
+    "street_id": "6fd2f7022e3c2eb4b9df8f37",
+    "detail": 1,
+    "uid": "6fd2f7022e3c2eb4b9df8f37",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d64765d2a817145a1a9fb14a25e3f3d9.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=6fd2f7022e3c2eb4b9df8f37&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_24252984fea378c7c4a1f7a24897b3ee.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6c768ad2d0da29cc6f1cd92bc75ae85d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f76cff61b48dfbcc7ba9c5ccfbc6765e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a5f89757c844aec450a6ab17ed9324e1.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B67bd9758e6df5361c.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 30.419899,
+      "lng": 114.455057
+    },
+    "address": "武汉市江夏区凤凰园中路武汉星之茂机械制造有限公司",
+    "province": "湖北省",
+    "city": "武汉市",
+    "area": "江夏区",
+    "detail": 1,
+    "uid": "a140c366f73a9cb7f12d833f",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_041151c6a7be6b867b1610ad94f1eda3.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_041151c6a7be6b867b1610ad94f1eda3.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 30.613602,
+      "lng": 114.383677
+    },
+    "address": "武汉市洪山区北洋桥西路金鹤园-南区西侧约50米",
+    "province": "湖北省",
+    "city": "武汉市",
+    "area": "洪山区",
+    "street_id": "f58ef19920ad34714c6d46dc",
+    "detail": 1,
+    "uid": "f58ef19920ad34714c6d46dc",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ee0177a8252502246390f2023b43f44b.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=f58ef19920ad34714c6d46dc&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e27345f80fa26246c0af6fc36a5e6e63.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B66b73f19c2c62d7e8.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 30.58151,
+      "lng": 114.33689
+    },
+    "address": "武汉市武昌区秦简街湖北大学西门人行门东北侧约40米",
+    "province": "湖北省",
+    "city": "武汉市",
+    "area": "武昌区",
+    "detail": 1,
+    "uid": "95134dab977f0cfb7369d3d5",
+    "cover": "https://pic-map.cdn.bcebos.com/img/24dcea4cfccfcf09bef357eaf1017a85",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/24dcea4cfccfcf09bef357eaf1017a85"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 30.419659,
+      "lng": 114.318911
+    },
+    "address": "武汉市江夏区金桂街大花岭小区-东区",
+    "province": "湖北省",
+    "city": "武汉市",
+    "area": "江夏区",
+    "detail": 1,
+    "uid": "14709d96920541ac100daa70",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_095bba364941c1d0107e4a968b4abd5c.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_095bba364941c1d0107e4a968b4abd5c.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B667780ccc0ab86b95.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4a177e38e967edf119ac090520b0ea99.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_30654f251a48d6e6e9e319fb547c9faf.jpeg"
+    ]
+  }
+]

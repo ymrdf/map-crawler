@@ -1,0 +1,39 @@
+[
+  {
+    "name": "武川县消防救援大队",
+    "location": {
+      "lat": 41.120133,
+      "lng": 111.452388
+    },
+    "address": "内蒙古自治区呼和浩特市武川县S104(青山路)",
+    "province": "内蒙古自治区",
+    "city": "呼和浩特市",
+    "area": "武川县",
+    "detail": 1,
+    "uid": "c69c6434b05af58d96ca0768",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B60e8ecc77557ce552.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B60e8ecc77557ce552.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a23536cc86e9cbd269b893c4cc45c09c.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 40.813725,
+      "lng": 111.668886
+    },
+    "address": "呼和浩特市回民区石羊桥路沁园公寓东侧约40米",
+    "province": "内蒙古自治区",
+    "city": "呼和浩特市",
+    "area": "回民区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "d583744ae74c6b2cf90cadbe",
+    "cover": "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_14bbe29f62a01a69ce15d0737d8a0fac.jpg",
+    "photo_list": [
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_14bbe29f62a01a69ce15d0737d8a0fac.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c23e4034dc23e99663ba646a8bb851e6.jpeg"
+    ]
+  }
+]

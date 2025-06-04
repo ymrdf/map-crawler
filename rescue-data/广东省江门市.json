@@ -1,0 +1,115 @@
+[
+  {
+    "name": "江门市鹏程头盔有限公司",
+    "location": {
+      "lat": 22.596374,
+      "lng": 112.900012
+    },
+    "address": "广东江门市鹤山市共和镇东升路01号之七",
+    "province": "广东省",
+    "city": "江门市",
+    "area": "鹤山市",
+    "street_id": "53349ee32a8c606d230262a9",
+    "telephone": "(0750)8309933",
+    "detail": 1,
+    "uid": "53349ee32a8c606d230262a9",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B650a9cfebdb8c2eac.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=53349ee32a8c606d230262a9&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "鹤山市鹤城消防救援站",
+    "location": {
+      "lat": 22.620947,
+      "lng": 112.838412
+    },
+    "address": "广东省江门市鹤山市东兴路",
+    "province": "广东省",
+    "city": "江门市",
+    "area": "鹤山市",
+    "detail": 1,
+    "uid": "a30c637febae32889e82eabc",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_eb756b7cc54f3794be6fe02c0f2f5fbf.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_eb756b7cc54f3794be6fe02c0f2f5fbf.jpg"
+    ]
+  },
+  {
+    "name": "鹤山市沙坪消防救援站",
+    "location": {
+      "lat": 22.757675,
+      "lng": 112.974722
+    },
+    "address": "江门市鹤山市鹤山大道南景湾山水城东南侧约70米",
+    "province": "广东省",
+    "city": "江门市",
+    "area": "鹤山市",
+    "street_id": "253b2c16fcd1e1a51911d53f",
+    "detail": 1,
+    "uid": "253b2c16fcd1e1a51911d53f",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_38152a59836873f5f27afc7d9cf32b91.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=253b2c16fcd1e1a51911d53f&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "台山市台城消防救援站",
+    "location": {
+      "lat": 22.271909,
+      "lng": 112.793781
+    },
+    "address": "江门市台山市桥湖路城北市场西北侧约130米",
+    "province": "广东省",
+    "city": "江门市",
+    "area": "台山市",
+    "street_id": "",
+    "detail": 1,
+    "uid": "c921eccbceca414e42ab9ab1",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_cfa26ef8c2faf933b7a8b3a4dd3fc673.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cfa26ef8c2faf933b7a8b3a4dd3fc673.jpg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 22.35778,
+      "lng": 113.114203
+    },
+    "address": "广东省江门市新会区古井镇新建路交警中队旁",
+    "province": "广东省",
+    "city": "江门市",
+    "area": "新会区",
+    "detail": 1,
+    "uid": "49f095c3b4e274e1f7eafc23",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_29d7b1436e057daaad974f539dfff54a.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_29d7b1436e057daaad974f539dfff54a.jpeg"
+    ]
+  },
+  {
+    "name": "蓝天救援中心",
+    "location": {
+      "lat": 22.378453,
+      "lng": 112.688734
+    },
+    "address": "广东省江门市开平市幕桥西路69b",
+    "province": "广东省",
+    "city": "江门市",
+    "area": "开平市",
+    "street_id": "60d50d3eea1fd5936e20b9cd",
+    "telephone": "18307509958",
+    "detail": 1,
+    "uid": "60d50d3eea1fd5936e20b9cd",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d4eea4c10017731b1e2bcf36364f5543.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=60d50d3eea1fd5936e20b9cd&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_66548debccf8896c34db7a86d4d8142d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6a7ab1296dc153e0d4ad1656c48d8fe0.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_16a84e452fa871630bcf7fd6e51dfc72.jpg",
+      "https://poi-pic.cdn.bcebos.com/aff6571daa63282fa675caf8b47f0a49.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_6306fbe0274ad11d81387a8e5179368f.jpg"
+    ]
+  }
+]

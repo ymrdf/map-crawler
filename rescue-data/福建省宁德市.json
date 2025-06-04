@@ -1,0 +1,128 @@
+[
+  {
+    "name": "上汽宁德基地消防救援站",
+    "location": {
+      "lat": 26.767942,
+      "lng": 119.586625
+    },
+    "address": "宁德市蕉城区名爵路与云淡路交叉路口往南约50米",
+    "province": "福建省",
+    "city": "宁德市",
+    "area": "蕉城区",
+    "detail": 1,
+    "uid": "96d55413da43ab5da8175a6e",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B60dbd6a9cbbb687a6.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B60dbd6a9cbbb687a6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_472b166c03899b12140fce7379dea716.jpeg"
+    ]
+  },
+  {
+    "name": "福鼎市桐城消防救援站",
+    "location": {
+      "lat": 27.332617,
+      "lng": 120.217253
+    },
+    "address": "福建省宁德市福鼎市龙山北路43号",
+    "province": "福建省",
+    "city": "宁德市",
+    "area": "福鼎市",
+    "street_id": "c744a294e944b443be484285",
+    "detail": 1,
+    "uid": "c744a294e944b443be484285",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a0709b1acb42b79fe73c6b374d5b4227.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=c744a294e944b443be484285&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "福安市韩城消防救援站",
+    "location": {
+      "lat": 27.100714,
+      "lng": 119.667865
+    },
+    "address": "宁德市福安市铁军路王基岭廉租房西北侧约80米",
+    "province": "福建省",
+    "city": "宁德市",
+    "area": "福安市",
+    "detail": 1,
+    "uid": "7207a92c8efc6089d23ce361",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_3437aace64483cd896c883868b00f0b5.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3437aace64483cd896c883868b00f0b5.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8f341f5d2729b9f4d2a5979f051f07b6.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65c1f58b6564510e04.jpeg"
+    ]
+  },
+  {
+    "name": "古田县城东消防救援站",
+    "location": {
+      "lat": 26.588794,
+      "lng": 118.767492
+    },
+    "address": "福建省宁德市古田县六一四中路159号",
+    "province": "福建省",
+    "city": "宁德市",
+    "area": "古田县",
+    "street_id": "77d36b0b34fc379c132935af",
+    "detail": 1,
+    "uid": "77d36b0b34fc379c132935af",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_452728a3579c14440734b6a6b4ec91ed.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=77d36b0b34fc379c132935af&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "古田县消防救援大队",
+    "location": {
+      "lat": 26.58865,
+      "lng": 118.767527
+    },
+    "address": "宁德市古田县六一四中路159号",
+    "province": "福建省",
+    "city": "宁德市",
+    "area": "古田县",
+    "street_id": "3068d38c2e1059c1bda2405c",
+    "detail": 1,
+    "uid": "3068d38c2e1059c1bda2405c",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_452728a3579c14440734b6a6b4ec91ed.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=3068d38c2e1059c1bda2405c&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 26.89789,
+      "lng": 120.028204
+    },
+    "address": "宁德市霞浦县六一七西路万福嘉华-西区西北侧",
+    "province": "福建省",
+    "city": "宁德市",
+    "area": "霞浦县",
+    "detail": 1,
+    "uid": "77a474f337804ffdc336440e",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_eabe70aae3a986158d6e1ab82480841b.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_eabe70aae3a986158d6e1ab82480841b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_679c3cd79ba40fdc0a8b9247354d5ddb.jpeg"
+    ]
+  },
+  {
+    "name": "福鼎市秦屿消防救援站",
+    "location": {
+      "lat": 27.113715,
+      "lng": 120.255015
+    },
+    "address": "宁德市福鼎市玉湖路福鼎市太姥山派出所西北侧约130米",
+    "province": "福建省",
+    "city": "宁德市",
+    "area": "福鼎市",
+    "detail": 1,
+    "uid": "fd985c77493265abc42ba181",
+    "cover": "https://pic-map.cdn.bcebos.com/img/1eb0b1861c829fc84b1c4c0ff83d1c3a",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/1eb0b1861c829fc84b1c4c0ff83d1c3a"
+    ]
+  }
+]

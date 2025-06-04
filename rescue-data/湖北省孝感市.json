@@ -1,0 +1,99 @@
+[
+  {
+    "name": "汉川永安道路救援中心",
+    "location": {
+      "lat": 30.644999,
+      "lng": 113.807167
+    },
+    "address": "孝感市汉川市滨湖大道富贵田园西北侧约70米",
+    "province": "湖北省",
+    "city": "孝感市",
+    "area": "汉川市",
+    "street_id": "3aa3f45eea2e09d26140a954",
+    "detail": 1,
+    "uid": "3aa3f45eea2e09d26140a954",
+    "cover": "https://taojin-his.cdn.bcebos.com/7c1ed21b0ef41bd506abc1305fda81cb38db3d7d.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=3aa3f45eea2e09d26140a954&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "博泰救援",
+    "location": {
+      "lat": 30.91421,
+      "lng": 113.949197
+    },
+    "address": "湖北省孝感市孝南区熊咀二路45号",
+    "province": "湖北省",
+    "city": "孝感市",
+    "area": "孝南区",
+    "street_id": "9f4d198b9481eb6f6ca3cce0",
+    "telephone": "13035153203",
+    "detail": 1,
+    "uid": "9f4d198b9481eb6f6ca3cce0",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_2b973176bc9cc47eaff59e92c7ba3235.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=9f4d198b9481eb6f6ca3cce0&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0499f084a715e4c5e6d482c211e7b7db.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c3c7e525782368dc0389003f164591a7.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_015d559264a0bb366dc1c902306e25ef.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3d7e3bdf0a48202919e06ad64256bb91.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_6c54a07bd7837092750a2f6dd54e092a.jpg"
+    ]
+  },
+  {
+    "name": "云梦通力道路救援中心",
+    "location": {
+      "lat": 31.01012,
+      "lng": 113.772135
+    },
+    "address": "湖北省孝感市云梦县G316(楚王城大道)",
+    "province": "湖北省",
+    "city": "孝感市",
+    "area": "云梦县",
+    "detail": 1,
+    "uid": "8e86f621837d67103c9a5e69",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_15b501a883f46bf278fb2a700de42cfa.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_15b501a883f46bf278fb2a700de42cfa.jpeg"
+    ]
+  },
+  {
+    "name": "孝感市一路通救援服务有限公司",
+    "location": {
+      "lat": 30.908047,
+      "lng": 113.915918
+    },
+    "address": "孝感市孝南区澴川南路孝感车天地",
+    "province": "湖北省",
+    "city": "孝感市",
+    "area": "孝南区",
+    "detail": 1,
+    "uid": "8c3b75fc738f2b07a4da3915",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d5f14c2c632ced66596370b6e8b1a6f6.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d5f14c2c632ced66596370b6e8b1a6f6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ea7fac375b3f339a5791cb4186c26264.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_90f3bfe866ac1d29683e0e741cdcfbea.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_fb669dd2a5539cdd2864e68c28d6ccc0.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d5ff316b0a92de618f3ba049f54e90d6.jpeg"
+    ]
+  },
+  {
+    "name": "东山头消防救援所",
+    "location": {
+      "lat": 30.796973,
+      "lng": 114.024918
+    },
+    "address": "湖北省孝感市孝南区东山头办事处京珠街9号",
+    "province": "湖北省",
+    "city": "孝感市",
+    "area": "孝南区",
+    "detail": 1,
+    "uid": "9662bc8294380b6cafee7a06",
+    "cover": "https://pic-map.cdn.bcebos.com/img/02150eef2ae8a414ae8b7ac55d40e4a8",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/02150eef2ae8a414ae8b7ac55d40e4a8"
+    ]
+  }
+]

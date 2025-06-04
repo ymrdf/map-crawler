@@ -1,0 +1,156 @@
+[
+  {
+    "name": "金山区亭林消防救援站",
+    "location": {
+      "lat": 30.887826,
+      "lng": 121.329788
+    },
+    "address": "上海市金山区南亭公路亭林镇亭升路88弄(亭升苑)南侧约30米",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "金山区",
+    "detail": 1,
+    "uid": "fbebe1101c5676892fe67b1d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_46909b17f1ddc0009ef4af919a5b53aa.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_46909b17f1ddc0009ef4af919a5b53aa.jpg"
+    ]
+  },
+  {
+    "name": "胜喆汽修补胎搭电拖车救援",
+    "location": {
+      "lat": 31.362209,
+      "lng": 121.459579
+    },
+    "address": "上海市宝山区江一西路江杨水产品批发市场",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "宝山区",
+    "telephone": "13170020151",
+    "detail": 1,
+    "uid": "726a1d2df7ed852f9b005024",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_45a1a0aacbb8be3bd80f6ef6a3557934.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_45a1a0aacbb8be3bd80f6ef6a3557934.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B662c78b7a97ed528a.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B662c78b7f08cae717.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_31c0823f46addd996354deb6bad62a80.jpeg"
+    ]
+  },
+  {
+    "name": "金山区金山消防救援站",
+    "location": {
+      "lat": 30.899344,
+      "lng": 121.190967
+    },
+    "address": "上海市金山区亭枫公路3170号",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "金山区",
+    "detail": 1,
+    "uid": "edcb36d5fa9c0e48aecb660e",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B616ce02d47b66130c5.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B616ce02d47b66130c5.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_dc4bdc29d13ac89a81a54d6615372b39.jpeg"
+    ]
+  },
+  {
+    "name": "金山区消防救援支队",
+    "location": {
+      "lat": 30.722846,
+      "lng": 121.334046
+    },
+    "address": "上海市金山区金山工业区沪杭公路8868号",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "金山区",
+    "street_id": "8f13bbc5b1dbf6b680a00cf4",
+    "telephone": "(021)57922271",
+    "detail": 1,
+    "uid": "8f13bbc5b1dbf6b680a00cf4",
+    "cover": "https://taojin-his.cdn.bcebos.com/908fa0ec08fa513d460092903b6d55fbb3fbd9d2.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=8f13bbc5b1dbf6b680a00cf4&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2b3f49bf492b696a57fdacf4bf56f068.jpeg"
+    ]
+  },
+  {
+    "name": "梦缘补胎搭电拖车道路救援",
+    "location": {
+      "lat": 31.270346,
+      "lng": 121.48607
+    },
+    "address": "上海市虹口区宝山路858号",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "虹口区",
+    "telephone": "13215522769",
+    "detail": 1,
+    "uid": "1307137b865dce5bc9c3db98",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_eb8d0e3851e31ab565b39b02c48cab6c.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_eb8d0e3851e31ab565b39b02c48cab6c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0d30a9bfe30032010f917978e1a7213e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ed89735914766d8d980ae2f80691c9f4.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_672b1cf6a1ab93d032c67b2321fabae8.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_69cd4cec3d1fd9c41d71c9ebf92a80aa.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a10aa8295718151c6fa865d7a3bbd327.jpeg"
+    ]
+  },
+  {
+    "name": "金山区吕巷消防救援站",
+    "location": {
+      "lat": 30.835919,
+      "lng": 121.19615
+    },
+    "address": "上海市金山区田欢路荡田新村东北侧约60米",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "金山区",
+    "street_id": "b441afef45cc1120e6e9657f",
+    "detail": 1,
+    "uid": "b441afef45cc1120e6e9657f",
+    "cover": "https://poi-pic.cdn.bcebos.com/578de860330e0e95e72e85974ddc2dde.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=b441afef45cc1120e6e9657f&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "基洵汽修补胎搭电拖车救援",
+    "location": {
+      "lat": 31.371306,
+      "lng": 121.47577
+    },
+    "address": "上海市宝山区泰和路森谷美食公园",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "宝山区",
+    "telephone": "13170020149",
+    "detail": 1,
+    "uid": "ec56ec102740a0b86140a93f",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_218bc61d580f21f4c52fd6ee17f8e92f.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_218bc61d580f21f4c52fd6ee17f8e92f.jpeg"
+    ]
+  },
+  {
+    "name": "迎顺汽修补胎搭电拖车救援",
+    "location": {
+      "lat": 31.283894,
+      "lng": 121.226939
+    },
+    "address": "上海市嘉定区新黄路曹安钢材交易市场",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "嘉定区",
+    "telephone": "13170020156",
+    "detail": 1,
+    "uid": "7760bf627cd9c48bf50e77af",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B669ccf2b8c7a9d18c.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B669ccf2b8c7a9d18c.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B669ccf2b8d506c0ef.jpeg"
+    ]
+  }
+]

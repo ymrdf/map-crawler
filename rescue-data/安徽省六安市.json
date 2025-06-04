@@ -1,0 +1,113 @@
+[
+  {
+    "name": "霍山县淠河路消防救援站",
+    "location": {
+      "lat": 31.414903,
+      "lng": 116.348601
+    },
+    "address": "六安市霍山县淠河东路淠河新区东南侧约170米",
+    "province": "安徽省",
+    "city": "六安市",
+    "area": "霍山县",
+    "detail": 1,
+    "uid": "df678fb762dad896e31103cc",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_eb6944db1312a1d96e4f4ce54dbece46.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_eb6944db1312a1d96e4f4ce54dbece46.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_0b2d30630a991a6bd8456cd57d8b4d31.jpg"
+    ]
+  },
+  {
+    "name": "六安市金安区消防救援大队",
+    "location": {
+      "lat": 31.765902,
+      "lng": 116.668467
+    },
+    "address": "安徽省六安市金安区长淮路",
+    "province": "安徽省",
+    "city": "六安市",
+    "area": "金安区",
+    "detail": 1,
+    "uid": "f21baa128e3abc52b817e75a",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B610364375cb42c698.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B610364375cb42c698.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_fecbbf77d4c83a6eaf8219fed5ae7777.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2eb30846cde73db1aaee3546e128b8d8.jpeg"
+    ]
+  },
+  {
+    "name": "红枫救援",
+    "location": {
+      "lat": 31.715867,
+      "lng": 115.938184
+    },
+    "address": "六安市金寨县洪家河路惠民家园北侧",
+    "province": "安徽省",
+    "city": "六安市",
+    "area": "金寨县",
+    "detail": 1,
+    "uid": "7ce0d68ffc25ae34ede4a5ea",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_0c477c1f711b403b0ef6c01994eb8e02.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0c477c1f711b403b0ef6c01994eb8e02.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_78e06025f268ead2a43306512404355d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_02491ac9278d4b766a24352bdb8304c9.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_af77d16ed363c554223022d4980182b4.jpeg"
+    ]
+  },
+  {
+    "name": "霍山县消防救援大队",
+    "location": {
+      "lat": 31.415402,
+      "lng": 116.348752
+    },
+    "address": "六安市霍山县淠河东路淠河新区东南侧约180米",
+    "province": "安徽省",
+    "city": "六安市",
+    "area": "霍山县",
+    "street_id": "f4b23fefe7867d21882fb5a7",
+    "detail": 1,
+    "uid": "f4b23fefe7867d21882fb5a7",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_4c2f36b8b621dbfb3d283d67209dfc72.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=f4b23fefe7867d21882fb5a7&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_75854c70a7d42fa497a0f800182c2f42.jpg"
+    ]
+  },
+  {
+    "name": "盛大汽车救援中心",
+    "location": {
+      "lat": 31.309664,
+      "lng": 115.594806
+    },
+    "address": "六安市金寨县X053",
+    "province": "安徽省",
+    "city": "六安市",
+    "area": "金寨县",
+    "telephone": "13516463513",
+    "detail": 1,
+    "uid": "a4ea8a492c422dd828fc4802",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_5b558d264115101ebba89c046244c876.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5b558d264115101ebba89c046244c876.jpg"
+    ]
+  },
+  {
+    "name": "舒城县城关消防救援站",
+    "location": {
+      "lat": 31.486032,
+      "lng": 116.962156
+    },
+    "address": "六安市舒城县纬二路舒城县公安局经济技术开发区派出所西侧约70米",
+    "province": "安徽省",
+    "city": "六安市",
+    "area": "舒城县",
+    "detail": 1,
+    "uid": "9a47ad5c0a3aebcb4f6d46e9",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_03c91a0be3a217553a364c14a40eaab2.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_03c91a0be3a217553a364c14a40eaab2.jpeg"
+    ]
+  }
+]

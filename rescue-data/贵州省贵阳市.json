@@ -1,0 +1,89 @@
+[
+  {
+    "name": "雄风救援",
+    "location": {
+      "lat": 26.555842,
+      "lng": 106.722652
+    },
+    "address": "贵州省贵阳市南明区新寨路30号",
+    "province": "贵州省",
+    "city": "贵阳市",
+    "area": "南明区",
+    "telephone": "18208472590",
+    "detail": 1,
+    "uid": "0b2615076cb4e2769c09f7f6",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_509b4acac1b6412b277b20cd9718aa17.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_509b4acac1b6412b277b20cd9718aa17.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9e9b8236306c1be65362500bd04f7862.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5bc5646f9425b8999d643acb49838aef.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_527dc6348f71748f88f36dc47ffe7dda.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6810ff3878fa6f511f1603de31c631ed.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_672ba9bfb15f3057ab5686e8665c2c51.jpg"
+    ]
+  },
+  {
+    "name": "贵阳市紧急救援中心",
+    "location": {
+      "lat": 26.579842,
+      "lng": 106.717526
+    },
+    "address": "都司路25号",
+    "province": "贵州省",
+    "city": "贵阳市",
+    "area": "南明区",
+    "street_id": "5ffb18161b11465e6e4760be",
+    "detail": 1,
+    "uid": "5ffb18161b11465e6e4760be",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_dca96e58e5098b7df60d76fdbaca15c9.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=5ffb18161b11465e6e4760be&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6bf6ae0551d2d3d5ed63cb4f852b709f.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a0ba122ecab988509e49ea383130f24f.jpg",
+      "https://taojin-his.cdn.bcebos.com/342ac65c1038534307f8d1869013b07eca808866.jpg",
+      "https://taojin-his.cdn.bcebos.com/7e3e6709c93d70cf85e46985f3dcd100baa12b18.jpg",
+      "https://taojin-his.cdn.bcebos.com/8b13632762d0f70373049ed205fa513d2697c50e.jpg"
+    ]
+  },
+  {
+    "name": "贵州鑫亿达汽车救援有限公司",
+    "location": {
+      "lat": 26.85212,
+      "lng": 106.611654
+    },
+    "address": "贵州省贵阳市修文县龙场镇贵酒路与阳明大道交叉口转盘西北侧利尔上河城(中国平安财产保险楼上7楼)",
+    "province": "贵州省",
+    "city": "贵阳市",
+    "area": "修文县",
+    "telephone": "18798848939",
+    "detail": 1,
+    "uid": "aa607ff7e1db71934d776e0e",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B617ff4ac7319a85a0.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B617ff4ac7319a85a0.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B612ed0c970567107b3.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B612ed0b4a4fae60cf.jpeg"
+    ]
+  },
+  {
+    "name": "贵阳市云岩区贵开路消防救援站",
+    "location": {
+      "lat": 26.602948,
+      "lng": 106.724573
+    },
+    "address": "贵州省贵阳市云岩区贵乌中路6号",
+    "province": "贵州省",
+    "city": "贵阳市",
+    "area": "云岩区",
+    "street_id": "4fb63f0bcd189109f603b888",
+    "detail": 1,
+    "uid": "4fb63f0bcd189109f603b888",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B659b531db3853146e7.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=4fb63f0bcd189109f603b888&width=720&height=360&quality=80&fovx=120",
+      "https://lbsugc.cdn.bcebos.com/images/B65e84ddc18c65d1d9.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65e84ddc0e83f702b.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65e84e04ad86ae78f.jpeg"
+    ]
+  }
+]

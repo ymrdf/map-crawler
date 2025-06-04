@@ -1,0 +1,136 @@
+[
+  {
+    "name": "平元汽车救援有限公司",
+    "location": {
+      "lat": 28.882849,
+      "lng": 117.257403
+    },
+    "address": "景德镇市乐平市S205",
+    "province": "江西省",
+    "city": "景德镇市",
+    "area": "乐平市",
+    "telephone": "19979806099",
+    "detail": 1,
+    "uid": "fa7552ff84a3fa110aa8d4dd",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B6626510c233e5123f6.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B6626510c233e5123f6.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6626510c1c7e5e96c.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6626510c1a6b78b28.jpeg",
+      "https://pic-map.cdn.bcebos.com/img/1aa2861bbba89b44a06c08570bc48d40",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bd7f78e347bc3cb7a03ea2c9d3fef9d1.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8cb1b2a0f367ab822015e66d4fb01441.jpeg"
+    ]
+  },
+  {
+    "name": "鑫运道路救援有限公司",
+    "location": {
+      "lat": 29.362458,
+      "lng": 117.225776
+    },
+    "address": "景德镇浮梁县景北高速出口往加油站方向直走200米",
+    "province": "江西省",
+    "city": "景德镇市",
+    "area": "浮梁县",
+    "telephone": "13397987575",
+    "detail": 1,
+    "uid": "6eadf1bd6b23fba38bfc06e0",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_b3a3920700509c187bbde2ce20b4e942.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b3a3920700509c187bbde2ce20b4e942.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B62edcb55089a3154df.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1b4d2daec9f417d1166554f31d228b25.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d11ab8f5bd8ac969c0fb4a51dbe0db66.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_88c020fe605c217403e1255e646a4db5.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ed0254551ab0629d2c14ab16ea9c2e1b.jpeg"
+    ]
+  },
+  {
+    "name": "景乐轮胎城补胎",
+    "location": {
+      "lat": 29.123972,
+      "lng": 117.10044
+    },
+    "address": "江西省景德镇市昌江区鲇鱼山镇G206附近更换轮胎轮胎销售品牌轮胎道路救援救援搭电",
+    "province": "江西省",
+    "city": "景德镇市",
+    "area": "昌江区",
+    "detail": 1,
+    "uid": "98aa96d6d443daacad0457fb",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B6616a170aee5510798.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B6616a170aee5510798.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6616a17005358f403.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6616a1702adf1b43e.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6616a1737fc644930.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6616a1708fdb28701.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6616a1705e96b11dc7.jpeg"
+    ]
+  },
+  {
+    "name": "滴滴出行(乐平市授权代理商)",
+    "location": {
+      "lat": 28.975975,
+      "lng": 117.17249
+    },
+    "address": "江西省景德镇市乐平市大连路交警大队西南门旁",
+    "province": "江西省",
+    "city": "景德镇市",
+    "area": "乐平市",
+    "telephone": "13698417672,4000601120",
+    "detail": 1,
+    "uid": "8397f0873245b8bff7b91693",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B661aaf93b200a14d9e.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B661aaf93b200a14d9e.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B661aaf940ee7c5299.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B661aaf93a01faa2d4.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B661aaf93a575d6208.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B661aaf93a57e593dc.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B661aaf93bd962e1ef.jpeg"
+    ]
+  },
+  {
+    "name": "曙光救援队",
+    "location": {
+      "lat": 28.957724,
+      "lng": 117.177919
+    },
+    "address": "江西省景德镇市乐平市S306利华再生资源市场二区1栋-118~119号",
+    "province": "江西省",
+    "city": "景德镇市",
+    "area": "乐平市",
+    "detail": 1,
+    "uid": "b5c98eecfdb543a4882fb54d",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B628c445b4527314386.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B628c445b4527314386.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B628c42b8698f114ff9.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0549b8e0d0d8caa2d48304c2f540891a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3b4bed6f24fd89c6a307c369dd93c75e.jpeg"
+    ]
+  },
+  {
+    "name": "星辉道路救援有限公司",
+    "location": {
+      "lat": 29.269176,
+      "lng": 117.176737
+    },
+    "address": "江西省景德镇市昌江区长虹银湖新都10幢1号商铺",
+    "province": "江西省",
+    "city": "景德镇市",
+    "area": "昌江区",
+    "telephone": "18179877788",
+    "detail": 1,
+    "uid": "7d8316332a65b1c7cf06a432",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_216fa6a92a64242bbef747a1b11d4656.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_216fa6a92a64242bbef747a1b11d4656.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a58f24dfce67d82313c37216e094049c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_674f2dfa670f45d3d42a654efc8dc22a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b0ff537666022e67c0e041787448b3f8.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_02af53b6c6cb9548a1e6c1d976cb1c6e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9c40a9046e50c2841dded9a2dfb0515c.jpeg"
+    ]
+  }
+]

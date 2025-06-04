@@ -1,0 +1,94 @@
+[
+  {
+    "name": "国家水域救援上海大队",
+    "location": {
+      "lat": 31.352464,
+      "lng": 121.634928
+    },
+    "address": "上海市浦东新区高东镇随塘公路5445弄5号",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "浦东新区",
+    "detail": 1,
+    "uid": "4557d55728e4e767eb12e4cd",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ba40e9a6d8af2cc462656d034b814fd9.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ba40e9a6d8af2cc462656d034b814fd9.jpeg"
+    ]
+  },
+  {
+    "name": "上海锐畅汽车救援",
+    "location": {
+      "lat": 31.157642,
+      "lng": 121.608292
+    },
+    "address": "上海市浦东新区康桥东路288弄1200~1280号",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "浦东新区",
+    "telephone": "15921852668",
+    "detail": 1,
+    "uid": "274b8da2766604bc2e47334f",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ad449119a77c76dc94d647c9a99452c6.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ad449119a77c76dc94d647c9a99452c6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9edfeda6ebbdbcc84d4f200476911354.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2334d7bbe70f5593978572c89356dfa6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b3b46543c3b1d86efc79f3069b9215d2.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f833a87fd3b40e73244245c7d6d0e281.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ff7e192e1d8e95b63411cde31e1a7a30.jpeg"
+    ]
+  },
+  {
+    "name": "浦东新区泥城消防救援站",
+    "location": {
+      "lat": 30.918785,
+      "lng": 121.825132
+    },
+    "address": "上海市浦东新区新泥路浦纳逸墅东侧约260米",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "浦东新区",
+    "detail": 1,
+    "uid": "2739e48f3d27555852e5c5e1",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_74686eff287f5172ae47938e34884acc.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_74686eff287f5172ae47938e34884acc.jpeg"
+    ]
+  },
+  {
+    "name": "浦东新区铜山消防救援站",
+    "location": {
+      "lat": 31.249988,
+      "lng": 121.537874
+    },
+    "address": "上海市浦东新区铜山街路8号",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "浦东新区",
+    "street_id": "3b388e4de15e318ec5f50d5d",
+    "detail": 1,
+    "uid": "3b388e4de15e318ec5f50d5d",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B65f294c31d3e6165cd.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=3b388e4de15e318ec5f50d5d&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "浦东新区唐镇消防救援站",
+    "location": {
+      "lat": 31.206415,
+      "lng": 121.666833
+    },
+    "address": "上海市浦东新区南曹路540号",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "浦东新区",
+    "detail": 1,
+    "uid": "32da21a639338560d3ff2348",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B67b3256d7b18c1800d.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B67b3256d7b18c1800d.jpeg"
+    ]
+  }
+]

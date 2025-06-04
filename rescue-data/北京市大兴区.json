@@ -1,0 +1,104 @@
+[
+  {
+    "name": "兴隆补胎送油搭电拖车救援",
+    "location": {
+      "lat": 39.866399,
+      "lng": 116.474375
+    },
+    "address": "北京市朝阳区大羊坊路东盈苑小区",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "朝阳区",
+    "telephone": "13275529017",
+    "detail": 1,
+    "uid": "2040b1b5b40afa3ac13644a9",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_8371947659e160d6c86d64b4d8cfb4be.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8371947659e160d6c86d64b4d8cfb4be.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6998a24009e8878ba4eb7ca7d7b3018a.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 39.818299,
+      "lng": 116.422295
+    },
+    "address": "北京市大兴区树桥路旧宫镇南场二队树桥十一号大院南侧约100米",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "大兴区",
+    "detail": 1,
+    "uid": "9666bae9911ebb1c1d1d116f",
+    "cover": "https://pic-map.cdn.bcebos.com/img/95a7d47056a4d9a5642ddf67ab43ec49",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/95a7d47056a4d9a5642ddf67ab43ec49"
+    ]
+  },
+  {
+    "name": "大兴区狼垡消防救援站",
+    "location": {
+      "lat": 39.800485,
+      "lng": 116.294457
+    },
+    "address": "北京市大兴区芦花路大兴区公安消防支队狼垡中队",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "大兴区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "b6ea550a1848d07c8b2fb512",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_b30ed3fc88f41f84ade704a53357e2be.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b30ed3fc88f41f84ade704a53357e2be.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7200c49d612736a32ddee86165342734.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c3431591274721bbcff5a59202b01f8c.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d2db47286420a2a84d463fc5d9682643.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_951e7fbab2672dc7fb8df480515a1807.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8e000075b59de53ca0d06cd19481ab03.jpeg"
+    ]
+  },
+  {
+    "name": "轮胎专卖补胎救援",
+    "location": {
+      "lat": 40.218117,
+      "lng": 116.759516
+    },
+    "address": "北京市顺义区昌金路与李魏路交叉路口西南侧",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "顺义区",
+    "telephone": "15321838818",
+    "detail": 1,
+    "uid": "772de384690bed79353a715e",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/a4ecbdfb95827de7c5cfaf3f372c282e_2138.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/a4ecbdfb95827de7c5cfaf3f372c282e_2138.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/22cf74b2bcfa2bc2e8fecd9d30373962_3231.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/d2a7d2790cbba3faa92e8ad2a663d831_3832.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/a28df46eb0af32c8e515c703f6d8c0e5_4524.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/4a10182ab10b1bcfb9df5865e20ba73d_3485.jpeg",
+      "https://pic-map.cdn.bcebos.com/img/00efc73d9705a1e296e0416586cec3f6"
+    ]
+  },
+  {
+    "name": "补胎救援",
+    "location": {
+      "lat": 39.813867,
+      "lng": 116.435232
+    },
+    "address": "北京市大兴区南场路红星北里小区东侧",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "大兴区",
+    "detail": 1,
+    "uid": "d5684437c87a3626ae080f77",
+    "cover": "https://taojin-his.cdn.bcebos.com/ae51f3deb48f8c54f1daef0935292df5e0fe7f8e.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/ae51f3deb48f8c54f1daef0935292df5e0fe7f8e.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B5f9388a7ca4303d80.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d8e5c6fff58cd285c4e5788789322ed4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_af1e213c4faef46051520fea9786ef3e.jpeg"
+    ]
+  }
+]

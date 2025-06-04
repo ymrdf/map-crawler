@@ -1,0 +1,106 @@
+[
+  {
+    "name": "射洪市水上应急救援中心",
+    "location": {
+      "lat": 30.868642,
+      "lng": 105.387088
+    },
+    "address": "遂宁市射洪市振洪路君悦尚都东北侧约60米",
+    "province": "四川省",
+    "city": "遂宁市",
+    "area": "射洪市",
+    "detail": 1,
+    "uid": "14883538cee2811e81a12eb7",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_8f73d37250b127c6e100f036f78ee2f7.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8f73d37250b127c6e100f036f78ee2f7.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_34e954d66662b69660e3ea2c1189fb2a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_25c955ab91993058cc830ac0e9cf3c44.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d440ff17d68b59b87c2dfb740823b321.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c745c41e006531c212db6d8db9215ee8.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65c85335a046b11aaa.jpeg"
+    ]
+  },
+  {
+    "name": "加气补胎",
+    "location": {
+      "lat": 30.597585,
+      "lng": 105.241289
+    },
+    "address": "遂宁市大英县环城路112号道路救援大小车轮胎",
+    "province": "四川省",
+    "city": "遂宁市",
+    "area": "大英县",
+    "street_id": "6acf4213fef1577840e19295",
+    "telephone": "15082592685",
+    "detail": 1,
+    "uid": "6acf4213fef1577840e19295",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_01cda0c66d5c5c602f43095554eec181.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=6acf4213fef1577840e19295&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b4f584cb633d1d0c775f43643752d90a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_13e1b228600d76461ad87a905bba0c01.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_404e13d543e993c1c2cac26396615a59.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4bd36fb7a78d92b4f57736d6d4019f92.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2715fba694316acd24d3406c7eac344f.jpeg"
+    ]
+  },
+  {
+    "name": "遂宁平安应急救援队",
+    "location": {
+      "lat": 30.527936,
+      "lng": 105.606934
+    },
+    "address": "遂宁市船山区灵云路中铁尚城",
+    "province": "四川省",
+    "city": "遂宁市",
+    "area": "船山区",
+    "detail": 1,
+    "uid": "baff81e469cfe06207fef500",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_2820de085236c5c7440faf93d6f9f510.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2820de085236c5c7440faf93d6f9f510.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_33a26970259191d36bf77004255053ce.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6ad44bfa03b8d5300b005f2db66b7350.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4a0789de11c04e2a79a12b9e9e8ca02c.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B675e72122de3216e0f.jpeg"
+    ]
+  },
+  {
+    "name": "太湖水上应急救援站",
+    "location": {
+      "lat": 30.872428,
+      "lng": 105.399523
+    },
+    "address": "遂宁市射洪市太和街德胜小区(民生路)",
+    "province": "四川省",
+    "city": "遂宁市",
+    "area": "射洪市",
+    "detail": 1,
+    "uid": "70cd14bd832622e548cc4a30",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_24a1ce5e0777ce6764a9e6905cc659e5.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_24a1ce5e0777ce6764a9e6905cc659e5.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_86df3585c9c5daf8072a37120d9db403.jpeg"
+    ]
+  },
+  {
+    "name": "大英县隆盛镇政府专职消防救援站",
+    "location": {
+      "lat": 30.611473,
+      "lng": 105.36427
+    },
+    "address": "遂宁市大英县G350隆盛派出所南侧",
+    "province": "四川省",
+    "city": "遂宁市",
+    "area": "大英县",
+    "detail": 1,
+    "uid": "f228eec9ed819d65c7f02517",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B62c3aff1022ebdf52.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B62c3aff1022ebdf52.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B62c3b002019054f1d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e04beef24d5cc94b3ca99883201fa1bb.jpeg"
+    ]
+  }
+]

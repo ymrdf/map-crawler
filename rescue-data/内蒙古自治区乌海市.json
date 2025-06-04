@@ -1,0 +1,84 @@
+[
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 39.699827,
+      "lng": 106.847222
+    },
+    "address": "乌海市海勃湾区光明路海晨小区东侧约140米",
+    "province": "内蒙古自治区",
+    "city": "乌海市",
+    "area": "海勃湾区",
+    "detail": 1,
+    "uid": "dd514fe42530d8eec61b7531",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_2ec1dd8e08eab293529e213947024c45.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2ec1dd8e08eab293529e213947024c45.jpg"
+    ]
+  },
+  {
+    "name": "广达二手车道路救援",
+    "location": {
+      "lat": 39.440049,
+      "lng": 106.877382
+    },
+    "address": "内蒙古自治区乌海市海南区亚力达物流园中心B区2号楼5号商铺",
+    "province": "内蒙古自治区",
+    "city": "乌海市",
+    "area": "海南区",
+    "telephone": "15147387666,18847326777",
+    "detail": 1,
+    "uid": "21d944b7f08f8a3a028972f3",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_35b4cb5b3216409240558358e974dfef.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_35b4cb5b3216409240558358e974dfef.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_67ab7a38defa711793f94a7f30b5651d.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bbd206a1a3ea79e964c06e1287ad22f7.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_257e942684cd0518b0a8ea0b6635c4f4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6f0f3a979577dfa6b65f723b94bbcde9.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0d609c5b15d61d44db75b003a1cf47df.jpeg"
+    ]
+  },
+  {
+    "name": "亮途汽车改灯",
+    "location": {
+      "lat": 39.688745,
+      "lng": 106.854424
+    },
+    "address": "乌海市海勃湾区狮城东街一通厂住宅",
+    "province": "内蒙古自治区",
+    "city": "乌海市",
+    "area": "海勃湾区",
+    "street_id": "e417d1923482c04ea11de9fb",
+    "telephone": "17804738889",
+    "detail": 1,
+    "uid": "e417d1923482c04ea11de9fb",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ab83a35e30572803702efe44d00bea4d.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=e417d1923482c04ea11de9fb&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bcc987d8928bc69bfc45a9153d95dc4a.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c412ac96587b535ee0c5b3b9b7452d7d.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_29f13b27194d19751dfb108a0ec71224.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c71048f9bc2b2cf71f746d072a0512e1.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5c51bf34a47b8eca704316fd550cef45.jpeg"
+    ]
+  },
+  {
+    "name": "隆升汽车服务",
+    "location": {
+      "lat": 39.48795,
+      "lng": 106.731253
+    },
+    "address": "内蒙古自治区乌海市乌达区解放南路100-11号",
+    "province": "内蒙古自治区",
+    "city": "乌海市",
+    "area": "乌达区",
+    "telephone": "13514736842",
+    "detail": 1,
+    "uid": "5de1901c9aaf7706dc1e52a4",
+    "cover": "https://taojin-his.cdn.bcebos.com/2fdda3cc7cd98d104f001f69273fb80e7aec9095.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/2fdda3cc7cd98d104f001f69273fb80e7aec9095.jpg"
+    ]
+  }
+]

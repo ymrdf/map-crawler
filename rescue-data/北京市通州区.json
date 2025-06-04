@@ -1,0 +1,144 @@
+[
+  {
+    "name": "补胎救援",
+    "location": {
+      "lat": 39.851401,
+      "lng": 116.825743
+    },
+    "address": "北京市通州区X002(胡郎路)",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "通州区",
+    "telephone": "15286950068",
+    "detail": 1,
+    "uid": "d3d567e22ff80eb2f32d83d5",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B66ea935821c621858d.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B66ea935821c621858d.jpeg"
+    ]
+  },
+  {
+    "name": "兴隆补胎送油搭电拖车救援",
+    "location": {
+      "lat": 39.866399,
+      "lng": 116.474375
+    },
+    "address": "北京市朝阳区大羊坊路东盈苑小区",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "朝阳区",
+    "telephone": "13275529017",
+    "detail": 1,
+    "uid": "2040b1b5b40afa3ac13644a9",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_8371947659e160d6c86d64b4d8cfb4be.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8371947659e160d6c86d64b4d8cfb4be.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6998a24009e8878ba4eb7ca7d7b3018a.jpeg"
+    ]
+  },
+  {
+    "name": "补胎电瓶救援汽修",
+    "location": {
+      "lat": 39.815666,
+      "lng": 116.734807
+    },
+    "address": "北京市通州区枣林庄村枣林庄小学车站南100米",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "通州区",
+    "detail": 1,
+    "uid": "9a6c2cb7afab0b153617dc16",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B63f18fe560766e5a5.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B63f18fe560766e5a5.jpeg"
+    ]
+  },
+  {
+    "name": "补胎轮胎电瓶高速救援",
+    "location": {
+      "lat": 39.718821,
+      "lng": 116.785718
+    },
+    "address": "北京市通州区G230(通武线)",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "通州区",
+    "street_id": "1639da4d4a6026e0f4231001",
+    "telephone": "17800291454",
+    "detail": 1,
+    "uid": "1639da4d4a6026e0f4231001",
+    "cover": "https://taojin-his.cdn.bcebos.com/7c1ed21b0ef41bd568f3df2a5fda81cb38db3d4f.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=1639da4d4a6026e0f4231001&width=720&height=360&quality=80&fovx=120",
+      "https://lbsugc.cdn.bcebos.com/images/B6458877dac75bf817.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6458877dde62d119b3.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B5f4c97f199d6dc167.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B5f4c97e8a6450134cd.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B5f812e4350dae170e3.jpeg"
+    ]
+  },
+  {
+    "name": "轮胎专卖补胎救援",
+    "location": {
+      "lat": 40.218117,
+      "lng": 116.759516
+    },
+    "address": "北京市顺义区昌金路与李魏路交叉路口西南侧",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "顺义区",
+    "telephone": "15321838818",
+    "detail": 1,
+    "uid": "772de384690bed79353a715e",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/a4ecbdfb95827de7c5cfaf3f372c282e_2138.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/a4ecbdfb95827de7c5cfaf3f372c282e_2138.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/22cf74b2bcfa2bc2e8fecd9d30373962_3231.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/d2a7d2790cbba3faa92e8ad2a663d831_3832.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/a28df46eb0af32c8e515c703f6d8c0e5_4524.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/4a10182ab10b1bcfb9df5865e20ba73d_3485.jpeg",
+      "https://pic-map.cdn.bcebos.com/img/00efc73d9705a1e296e0416586cec3f6"
+    ]
+  },
+  {
+    "name": "通州区商务园消防救援站",
+    "location": {
+      "lat": 39.947275,
+      "lng": 116.658285
+    },
+    "address": "北京市通州区商通大道朝北8080东侧约90米",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "通州区",
+    "detail": 1,
+    "uid": "e524a6b9ea5842feabf0cd85",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_2f328900779e31f007088bd19f641523.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2f328900779e31f007088bd19f641523.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b0e2772fd22ed333e82ecf8a3131f54f.jpeg"
+    ]
+  },
+  {
+    "name": "通州区玉桥消防救援站",
+    "location": {
+      "lat": 39.889827,
+      "lng": 116.692575
+    },
+    "address": "北京市通州区玉桥中路梨园东里菜市场东南侧约30米",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "通州区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "980305450ba1aa2bc2f1cf72",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d9d90b6c7d8263f7ee4e085206ce53c9.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d9d90b6c7d8263f7ee4e085206ce53c9.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_470e2435c92348e6cdd8ea0e6242eacc.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bb1de5e522cd54536c49110cedf2d684.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b3bc936ad80612640a512a4f627d3e56.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_fbeb22ca5a80463ec2c1884fc6872590.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_771b2014b9c36bde7d7371148b3ef8f8.jpeg"
+    ]
+  }
+]

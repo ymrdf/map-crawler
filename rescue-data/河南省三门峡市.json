@@ -1,0 +1,92 @@
+[
+  {
+    "name": "义马市消防救援指挥中心",
+    "location": {
+      "lat": 34.747109,
+      "lng": 111.882759
+    },
+    "address": "三门峡市义马市民安街千禧百货(义马店)南侧约180米",
+    "province": "河南省",
+    "city": "三门峡市",
+    "area": "义马市",
+    "detail": 1,
+    "uid": "2d77dde9f5c61d305a3ac8d2",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ef70c6121bbdeec502e42dde216d603c.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ef70c6121bbdeec502e42dde216d603c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d4ccb46ace52d46cf09831ed911496a6.jpg"
+    ]
+  },
+  {
+    "name": "仰韶救援",
+    "location": {
+      "lat": 34.757745,
+      "lng": 111.807825
+    },
+    "address": "三门峡市渑池县仰韶大街万洋国际商贸博览城(东城府邸东)南侧约170米",
+    "province": "河南省",
+    "city": "三门峡市",
+    "area": "渑池县",
+    "detail": 1,
+    "uid": "f9451ba55abee317b4265527",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_bdbef0b88256f8c8669aa26c0b261190.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bdbef0b88256f8c8669aa26c0b261190.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ac91831697a36f1d2989f8137030f569.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c15c41cc72c904fd22a2b0358e135411.jpeg"
+    ]
+  },
+  {
+    "name": "义马市应急救援大队",
+    "location": {
+      "lat": 34.753577,
+      "lng": 111.855126
+    },
+    "address": "三门峡市义马市泰山路白云小区南侧约100米",
+    "province": "河南省",
+    "city": "三门峡市",
+    "area": "义马市",
+    "detail": 1,
+    "uid": "8269cd3f83061a4af503b888",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_290e91b293b489b7a7708f8a16c02887.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_290e91b293b489b7a7708f8a16c02887.jpeg"
+    ]
+  },
+  {
+    "name": "义马市神鹰救援队",
+    "location": {
+      "lat": 34.756323,
+      "lng": 111.888813
+    },
+    "address": "三门峡市义马市子章街义煤集团榕苑小区东北侧约210米",
+    "province": "河南省",
+    "city": "三门峡市",
+    "area": "义马市",
+    "detail": 1,
+    "uid": "af7e74f317133389eb1e9719",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_2ae44dcafb67de4d36e91fe5a51c4a6b.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2ae44dcafb67de4d36e91fe5a51c4a6b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5333886cd40f247da28bce2499acb0f8.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_54ee93ae8d03a6efb8efde14cf88e26c.jpeg"
+    ]
+  },
+  {
+    "name": "轩辕路消防救援站",
+    "location": {
+      "lat": 34.758577,
+      "lng": 111.177933
+    },
+    "address": "三门峡市湖滨区大岭南路与轩辕路交叉路口往东约70米",
+    "province": "河南省",
+    "city": "三门峡市",
+    "area": "湖滨区",
+    "detail": 1,
+    "uid": "a69b51a440e7a6405fd4fecb",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_109cd49ac18c25b386102030726f4988.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_109cd49ac18c25b386102030726f4988.jpeg"
+    ]
+  }
+]

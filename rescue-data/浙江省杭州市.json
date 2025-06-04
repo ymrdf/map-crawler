@@ -1,0 +1,142 @@
+[
+  {
+    "name": "汽车救援维修站",
+    "location": {
+      "lat": 30.358038,
+      "lng": 120.255772
+    },
+    "address": "杭州市临平区留石高架路和睦桥十三组",
+    "province": "浙江省",
+    "city": "杭州市",
+    "area": "临平区",
+    "detail": 1,
+    "uid": "b78d40b6c844b9b3ca2915dc",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B6571b909c84ca857d.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B6571b909c84ca857d.jpeg"
+    ]
+  },
+  {
+    "name": "飞马救援",
+    "location": {
+      "lat": 30.326713,
+      "lng": 120.192839
+    },
+    "address": "浙江省杭州市拱墅区费家塘路588号电子产业园7幢1层",
+    "province": "浙江省",
+    "city": "杭州市",
+    "area": "拱墅区",
+    "telephone": "15993181329",
+    "detail": 1,
+    "uid": "a5b6e2ff2730af1a5810934e",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_476d8f9ed468b8e43d7961eaa32f63cc.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_476d8f9ed468b8e43d7961eaa32f63cc.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ef05ea501a0d367eddc4d5c09522e0e5.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b6df5a45e36456d4485094581a588234.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a474a6cb8e8dc119719027ad50be91e7.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_32b57029d83b0729e4f21954270777f7.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B664acea45472413f11.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 30.298899,
+      "lng": 120.231636
+    },
+    "address": "杭州市上城区益汇路新中宇维萨",
+    "province": "浙江省",
+    "city": "杭州市",
+    "area": "上城区",
+    "detail": 1,
+    "uid": "61200b1bdd90ec2583a00ca1",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_de4efce0a2fa6cb7d3d56f0acaf948f4.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_de4efce0a2fa6cb7d3d56f0acaf948f4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a48cfb2d4ce529fcd3de82f7f604929f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4701df83138ca40fe0d9adaa5fcf57c5.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_21f64538ea32964b3af28b14361ee802.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6d4e80419463ebf2819d2f176292ff86.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_969a1f9ac70c11604945fc31bf43436c.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 30.305892,
+      "lng": 120.277127
+    },
+    "address": "杭州市上城区九睦路杨公佳苑",
+    "province": "浙江省",
+    "city": "杭州市",
+    "area": "上城区",
+    "detail": 1,
+    "uid": "19ec5574ebb120ffe407386d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_e25e94bdb36888aef2ddaae5f710d552.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e25e94bdb36888aef2ddaae5f710d552.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a76f0e2c60f7d23467fc65b993958fc7.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d2fc1d19028b7a0ee440e41be34dbc62.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e31f15dadb57779260014efb84043eb0.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65d0ab47ed58e13e25.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3d781c02cb6f4b1acdcdb8088ae47f04.jpeg"
+    ]
+  },
+  {
+    "name": "杭州市消防救援支队指挥中心",
+    "location": {
+      "lat": 30.233321,
+      "lng": 120.203344
+    },
+    "address": "浙江省杭州市上城区鲲鹏路363号",
+    "province": "浙江省",
+    "city": "杭州市",
+    "area": "上城区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "ff3efd04d77fa7f160180973",
+    "cover": "https://taojin-his.cdn.bcebos.com/2fdda3cc7cd98d109b84ec792a3fb80e7bec9022.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/2fdda3cc7cd98d109b84ec792a3fb80e7bec9022.jpg",
+      "https://taojin-his.cdn.bcebos.com/bd315c6034a85edf94d4b22542540923dd54755f.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b64b1910874b83a727dc7afccfbdadee.jpg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 30.248703,
+      "lng": 120.20661
+    },
+    "address": "浙江省杭州市上城区秋涛路550号",
+    "province": "浙江省",
+    "city": "杭州市",
+    "area": "上城区",
+    "detail": 1,
+    "uid": "eb5c85568f9e9c52fea7780e",
+    "cover": "https://pic-map.cdn.bcebos.com/img/231b8d0f881cb528178084bf62ec7198",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/231b8d0f881cb528178084bf62ec7198"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 30.297049,
+      "lng": 120.195722
+    },
+    "address": "杭州市上城区机场路一巷三里新城东升苑",
+    "province": "浙江省",
+    "city": "杭州市",
+    "area": "上城区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "cec4836a76a85bd6b9df8fa7",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ba0d4ccbea7eb8116ffcf03b67dfa52c.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ba0d4ccbea7eb8116ffcf03b67dfa52c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_da73cb424735f04255246ff1de59ff45.jpeg"
+    ]
+  }
+]

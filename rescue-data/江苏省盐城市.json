@@ -1,0 +1,129 @@
+[
+  {
+    "name": "盐城立达道路救援",
+    "location": {
+      "lat": 33.438937,
+      "lng": 120.12255
+    },
+    "address": "江苏省盐城市亭湖区开放大道288号江苏明珠世贸商城A1-104",
+    "province": "江苏省",
+    "city": "盐城市",
+    "area": "亭湖区",
+    "telephone": "18052958045",
+    "detail": 1,
+    "uid": "51a578958d39141f240bd053",
+    "cover": "https://taojin-his.cdn.bcebos.com/42166d224f4a20a47cb9fbd29e529822720ed004.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/42166d224f4a20a47cb9fbd29e529822720ed004.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9dcf4b14725d9a308fa0b54452c80f79.jpeg",
+      "https://poi-pic.cdn.bcebos.com/7215dd8700b6365f5241d02dcf1859ef.jpg",
+      "https://taojin-his.cdn.bcebos.com/f31fbe096b63f6248b39547f8844ebf81a4ca362.jpg",
+      "https://taojin-his.cdn.bcebos.com/b90e7bec54e736d108e1f21f94504fc2d5626932.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_995eea96f7189d64db6d9d249a65ff3f.jpeg"
+    ]
+  },
+  {
+    "name": "盐城畅达汽车救援有限公司",
+    "location": {
+      "lat": 34.183902,
+      "lng": 119.627143
+    },
+    "address": "盐城市响水县S326",
+    "province": "江苏省",
+    "city": "盐城市",
+    "area": "响水县",
+    "detail": 1,
+    "uid": "447993ee1e35b4e843e192e1",
+    "cover": "https://pic-map.cdn.bcebos.com/img/706a467d34e68046063fa28215d13150",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/706a467d34e68046063fa28215d13150"
+    ]
+  },
+  {
+    "name": "盐城市灭火救援应急中心",
+    "location": {
+      "lat": 33.380179,
+      "lng": 120.258789
+    },
+    "address": "盐城市亭湖区岷江路60号",
+    "province": "江苏省",
+    "city": "盐城市",
+    "area": "亭湖区",
+    "detail": 1,
+    "uid": "26b31d22ee2aaff38a36ee30",
+    "cover": "https://pic-map.cdn.bcebos.com/img/f4ae8949b53419fb2c269cb482e92d9a",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/f4ae8949b53419fb2c269cb482e92d9a"
+    ]
+  },
+  {
+    "name": "东台市梁垛镇消防救援站",
+    "location": {
+      "lat": 32.777931,
+      "lng": 120.386532
+    },
+    "address": "江苏省盐城市东台市苗桥路远东公馆东北侧约230米",
+    "province": "江苏省",
+    "city": "盐城市",
+    "area": "东台市",
+    "detail": 1,
+    "uid": "5cc4d9e319204f7a31870acf",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B62649885108839359.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B62649885108839359.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_de212ebed6109ef13f7c7763b008e180.jpeg"
+    ]
+  },
+  {
+    "name": "滨海县坎北街道消防救援站",
+    "location": {
+      "lat": 34.045724,
+      "lng": 119.848919
+    },
+    "address": "盐城市滨海县程庄路与二坎路交叉路口往北约140米",
+    "province": "江苏省",
+    "city": "盐城市",
+    "area": "滨海县",
+    "detail": 1,
+    "uid": "60e229edae026eebd22dd611",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B625282fc6382652e0.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B625282fc6382652e0.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_89ae7c3d25a734f2f065bb24a020d70c.jpeg"
+    ]
+  },
+  {
+    "name": "楼王镇消防救援站",
+    "location": {
+      "lat": 33.288694,
+      "lng": 119.832504
+    },
+    "address": "盐城市盐都区楼王镇文昌路214号",
+    "province": "江苏省",
+    "city": "盐城市",
+    "area": "盐都区",
+    "detail": 1,
+    "uid": "c181a10f9e978170c42ba1ed",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_9a72fbeef835d8ca981046261a17dcf5.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9a72fbeef835d8ca981046261a17dcf5.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 33.372228,
+      "lng": 119.781065
+    },
+    "address": "盐城市建湖县东夏路建湖县沿河初级中学(育才桥)",
+    "province": "江苏省",
+    "city": "盐城市",
+    "area": "建湖县",
+    "detail": 1,
+    "uid": "d64ab5ee3f24bf0d14b54b02",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_89536a108b4d1ae753e91446607246ca.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_89536a108b4d1ae753e91446607246ca.jpeg"
+    ]
+  }
+]

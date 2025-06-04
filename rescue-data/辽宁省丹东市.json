@@ -1,0 +1,90 @@
+[
+  {
+    "name": "丹东市元宝区消防救援大队",
+    "location": {
+      "lat": 40.154946,
+      "lng": 124.427571
+    },
+    "address": "辽宁省丹东市振安区临江后街11号",
+    "province": "辽宁省",
+    "city": "丹东市",
+    "area": "振安区",
+    "detail": 1,
+    "uid": "86697605bcb10138fa42b204",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B60377f5615a2b8a39.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B60377f5615a2b8a39.jpeg",
+      "https://pic-map.cdn.bcebos.com/img/1f172c55d3c5063e00fb41556e8940e6"
+    ]
+  },
+  {
+    "name": "丹东市振安区站前西街消防救援站",
+    "location": {
+      "lat": 40.264652,
+      "lng": 124.271851
+    },
+    "address": "辽宁省丹东市振安区柞徒线水岸一品销售中心对过",
+    "province": "辽宁省",
+    "city": "丹东市",
+    "area": "振安区",
+    "detail": 1,
+    "uid": "b1fba7756e58531b46e27430",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_4a59d3bf19ee59aa79e00e808199dd72.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4a59d3bf19ee59aa79e00e808199dd72.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 40.734258,
+      "lng": 124.794626
+    },
+    "address": "丹东市宽甸满族自治县左子元街泰和龙庭西侧约90米",
+    "province": "辽宁省",
+    "city": "丹东市",
+    "area": "宽甸满族自治县",
+    "detail": 1,
+    "uid": "f3517382199dbbbf9fe321bc",
+    "cover": "https://pic-map.cdn.bcebos.com/img/d53cee07615780a153e2adc608bb8537",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/d53cee07615780a153e2adc608bb8537"
+    ]
+  },
+  {
+    "name": "丹东市万众应急救援队救援站",
+    "location": {
+      "lat": 40.048914,
+      "lng": 124.357265
+    },
+    "address": "丹东市振兴区鸭绿江大街11号1-1号(浪头港区)鸭绿江国家级风景名胜区丹东舰景区",
+    "province": "辽宁省",
+    "city": "丹东市",
+    "area": "振兴区",
+    "detail": 1,
+    "uid": "fd245230a5e0c3562b201adb",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_0126fe17d0c8da538690848facc1c3a6.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0126fe17d0c8da538690848facc1c3a6.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 40.129301,
+      "lng": 124.39745
+    },
+    "address": "辽宁省丹东市振兴区十纬路汇侨国际广场西南侧约30米",
+    "province": "辽宁省",
+    "city": "丹东市",
+    "area": "振兴区",
+    "detail": 1,
+    "uid": "abf6d87041e9361a3d9a5eab",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_78048ddda884552fbbc7d3926b930332.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_78048ddda884552fbbc7d3926b930332.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_fbae31074fc191b46d29326625d1a76c.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_dc8e99df5ba27725ab41fdb632df4665.jpeg"
+    ]
+  }
+]

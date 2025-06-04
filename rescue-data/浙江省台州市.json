@@ -1,0 +1,169 @@
+[
+  {
+    "name": "119消防救援",
+    "location": {
+      "lat": 28.574632,
+      "lng": 121.269136
+    },
+    "address": "台州市黄岩区繁荣新街台州市黄岩区院桥镇镇北小学西侧约150米",
+    "province": "浙江省",
+    "city": "台州市",
+    "area": "黄岩区",
+    "detail": 1,
+    "uid": "1f65b73d0510c3ba626858c4",
+    "cover": "https://pic-map.cdn.bcebos.com/img/4d06d4475ef5d0cb6e910981882657c9",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/4d06d4475ef5d0cb6e910981882657c9"
+    ]
+  },
+  {
+    "name": "台州道路救援",
+    "location": {
+      "lat": 28.684625,
+      "lng": 121.37058
+    },
+    "address": "浙江省台州市椒江区葭芷街道上洋村428号",
+    "province": "浙江省",
+    "city": "台州市",
+    "area": "椒江区",
+    "detail": 1,
+    "uid": "06768d71169bf5dcb6f42f66",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_8d28a3fc1714469fb9b6a6b342afc4b9.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8d28a3fc1714469fb9b6a6b342afc4b9.jpeg"
+    ]
+  },
+  {
+    "name": "路顺汽车救援",
+    "location": {
+      "lat": 28.639456,
+      "lng": 121.491994
+    },
+    "address": "台州市椒江区开发大道(东)好好幼儿园东侧",
+    "province": "浙江省",
+    "city": "台州市",
+    "area": "椒江区",
+    "telephone": "18767660936",
+    "detail": 1,
+    "uid": "7ff1a0768211d1e095f08c42",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/Ha9d3fd1f4134970acd658c459acad1c8a7865d42.jpg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/Ha9d3fd1f4134970acd658c459acad1c8a7865d42.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/H3ac79f3df8dcd100c1bff4477d8b4710b9122fb0.jpg"
+    ]
+  },
+  {
+    "name": "速邦救援",
+    "location": {
+      "lat": 28.648825,
+      "lng": 121.410749
+    },
+    "address": "浙江省台州市椒江区新安路199号",
+    "province": "浙江省",
+    "city": "台州市",
+    "area": "椒江区",
+    "detail": 1,
+    "uid": "aff2cb15b2d0e4fa82a12ef0",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_851246120f9abf865bdb166c2a120741.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_851246120f9abf865bdb166c2a120741.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65d17d3aa9d361169f.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B662089568df7f11e37.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B662088dd2b1ed9754.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B662088dde324d12821.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6742b1aa2dc4c159a2.jpeg"
+    ]
+  },
+  {
+    "name": "临海市古城消防救援站",
+    "location": {
+      "lat": 28.856534,
+      "lng": 121.139604
+    },
+    "address": "浙江省台州市临海市人民路307号",
+    "province": "浙江省",
+    "city": "台州市",
+    "area": "临海市",
+    "telephone": "(0576)85111587",
+    "detail": 1,
+    "uid": "d19eebf36f3402812afc481d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_4928367d85cebfef52bbb45551ef93fe.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4928367d85cebfef52bbb45551ef93fe.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c8869f0f52b59d64bc4a93b96520eb9c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_559253e540da0bb502054b77471f8cf7.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_818b90b234c1348b8792dc714f1b41af.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 28.360359,
+      "lng": 121.522707
+    },
+    "address": "浙江省台州市温岭市浦南路与海城路北交叉口西北420米",
+    "province": "浙江省",
+    "city": "台州市",
+    "area": "温岭市",
+    "detail": 1,
+    "uid": "c233b5b252df78c52eb96d1d",
+    "cover": "https://pic-map.cdn.bcebos.com/img/79cb7aa63f0b8ca395fd1666d0d6343f",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/79cb7aa63f0b8ca395fd1666d0d6343f"
+    ]
+  },
+  {
+    "name": "道路救援及事故处理",
+    "location": {
+      "lat": 29.1297,
+      "lng": 121.058405
+    },
+    "address": "台州市天台县南园大道与人民东路交叉路口往西南约240米",
+    "province": "浙江省",
+    "city": "台州市",
+    "area": "天台县",
+    "street_id": "9233df6d965d5f03f50e77d4",
+    "telephone": "13566651997",
+    "detail": 1,
+    "uid": "9233df6d965d5f03f50e77d4",
+    "cover": "https://taojin-his.cdn.bcebos.com/bf096b63f6246b60fc1ecd97e5f81a4c500fa2c5.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=9233df6d965d5f03f50e77d4&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "蛟龙救援",
+    "location": {
+      "lat": 28.085221,
+      "lng": 121.286215
+    },
+    "address": "新大街6号后沙景区",
+    "province": "浙江省",
+    "city": "台州市",
+    "area": "玉环市",
+    "detail": 1,
+    "uid": "d381083436882843fe0eb06c",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_2de60eeecb6ef2a2ace7ae91403f3529.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2de60eeecb6ef2a2ace7ae91403f3529.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 28.825577,
+      "lng": 121.59394
+    },
+    "address": "台州市临海市海东路龙翔小区北侧约180米",
+    "province": "浙江省",
+    "city": "台州市",
+    "area": "临海市",
+    "detail": 1,
+    "uid": "d06ab6df30f390bb84330408",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_434990d96a4fe56f265805a2f5c0d843.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_434990d96a4fe56f265805a2f5c0d843.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_332418c3a7a77b8d56c1ccff30e1f056.jpeg"
+    ]
+  }
+]

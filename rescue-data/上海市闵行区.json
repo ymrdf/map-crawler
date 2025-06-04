@@ -1,0 +1,132 @@
+[
+  {
+    "name": "神速救援公司",
+    "location": {
+      "lat": 31.051988,
+      "lng": 121.415282
+    },
+    "address": "上海市闵行区沪闵路2592号",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "闵行区",
+    "detail": 1,
+    "uid": "d810375ef3c9a5e7a5da396c",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B63626ac80140759f6.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B63626ac80140759f6.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B63626ac72e8c8e84b.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B63626ac7654ba1584f.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B63626ac8569f55ecf.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B63626ac7ca73e342f.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B63626ac74f10d13264.jpeg"
+    ]
+  },
+  {
+    "name": "速达上海道路救援",
+    "location": {
+      "lat": 31.228057,
+      "lng": 121.334554
+    },
+    "address": "上海市闵行区吴漕路1196号",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "闵行区",
+    "telephone": "15601687110",
+    "detail": 1,
+    "uid": "4ec1d42da5f7a3a925d2bbc2",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/af68d41ac70ebce67fa916f74171813d_8302.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/af68d41ac70ebce67fa916f74171813d_8302.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a340bba7857ecdb3083608b267f1de78.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_909ef67d2732540763170b67e334d6be.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3fe47f5a7b7e22c889b71eee9a5ddf1b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_661122213dbad0a939775cd40d1cc0c6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ecd26f6460c552e3e17a66d713c1b479.jpeg"
+    ]
+  },
+  {
+    "name": "飞驰汽车道路救援修理厂",
+    "location": {
+      "lat": 31.222375,
+      "lng": 121.338543
+    },
+    "address": "上海市闵行区吴北路1188号",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "闵行区",
+    "detail": 1,
+    "uid": "3d68369816399164b5f42fb0",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_619023b09e6b4e796f75b14ac6651340.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/6d44a4754ba4509fd28d35dc088e8e51_7966.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/06a96303ae0fd670fc768faaf5db5816_3843.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B66c224d4238719d2d.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B66c224d39553935d3.jpeg"
+    ]
+  },
+  {
+    "name": "闵行区浦江消防救援站",
+    "location": {
+      "lat": 31.088463,
+      "lng": 121.501643
+    },
+    "address": "上海市闵行区北江洲路宝铭浦秀苑东南侧约40米",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "闵行区",
+    "street_id": "2adaf305ce3f5efef6c59cdf",
+    "detail": 1,
+    "uid": "2adaf305ce3f5efef6c59cdf",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_33307742cf1167e6bef592190d97d490.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=2adaf305ce3f5efef6c59cdf&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0bb57a09ef618eea2fb86ecba1f2cbd6.jpeg"
+    ]
+  },
+  {
+    "name": "闵行区闵行消防救援站",
+    "location": {
+      "lat": 31.015714,
+      "lng": 121.407955
+    },
+    "address": "上海市闵行区碧江路370号",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "闵行区",
+    "street_id": "cfeb0f2923fc44c94e776eb3",
+    "detail": 1,
+    "uid": "cfeb0f2923fc44c94e776eb3",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_770cdd479ca7651212d18f782d6bbfbe.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=cfeb0f2923fc44c94e776eb3&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_818e534133529c1a423de5d90b574b09.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c79172b4447f1cd4a4b0b9f9aa19556e.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_323a818c139bdbac159da357f8e1be78.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_80b774cc2551d6d2192dcee3135e9e1d.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7d3e053479dadec80c436d336dee9cf6.jpg"
+    ]
+  },
+  {
+    "name": "梦缘补胎搭电拖车道路救援",
+    "location": {
+      "lat": 31.270346,
+      "lng": 121.48607
+    },
+    "address": "上海市虹口区宝山路858号",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "虹口区",
+    "telephone": "13215522769",
+    "detail": 1,
+    "uid": "1307137b865dce5bc9c3db98",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_eb8d0e3851e31ab565b39b02c48cab6c.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_eb8d0e3851e31ab565b39b02c48cab6c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0d30a9bfe30032010f917978e1a7213e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ed89735914766d8d980ae2f80691c9f4.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_672b1cf6a1ab93d032c67b2321fabae8.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_69cd4cec3d1fd9c41d71c9ebf92a80aa.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a10aa8295718151c6fa865d7a3bbd327.jpeg"
+    ]
+  }
+]

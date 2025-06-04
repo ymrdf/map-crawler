@@ -1,0 +1,55 @@
+[
+  {
+    "name": "贵州速通道路救援黎平分公司",
+    "location": {
+      "lat": 26.229492,
+      "lng": 109.135805
+    },
+    "address": "黔东南苗族侗族自治州贵州省黎平县体育馆斜对面",
+    "province": "贵州省",
+    "city": "黔东南苗族侗族自治州",
+    "area": "黎平县",
+    "telephone": "18798510617",
+    "detail": 1,
+    "uid": "f7f59910a4997fb6a1a9348c",
+    "cover": "https://pic-map.cdn.bcebos.com/img/dbdffad1ebc1f7d701f816608ea4460f",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/dbdffad1ebc1f7d701f816608ea4460f"
+    ]
+  },
+  {
+    "name": "三穗车联交通救援吊运有限公司",
+    "location": {
+      "lat": 26.851934,
+      "lng": 108.613546
+    },
+    "address": "贵州省黔东南苗族侗族自治州三穗县G320(沪瑞线)",
+    "province": "贵州省",
+    "city": "黔东南苗族侗族自治州",
+    "area": "三穗县",
+    "telephone": "18788726788",
+    "detail": 1,
+    "uid": "419410bd35aebe4fcc06a44c",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_9955dca9c3b909ab492307ce98935d86.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9955dca9c3b909ab492307ce98935d86.jpeg"
+    ]
+  },
+  {
+    "name": "专业免费道路救援",
+    "location": {
+      "lat": 26.946818,
+      "lng": 109.202149
+    },
+    "address": "黔东南苗族侗族自治州天柱县金凤大道与S202交叉路口北侧",
+    "province": "贵州省",
+    "city": "黔东南苗族侗族自治州",
+    "area": "天柱县",
+    "detail": 1,
+    "uid": "891d68b4c820c05858f6be87",
+    "cover": "https://pic-map.cdn.bcebos.com/img/3cc42cca51b173f09a9fcf96442a5757",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/3cc42cca51b173f09a9fcf96442a5757"
+    ]
+  }
+]

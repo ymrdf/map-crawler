@@ -1,0 +1,81 @@
+[
+  {
+    "name": "蓝天救援",
+    "location": {
+      "lat": 30.480658,
+      "lng": 117.051752
+    },
+    "address": "池州市东至县姚度镇梅城村",
+    "province": "安徽省",
+    "city": "池州市",
+    "area": "东至县",
+    "telephone": "(0566)7019958",
+    "detail": 1,
+    "uid": "5eb2c70099c0456e7c29bdde",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_fbd2a75da805a0afe76c0196329b2d13.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_fbd2a75da805a0afe76c0196329b2d13.jpeg"
+    ]
+  },
+  {
+    "name": "池州市新隆道路救援有限公司",
+    "location": {
+      "lat": 30.631976,
+      "lng": 117.532241
+    },
+    "address": "安徽省池州市贵池区陵阳大道150号",
+    "province": "安徽省",
+    "city": "池州市",
+    "area": "贵池区",
+    "telephone": "4008619122",
+    "detail": 1,
+    "uid": "503968875e4db8f2d518b7f4",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_c344f146a57daa9a9f261befc9780550.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c344f146a57daa9a9f261befc9780550.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7f83e680241d92cfbd3fc1b6e8953aa4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e3f6e88911e16a0542b0357695e1fb1b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7f6832c6a71d89048286c6a4a85ff1ce.jpeg"
+    ]
+  },
+  {
+    "name": "池州市贵池区消防救援大队",
+    "location": {
+      "lat": 30.647468,
+      "lng": 117.494241
+    },
+    "address": "池州市贵池区长江南路和谐公馆北侧约40米",
+    "province": "安徽省",
+    "city": "池州市",
+    "area": "贵池区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "49022cf3fa50563c9a005051",
+    "cover": "https://taojin-his.cdn.bcebos.com/eac4b74543a982269eddbd528182b9014a90eba3.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/eac4b74543a982269eddbd528182b9014a90eba3.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5802a75393acb7706aaa2dba6d8ef312.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4d542d5449f2a8e8b204c1647425191e.jpeg",
+      "https://pic-map.cdn.bcebos.com/img/96120bf22b16b2a8ac103be60c38375e"
+    ]
+  },
+  {
+    "name": "滴滴出行(青阳县服务中心)",
+    "location": {
+      "lat": 30.651431,
+      "lng": 117.880824
+    },
+    "address": "安徽省池州市青阳县G318(木镇路)",
+    "province": "安徽省",
+    "city": "池州市",
+    "area": "青阳县",
+    "telephone": "18355154681",
+    "detail": 1,
+    "uid": "573c150b4649c2293904b1d9",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B6754fa1dd7dc531b0.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B6754fa1dd7dc531b0.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6754fa1d468d4302d.jpeg"
+    ]
+  }
+]

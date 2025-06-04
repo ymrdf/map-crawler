@@ -1,0 +1,70 @@
+[
+  {
+    "name": "LNG救援维修",
+    "location": {
+      "lat": 35.996965,
+      "lng": 106.202691
+    },
+    "address": "宁夏回族自治区固原市原州区Y209",
+    "province": "宁夏回族自治区",
+    "city": "固原市",
+    "area": "原州区",
+    "detail": 1,
+    "uid": "7c91e67e060f19f6e115f9c2",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B62137024ce1571273f.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B62137024ce1571273f.jpeg"
+    ]
+  },
+  {
+    "name": "固原兆顺道路救援服务有限公司",
+    "location": {
+      "lat": 36.005552,
+      "lng": 106.210445
+    },
+    "address": "固原市原州区Y209固原西兰银综合物流园区",
+    "province": "宁夏回族自治区",
+    "city": "固原市",
+    "area": "原州区",
+    "detail": 1,
+    "uid": "2e8b48b0a0586a4bb1077dfd",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_05453dfb610276ae52f80d605e828793.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_05453dfb610276ae52f80d605e828793.jpg"
+    ]
+  },
+  {
+    "name": "固原市消防救援支队",
+    "location": {
+      "lat": 36.029089,
+      "lng": 106.28266
+    },
+    "address": "固原市原州区六盘山西路固原市第六中学西南侧约150米",
+    "province": "宁夏回族自治区",
+    "city": "固原市",
+    "area": "原州区",
+    "detail": 1,
+    "uid": "6805b2e1850070c01ee9995d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_2c3b9d0d4f98599ed9cca969818f1044.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2c3b9d0d4f98599ed9cca969818f1044.jpeg"
+    ]
+  },
+  {
+    "name": "固原市原州区消防救援大队",
+    "location": {
+      "lat": 36.021707,
+      "lng": 106.295633
+    },
+    "address": "固原市原州区中山北街固原万和大酒店西南侧约70米",
+    "province": "宁夏回族自治区",
+    "city": "固原市",
+    "area": "原州区",
+    "detail": 1,
+    "uid": "16270786b7c3b56e2811d17d",
+    "cover": "https://pic-map.cdn.bcebos.com/img/c99cde35cadb3a03a497c1f96946c386",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/c99cde35cadb3a03a497c1f96946c386"
+    ]
+  }
+]

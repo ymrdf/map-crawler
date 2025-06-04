@@ -1,0 +1,108 @@
+[
+  {
+    "name": "滁州市援通有限公司",
+    "location": {
+      "lat": 32.259849,
+      "lng": 118.376482
+    },
+    "address": "安徽省滁州市南谯区醉翁东路瑶海大市场一栋商业210号",
+    "province": "安徽省",
+    "city": "滁州市",
+    "area": "南谯区",
+    "street_id": "e7d08596ef8c2ca3c156ac9c",
+    "telephone": "18726665991",
+    "detail": 1,
+    "uid": "e7d08596ef8c2ca3c156ac9c",
+    "cover": "https://poi-pic.cdn.bcebos.com/286f039c36dfcb8cfd75adb42f1d6830.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=e7d08596ef8c2ca3c156ac9c&width=720&height=360&quality=80&fovx=120",
+      "https://lbsugc.cdn.bcebos.com/images/H42a98226cffc1e172135fe664590f603728de9db.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/H86d6277f9e2f0708ea9c5857e624b899a801f2c8.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/b492469703e6ce5090192bc4cc3a6682_4853.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/H96dda144ad3459823881068902f431adcbef84a6.jpeg"
+    ]
+  },
+  {
+    "name": "胖子轿车轮胎救援队",
+    "location": {
+      "lat": 32.907904,
+      "lng": 117.625741
+    },
+    "address": "濠州大道131号",
+    "province": "安徽省",
+    "city": "滁州市",
+    "area": "凤阳县",
+    "telephone": "13855076075",
+    "detail": 1,
+    "uid": "de4c7f393395e37c3b221c48",
+    "cover": "https://photo-meituan.cdn.bcebos.com/photo/173675178549264ca15760b3443f096512501dd012",
+    "photo_list": [
+      "https://photo-meituan.cdn.bcebos.com/photo/173675178549264ca15760b3443f096512501dd012",
+      "https://lbsugc.cdn.bcebos.com/images/B648005753e41e11306.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6480057527092d785.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B64800575285c115a55.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B64800575144c0134bf.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B64800574deee050ee.jpeg"
+    ]
+  },
+  {
+    "name": "滴滴出行授权司机与车辆服务代理商(滁州市政峰中都大道店)",
+    "location": {
+      "lat": 32.290116,
+      "lng": 118.32908
+    },
+    "address": "安徽省滁州市南谯区中都大道266号",
+    "province": "安徽省",
+    "city": "滁州市",
+    "area": "南谯区",
+    "telephone": "15255014273,19955017679",
+    "detail": 1,
+    "uid": "c6012d497cf15d0441d63eb8",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B65f7df7c4ce0443f5.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B65f7df7c4ce0443f5.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6781dbadc7c8c3d11.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_308d00544f74463a85d1b0d539801e26.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_461897de57a01f327443dd735d51235d.jpeg"
+    ]
+  },
+  {
+    "name": "滁州市琅琊区清流消防救援站",
+    "location": {
+      "lat": 32.29856,
+      "lng": 118.327618
+    },
+    "address": "安徽省滁州市琅琊区清流街道清流西路345号",
+    "province": "安徽省",
+    "city": "滁州市",
+    "area": "琅琊区",
+    "detail": 1,
+    "uid": "3f0665948b5e63d776e5b612",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_e9f89e47ff232149d90f2e89c36b0d5d.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e9f89e47ff232149d90f2e89c36b0d5d.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_76d27c0e8acbd068d6da697175d325dc.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65780740a44c5594d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5be8c4d05013feb4ab28701e358d9144.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2a72476add189c654b429620550f9f5a.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B677dd71d754fec1bc.jpeg"
+    ]
+  },
+  {
+    "name": "滁州市消防救援支队",
+    "location": {
+      "lat": 32.226632,
+      "lng": 118.331841
+    },
+    "address": "安徽省滁州市南谯区明湖大道99号",
+    "province": "安徽省",
+    "city": "滁州市",
+    "area": "南谯区",
+    "detail": 1,
+    "uid": "7ffedee79d36ceaa9e9d6835",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ea42a154992e7f024d4aacf034ccabfe.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ea42a154992e7f024d4aacf034ccabfe.jpeg"
+    ]
+  }
+]

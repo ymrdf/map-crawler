@@ -1,0 +1,77 @@
+[
+  {
+    "name": "快达汽车救援",
+    "location": {
+      "lat": 44.576339,
+      "lng": 129.388821
+    },
+    "address": "牡丹江市海林市城西路海林市第一小学西南侧约90米",
+    "province": "黑龙江省",
+    "city": "牡丹江市",
+    "area": "海林市",
+    "detail": 1,
+    "uid": "1c56916083f761c713293547",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B65f29c7edd79416722.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B65f29c7edd79416722.jpeg"
+    ]
+  },
+  {
+    "name": "大坤汽车救援",
+    "location": {
+      "lat": 44.622966,
+      "lng": 129.670948
+    },
+    "address": "牡丹江市阳明区兴业路皇都郦景-三期",
+    "province": "黑龙江省",
+    "city": "牡丹江市",
+    "area": "阳明区",
+    "telephone": "15764538889",
+    "detail": 1,
+    "uid": "ac88f63205f1df9c4557265f",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_09a91901f8b7d1e8d12fa5010c5a3a1c.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_09a91901f8b7d1e8d12fa5010c5a3a1c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5d030c1ba146c9cf94b5ce1a2c704fcf.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6586405b5e3055e40.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65c6dbdc6774b1581b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f7269781ada8b4cffee95e737a11f447.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6664f99dbe97014420.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 44.590171,
+      "lng": 129.650075
+    },
+    "address": "黑龙江省牡丹江市东安区五星街道东新安街523号",
+    "province": "黑龙江省",
+    "city": "牡丹江市",
+    "area": "东安区",
+    "detail": 1,
+    "uid": "b998b402215400d600ec01de",
+    "cover": "https://pic-map.cdn.bcebos.com/img/ff9e2ddecd3dc5941da972345b200482",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/ff9e2ddecd3dc5941da972345b200482"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 44.578664,
+      "lng": 129.611506
+    },
+    "address": "牡丹江市西安区西新安街西新安小区南侧约50米",
+    "province": "黑龙江省",
+    "city": "牡丹江市",
+    "area": "西安区",
+    "detail": 1,
+    "uid": "24b8edc5c2c17cb7f942b21f",
+    "cover": "https://pic-map.cdn.bcebos.com/img/50dc207017f532c7b3bb53a35f733775",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/50dc207017f532c7b3bb53a35f733775",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_64e96cb10c337ba7caf4f7364ce0efc7.jpeg"
+    ]
+  }
+]

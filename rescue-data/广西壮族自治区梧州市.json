@@ -1,0 +1,169 @@
+[
+  {
+    "name": "天鑫救援",
+    "location": {
+      "lat": 23.504639,
+      "lng": 111.271527
+    },
+    "address": "广西壮族自治区梧州市长洲区规划一路毅德城a4区9栋15号铺",
+    "province": "广西壮族自治区",
+    "city": "梧州市",
+    "area": "长洲区",
+    "telephone": "13977430536",
+    "detail": 1,
+    "uid": "2838574d57b32ebf1188248a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d609cf5c1e04e91e141bac1834bd8798.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d609cf5c1e04e91e141bac1834bd8798.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0cca33050c9c795d0720264cd239d1a5.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_36a04e8dfd097a69c2bfb8f626a37838.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_95bd58bf179370fe1cc63714982f1c01.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_5271344465d95b48d383730ed3702f53.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_88838529994df2e61452cc9d239f2547.jpg"
+    ]
+  },
+  {
+    "name": "苍梧县安达实业有限公司",
+    "location": {
+      "lat": 23.400742,
+      "lng": 111.244691
+    },
+    "address": "广西壮族自治区梧州市龙圩区西南大道310号",
+    "province": "广西壮族自治区",
+    "city": "梧州市",
+    "area": "龙圩区",
+    "street_id": "9ee392b8a901b142bbbd63ce",
+    "detail": 1,
+    "uid": "9ee392b8a901b142bbbd63ce",
+    "cover": "https://taojin-his.cdn.bcebos.com/bf096b63f6246b60cec5fcd6e0f81a4c500fa24d.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=9ee392b8a901b142bbbd63ce&width=720&height=360&quality=80&fovx=120",
+      "https://taojin-his.cdn.bcebos.com/0824ab18972bd407d4bb1c2d7d899e510eb309e6.jpg",
+      "https://taojin-his.cdn.bcebos.com/b7fd5266d016092403c5bda8d80735fae7cd34a4.jpg",
+      "https://taojin-his.cdn.bcebos.com/0824ab18972bd4079559d1eb71899e510fb3090d.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_3ed7a999c0639d2858ab7d7c9247cad6.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_b4f07cc3091ea0b9c71cb9d878c60d67.jpg"
+    ]
+  },
+  {
+    "name": "藤城航道站养护基地",
+    "location": {
+      "lat": 23.398984,
+      "lng": 110.928262
+    },
+    "address": "广西壮族自治区梧州市藤县G321(广成线)",
+    "province": "广西壮族自治区",
+    "city": "梧州市",
+    "area": "藤县",
+    "street_id": "c92a9d03ca00959eb020a8c7",
+    "telephone": "(0774)7272013",
+    "detail": 1,
+    "uid": "c92a9d03ca00959eb020a8c7",
+    "cover": "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_5cb309f8762222c6469e14afef03fa79.jpg",
+    "photo_list": [
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_5cb309f8762222c6469e14afef03fa79.jpg"
+    ]
+  },
+  {
+    "name": "梧州市万秀区水上消防救援站",
+    "location": {
+      "lat": 23.478966,
+      "lng": 111.319869
+    },
+    "address": "梧州市万秀区九坊路升龙秀湾-5号楼",
+    "province": "广西壮族自治区",
+    "city": "梧州市",
+    "area": "万秀区",
+    "detail": 1,
+    "uid": "4d2080b46a9e4f23ca09f0d0",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ccbff39fd82027dc95db27842ec3e00b.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ccbff39fd82027dc95db27842ec3e00b.jpeg"
+    ]
+  },
+  {
+    "name": "梧州市龙圩区消防救援大队",
+    "location": {
+      "lat": 23.400667,
+      "lng": 111.245256
+    },
+    "address": "广西壮族自治区梧州市龙圩区西南大道320号",
+    "province": "广西壮族自治区",
+    "city": "梧州市",
+    "area": "龙圩区",
+    "detail": 1,
+    "uid": "f226ef871a27b9e58bdb739d",
+    "cover": "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_e3570fa4834b7c02909298a1e8df1225.jpg",
+    "photo_list": [
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_e3570fa4834b7c02909298a1e8df1225.jpg"
+    ]
+  },
+  {
+    "name": "梧州市长洲区大塘消防救援站",
+    "location": {
+      "lat": 23.49192,
+      "lng": 111.262593
+    },
+    "address": "广西壮族自治区梧州市长洲区红岭路信立康医院西侧约40米",
+    "province": "广西壮族自治区",
+    "city": "梧州市",
+    "area": "长洲区",
+    "detail": 1,
+    "uid": "2f0ce96e9bdd6fdf8605bfcc",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_2affc8e7c0d793d4632eed6e60b67eab.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2affc8e7c0d793d4632eed6e60b67eab.jpeg"
+    ]
+  },
+  {
+    "name": "藤县消防救援大队",
+    "location": {
+      "lat": 23.383007,
+      "lng": 110.955455
+    },
+    "address": "梧州市藤县藤州大道藤县人民医院西南侧约80米",
+    "province": "广西壮族自治区",
+    "city": "梧州市",
+    "area": "藤县",
+    "detail": 1,
+    "uid": "bd5fa676f21349c338e4a693",
+    "cover": "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_2155115d0b0c030e3ce1a7428c5b671c.jpg",
+    "photo_list": [
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_2155115d0b0c030e3ce1a7428c5b671c.jpg"
+    ]
+  },
+  {
+    "name": "梧州市长洲消防救援大队",
+    "location": {
+      "lat": 23.49188,
+      "lng": 111.262407
+    },
+    "address": "梧州市长洲区红岭路与湖瑞路交叉路口往西北约100米",
+    "province": "广西壮族自治区",
+    "city": "梧州市",
+    "area": "长洲区",
+    "detail": 1,
+    "uid": "f18493eb7ac54feb1ef74d65",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_2affc8e7c0d793d4632eed6e60b67eab.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2affc8e7c0d793d4632eed6e60b67eab.jpeg"
+    ]
+  },
+  {
+    "name": "岑溪市天桥消防救援站",
+    "location": {
+      "lat": 22.917374,
+      "lng": 110.961643
+    },
+    "address": "广西壮族自治区梧州市岑溪市岑城镇玉梧大道岑溪青山医院西南侧约170米",
+    "province": "广西壮族自治区",
+    "city": "梧州市",
+    "area": "岑溪市",
+    "detail": 1,
+    "uid": "65b9cd4fe9e5304d40e192d8",
+    "cover": "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_07f6100b81c33a6ace58e6da9cedff48.jpg",
+    "photo_list": [
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_07f6100b81c33a6ace58e6da9cedff48.jpg"
+    ]
+  }
+]

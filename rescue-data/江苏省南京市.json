@@ -1,0 +1,126 @@
+[
+  {
+    "name": "南京大庆汽车救援服务有限公司",
+    "location": {
+      "lat": 31.645738,
+      "lng": 119.005367
+    },
+    "address": "江苏省南京市溧水区X102(天庄桥线)",
+    "province": "江苏省",
+    "city": "南京市",
+    "area": "溧水区",
+    "telephone": "19905175897",
+    "detail": 1,
+    "uid": "15461f8d3f3e5a5dd12dd60e",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B639bdc26d88ac88b6.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B639bdc26d88ac88b6.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6392a073b26396a1a.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6273df3aaa5d6137e6.jpeg"
+    ]
+  },
+  {
+    "name": "马群消防救援站",
+    "location": {
+      "lat": 32.053149,
+      "lng": 118.907223
+    },
+    "address": "南京市栖霞区沪蓉高速百水家园西南侧约160米",
+    "province": "江苏省",
+    "city": "南京市",
+    "area": "栖霞区",
+    "detail": 1,
+    "uid": "20abd1c6abe4582a631809c0",
+    "cover": "https://pic-map.cdn.bcebos.com/img/067caaa5e8219307e6a81645d6120259",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/067caaa5e8219307e6a81645d6120259"
+    ]
+  },
+  {
+    "name": "轮胎电瓶补胎救援",
+    "location": {
+      "lat": 32.382565,
+      "lng": 118.94925
+    },
+    "address": "南京市六合区新八路新篁佳苑",
+    "province": "江苏省",
+    "city": "南京市",
+    "area": "六合区",
+    "detail": 1,
+    "uid": "3a4aec88bffbb29bb020a87c",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/001/146_c8ebb44fd3bd349b0d45ab1fb5ead210.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/001/146_c8ebb44fd3bd349b0d45ab1fb5ead210.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B60c354de74ecd51c9.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 32.045187,
+      "lng": 118.779801
+    },
+    "address": "江苏省南京市秦淮区侯家桥-16号西侧",
+    "province": "江苏省",
+    "city": "南京市",
+    "area": "秦淮区",
+    "street_id": "a410cb0c91c59d7c3686f406",
+    "detail": 1,
+    "uid": "a410cb0c91c59d7c3686f406",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_0094faefa246cd20e3f298143a90b351.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=a410cb0c91c59d7c3686f406&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 32.02757,
+      "lng": 118.872894
+    },
+    "address": "南京市玄武区光华路南京理工大学-科技园",
+    "province": "江苏省",
+    "city": "南京市",
+    "area": "玄武区",
+    "detail": 1,
+    "uid": "249a642996cfcdd10b69d972",
+    "cover": "https://pic-map.cdn.bcebos.com/img/5736d962c851bd11bd51ca6e98baa648",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/5736d962c851bd11bd51ca6e98baa648"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 32.051978,
+      "lng": 118.743816
+    },
+    "address": "南京市鼓楼区清凉门大街汇文居西北侧约30米",
+    "province": "江苏省",
+    "city": "南京市",
+    "area": "鼓楼区",
+    "detail": 1,
+    "uid": "ed63708af3d7343b4054d702",
+    "cover": "https://pic-map.cdn.bcebos.com/img/e795126209e5462e79c81dffdb96cdad",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/e795126209e5462e79c81dffdb96cdad"
+    ]
+  },
+  {
+    "name": "中花岗消防救援站",
+    "location": {
+      "lat": 32.04432,
+      "lng": 118.916898
+    },
+    "address": "南京市栖霞区天泉路中南世纪雅苑",
+    "province": "江苏省",
+    "city": "南京市",
+    "area": "栖霞区",
+    "detail": 1,
+    "uid": "4f56f4553a5566c10f0e6bb3",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_dd466bf8d215ec0ce19e7fa96c14174b.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_dd466bf8d215ec0ce19e7fa96c14174b.jpg"
+    ]
+  }
+]

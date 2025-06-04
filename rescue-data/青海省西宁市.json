@@ -1,0 +1,78 @@
+[
+  {
+    "name": "青海途达道路救援有限公司",
+    "location": {
+      "lat": 36.51162,
+      "lng": 101.632147
+    },
+    "address": "西宁市城中区时代大道",
+    "province": "青海省",
+    "city": "西宁市",
+    "area": "城中区",
+    "telephone": "13997116376,18597131655",
+    "detail": 1,
+    "uid": "830e4731aa44e8bea8f72961",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/79b588508d082e9c72c357b1375a559c_6492.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/79b588508d082e9c72c357b1375a559c_6492.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/15f52365e949e70b25a6ceda9ce2a055_0061.jpeg"
+    ]
+  },
+  {
+    "name": "西宁路扬汽车道路救援服务有限公司",
+    "location": {
+      "lat": 36.63459,
+      "lng": 101.788704
+    },
+    "address": "青海省西宁市城中区七一路青海湖大厦a座1132室",
+    "province": "青海省",
+    "city": "西宁市",
+    "area": "城中区",
+    "telephone": "18297008060",
+    "detail": 1,
+    "uid": "3d2c057c1019a85f465726cd",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d0d0e47d0e3d4744406f788d8aa92589.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_73e83103911fb2d8e050fd4d688e514e.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 36.651972,
+      "lng": 101.776444
+    },
+    "address": "西宁市城北区朝阳东路北川河东路社区西南侧约50米",
+    "province": "青海省",
+    "city": "西宁市",
+    "area": "城北区",
+    "detail": 1,
+    "uid": "1fa09381f5ee15e4d9eceda1",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_0d2168779f43b684151ebed68268a04e.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0d2168779f43b684151ebed68268a04e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ee019f2a1e5888e13e7205b11981330d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_34845efeb2cb9bd67421332a85795c45.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7cb1bf79049ef1e8cb43dccb2b9763b5.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_dd407350383f08ee74a9b214621041f7.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_74ad9899f52f82b6c3f73bb461300c19.jpeg"
+    ]
+  },
+  {
+    "name": "青海省消防救援总队",
+    "location": {
+      "lat": 36.581822,
+      "lng": 101.844418
+    },
+    "address": "青海省西宁市城东区金桥路19",
+    "province": "青海省",
+    "city": "西宁市",
+    "area": "城东区",
+    "detail": 1,
+    "uid": "7fc1b36400397aa5e0110367",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_da0f690b3ab5f63ec19b30a4b962c412.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_da0f690b3ab5f63ec19b30a4b962c412.jpeg"
+    ]
+  }
+]

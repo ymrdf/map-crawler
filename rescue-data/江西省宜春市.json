@@ -1,0 +1,154 @@
+[
+  {
+    "name": "赣西救援队",
+    "location": {
+      "lat": 27.83273,
+      "lng": 114.398379
+    },
+    "address": "宜春市袁州区新屋路新村小区",
+    "province": "江西省",
+    "city": "宜春市",
+    "area": "袁州区",
+    "detail": 1,
+    "uid": "5c94e1529df930cf16a19074",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_50121e59d471a182eb2c7ce2522ecb12.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_50121e59d471a182eb2c7ce2522ecb12.jpeg"
+    ]
+  },
+  {
+    "name": "袁州市消防救援大队宜阳路中队",
+    "location": {
+      "lat": 27.804995,
+      "lng": 114.381484
+    },
+    "address": "江西省宜春市袁州区中山西路139号",
+    "province": "江西省",
+    "city": "宜春市",
+    "area": "袁州区",
+    "street_id": "57183b255e8b8bdb9e82eaac",
+    "detail": 1,
+    "uid": "57183b255e8b8bdb9e82eaac",
+    "cover": "https://taojin-his.cdn.bcebos.com/4e4a20a4462309f7a8f86d3c7d0e0cf3d7cad60d.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=57183b255e8b8bdb9e82eaac&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "丰城市红十字曙光救援队",
+    "location": {
+      "lat": 28.170635,
+      "lng": 115.809303
+    },
+    "address": "宜春市丰城市隆兴西大道人才教育小区",
+    "province": "江西省",
+    "city": "宜春市",
+    "area": "丰城市",
+    "detail": 1,
+    "uid": "f3d8da9c9af62eb557bfff10",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_0fb9496df92e984f4347d75dff0af3e4.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0fb9496df92e984f4347d75dff0af3e4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6b85136fd27b32e6d5d7bec4ae34b29b.jpeg"
+    ]
+  },
+  {
+    "name": "应急救援",
+    "location": {
+      "lat": 27.812716,
+      "lng": 114.39143
+    },
+    "address": "江西省宜春市袁州区宜春北路365号",
+    "province": "江西省",
+    "city": "宜春市",
+    "area": "袁州区",
+    "street_id": "7f7d45820479b3e3b35c6af2",
+    "detail": 1,
+    "uid": "7f7d45820479b3e3b35c6af2",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_b533384460cd1ab77909e2bf48f50504.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=7f7d45820479b3e3b35c6af2&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1aae0380504a8b62e73f51d49353596a.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c0499abe6b61debdd482d239be1c883a.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_e19dc99f3cae243672fe9952a4c45e15.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_13808796563d42a25fcc220939ccf500.jpeg"
+    ]
+  },
+  {
+    "name": "宜春市紧急救援中心",
+    "location": {
+      "lat": 27.807797,
+      "lng": 114.420656
+    },
+    "address": "江西省宜春市袁州区卢洲北路253号",
+    "province": "江西省",
+    "city": "宜春市",
+    "area": "袁州区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "a79c97c44270f71294ca07fe",
+    "cover": "https://taojin-his.cdn.bcebos.com/37d3d539b6003af33ad4a4733a2ac65c1038b6b2.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/37d3d539b6003af33ad4a4733a2ac65c1038b6b2.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0a09b985449bd8bfe02ee9ba65eaa41d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b5af604604c571397e41957634da0d3e.jpg"
+    ]
+  },
+  {
+    "name": "樟树市消防救援大队",
+    "location": {
+      "lat": 28.055274,
+      "lng": 115.542068
+    },
+    "address": "宜春市樟树市希望路供电花园(药都南大道)南侧约30米",
+    "province": "江西省",
+    "city": "宜春市",
+    "area": "樟树市",
+    "detail": 1,
+    "uid": "7475c91252472c235bf6be0b",
+    "cover": "https://pic-map.cdn.bcebos.com/img/8f32bf79bbde2f9fd0820625456acc91",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/8f32bf79bbde2f9fd0820625456acc91"
+    ]
+  },
+  {
+    "name": "宜丰县消防救援大队",
+    "location": {
+      "lat": 28.385939,
+      "lng": 114.82344
+    },
+    "address": "江西省宜春市宜丰县工业园区骑行道",
+    "province": "江西省",
+    "city": "宜春市",
+    "area": "宜丰县",
+    "detail": 1,
+    "uid": "0634bad7aeb8902d7402693a",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B61a5afaae1b0bc0ab.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B61a5afaae1b0bc0ab.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bde521bb5b24363b0b0b9237f554b26e.jpeg"
+    ]
+  },
+  {
+    "name": "曙光救援",
+    "location": {
+      "lat": 28.060732,
+      "lng": 115.535696
+    },
+    "address": "宜春市樟树市仁和路星河御景",
+    "province": "江西省",
+    "city": "宜春市",
+    "area": "樟树市",
+    "detail": 1,
+    "uid": "2f5ea630331bac4a42d63eca",
+    "cover": "https://taojin-his.cdn.bcebos.com/ae51f3deb48f8c548459861d37292df5e0fe7f7d.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/ae51f3deb48f8c548459861d37292df5e0fe7f7d.jpg",
+      "https://taojin-his.cdn.bcebos.com/d53f8794a4c27d1ed831b5f616d5ad6eddc438e8.jpg",
+      "https://taojin-his.cdn.bcebos.com/0b46f21fbe096b6335c61d6201338744ebf8ac21.jpg",
+      "https://taojin-his.cdn.bcebos.com/d01373f082025aaf8c30f0f9f6edab64034f1a85.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_39b9961f74b7971e25ca80241f312a85.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5408c0594dea1a6ad04961d21e5d3eb1.jpeg"
+    ]
+  }
+]

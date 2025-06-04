@@ -1,0 +1,195 @@
+[
+  {
+    "name": "道路救援",
+    "location": {
+      "lat": 45.544263,
+      "lng": 126.969774
+    },
+    "address": "哈尔滨市阿城区解放大街龙江龙住宅楼北侧约40米",
+    "province": "黑龙江省",
+    "city": "哈尔滨市",
+    "area": "阿城区",
+    "telephone": "13936234661",
+    "detail": 1,
+    "uid": "278e5454dab2a454adb22ab2",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_27cc2c5544ac07d7dca180b3bf2e70a1.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_27cc2c5544ac07d7dca180b3bf2e70a1.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_addf6170bf004c0303dc507f077768f3.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c366dcbd8c7035aabd76b0721468c3be.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_15cb985c8ff4027ad816f77dc6754136.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9217db1d609708c27579ac1f0a98d018.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a0a57edd10326ad68d3154fdca651cf0.jpeg"
+    ]
+  },
+  {
+    "name": "黑龙汽车道路救援服务中心",
+    "location": {
+      "lat": 45.755193,
+      "lng": 126.621225
+    },
+    "address": "黑龙江省哈尔滨市道里区民和街17号",
+    "province": "黑龙江省",
+    "city": "哈尔滨市",
+    "area": "道里区",
+    "street_id": "73af3bce0c3954b543ab9aa1",
+    "telephone": "(0451)84555666,15845000696",
+    "detail": 1,
+    "uid": "73af3bce0c3954b543ab9aa1",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_32a0c08749c4e3c9dbfb9a030937342a.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=73af3bce0c3954b543ab9aa1&width=720&height=360&quality=80&fovx=120",
+      "https://taojin-his.cdn.bcebos.com/4ec2d5628535e5dd0d6905407fc6a7efcf1b62ec.jpg",
+      "https://taojin-his.cdn.bcebos.com/a1ec08fa513d26970a77e53b52fbb2fb4316d834.jpg",
+      "https://taojin-his.cdn.bcebos.com/8644ebf81a4c510f76a242856959252dd52aa5cf.jpg",
+      "https://taojin-his.cdn.bcebos.com/023b5bb5c9ea15ce3ce391edbc003af33b87b2c0.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e24cf3668adf23257e81ea19e4f1c2a3.jpeg"
+    ]
+  },
+  {
+    "name": "补胎救援",
+    "location": {
+      "lat": 45.602094,
+      "lng": 126.649061
+    },
+    "address": "哈尔滨市平房区新城里街新城里小区东南侧约150米",
+    "province": "黑龙江省",
+    "city": "哈尔滨市",
+    "area": "平房区",
+    "detail": 1,
+    "uid": "ae8ab089f986128d0f0a706f",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d28e5f9e13577903d0aa858aab6398c3.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d28e5f9e13577903d0aa858aab6398c3.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f50f94b78ce95d3329593f5acecc7174.jpeg"
+    ]
+  },
+  {
+    "name": "哈尔滨市龙滨汽车救援中心道路拖车救援",
+    "location": {
+      "lat": 45.742018,
+      "lng": 126.618474
+    },
+    "address": "哈尔滨市南岗区清明四道街哈尔滨市第47中学第二校区南侧约40米",
+    "province": "黑龙江省",
+    "city": "哈尔滨市",
+    "area": "南岗区",
+    "telephone": "15104634118",
+    "detail": 1,
+    "uid": "709c923811cf46348c1a8909",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B66860723eaa0912beb.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B66860723eaa0912beb.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0099db3cd2faea536c7f26ddfdbf8b31.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9d9a88c5d2489b5dd9f44cc6f98a1ae7.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_de4e3fc91b02a80f2c440ff8e591468a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_740c96fc9089ad2f0c27b4706553a052.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_75bf592bee779fb07d97619ce96f6cdd.jpeg"
+    ]
+  },
+  {
+    "name": "哈尔滨东北人汽车道路救援有限公司",
+    "location": {
+      "lat": 45.889484,
+      "lng": 126.570312
+    },
+    "address": "黑龙江省哈尔滨市呼兰区利民大道761号地恒托斯卡纳A18栋4单元",
+    "province": "黑龙江省",
+    "city": "哈尔滨市",
+    "area": "呼兰区",
+    "telephone": "15046043383",
+    "detail": 1,
+    "uid": "2b73afa2fa3ecd3ae6073866",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_b8bdb450f19251cd97224de1648845c9.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b8bdb450f19251cd97224de1648845c9.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_80a80090059b88d695a640a681bb9b77.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b457e3845cde363963c12b1b742c092d.jpeg"
+    ]
+  },
+  {
+    "name": "镇东道路救援",
+    "location": {
+      "lat": 46.209053,
+      "lng": 126.820048
+    },
+    "address": "哈尔滨市呼兰区康石路",
+    "province": "黑龙江省",
+    "city": "哈尔滨市",
+    "area": "呼兰区",
+    "telephone": "13945683736",
+    "detail": 1,
+    "uid": "28d448bec4cb71788c1a898b",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B655e115e9deb44fb4.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B655e115e9deb44fb4.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B655e115ccbc5ce44a.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B655e115ddd276a8fd.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B646a231181e6fc203.jpeg"
+    ]
+  },
+  {
+    "name": "修车救援保养",
+    "location": {
+      "lat": 44.939876,
+      "lng": 128.61325
+    },
+    "address": "哈尔滨市尚志市亚布力中学东北侧约170米",
+    "province": "黑龙江省",
+    "city": "哈尔滨市",
+    "area": "尚志市",
+    "telephone": "15146103882",
+    "detail": 1,
+    "uid": "6a957c9c4f713ebfe812e40b",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/55e223fa3eca6f6ae8f266a90ec835b5_1632.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/55e223fa3eca6f6ae8f266a90ec835b5_1632.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65388f67da4d210fd9.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65388f67eae921133a.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65388f67e095fa0a5.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65388f68739fc17b88.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65388f685e50e157e2.jpeg"
+    ]
+  },
+  {
+    "name": "哈尔滨市道里区安隆街消防救援站",
+    "location": {
+      "lat": 45.767979,
+      "lng": 126.614432
+    },
+    "address": "哈尔滨市道里区安隆街哈尔滨市爱建学校东南侧约50米",
+    "province": "黑龙江省",
+    "city": "哈尔滨市",
+    "area": "道里区",
+    "detail": 1,
+    "uid": "4434d9e15d3053e3a8175a58",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_53270b63fb8f6bfa7bc30d352e855040.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_53270b63fb8f6bfa7bc30d352e855040.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d1892f4c50cc2531e06496cbf2cec69c.jpeg"
+    ]
+  },
+  {
+    "name": "帮益通道路救援有限公司",
+    "location": {
+      "lat": 45.868291,
+      "lng": 126.535782
+    },
+    "address": "哈尔滨市呼兰区群英街东方哥德堡",
+    "province": "黑龙江省",
+    "city": "哈尔滨市",
+    "area": "呼兰区",
+    "telephone": "18745798577",
+    "detail": 1,
+    "uid": "a5f6a770447b7cccf7e73b38",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B62eb9109707b993ea.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B62eb9109707b993ea.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/7319a195f27af3a0ceafa4014c4bfb7b_7310.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/6105ef1ec58f4cb8d1f6d6ff066d8d57_1182.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/6b5cebea3b8d9f1a6fbc800c30111978_3866.png",
+      "https://lbsugc.cdn.bcebos.com/images/3f65613aa8a2eb91da928686acf2a36c_4546.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_08cf541e00e391fe7a4a45649fdb56c5.jpeg"
+    ]
+  }
+]

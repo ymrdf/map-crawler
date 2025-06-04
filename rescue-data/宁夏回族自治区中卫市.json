@@ -1,0 +1,97 @@
+[
+  {
+    "name": "海原县消防救援大队",
+    "location": {
+      "lat": 36.57385,
+      "lng": 105.66585
+    },
+    "address": "中卫市海原县政府东街海原县四季花城小区西侧约90米",
+    "province": "宁夏回族自治区",
+    "city": "中卫市",
+    "area": "海原县",
+    "detail": 1,
+    "uid": "11f61bf73c9c4db090114c09",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_4fdc51157f4290b4ac833e0520176eca.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4fdc51157f4290b4ac833e0520176eca.jpeg"
+    ]
+  },
+  {
+    "name": "宁夏积利通公路养护工程股份有限公司",
+    "location": {
+      "lat": 37.525147,
+      "lng": 105.357704
+    },
+    "address": "中卫市沙坡头区镇罗路中卫市镇罗中学东南侧约250米",
+    "province": "宁夏回族自治区",
+    "city": "中卫市",
+    "area": "沙坡头区",
+    "detail": 1,
+    "uid": "a04de87397c98dd584330401",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_5e2f190ba247445334fdae6b027b51ee.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5e2f190ba247445334fdae6b027b51ee.jpeg"
+    ]
+  },
+  {
+    "name": "中卫市顺达劳务分包有限公司",
+    "location": {
+      "lat": 37.515162,
+      "lng": 105.221452
+    },
+    "address": "中卫市沙坡头区迎宾大道迎宾一号小区",
+    "province": "宁夏回族自治区",
+    "city": "中卫市",
+    "area": "沙坡头区",
+    "detail": 1,
+    "uid": "c69290aa416f96d64302455d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_94ee14e5b374d6f593f2ee1d0ede04e2.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_94ee14e5b374d6f593f2ee1d0ede04e2.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_fee8b5fdba9c8aa7082437bde1c401a6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ed020add9fbc3cd2f96c7dde1fcfd502.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B67b59b528638b140e7.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B67b59b51c19fa2f51.jpeg"
+    ]
+  },
+  {
+    "name": "海原县海城消防救援站",
+    "location": {
+      "lat": 36.573705,
+      "lng": 105.665521
+    },
+    "address": "中卫市海原县中靖南路海原县四季花城小区西侧约110米",
+    "province": "宁夏回族自治区",
+    "city": "中卫市",
+    "area": "海原县",
+    "detail": 1,
+    "uid": "8b038a2f2ea869b6c9291522",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_4fdc51157f4290b4ac833e0520176eca.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4fdc51157f4290b4ac833e0520176eca.jpeg"
+    ]
+  },
+  {
+    "name": "中卫市德盛昌劳务有限公司",
+    "location": {
+      "lat": 37.51956,
+      "lng": 105.209628
+    },
+    "address": "中卫市沙坡头区南苑东路中卫全民创业城",
+    "province": "宁夏回族自治区",
+    "city": "中卫市",
+    "area": "沙坡头区",
+    "telephone": "(0955)8872999",
+    "detail": 1,
+    "uid": "b61a2535066e75d3a7c75636",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_9b2a51f74609adf13731fab8cfeddc9f.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9b2a51f74609adf13731fab8cfeddc9f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5c83f646b746584eaaa5efc3840bef49.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cb708016ce41a56bde729349a05c4272.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ab06c55ab7fbf49077c659bf0acc8693.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6e0d8a7c7bab844b3a159a59978ff53d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2c3413b2b496a7c235da2225cdb7df4a.jpg"
+    ]
+  }
+]

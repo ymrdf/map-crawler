@@ -1,0 +1,156 @@
+[
+  {
+    "name": "应急救援中心",
+    "location": {
+      "lat": 37.425948,
+      "lng": 118.507237
+    },
+    "address": "山东省东营市东营区章丘路929号",
+    "province": "山东省",
+    "city": "东营市",
+    "area": "东营区",
+    "street_id": "7246ad77d93f2e48b11e3625",
+    "detail": 1,
+    "uid": "7246ad77d93f2e48b11e3625",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_496b02cd513422db1d3613229642c795.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=7246ad77d93f2e48b11e3625&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0d886687c10795cbda41a05682dcfd60.jpg",
+      "https://poi-pic.cdn.bcebos.com/496b02cd513422db1d3613229642c795.jpg"
+    ]
+  },
+  {
+    "name": "东营顺铭道路救援有限公司",
+    "location": {
+      "lat": 37.013884,
+      "lng": 118.542072
+    },
+    "address": "山东省东营市广饶县G516",
+    "province": "山东省",
+    "city": "东营市",
+    "area": "广饶县",
+    "detail": 1,
+    "uid": "547fc398ddeed78f28b97cbf",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B65e9c6b2731cf1484f.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B65e9c6b2731cf1484f.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65e9c6b2058f2eba8.jpeg"
+    ]
+  },
+  {
+    "name": "胜利应急救援中心东城综合应急救援站",
+    "location": {
+      "lat": 37.473362,
+      "lng": 118.651703
+    },
+    "address": "山东省东营市东营区东二路210号",
+    "province": "山东省",
+    "city": "东营市",
+    "area": "东营区",
+    "detail": 1,
+    "uid": "931ecf12e568ab3a97ec8466",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_c77c4a1cd0d5a531b604cec6c0a5c1a8.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c77c4a1cd0d5a531b604cec6c0a5c1a8.jpeg"
+    ]
+  },
+  {
+    "name": "玉春轮胎补胎救援",
+    "location": {
+      "lat": 37.432715,
+      "lng": 118.653621
+    },
+    "address": "山东省东营市东营区运河路83号",
+    "province": "山东省",
+    "city": "东营市",
+    "area": "东营区",
+    "street_id": "6f4279b93c5470c270210b7e",
+    "telephone": "13054615918",
+    "detail": 1,
+    "uid": "6f4279b93c5470c270210b7e",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_7558522d0368f9973c3dc9437ce5dae4.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=6f4279b93c5470c270210b7e&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic.cdn.bcebos.com/671c32b402c6a66337cd816f93346ca0.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B6214511d57c2ca6c7.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/Hf603918fa0ec08fa38779ef456ee3d6d55fbda6a.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/H63d0f703918fa0ec60b0e95e299759ee3d6ddb6a.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b2351b0afabef2cce7199ff4b7539c2f.jpeg"
+    ]
+  },
+  {
+    "name": "特战救援",
+    "location": {
+      "lat": 37.433862,
+      "lng": 118.484058
+    },
+    "address": "东营市东营区东营(西城)桐凤小区东南侧约30米",
+    "province": "山东省",
+    "city": "东营市",
+    "area": "东营区",
+    "detail": 1,
+    "uid": "cb133e1f7e6051ef461a3276",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B6594f447dad1eb276.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B6594f447dad1eb276.jpeg"
+    ]
+  },
+  {
+    "name": "东营市安全生产应急救援中心",
+    "location": {
+      "lat": 37.447267,
+      "lng": 118.611891
+    },
+    "address": "山东省东营市东营区黄河路",
+    "province": "山东省",
+    "city": "东营市",
+    "area": "东营区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "9f3ca0b2b80adedcc356ac10",
+    "cover": "https://taojin-his.cdn.bcebos.com/574e9258d109b3de6a66706bc3bf6c81810a4cdc.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/574e9258d109b3de6a66706bc3bf6c81810a4cdc.jpg"
+    ]
+  },
+  {
+    "name": "特勤综合应急救援站",
+    "location": {
+      "lat": 37.424168,
+      "lng": 118.506541
+    },
+    "address": "东营市东营区西三路东营市胜利第十一中学东南侧约110米",
+    "province": "山东省",
+    "city": "东营市",
+    "area": "东营区",
+    "detail": 1,
+    "uid": "f1ffde9a95e56c4b16764374",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B624a39d3ea8563c16.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B624a39d3ea8563c16.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_72033a8e0b4c75bf417d6df73cee8512.jpeg"
+    ]
+  },
+  {
+    "name": "海狼救援",
+    "location": {
+      "lat": 37.518305,
+      "lng": 118.258469
+    },
+    "address": "东营市利津县利七路枣园住宅小区西南侧约180米",
+    "province": "山东省",
+    "city": "东营市",
+    "area": "利津县",
+    "detail": 1,
+    "uid": "d326186b8cd4629bc51b75a0",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_716aa8464ff18556c91052eecc9a0c9b.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_716aa8464ff18556c91052eecc9a0c9b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f805ad10861863751f0f259288351772.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8132ac3835eba5461719ce2574389270.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_dd07b4bedd0383045d99bcf363cfe94b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3f37bddc53a239c09882d78426a559b6.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B67789be04ea8d2a2e.jpeg"
+    ]
+  }
+]

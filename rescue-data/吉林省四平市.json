@@ -1,0 +1,138 @@
+[
+  {
+    "name": "瑞鑫汽车救援",
+    "location": {
+      "lat": 43.346561,
+      "lng": 125.292739
+    },
+    "address": "四平市伊通满族自治县中华西路君安驾校西墙外顺腾汽修旁",
+    "province": "吉林省",
+    "city": "四平市",
+    "area": "伊通满族自治县",
+    "telephone": "15844462829",
+    "detail": 1,
+    "uid": "ded95000d94abb158d772718",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_2fbf0362de1c60665d36a368d20d336e.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2fbf0362de1c60665d36a368d20d336e.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/H96dda144ad3459829de2e14c02f431adcaef8487.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/H79f0f736afc37931ca0d98f7e5c4b74542a91182.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/H472309f7905298221269dc1fd9ca7bcb0b46d490.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/Hdbb44aed2e738bd4619db6efaf8b87d6267ff9b4.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_acc108ef207ccc0fc872a015a0416654.jpeg"
+    ]
+  },
+  {
+    "name": "铁西区消防救援大队",
+    "location": {
+      "lat": 43.18545,
+      "lng": 124.341242
+    },
+    "address": "四平市铁西区英雄大路司法新村西北门西侧约30米",
+    "province": "吉林省",
+    "city": "四平市",
+    "area": "铁西区",
+    "detail": 1,
+    "uid": "7e7c553e1f1b135badcb6681",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_039f7b0b3f40e014e119b07add7746d7.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_039f7b0b3f40e014e119b07add7746d7.jpeg"
+    ]
+  },
+  {
+    "name": "可心流动道路救援",
+    "location": {
+      "lat": 43.367646,
+      "lng": 125.316965
+    },
+    "address": "四平市伊通满族自治县S206与伊通大街交叉路口往东约150米",
+    "province": "吉林省",
+    "city": "四平市",
+    "area": "伊通满族自治县",
+    "detail": 1,
+    "uid": "9317f966975626982ad7ab58",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_202a52b890146da8fe20f3bc742c10e8.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_202a52b890146da8fe20f3bc742c10e8.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_edbb5ba3423634cb1824d3e41e41ff50.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_84cf99f30c98b788f798f880ab3ddc8f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_aa12d5ef6732ac6beb9b9877c864b593.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4d391cbab9ef7e241a48bcfc253514f7.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7248ec316e0e318f16a9f989895a5831.jpg"
+    ]
+  },
+  {
+    "name": "鑫城道路救援有限公司",
+    "location": {
+      "lat": 43.169388,
+      "lng": 124.387231
+    },
+    "address": "铁东区南一经街四平市二马路小学",
+    "province": "吉林省",
+    "city": "四平市",
+    "area": "铁东区",
+    "street_id": "196446cf91a604bef8dc85a3",
+    "telephone": "18704345255",
+    "detail": 1,
+    "uid": "196446cf91a604bef8dc85a3",
+    "cover": "https://taojin-his.cdn.bcebos.com/f636afc379310a5569f0fa8cb84543a9832610f5.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=196446cf91a604bef8dc85a3&width=720&height=360&quality=80&fovx=120",
+      "https://taojin-his.cdn.bcebos.com/6609c93d70cf3bc724440f34df00baa1cc112aa6.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B6464fad5ac84062f7.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ecc47ef2bf49788b60a9d77ba9b4bf8b.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65f15c8a9299c12150.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 43.159087,
+      "lng": 124.41198
+    },
+    "address": "四平市铁东区",
+    "province": "吉林省",
+    "city": "四平市",
+    "area": "铁东区",
+    "detail": 1,
+    "uid": "9036eb6672c5631577026953",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_202dab0a3a9f8fe61ae840dc507403b9.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_202dab0a3a9f8fe61ae840dc507403b9.jpeg"
+    ]
+  },
+  {
+    "name": "四平经济开发区平东南路消防救援站",
+    "location": {
+      "lat": 43.140932,
+      "lng": 124.413568
+    },
+    "address": "吉林省四平市铁东区平东南路1649号",
+    "province": "吉林省",
+    "city": "四平市",
+    "area": "铁东区",
+    "detail": 1,
+    "uid": "17ade72943215dbe8505bf1c",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_b84ca4850c8b8b9fb0a41dc18f3d3d3a.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b84ca4850c8b8b9fb0a41dc18f3d3d3a.jpeg"
+    ]
+  },
+  {
+    "name": "北沟街消防救援委员会",
+    "location": {
+      "lat": 43.191295,
+      "lng": 124.363696
+    },
+    "address": "四平市铁西区滨河·蓝湾",
+    "province": "吉林省",
+    "city": "四平市",
+    "area": "铁西区",
+    "detail": 1,
+    "uid": "d5626d234738f0433210af51",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_07cdf75fd672197b6120e7ab6f5e4d72.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_07cdf75fd672197b6120e7ab6f5e4d72.jpeg"
+    ]
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "name": "安援汽车救援中心",
+    "location": {
+      "lat": 42.33371,
+      "lng": 118.925552
+    },
+    "address": "赤峰市红山区汽配城街赤峰汽修汽配城",
+    "province": "内蒙古自治区",
+    "city": "赤峰市",
+    "area": "红山区",
+    "street_id": "0c84489c4fc1464513293535",
+    "telephone": "15104764355",
+    "detail": 1,
+    "uid": "0c84489c4fc1464513293535",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_9d5811d70d7e72523b1eae22ff21f0c7.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=0c84489c4fc1464513293535&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b6890e951c5b35fae39875190e6b6120.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_333aefe991bf891e9283aeea596e299f.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_172c996bc1d0184f38570e9d51c6b5b1.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_61d4762ab7ed0ae76a679700ff28481f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_38d73641c10f81979fdcb6144ba4db38.jpeg"
+    ]
+  },
+  {
+    "name": "畅达汽车救援中心",
+    "location": {
+      "lat": 42.618739,
+      "lng": 118.921092
+    },
+    "address": "赤峰市翁牛特旗G306桥兴小区东南侧约100米",
+    "province": "内蒙古自治区",
+    "city": "赤峰市",
+    "area": "翁牛特旗",
+    "telephone": "15947692130",
+    "detail": 1,
+    "uid": "79b7a71e80766ca575e5b6a3",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_75f16e769623fdd43876d89dd03b1e9a.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_75f16e769623fdd43876d89dd03b1e9a.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/H32fa828ba61ea8d3cfcc307d980a304e241f58d8.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/H10dfa9ec8a136327c8eb854a9e8fa0ec08fac741.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/H8718367adab44aedfc5da42abd1c8701a08bfbe9.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/Hd31b0ef41bd5ad6e8b1020938ecb39dbb7fd3cd9.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/H9f2f070828381f3034019767a7014c086f06f0e0.jpg"
+    ]
+  },
+  {
+    "name": "汽车修理救援",
+    "location": {
+      "lat": 42.32237,
+      "lng": 118.647811
+    },
+    "address": "赤峰市松山区经山线",
+    "province": "内蒙古自治区",
+    "city": "赤峰市",
+    "area": "松山区",
+    "telephone": "13789765909",
+    "detail": 1,
+    "uid": "3b7fa16bc4e64c15b1077d3f",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_73ed384731e1e14cbb61c682e1f8826f.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_73ed384731e1e14cbb61c682e1f8826f.jpeg"
+    ]
+  },
+  {
+    "name": "安运汽车救援",
+    "location": {
+      "lat": 42.948966,
+      "lng": 119.017521
+    },
+    "address": "赤峰市翁牛特旗响水路吉安家园西南侧约110米",
+    "province": "内蒙古自治区",
+    "city": "赤峰市",
+    "area": "翁牛特旗",
+    "detail": 1,
+    "uid": "5c46cca9f230c01a43ab9a3b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_772239073399a3096442263c5316b5ee.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_772239073399a3096442263c5316b5ee.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a81f310b55d276a6c7b76bad5359ad1f.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_24296d7a9c9795d52064954b96d21f18.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b7229b74cb13354a26fdf2e6fe6436e9.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f588e8e749c27a3c9145059e0005c45c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_00958132a414f0336da4e07f4861809d.jpeg"
+    ]
+  },
+  {
+    "name": "赤峰市消防救援支队",
+    "location": {
+      "lat": 42.253298,
+      "lng": 118.892362
+    },
+    "address": "内蒙古自治区赤峰市松山区新惠路37号",
+    "province": "内蒙古自治区",
+    "city": "赤峰市",
+    "area": "松山区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "8f338263454affec306212db",
+    "cover": "https://taojin-his.cdn.bcebos.com/e824b899a9014c08719de9ca017b02087bf4f43f.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/e824b899a9014c08719de9ca017b02087bf4f43f.jpg"
+    ]
+  },
+  {
+    "name": "赤峰市公路管理处灾害抢险救援中心",
+    "location": {
+      "lat": 42.926181,
+      "lng": 119.038326
+    },
+    "address": "赤峰市翁牛特旗乌丹路翁牛特旗职教中心西北侧约250米",
+    "province": "内蒙古自治区",
+    "city": "赤峰市",
+    "area": "翁牛特旗",
+    "detail": 1,
+    "uid": "5520e6aa52d2c516a7c75657",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_4cde4f08f921873e606b3c7f2f989e41.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4cde4f08f921873e606b3c7f2f989e41.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_f6cc05cd3f48dddffcff6f0ca9101aae.jpg"
+    ]
+  },
+  {
+    "name": "喀喇沁旗消防救援大队",
+    "location": {
+      "lat": 41.915433,
+      "lng": 118.706454
+    },
+    "address": "赤峰市喀喇沁旗锦南大街赤峰建筑工程学校西北侧约60米",
+    "province": "内蒙古自治区",
+    "city": "赤峰市",
+    "area": "喀喇沁旗",
+    "detail": 1,
+    "uid": "102d5f908a43d03bd3ff2382",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_cb25195c39b44a7fddc7b1444d86c65c.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cb25195c39b44a7fddc7b1444d86c65c.jpg"
+    ]
+  }
+]

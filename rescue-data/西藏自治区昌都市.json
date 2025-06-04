@@ -1,0 +1,79 @@
+[
+  {
+    "name": "轮胎大全道路救援",
+    "location": {
+      "lat": 29.508441,
+      "lng": 96.767564
+    },
+    "address": "西藏自治区昌都市八宿县G318(沪聂线)",
+    "province": "西藏自治区",
+    "city": "昌都市",
+    "area": "八宿县",
+    "street_id": "a77a6e4ebb958c11efe4a57a",
+    "detail": 1,
+    "uid": "a77a6e4ebb958c11efe4a57a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_2d0b79fd3eeb58969a41c03dd7fb2abc.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=a77a6e4ebb958c11efe4a57a&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_95eb20a7c827cec86c20437f1c9a755c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b604c2e2c7f872a1ec1425b99c96a14e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5c051540579c79a64b6be19c671176dd.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8c6fed00ade215d57614dc929a4f2ba4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_689deb1ca7995eb76b01286dc2f0f3d7.jpeg"
+    ]
+  },
+  {
+    "name": "开拓汽服",
+    "location": {
+      "lat": 30.062548,
+      "lng": 96.934865
+    },
+    "address": "西藏自治区昌都市八宿县沪聂线西藏八宿县中学东侧约230米",
+    "province": "西藏自治区",
+    "city": "昌都市",
+    "area": "八宿县",
+    "detail": 1,
+    "uid": "b9d4633166f75bdbacee7aaa",
+    "cover": "https://pic-map.cdn.bcebos.com/img/e134ad955609b8d2cd12e5dde646af45",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/e134ad955609b8d2cd12e5dde646af45"
+    ]
+  },
+  {
+    "name": "伟达汽修",
+    "location": {
+      "lat": 29.69906,
+      "lng": 97.823546
+    },
+    "address": "乌雅村附近汽车维修钣金喷漆精洗美容保险理赔24小时道路救援",
+    "province": "西藏自治区",
+    "city": "昌都市",
+    "area": "左贡县",
+    "telephone": "13378133695,18161323752",
+    "detail": 1,
+    "uid": "0db63eaa0f522c8fab0dd8cd",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/001/146_66e70264fb89d23362128ad7156c0337.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/001/146_66e70264fb89d23362128ad7156c0337.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/001/146_81f66e6dc5bbc6f0ce2218a10580d461.jpeg"
+    ]
+  },
+  {
+    "name": "博越汽车维修救援",
+    "location": {
+      "lat": 29.625343,
+      "lng": 98.36032
+    },
+    "address": "西藏自治区昌都市芒康县如美镇竹卡村江东组永和居大酒店后院",
+    "province": "西藏自治区",
+    "city": "昌都市",
+    "area": "芒康县",
+    "telephone": "13568024506,15882548374",
+    "detail": 1,
+    "uid": "2f2ad438ad88833dc16c1483",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B6701e1709737c5a59.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B6701e1709737c5a59.jpeg"
+    ]
+  }
+]

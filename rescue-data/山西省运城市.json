@@ -1,0 +1,103 @@
+[
+  {
+    "name": "运泰道路救援",
+    "location": {
+      "lat": 35.040103,
+      "lng": 110.974958
+    },
+    "address": "运城市盐湖区圣惠北路平安大厦西南侧约90米",
+    "province": "山西省",
+    "city": "运城市",
+    "area": "盐湖区",
+    "telephone": "19935598282,4001000359",
+    "detail": 1,
+    "uid": "e1ddf8436cfe7e1f6f3e1b47",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ffecd8403024ade5d2080a0b48baaec5.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ffecd8403024ade5d2080a0b48baaec5.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1f59b7663c60aa7f67810698fb600e77.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_aeaa4296e5991d2672e1d59085041abe.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9c2562713d656d0911f44e00e40deac4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_208ef1787983942ba3cce13c9c88a75b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_109dd877b1d97163b263c4904f2ff60a.jpeg"
+    ]
+  },
+  {
+    "name": "老宓液压管拉线",
+    "location": {
+      "lat": 35.441731,
+      "lng": 111.324646
+    },
+    "address": "运城市闻喜县侯风线东镇西街小学东侧约150米",
+    "province": "山西省",
+    "city": "运城市",
+    "area": "闻喜县",
+    "telephone": "13453978348,13934889450",
+    "detail": 1,
+    "uid": "c65a340b6ba8849d9a0050e9",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_146c155e365699fff786c7da9f069a2d.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_146c155e365699fff786c7da9f069a2d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c92752e819b5a430009b1b68ea723293.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5a71ef1179f80f0e8e1e8ac5e59682dc.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cf09b40883c6bd19acf278b37b85afeb.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4b8d797003759afacc9916dcbaac5258.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ca4fa5c5a4f9c0a03b08494bd22e59fa.jpg"
+    ]
+  },
+  {
+    "name": "蓝天救援队",
+    "location": {
+      "lat": 35.057697,
+      "lng": 111.028887
+    },
+    "address": "运城市盐湖区摩托街民政小区东北侧约80米",
+    "province": "山西省",
+    "city": "运城市",
+    "area": "盐湖区",
+    "detail": 1,
+    "uid": "bd3e15ef37af37d088b9888e",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ad260ee1c8a333ce4ca0fb908182bd02.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ad260ee1c8a333ce4ca0fb908182bd02.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b2ad13da91d804f5159c55f43036bd1e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e17cc9d6d6ae67e0f3b632ce7312c1fa.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a7a1a3fc33b268a47ac7e65384a53c0b.jpeg"
+    ]
+  },
+  {
+    "name": "天龙救援队",
+    "location": {
+      "lat": 35.615389,
+      "lng": 111.001557
+    },
+    "address": "运城市稷山县稷圣路明鑫花苑西侧约50米",
+    "province": "山西省",
+    "city": "运城市",
+    "area": "稷山县",
+    "detail": 1,
+    "uid": "066a60f5f9a054595e0d0226",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_451b2e6efe8e5cb9f6590283f2a226ca.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_451b2e6efe8e5cb9f6590283f2a226ca.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e25d8d275a7ae01dab20118757b00158.jpeg"
+    ]
+  },
+  {
+    "name": "临猗县丰喜大道消防救援站",
+    "location": {
+      "lat": 35.133815,
+      "lng": 110.764826
+    },
+    "address": "山西省运城市临猗县丰喜大道辅路",
+    "province": "山西省",
+    "city": "运城市",
+    "area": "临猗县",
+    "detail": 1,
+    "uid": "a7143c872477c6524151c0ee",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_8c343a17af009a05aec99867cf317c5c.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8c343a17af009a05aec99867cf317c5c.jpeg"
+    ]
+  }
+]

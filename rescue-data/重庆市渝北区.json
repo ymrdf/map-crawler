@@ -1,0 +1,175 @@
+[
+  {
+    "name": "火线救援",
+    "location": {
+      "lat": 29.663188,
+      "lng": 106.62682
+    },
+    "address": "重庆市渝北区两港大道与银梭大道交叉口圣名游乐城陆地乐园",
+    "province": "重庆市",
+    "city": "重庆市",
+    "area": "渝北区",
+    "detail": 1,
+    "uid": "8d422b171dd0a9d4260bd0cd",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/ba6eba9cf56fa08ec7e893647881adfd_9716.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/ba6eba9cf56fa08ec7e893647881adfd_9716.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/3b984b4ce997bbc1915ab1ceada550d1_0534.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_084c3f8c6e22ddabecf10c20b528167d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2fda1221d2c783d246da8d88a0bcd70f.jpeg"
+    ]
+  },
+  {
+    "name": "119消防救援",
+    "location": {
+      "lat": 29.694114,
+      "lng": 106.496535
+    },
+    "address": "重庆市渝北区礼仁街嘉悦山水东南侧",
+    "province": "重庆市",
+    "city": "重庆市",
+    "area": "渝北区",
+    "detail": 1,
+    "uid": "881f0dacfa03943b1894c609",
+    "cover": "https://pic-map.cdn.bcebos.com/img/8e8b1a5f7fdcc8a5a356d6e620d83865",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/8e8b1a5f7fdcc8a5a356d6e620d83865"
+    ]
+  },
+  {
+    "name": "渝北区龙山小型消防救援站",
+    "location": {
+      "lat": 29.588051,
+      "lng": 106.504059
+    },
+    "address": "重庆市渝北区松石大道138号",
+    "province": "重庆市",
+    "city": "重庆市",
+    "area": "渝北区",
+    "detail": 1,
+    "uid": "5fe16ae9e29d9d25223bf2ab",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_22a7ed0b4103d93455ed2f911c13bb6f.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_22a7ed0b4103d93455ed2f911c13bb6f.jpeg"
+    ]
+  },
+  {
+    "name": "重庆市航空应急救援总队",
+    "location": {
+      "lat": 29.602105,
+      "lng": 106.508467
+    },
+    "address": "重庆市渝北区龙山街道松石支路255号",
+    "province": "重庆市",
+    "city": "重庆市",
+    "area": "渝北区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "d469f851179fbc7657bfff8c",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_de171f30ec0c6d5d315735fb10206c9f.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_de171f30ec0c6d5d315735fb10206c9f.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B60c8122966e0210143.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B60c812359ac8b69aa.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c7e8236ffdd67c4035ab9e5b9c315831.jpeg"
+    ]
+  },
+  {
+    "name": "中国国际救援中心重庆应急救援总队",
+    "location": {
+      "lat": 29.615395,
+      "lng": 106.508383
+    },
+    "address": "重庆市渝北区洪湖西路18号上丁企业公园29栋1楼",
+    "province": "重庆市",
+    "city": "重庆市",
+    "area": "渝北区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "77b4ac016abd3662a10464d9",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B5fcef041d3b6d71d9.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B5fcef041d3b6d71d9.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_617d13417ec388e23e7ba36d3cfb8c48.jpeg"
+    ]
+  },
+  {
+    "name": "重庆市消防总队",
+    "location": {
+      "lat": 29.621287,
+      "lng": 106.527158
+    },
+    "address": "重庆市渝北区云杉北路77号",
+    "province": "重庆市",
+    "city": "重庆市",
+    "area": "渝北区",
+    "street_id": "",
+    "telephone": "(023)67315555",
+    "detail": 1,
+    "uid": "5c2fab2769b6ea568936ee83",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_15a2cf41c677f54684d309cb9a1ec31f.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_15a2cf41c677f54684d309cb9a1ec31f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_25597d1f5686fbef5cf25391bdd5d312.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 29.634762,
+      "lng": 106.482419
+    },
+    "address": "重庆市渝北区恒山西路慈竹苑-东区北侧约40米",
+    "province": "重庆市",
+    "city": "重庆市",
+    "area": "渝北区",
+    "detail": 1,
+    "uid": "8b9f664d62aad2161c38943a",
+    "cover": "https://pic-map.cdn.bcebos.com/img/f752d7a9e08be994583453d5fa913300",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/f752d7a9e08be994583453d5fa913300"
+    ]
+  },
+  {
+    "name": "昂冠汽修补胎搭电拖车救援",
+    "location": {
+      "lat": 29.568508,
+      "lng": 106.593128
+    },
+    "address": "陕西路33号(朝天门地铁站1号口步行140米)协信商厦F2",
+    "province": "重庆市",
+    "city": "重庆市",
+    "area": "渝中区",
+    "telephone": "13035019283",
+    "detail": 1,
+    "uid": "8ae51508d6700cbf1ef74dea",
+    "cover": "https://taojin-pic-gz.cdn.bcebos.com/78e96620235f288f94844a37e04ff719.jpeg",
+    "photo_list": [
+      "https://taojin-pic-gz.cdn.bcebos.com/78e96620235f288f94844a37e04ff719.jpeg"
+    ]
+  },
+  {
+    "name": "畅通汽车救援",
+    "location": {
+      "lat": 29.618208,
+      "lng": 106.534032
+    },
+    "address": "重庆市渝北区人和大道紫露苑1栋一单元",
+    "province": "重庆市",
+    "city": "重庆市",
+    "area": "渝北区",
+    "street_id": "96e69533d97f3577d3ff239c",
+    "telephone": "18520819809",
+    "detail": 1,
+    "uid": "96e69533d97f3577d3ff239c",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ba978b272a8930b04c88d940677ff714.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=96e69533d97f3577d3ff239c&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ca0c3d6b0bca0ec42bbfb145ab782bb6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3751e0bc30e667749addce1130dd9043.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_09e9ec434d5a962b36e659e2c1330ef4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c001e60212f7b458dd2730337b9f55a5.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_fd9e166059156fd1a93d5195fe1e6fc4.jpeg"
+    ]
+  }
+]

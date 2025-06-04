@@ -1,0 +1,100 @@
+[
+  {
+    "name": "岳阳畅通道路救援服务有限公司",
+    "location": {
+      "lat": 29.332194,
+      "lng": 113.257273
+    },
+    "address": "湖南省岳阳市岳阳楼区X029",
+    "province": "湖南省",
+    "city": "岳阳市",
+    "area": "岳阳楼区",
+    "street_id": "",
+    "telephone": "18973098222",
+    "detail": 1,
+    "uid": "81e69b0976caeae99eec2b73",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/H2934349b033b5bb56b23b0f539d3d539b700bcc1.jpg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/H2934349b033b5bb56b23b0f539d3d539b700bcc1.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/H8718367adab44aedae2f0a06bd1c8701a08bfbeb.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_de68e8c51e7e32c043c5f47124888a64.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/H7dd98d1001e93901e9c91d3574ec54e737d196f6.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/Ha50f4bfbfbedab6466cff922f936afc378311e96.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/H37d3d539b6003af3924e4c6b3a2ac65c1138b6c1.jpg"
+    ]
+  },
+  {
+    "name": "岳阳市防汛抢险救援中心",
+    "location": {
+      "lat": 29.382363,
+      "lng": 113.108557
+    },
+    "address": "岳阳市岳阳楼区建设北路青年堤环卫小区南侧约50米",
+    "province": "湖南省",
+    "city": "岳阳市",
+    "area": "岳阳楼区",
+    "detail": 1,
+    "uid": "d308876ad83d3c4a59bbbc79",
+    "cover": "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_97db333327ae6dc760144c4ea0a3f24c.jpg",
+    "photo_list": [
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_97db333327ae6dc760144c4ea0a3f24c.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e2a56d6bf9f998f0eaf8963f5a59c1a6.jpg"
+    ]
+  },
+  {
+    "name": "岳阳市岳阳楼区岳阳楼消防救援站",
+    "location": {
+      "lat": 29.385202,
+      "lng": 113.123398
+    },
+    "address": "岳阳市岳阳楼区得胜街枫桥尚城南侧约40米",
+    "province": "湖南省",
+    "city": "岳阳市",
+    "area": "岳阳楼区",
+    "detail": 1,
+    "uid": "2c94d4be107c3407c9e33c2f",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ecdfdc3d401be970331888a276c3fb87.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ecdfdc3d401be970331888a276c3fb87.jpeg"
+    ]
+  },
+  {
+    "name": "华容县救援处险应急工程队",
+    "location": {
+      "lat": 29.546207,
+      "lng": 112.577201
+    },
+    "address": "岳阳市华容县黎淳南路康桥北苑北侧约200米",
+    "province": "湖南省",
+    "city": "岳阳市",
+    "area": "华容县",
+    "detail": 1,
+    "uid": "2070274014a4afff3a04b111",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_382cacf4e49103c23ffcf6738b809fe3.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_382cacf4e49103c23ffcf6738b809fe3.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_dff84ed3e03ae8c9a09450e6e41f5080.jpg"
+    ]
+  },
+  {
+    "name": "消防",
+    "location": {
+      "lat": 29.527331,
+      "lng": 112.549773
+    },
+    "address": "岳阳市华容县人民大道华冠国际大酒店西北侧约190米",
+    "province": "湖南省",
+    "city": "岳阳市",
+    "area": "华容县",
+    "street_id": "c5ced4bf4ab02bbeb6f42fda",
+    "detail": 1,
+    "uid": "c5ced4bf4ab02bbeb6f42fda",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_345ccc44f53d048ebd60fbe993baa55c.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=c5ced4bf4ab02bbeb6f42fda&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9d4293c9764fb656ae428d22318cf77a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_da61037988a64fe6c726c682bb375d60.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2ef67631c33c7c2d51ab56f02265c18f.jpeg"
+    ]
+  }
+]

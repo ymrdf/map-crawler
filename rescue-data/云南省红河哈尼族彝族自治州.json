@@ -1,0 +1,118 @@
+[
+  {
+    "name": "红河州成祥道路救援服务有限公司",
+    "location": {
+      "lat": 23.386922,
+      "lng": 103.387904
+    },
+    "address": "红河哈尼族彝族自治州蒙自市龙井路车行天下二手车市场",
+    "province": "云南省",
+    "city": "红河哈尼族彝族自治州",
+    "area": "蒙自市",
+    "street_id": "a91ec43511b22e19dc1e5266",
+    "telephone": "13887309245",
+    "detail": 1,
+    "uid": "a91ec43511b22e19dc1e5266",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B64998dbccda31ed1d.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=a91ec43511b22e19dc1e5266&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b0f3f503a885033128ca4d851da4a673.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f560bd3e05bb7c37c1fb82f2206553c0.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b69368e7307e538c7c5c6ecaff595924.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_fe45e97200f9bdfa1f91b262dae870ad.jpeg"
+    ]
+  },
+  {
+    "name": "弥勒市中山路消防救援站",
+    "location": {
+      "lat": 24.418583,
+      "lng": 103.427979
+    },
+    "address": "云南省红河哈尼族彝族自治州弥勒市中山路司法小区西侧约130米",
+    "province": "云南省",
+    "city": "红河哈尼族彝族自治州",
+    "area": "弥勒市",
+    "detail": 1,
+    "uid": "e70ab9843acb89cd04026f90",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ac9885929a929b7114ee6e7a7afbc248.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ac9885929a929b7114ee6e7a7afbc248.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e9a728fc9b7e6a05356120ad579a5b56.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_36ca3d123d8bf1890421f4eb4e18a714.jpeg"
+    ]
+  },
+  {
+    "name": "个旧市消防救援大队",
+    "location": {
+      "lat": 23.385752,
+      "lng": 103.166742
+    },
+    "address": "红河哈尼族彝族自治州个旧市青龙路个旧市第四中学东北侧约30米",
+    "province": "云南省",
+    "city": "红河哈尼族彝族自治州",
+    "area": "个旧市",
+    "detail": 1,
+    "uid": "58f8840881d308a672455b5c",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_b60cd420d673a108398d6c911ec08b5c.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b60cd420d673a108398d6c911ec08b5c.jpeg"
+    ]
+  },
+  {
+    "name": "弥勒市消防救援大队",
+    "location": {
+      "lat": 24.418734,
+      "lng": 103.428379
+    },
+    "address": "云南省红河哈尼族彝族自治州弥勒市中山路司法小区西侧约130米",
+    "province": "云南省",
+    "city": "红河哈尼族彝族自治州",
+    "area": "弥勒市",
+    "detail": 1,
+    "uid": "f57fc7ba186bc89971210baf",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ac9885929a929b7114ee6e7a7afbc248.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ac9885929a929b7114ee6e7a7afbc248.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e9a728fc9b7e6a05356120ad579a5b56.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_46726401c1f78c563f17081786393691.jpeg"
+    ]
+  },
+  {
+    "name": "元阳县消防救援大队",
+    "location": {
+      "lat": 23.221817,
+      "lng": 102.849658
+    },
+    "address": "云南省红河哈尼族彝族自治州元阳县常青路36号",
+    "province": "云南省",
+    "city": "红河哈尼族彝族自治州",
+    "area": "元阳县",
+    "detail": 1,
+    "uid": "956b3d9be163d8f30b1cc763",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_f52db5e3c773d713b40f93dff13f286a.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f52db5e3c773d713b40f93dff13f286a.jpeg"
+    ]
+  },
+  {
+    "name": "开远市乐白道消防救援站",
+    "location": {
+      "lat": 23.71813,
+      "lng": 103.28066
+    },
+    "address": "云南省红河哈尼族彝族自治州开远市东新路294号",
+    "province": "云南省",
+    "city": "红河哈尼族彝族自治州",
+    "area": "开远市",
+    "detail": 1,
+    "uid": "2665096faf27795da8f0cdd7",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_6199812fb4e1c2eb5bc2eed26bec2a20.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6199812fb4e1c2eb5bc2eed26bec2a20.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a317efa6695784932caa9f40db691ebc.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3a5e8a37fb3c5faa3fde4c20a28f52e5.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_43a3a72881877637eea7aba9f6cb178e.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B678612627cc6f7890.jpeg"
+    ]
+  }
+]

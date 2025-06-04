@@ -1,0 +1,119 @@
+[
+  {
+    "name": "黄河救援队",
+    "location": {
+      "lat": 33.964395,
+      "lng": 118.300602
+    },
+    "address": "江苏省宿迁市宿城区黄河路140号",
+    "province": "江苏省",
+    "city": "宿迁市",
+    "area": "宿城区",
+    "street_id": "71c268873886a10f7adbd2cc",
+    "telephone": "13235158666",
+    "detail": 1,
+    "uid": "71c268873886a10f7adbd2cc",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/H6a600c338744ebf83c714962d4f9d72a6059a76e.jpg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/H6a600c338744ebf83c714962d4f9d72a6059a76e.jpg",
+      "https://poi-pic.cdn.bcebos.com/bbc1e35704a5b85aeb546b5197ae88b6.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B6582adfa7dedc10573.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6582adfa7c7e513a57.jpeg"
+    ]
+  },
+  {
+    "name": "灭火救援应急中心",
+    "location": {
+      "lat": 33.903387,
+      "lng": 118.286984
+    },
+    "address": "宿迁市宿城区振兴路宿迁市消防支队",
+    "province": "江苏省",
+    "city": "宿迁市",
+    "area": "宿城区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "8c292236a9a5218c8af15d2b",
+    "cover": "https://poi-pic.cdn.bcebos.com/1132f53a313d900b924f85ff0926e462.jpg",
+    "photo_list": [
+      "https://poi-pic.cdn.bcebos.com/1132f53a313d900b924f85ff0926e462.jpg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 33.940144,
+      "lng": 118.286591
+    },
+    "address": "江苏省宿迁市宿城区富康大道义乌国际商贸城",
+    "province": "江苏省",
+    "city": "宿迁市",
+    "area": "宿城区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "27826b474a11a388028972c3",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_71ff8e5c07438e8ee7d6a909d2a0e31d.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_71ff8e5c07438e8ee7d6a909d2a0e31d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8ac3eb2480f0f4769d63ed5f05a574ae.jpg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 33.95289,
+      "lng": 118.346564
+    },
+    "address": "江苏省宿迁市宿豫区韶山路与黄浦江路交叉路口往东约100米",
+    "province": "江苏省",
+    "city": "宿迁市",
+    "area": "宿豫区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "4019b315663fd9c6a7c75612",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_733ba6475ff1cd25216bc2bf95262d32.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_733ba6475ff1cd25216bc2bf95262d32.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0b640dca6266a0c3b7bfd012389f4c5b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ffcedd3f5b37cf25abbc4e1545589acb.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b352a9af853607c669da87edaf5cb4cb.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a1ed271f681249f068e2cf481d78f97f.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_2d4c70b3646e3baccc54212c6500fa35.jpg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 34.055743,
+      "lng": 118.765677
+    },
+    "address": "宿迁市沭阳县宿迁大道百盟物流园",
+    "province": "江苏省",
+    "city": "宿迁市",
+    "area": "沭阳县",
+    "detail": 1,
+    "uid": "25099a3fe22afb8fe31103d6",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_4514da02d7eb439a84b959500863d039.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4514da02d7eb439a84b959500863d039.jpeg"
+    ]
+  },
+  {
+    "name": "洋河消防救援大队",
+    "location": {
+      "lat": 33.787669,
+      "lng": 118.357385
+    },
+    "address": "宿迁市宿城区太皇河路金德国际花园西南侧约250米",
+    "province": "江苏省",
+    "city": "宿迁市",
+    "area": "宿城区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "1daa6be48b8d08ad871541bb",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B60c07ba886c616a54.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B60c07ba886c616a54.jpeg"
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "name": "轮胎商行四轮定位",
+    "location": {
+      "lat": 44.027056,
+      "lng": 87.276906
+    },
+    "address": "昌吉回族自治州昌吉市乌伊公路光捷石油(加油站)西侧约130米",
+    "province": "新疆维吾尔自治区",
+    "city": "昌吉回族自治州",
+    "area": "昌吉市",
+    "telephone": "15999075250",
+    "detail": 1,
+    "uid": "0cf94928dafd87c73517dc70",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_3ce4082929851edf00b969514ce66eb9.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3ce4082929851edf00b969514ce66eb9.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5bfa35faeb177df7fd0e805aaf8890bb.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4de1e5d278fa30833e44e451680676fb.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_dbf278aaa3ee9229c7823f1a52b18adc.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f634311795e50fdf7c19b4dcae5a93e0.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65fa9abfd1c8a39cf.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 44.025188,
+      "lng": 87.314076
+    },
+    "address": "昌吉回族自治州昌吉市健康西路昌吉回族自治州人民医院南侧约50米",
+    "province": "新疆维吾尔自治区",
+    "city": "昌吉回族自治州",
+    "area": "昌吉市",
+    "detail": 1,
+    "uid": "41fe67e6040de4f0d8ecedda",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_4134dbf20c0a000e4df5a49c4b91378a.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4134dbf20c0a000e4df5a49c4b91378a.jpeg"
+    ]
+  },
+  {
+    "name": "昌吉市石河子路消防救援站",
+    "location": {
+      "lat": 43.990536,
+      "lng": 87.28762
+    },
+    "address": "昌吉回族自治州昌吉市石河子西路环宇·新天地西南侧约50米",
+    "province": "新疆维吾尔自治区",
+    "city": "昌吉回族自治州",
+    "area": "昌吉市",
+    "detail": 1,
+    "uid": "8d299a0836a4bf6008ccddc2",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d0445cfefdd87beeb2e1bcae068193a3.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d0445cfefdd87beeb2e1bcae068193a3.jpeg"
+    ]
+  },
+  {
+    "name": "昌吉市消防救援大队",
+    "location": {
+      "lat": 43.990044,
+      "lng": 87.287589
+    },
+    "address": "昌吉回族自治州昌吉市祥和巷吉祥花园-东区东侧约90米",
+    "province": "新疆维吾尔自治区",
+    "city": "昌吉回族自治州",
+    "area": "昌吉市",
+    "detail": 1,
+    "uid": "753b4010c2f06652081cc7c6",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_c1f7900b05985bdfae9280a23cb9be33.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c1f7900b05985bdfae9280a23cb9be33.jpeg"
+    ]
+  },
+  {
+    "name": "悦途汽车救援",
+    "location": {
+      "lat": 44.014542,
+      "lng": 89.594529
+    },
+    "address": "新疆维吾尔自治区昌吉回族自治州奇台县G335(古城南街)",
+    "province": "新疆维吾尔自治区",
+    "city": "昌吉回族自治州",
+    "area": "奇台县",
+    "detail": 1,
+    "uid": "89aa3cf9a3d656b13f9a5e33",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_c70adbf410a8241e8ba8ebdb38e8c0c6.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c70adbf410a8241e8ba8ebdb38e8c0c6.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cb245243ffe543866d0f4e48cb8c906a.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B60727c4a9d1db16486.jpeg"
+    ]
+  }
+]

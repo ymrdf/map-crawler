@@ -1,0 +1,96 @@
+[
+  {
+    "name": "昌顺道路救援有限公司",
+    "location": {
+      "lat": 29.24907,
+      "lng": 88.90877
+    },
+    "address": "西藏自治区日喀则市桑珠孜区吉林南路53号",
+    "province": "西藏自治区",
+    "city": "日喀则市",
+    "area": "桑珠孜区",
+    "telephone": "18008923678",
+    "detail": 1,
+    "uid": "e8281f66bfa0176402294fd0",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B5fdda886811be130ff.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B5fdda886811be130ff.jpeg"
+    ]
+  },
+  {
+    "name": "萨迦县消防救援大队",
+    "location": {
+      "lat": 28.902398,
+      "lng": 88.028399
+    },
+    "address": "西藏自治区日喀则市萨迦县法王南路与颇章西路交叉路口往西南约80米",
+    "province": "西藏自治区",
+    "city": "日喀则市",
+    "area": "萨迦县",
+    "detail": 1,
+    "uid": "0569dbf828cbf7fcc61b75a2",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_5afcb0dbd6afe1d16ddec69fb3dfe2b0.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5afcb0dbd6afe1d16ddec69fb3dfe2b0.jpeg"
+    ]
+  },
+  {
+    "name": "日喀则消防救援支队",
+    "location": {
+      "lat": 29.260542,
+      "lng": 88.883587
+    },
+    "address": "西藏自治区日喀则市桑珠孜区扎德西路5号",
+    "province": "西藏自治区",
+    "city": "日喀则市",
+    "area": "桑珠孜区",
+    "detail": 1,
+    "uid": "b20724b1d7f132f72b201ac1",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_842fdd174e6efa66cc71206a11963dd4.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_842fdd174e6efa66cc71206a11963dd4.jpeg"
+    ]
+  },
+  {
+    "name": "藏顺通车辆服务有限公司",
+    "location": {
+      "lat": 29.261311,
+      "lng": 88.891171
+    },
+    "address": "日喀则市桑珠孜区扎德中路日喀则市第一高级中学东南侧约290米",
+    "province": "西藏自治区",
+    "city": "日喀则市",
+    "area": "桑珠孜区",
+    "street_id": "60942cd0446a7a2e250bd01d",
+    "detail": 1,
+    "uid": "60942cd0446a7a2e250bd01d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_8002dbeaf5fd8f4d463acd6eee6675ce.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=60942cd0446a7a2e250bd01d&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "拉隆嘎布酒店",
+    "location": {
+      "lat": 29.683089,
+      "lng": 89.109573
+    },
+    "address": "人民路东侧消防救援正对面",
+    "province": "西藏自治区",
+    "city": "日喀则市",
+    "area": "南木林县",
+    "street_id": "",
+    "telephone": "13658926948",
+    "detail": 1,
+    "uid": "08de216a5853fb3272210b08",
+    "cover": "https://poi-pic.cdn.bcebos.com/hotel/images/toutu/1/pics_495899997fe3afdce6779d5489bb4ad9.jpg?x-bce-process=image/resize,m_lfit,w_2160,h_1080/quality,q_70",
+    "photo_list": [
+      "https://poi-pic.cdn.bcebos.com/hotel/images/toutu/1/pics_495899997fe3afdce6779d5489bb4ad9.jpg?x-bce-process=image/resize,m_lfit,w_2160,h_1080/quality,q_70",
+      "https://poi-pic.cdn.bcebos.com/hotel/images/toutu/1/pics_d5eb28235a0ef699fceb6480c403203b.jpg?x-bce-process=image/resize,m_lfit,w_2160,h_1080/quality,q_70",
+      "https://poi-pic.cdn.bcebos.com/hotel/images/toutu/1/pics_4c09f3b13355e4604c3d8401cfaec83e.jpg?x-bce-process=image/resize,m_lfit,w_2160,h_1080/quality,q_70",
+      "https://poi-pic.cdn.bcebos.com/hotel/images/toutu/1/pics_e85c190eb596f44ecde2f6723fa2fe7f.jpg?x-bce-process=image/resize,m_lfit,w_2160,h_1080/quality,q_70",
+      "https://poi-pic.cdn.bcebos.com/hotel/images/toutu/1/pics_1c839d424099b510bffb003445a13411.jpg?x-bce-process=image/resize,m_lfit,w_2160,h_1080/quality,q_70",
+      "https://poi-pic.cdn.bcebos.com/hotel/images/toutu/1/pics_838be0e3c7b4677676b1a0b0e81e809c.jpg?x-bce-process=image/resize,m_lfit,w_2160,h_1080/quality,q_70"
+    ]
+  }
+]

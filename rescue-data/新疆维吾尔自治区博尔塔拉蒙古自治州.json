@@ -1,0 +1,37 @@
+[
+  {
+    "name": "阿拉山口市消防救援大队",
+    "location": {
+      "lat": 45.180995,
+      "lng": 82.562103
+    },
+    "address": "新疆维吾尔自治区博尔塔拉蒙古自治州阿拉山口市幸福街",
+    "province": "新疆维吾尔自治区",
+    "city": "博尔塔拉蒙古自治州",
+    "area": "阿拉山口市",
+    "detail": 1,
+    "uid": "fee9feac34ed4bcf4251c079",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B60f255c71f4f281d3.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B60f255c71f4f281d3.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_140f8d4c5c357edd127ed711909ca159.jpeg"
+    ]
+  },
+  {
+    "name": "博乐市健康路消防救援站",
+    "location": {
+      "lat": 44.898565,
+      "lng": 82.075857
+    },
+    "address": "博尔塔拉蒙古自治州博乐市健康路红星宾馆(红星路店)西南侧约190米",
+    "province": "新疆维吾尔自治区",
+    "city": "博尔塔拉蒙古自治州",
+    "area": "博乐市",
+    "detail": 1,
+    "uid": "ece2ca7ad4380f6ed8d891de",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_0dc36b5b0d334f146680b13e86b807e2.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0dc36b5b0d334f146680b13e86b807e2.jpeg"
+    ]
+  }
+]

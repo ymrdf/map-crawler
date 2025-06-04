@@ -1,0 +1,24 @@
+[
+  {
+    "name": "嘉峪关十一汽车拖车有限公司",
+    "location": {
+      "lat": 39.770927,
+      "lng": 98.266168
+    },
+    "address": "嘉峪关市嘉文路怡欣苑-B区东侧约60米",
+    "province": "甘肃省",
+    "city": "嘉峪关市",
+    "area": "",
+    "detail": 1,
+    "uid": "274491c3afa803cf31f71df5",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_7bdfd9aff8650f853e809e719d2daa97.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7bdfd9aff8650f853e809e719d2daa97.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f72a2172606c6e0a894045cc51575afe.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_faba164bd9f7481879308ee8ed0df8bf.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_27c06378aff8efb368708a0775924a07.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_751d1448eb7ef01e40ab07aa41c0c4c8.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_af426da8f81c89e2cb161ce3aa17068e.jpeg"
+    ]
+  }
+]

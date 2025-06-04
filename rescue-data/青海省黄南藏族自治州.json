@@ -1,0 +1,20 @@
+[
+  {
+    "name": "宏翔汽车维保中心",
+    "location": {
+      "lat": 35.530778,
+      "lng": 102.041319
+    },
+    "address": "黄南藏族自治州同仁市G316",
+    "province": "青海省",
+    "city": "黄南藏族自治州",
+    "area": "同仁市",
+    "telephone": "16229736111,16609731629",
+    "detail": 1,
+    "uid": "6b3b9b7ecc7f4f324e776e10",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_51a1fac7f9e4ec1956674f083c5207ac.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_51a1fac7f9e4ec1956674f083c5207ac.jpeg"
+    ]
+  }
+]

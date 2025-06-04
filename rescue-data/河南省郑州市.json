@@ -1,0 +1,108 @@
+[
+  {
+    "name": "补胎救援",
+    "location": {
+      "lat": 34.886767,
+      "lng": 113.644233
+    },
+    "address": "郑州市惠济区大河路龙泽文苑",
+    "province": "河南省",
+    "city": "郑州市",
+    "area": "惠济区",
+    "telephone": "17337116361",
+    "detail": 1,
+    "uid": "efed763fea185ca9e8e58206",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_26272ef292cef1e46491e88c753715e0.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_26272ef292cef1e46491e88c753715e0.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e4373b663e87c3db7ce6ac487cecd914.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ae2572199a029aa3f5b0083775c90083.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2e9f6f3c2803262b6b07b109e26ff113.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_87a3b131f7e0f03b1054b28618399659.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6546f18791ece3a0b.jpeg"
+    ]
+  },
+  {
+    "name": "及时豫救援",
+    "location": {
+      "lat": 34.61154,
+      "lng": 113.765294
+    },
+    "address": "河南省郑州市新郑市孟庄镇水榭华城41号楼二单元1703室",
+    "province": "河南省",
+    "city": "郑州市",
+    "area": "新郑市",
+    "telephone": "15333817879",
+    "detail": 1,
+    "uid": "0988014e97b07c9dd42ce210",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B5ffabc0c41cb312850.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B5ffabc0c41cb312850.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B5ffabc0c4c1a129ff.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B5ffabdd43e87515c42.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B5ffabc0c42ee7aba1.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B5ffabc0c41a4112939.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_972434c55836dad60037963c7354c9b0.jpeg"
+    ]
+  },
+  {
+    "name": "京广烟补胎拖车搭电道路救援",
+    "location": {
+      "lat": 34.719456,
+      "lng": 113.662711
+    },
+    "address": "河南省郑州市二七区京广中路101号",
+    "province": "河南省",
+    "city": "郑州市",
+    "area": "二七区",
+    "street_id": "95d19da6153896b33586f486",
+    "detail": 1,
+    "uid": "95d19da6153896b33586f486",
+    "cover": "https://taojin-his.cdn.bcebos.com/94cad1c8a786c9170699529ec43d70cf3ac757fa.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=95d19da6153896b33586f486&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7a7a61298bc8a50099d6b9e35c890593.jpg",
+      "https://taojin-his.cdn.bcebos.com/9922720e0cf3d7cabf7679f4f81fbe096a63a9b4.jpg",
+      "https://taojin-his.cdn.bcebos.com/4a36acaf2edda3cc4e28b18d0be93901203f924a.jpg",
+      "https://taojin-his.cdn.bcebos.com/f603918fa0ec08fac940ab0652ee3d6d54fbdacb.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1e5745685cb652850d3c22ab8e837841.jpg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 34.750181,
+      "lng": 113.717198
+    },
+    "address": "郑州市金水区玉凤路升龙凤凰城-D区",
+    "province": "河南省",
+    "city": "郑州市",
+    "area": "金水区",
+    "street_id": "72874acc94e2a178da2f28eb",
+    "detail": 1,
+    "uid": "72874acc94e2a178da2f28eb",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d53e4143ce04d1c9e356017789008f72.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=72874acc94e2a178da2f28eb&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "郑州市消防救援支队",
+    "location": {
+      "lat": 34.775162,
+      "lng": 113.813359
+    },
+    "address": "河南省郑州市金水区文苑南路",
+    "province": "河南省",
+    "city": "郑州市",
+    "area": "金水区",
+    "street_id": "49966a754dc1b1bf78f7969c",
+    "detail": 1,
+    "uid": "49966a754dc1b1bf78f7969c",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B66fcf8c9f2a80b883.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=49966a754dc1b1bf78f7969c&width=720&height=360&quality=80&fovx=120",
+      "https://lbsugc.cdn.bcebos.com/images/B66fceef2bf02617985.jpeg"
+    ]
+  }
+]

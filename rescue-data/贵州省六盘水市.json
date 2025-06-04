@@ -1,0 +1,79 @@
+[
+  {
+    "name": "盘州市雷霆汽车救援服务有限公司",
+    "location": {
+      "lat": 25.732665,
+      "lng": 104.457567
+    },
+    "address": "六盘水市盘州市盘州大道与迎宾大道交叉路口往东北约140米",
+    "province": "贵州省",
+    "city": "六盘水市",
+    "area": "盘州市",
+    "telephone": "18885808839",
+    "detail": 1,
+    "uid": "cbf6e0c9b0d4dcc1a1d23040",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_dee05e72256778e089fb76e78d50d96d.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_dee05e72256778e089fb76e78d50d96d.jpeg"
+    ]
+  },
+  {
+    "name": "盘州市豪旺救援设备有限公司",
+    "location": {
+      "lat": 25.730581,
+      "lng": 104.488067
+    },
+    "address": "贵州省六盘水市盘州市翰林大道155号翰林苑小区10栋2号",
+    "province": "贵州省",
+    "city": "六盘水市",
+    "area": "盘州市",
+    "telephone": "19110837222",
+    "detail": 1,
+    "uid": "a37303eb8bb239a7c2f1cfe4",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B601202707cf5f7fbe.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B601202707cf5f7fbe.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B601202707f9026822.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6012027092a4a907e.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6011114c5ed4dd32f.jpeg"
+    ]
+  },
+  {
+    "name": "钟山区人民中路消防救援站",
+    "location": {
+      "lat": 26.587556,
+      "lng": 104.879389
+    },
+    "address": "六盘水市钟山区人民中路1067号",
+    "province": "贵州省",
+    "city": "六盘水市",
+    "area": "钟山区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "82b531afeba97d2a8c1a892d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_25712d3cd6d92274f01e974d42dae162.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_25712d3cd6d92274f01e974d42dae162.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0440a1b1da726d2e461acea053a85bfb.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c3a32d941b7d82351c03d1e4bf66bf77.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B67665d762a781a586.jpeg"
+    ]
+  },
+  {
+    "name": "六枝特区郎岱镇消防救援所",
+    "location": {
+      "lat": 26.092197,
+      "lng": 105.355194
+    },
+    "address": "六盘水市六枝特区X003郎岱镇人民政府",
+    "province": "贵州省",
+    "city": "六盘水市",
+    "area": "六枝特区",
+    "detail": 1,
+    "uid": "94b40705882f62bb57bfff97",
+    "cover": "https://pic-map.cdn.bcebos.com/img/79d3a876a8c8c8dc290eb92aaf6f2504",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/79d3a876a8c8c8dc290eb92aaf6f2504"
+    ]
+  }
+]

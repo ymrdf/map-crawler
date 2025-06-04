@@ -1,0 +1,94 @@
+[
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 22.825308,
+      "lng": 100.96385
+    },
+    "address": "云南省普洱市思茅区佛殿山1号",
+    "province": "云南省",
+    "city": "普洱市",
+    "area": "思茅区",
+    "detail": 1,
+    "uid": "07d0053bb24a6e151388241c",
+    "cover": "https://pic-map.cdn.bcebos.com/img/1a7eda6d92efe81b049f215f2585f0f1",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/1a7eda6d92efe81b049f215f2585f0f1"
+    ]
+  },
+  {
+    "name": "禾安汽车救援普洱有限公司办公室",
+    "location": {
+      "lat": 22.763812,
+      "lng": 101.010429
+    },
+    "address": "云南省普洱市思茅区S214(帝泊洱大道)",
+    "province": "云南省",
+    "city": "普洱市",
+    "area": "思茅区",
+    "telephone": "15008760933",
+    "detail": 1,
+    "uid": "1ca812abdc4c799a5e17c3b0",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B6699fce71ce5a10553.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B6699fce71ce5a10553.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6699fce716a79a0d7.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B63fedeee740515517.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B63fede935699fce96.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B63fedf449cee73f28.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B64075bbe8f4a61686b.jpeg"
+    ]
+  },
+  {
+    "name": "119消防救援",
+    "location": {
+      "lat": 24.01355,
+      "lng": 101.114753
+    },
+    "address": "普洱市镇沅彝族哈尼族拉祜族自治县商云路镇沅客运站西侧约220米",
+    "province": "云南省",
+    "city": "普洱市",
+    "area": "镇沅彝族哈尼族拉祜族自治县",
+    "detail": 1,
+    "uid": "c126caf41e8230b36fa3cce5",
+    "cover": "https://pic-map.cdn.bcebos.com/img/d3139fd4c24bd577b242611007903673",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/d3139fd4c24bd577b242611007903673"
+    ]
+  },
+  {
+    "name": "思茅市墨江哈尼族自治县消防大队",
+    "location": {
+      "lat": 23.424977,
+      "lng": 101.686122
+    },
+    "address": "普洱市墨江哈尼族自治县哈尼大道凤凰新城-1区北侧约200米",
+    "province": "云南省",
+    "city": "普洱市",
+    "area": "墨江哈尼族自治县",
+    "street_id": "cf92f885774ba91a5fd4fe68",
+    "detail": 1,
+    "uid": "cf92f885774ba91a5fd4fe68",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d982fd0ff0c758d01deb6f9ef24ff57d.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=cf92f885774ba91a5fd4fe68&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "消防救援119",
+    "location": {
+      "lat": 23.072469,
+      "lng": 101.050424
+    },
+    "address": "普洱市宁洱哈尼族彝族自治县凤凰路普洱中学西北侧约80米",
+    "province": "云南省",
+    "city": "普洱市",
+    "area": "宁洱哈尼族彝族自治县",
+    "detail": 1,
+    "uid": "21e142e075e7cddc81a00ce1",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_85d16519dc9ac6f79c79b239ca9ee3d5.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_85d16519dc9ac6f79c79b239ca9ee3d5.jpeg"
+    ]
+  }
+]

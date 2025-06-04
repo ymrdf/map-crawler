@@ -1,0 +1,24 @@
+[
+  {
+    "name": "万宁蓝天救援队",
+    "location": {
+      "lat": 18.749184,
+      "lng": 110.219452
+    },
+    "address": "万宁市长春西路与天健大道交叉路口往南约180米",
+    "province": "海南省",
+    "city": "万宁市",
+    "area": "",
+    "detail": 1,
+    "uid": "25c77e453133cd3ae81e97e7",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B64aa0f5e2e63ec303.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B64aa0f5e2e63ec303.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B64aa0f5e50b86bbec.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B64aa0f5e509a0a321.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B64aa0f5de5a4de17a.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B64aa0f5e25c79aafe.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B64aa0f5e4a3e212003.jpeg"
+    ]
+  }
+]

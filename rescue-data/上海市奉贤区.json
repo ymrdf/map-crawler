@@ -1,0 +1,123 @@
+[
+  {
+    "name": "五四消防救援站",
+    "location": {
+      "lat": 30.869782,
+      "lng": 121.770059
+    },
+    "address": "上海市奉贤区正顺路219号",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "奉贤区",
+    "detail": 1,
+    "uid": "abb173e0ed836e8a882fb501",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B611a22d9d858517fd3.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B611a22d9d858517fd3.jpeg",
+      "https://pic-map.cdn.bcebos.com/img/783c4430f5b8839194c748275a78a657"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 30.903136,
+      "lng": 121.738601
+    },
+    "address": "上海市奉贤区四平公路上海洪龙宾馆南侧约100米",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "奉贤区",
+    "detail": 1,
+    "uid": "15097f746060e8ea626858ee",
+    "cover": "https://pic-map.cdn.bcebos.com/img/1878c6435fc0394b2d7044bcaf16c616",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/1878c6435fc0394b2d7044bcaf16c616"
+    ]
+  },
+  {
+    "name": "胜喆汽修补胎搭电拖车救援",
+    "location": {
+      "lat": 31.362209,
+      "lng": 121.459579
+    },
+    "address": "上海市宝山区江一西路江杨水产品批发市场",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "宝山区",
+    "telephone": "13170020151",
+    "detail": 1,
+    "uid": "726a1d2df7ed852f9b005024",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_45a1a0aacbb8be3bd80f6ef6a3557934.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_45a1a0aacbb8be3bd80f6ef6a3557934.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B662c78b7a97ed528a.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B662c78b7f08cae717.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_31c0823f46addd996354deb6bad62a80.jpeg"
+    ]
+  },
+  {
+    "name": "上海市奉贤区消防救援局",
+    "location": {
+      "lat": 30.924404,
+      "lng": 121.507408
+    },
+    "address": "上海市奉贤区南桥镇南奉公路6815号",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "奉贤区",
+    "street_id": "19510c8e8afa2b2cf7e73b49",
+    "telephone": "(021)33611828",
+    "detail": 1,
+    "uid": "19510c8e8afa2b2cf7e73b49",
+    "cover": "https://taojin-his.cdn.bcebos.com/d53f8794a4c27d1e2628de2b15d5ad6edcc438d7.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=19510c8e8afa2b2cf7e73b49&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e1077af4ed3f5dc86b3f7197b846ec16.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3cf6364cb518066239eb86da1a9e0f56.jpg",
+      "https://poi-pic.cdn.bcebos.com/f32a1988b4273fe65aac8a5d36c9b4cc.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_12cf1279a3a0048bc04c76e3f10ea714.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1cdf1fac380b5640899b01e65e616375.jpeg"
+    ]
+  },
+  {
+    "name": "梦缘补胎搭电拖车道路救援",
+    "location": {
+      "lat": 31.270346,
+      "lng": 121.48607
+    },
+    "address": "上海市虹口区宝山路858号",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "虹口区",
+    "telephone": "13215522769",
+    "detail": 1,
+    "uid": "1307137b865dce5bc9c3db98",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_eb8d0e3851e31ab565b39b02c48cab6c.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_eb8d0e3851e31ab565b39b02c48cab6c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0d30a9bfe30032010f917978e1a7213e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ed89735914766d8d980ae2f80691c9f4.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_672b1cf6a1ab93d032c67b2321fabae8.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_69cd4cec3d1fd9c41d71c9ebf92a80aa.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a10aa8295718151c6fa865d7a3bbd327.jpeg"
+    ]
+  },
+  {
+    "name": "基洵汽修补胎搭电拖车救援",
+    "location": {
+      "lat": 31.371306,
+      "lng": 121.47577
+    },
+    "address": "上海市宝山区泰和路森谷美食公园",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "宝山区",
+    "telephone": "13170020149",
+    "detail": 1,
+    "uid": "ec56ec102740a0b86140a93f",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_218bc61d580f21f4c52fd6ee17f8e92f.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_218bc61d580f21f4c52fd6ee17f8e92f.jpeg"
+    ]
+  }
+]

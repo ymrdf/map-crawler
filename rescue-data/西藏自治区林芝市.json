@@ -1,0 +1,70 @@
+[
+  {
+    "name": "米林县消防救援大队",
+    "location": {
+      "lat": 29.212446,
+      "lng": 94.212407
+    },
+    "address": "西藏自治区林芝市米林市G219",
+    "province": "西藏自治区",
+    "city": "林芝市",
+    "area": "米林市",
+    "detail": 1,
+    "uid": "2d166755736bff048e772765",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_309c59c54fe8eae0d1a4eb587837ad61.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_309c59c54fe8eae0d1a4eb587837ad61.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 29.0501,
+      "lng": 93.06966
+    },
+    "address": "林芝市朗县S306",
+    "province": "西藏自治区",
+    "city": "林芝市",
+    "area": "朗县",
+    "detail": 1,
+    "uid": "decf7eea1b257d208936ee77",
+    "cover": "https://pic-map.cdn.bcebos.com/img/d9efc36cbf64aa9559dc2d620fec0371",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/d9efc36cbf64aa9559dc2d620fec0371"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 29.864243,
+      "lng": 95.769104
+    },
+    "address": "林芝市波密县扎墨公路旺氏大酒店东侧约60米",
+    "province": "西藏自治区",
+    "city": "林芝市",
+    "area": "波密县",
+    "detail": 1,
+    "uid": "4efc407f6f06822e3310af9b",
+    "cover": "https://pic-map.cdn.bcebos.com/img/1796393a77e3c2c08b9a7802c4fbdcde",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/1796393a77e3c2c08b9a7802c4fbdcde"
+    ]
+  },
+  {
+    "name": "林芝市察隅县消防大队",
+    "location": {
+      "lat": 28.665542,
+      "lng": 97.472037
+    },
+    "address": "201省道东150米",
+    "province": "西藏自治区",
+    "city": "林芝市",
+    "area": "察隅县",
+    "detail": 1,
+    "uid": "d3c585d4c7234cc22fb90810",
+    "cover": "https://pic-map.cdn.bcebos.com/img/0739d03885647c2f33fa2bceded9cc5a",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/0739d03885647c2f33fa2bceded9cc5a"
+    ]
+  }
+]

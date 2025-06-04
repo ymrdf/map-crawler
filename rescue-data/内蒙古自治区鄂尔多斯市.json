@@ -1,0 +1,122 @@
+[
+  {
+    "name": "鑫盛汽修道路救援",
+    "location": {
+      "lat": 40.105779,
+      "lng": 111.306932
+    },
+    "address": "内蒙古自治区鄂尔多斯市准格尔旗准格尔东街",
+    "province": "内蒙古自治区",
+    "city": "鄂尔多斯市",
+    "area": "准格尔旗",
+    "telephone": "14794999404",
+    "detail": 1,
+    "uid": "b498f343456b94494afd3fb8",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/dbe83d2e386482f3145d10df8a77b530_1462.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/dbe83d2e386482f3145d10df8a77b530_1462.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6178fb7e5379d139a1.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6178fb907019aa5a8.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6178fb61c3378811e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_76d7fe7c1c0ca4d1fbfcfab2624dbf7e.jpeg"
+    ]
+  },
+  {
+    "name": "王继机动车修理道路救援",
+    "location": {
+      "lat": 40.241625,
+      "lng": 110.796751
+    },
+    "address": "内蒙古自治区鄂尔多斯市准格尔旗王继道路救援店",
+    "province": "内蒙古自治区",
+    "city": "鄂尔多斯市",
+    "area": "准格尔旗",
+    "detail": 1,
+    "uid": "59186d326af4902e00ec01f7",
+    "cover": "https://pic-map.cdn.bcebos.com/img/b003a47b1f97a3b32bfe6e85964ebbf8",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/b003a47b1f97a3b32bfe6e85964ebbf8"
+    ]
+  },
+  {
+    "name": "滴滴出行(鄂尔多斯市授权代理商)",
+    "location": {
+      "lat": 39.824633,
+      "lng": 109.977781
+    },
+    "address": "鄂尔多斯市东胜区沙日乌素路鄂尔多斯客运总站",
+    "province": "内蒙古自治区",
+    "city": "鄂尔多斯市",
+    "area": "东胜区",
+    "telephone": "18248127410",
+    "detail": 1,
+    "uid": "16656e81dbd77d938505bf13",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B6629eafc153cd12fb5.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B6629eafc153cd12fb5.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3f5b0a1cfcef026edacf9803f1335aff.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4d2b6a8f772e01e7640c792314c9103a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bf299eb4e1e70eb185d07b889f4f213f.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B675e6cb696899fee4.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B675e6ce0bd3f7bc68.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 39.612079,
+      "lng": 109.814425
+    },
+    "address": "鄂尔多斯市康巴什区长宁街丽日家园北侧",
+    "province": "内蒙古自治区",
+    "city": "鄂尔多斯市",
+    "area": "康巴什区",
+    "detail": 1,
+    "uid": "1bc726513379e82a3be4a63c",
+    "cover": "https://pic-map.cdn.bcebos.com/img/9d74d3fb4a3de270b36b7658e363ae94",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/9d74d3fb4a3de270b36b7658e363ae94"
+    ]
+  },
+  {
+    "name": "鄂托克旗消防救援大队",
+    "location": {
+      "lat": 39.093305,
+      "lng": 108.010718
+    },
+    "address": "鄂尔多斯市鄂托克旗赛乌素路大兴经济适用房小区东侧约210米",
+    "province": "内蒙古自治区",
+    "city": "鄂尔多斯市",
+    "area": "鄂托克旗",
+    "detail": 1,
+    "uid": "31efd78131fbc6380b1cc7ba",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B63198fcc449fb16e18.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B63198fcc449fb16e18.jpeg",
+      "https://pic-map.cdn.bcebos.com/img/dbab5971e4ad3f5b103e1e6e74a33a14"
+    ]
+  },
+  {
+    "name": "和诚天下汽车救援",
+    "location": {
+      "lat": 39.56158,
+      "lng": 109.730005
+    },
+    "address": "鄂尔多斯市伊金霍洛旗富泰园东南侧约290米",
+    "province": "内蒙古自治区",
+    "city": "鄂尔多斯市",
+    "area": "伊金霍洛旗",
+    "telephone": "15947732282",
+    "detail": 1,
+    "uid": "ba4355bad441a5d8364aae71",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_9d29ee1938265b4830358dd8bd8efbb8.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9d29ee1938265b4830358dd8bd8efbb8.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b7c79f256850cb739f58c28e1c24eb38.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_66c1ecf51b70b1c2a9199bd27119894f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_dcd5ac3d90e5c85d7be64af8080b53f9.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_01cb96c9c32ee7fd4396c4e420ae7c8c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7db14b87ef400c443145698c1b4c1cbd.jpeg"
+    ]
+  }
+]

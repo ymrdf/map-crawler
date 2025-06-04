@@ -1,0 +1,75 @@
+[
+  {
+    "name": "南安道道路救援服务有限公司",
+    "location": {
+      "lat": 26.487927,
+      "lng": 111.604196
+    },
+    "address": "永州市冷水滩区凤凰路桃源左岸小区东北侧约40米",
+    "province": "湖南省",
+    "city": "永州市",
+    "area": "冷水滩区",
+    "detail": 1,
+    "uid": "0271001b39ffaad613293547",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B667bb285b17ee34b5.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B667bb285b17ee34b5.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6785fff99332dc82d.jpeg"
+    ]
+  },
+  {
+    "name": "东安县林角路消防救援站",
+    "location": {
+      "lat": 26.395459,
+      "lng": 111.339874
+    },
+    "address": "永州市东安县林角路园丁花苑东北侧约90米",
+    "province": "湖南省",
+    "city": "永州市",
+    "area": "东安县",
+    "detail": 1,
+    "uid": "c96e066b5c28d1878f7727ac",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_30f0e52970fd155c41efe06fe25fa466.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_30f0e52970fd155c41efe06fe25fa466.jpeg"
+    ]
+  },
+  {
+    "name": "高山汽修救援",
+    "location": {
+      "lat": 25.88392,
+      "lng": 112.245897
+    },
+    "address": "永州市新田县新嘉公路",
+    "province": "湖南省",
+    "city": "永州市",
+    "area": "新田县",
+    "telephone": "15869957118",
+    "detail": 1,
+    "uid": "5756a5f9e537f6f440024537",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_042daa137e93d7117b81ec595a3f2bef.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_042daa137e93d7117b81ec595a3f2bef.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_45f910c52bdc60372241ff1b5f6bf2e9.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ca7a06c71227f98ec610f24b86d39274.jpeg"
+    ]
+  },
+  {
+    "name": "忠诚维修救援",
+    "location": {
+      "lat": 26.693502,
+      "lng": 111.826633
+    },
+    "address": "永州市祁阳市南正南路黎府小区西侧约30米",
+    "province": "湖南省",
+    "city": "永州市",
+    "area": "祁阳市",
+    "detail": 1,
+    "uid": "ad6fb1d211ed49453fe2313d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_83b4374bea89b4f03370e2add4447279.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_83b4374bea89b4f03370e2add4447279.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_61bd656cac9a447d25be8bc9928d4d98.jpeg"
+    ]
+  }
+]

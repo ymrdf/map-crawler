@@ -1,0 +1,115 @@
+[
+  {
+    "name": "广西南宁清收止损道路救援服务有限公司",
+    "location": {
+      "lat": 22.783145,
+      "lng": 108.216936
+    },
+    "address": "南宁市江南区堤园路与智兴路交叉路口往北约100米",
+    "province": "广西壮族自治区",
+    "city": "南宁市",
+    "area": "江南区",
+    "detail": 1,
+    "uid": "a5d9cdf353c7cf3df603b805",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_af979ea4d42aaf032905f1c9bfc02451.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_af979ea4d42aaf032905f1c9bfc02451.jpeg"
+    ]
+  },
+  {
+    "name": "南宁市青秀区凤岭消防救援站",
+    "location": {
+      "lat": 22.807193,
+      "lng": 108.432135
+    },
+    "address": "广西壮族自治区南宁市青秀区青环路恒大苹果园82号",
+    "province": "广西壮族自治区",
+    "city": "南宁市",
+    "area": "青秀区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "c9053c3e0c76857b3be4a6a0",
+    "cover": "https://taojin-his.cdn.bcebos.com/8326cffc1e178a82ea71e88efb03738da977e84b.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/8326cffc1e178a82ea71e88efb03738da977e84b.jpg",
+      "https://taojin-his.cdn.bcebos.com/c2fdfc039245d68855e3c637a8c27d1ed31b24bb.jpg"
+    ]
+  },
+  {
+    "name": "南宁市消防救援支队",
+    "location": {
+      "lat": 22.832701,
+      "lng": 108.386626
+    },
+    "address": "南宁市青秀区建政街道佛子岭路2号",
+    "province": "广西壮族自治区",
+    "city": "南宁市",
+    "area": "青秀区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "c62afaa635faac63e215f9ab",
+    "cover": "https://taojin-his.cdn.bcebos.com/8b13632762d0f703dfbb72f005fa513d2697c595.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/8b13632762d0f703dfbb72f005fa513d2697c595.jpg",
+      "https://taojin-his.cdn.bcebos.com/a08b87d6277f9e2fc850149f1330e924b999f3c4.jpg",
+      "https://taojin-his.cdn.bcebos.com/d058ccbf6c81800aac9c5193b83533fa828b4736.jpg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 22.824095,
+      "lng": 108.302668
+    },
+    "address": "南宁市西乡塘区龙腾路龙腾社区西侧约60米",
+    "province": "广西壮族自治区",
+    "city": "南宁市",
+    "area": "西乡塘区",
+    "street_id": "3069d7340b533fbcc51b752e",
+    "detail": 1,
+    "uid": "3069d7340b533fbcc51b752e",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_9ce96c4bd9d2c5c43caecad34815e0df.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=3069d7340b533fbcc51b752e&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "隆安县消防救援大队",
+    "location": {
+      "lat": 23.152993,
+      "lng": 107.695738
+    },
+    "address": "南宁市隆安县隆天路隆安康德医院东北侧约60米",
+    "province": "广西壮族自治区",
+    "city": "南宁市",
+    "area": "隆安县",
+    "street_id": "",
+    "detail": 1,
+    "uid": "604d0b9be9212066bda24036",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ae0edf0051fe05394ffafe398666a136.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ae0edf0051fe05394ffafe398666a136.jpeg"
+    ]
+  },
+  {
+    "name": "广西消防救援",
+    "location": {
+      "lat": 22.800024,
+      "lng": 108.264801
+    },
+    "address": "南宁市江南区五一西路阳光宝贝幼儿园(五一西路)南侧约40米",
+    "province": "广西壮族自治区",
+    "city": "南宁市",
+    "area": "江南区",
+    "street_id": "00cef5650c2e798f36b06cbd",
+    "detail": 1,
+    "uid": "00cef5650c2e798f36b06cbd",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_9c74ae2398d84d93581742c2b30483c0.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=00cef5650c2e798f36b06cbd&width=720&height=360&quality=80&fovx=120",
+      "https://lbsugc.cdn.bcebos.com/images/B65d71e15890a17ca0.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65d71e15afa967030.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bb2bed4ceba44cec276489f61d28b791.jpeg"
+    ]
+  }
+]

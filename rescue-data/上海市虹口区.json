@@ -1,0 +1,162 @@
+[
+  {
+    "name": "虹口区江湾消防救援站",
+    "location": {
+      "lat": 31.307466,
+      "lng": 121.492487
+    },
+    "address": "上海市虹口区逸仙路新海城",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "虹口区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "fac322f0194e48685cd4fe86",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_afe93c34347f86f614e7ec8eb0278b46.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_afe93c34347f86f614e7ec8eb0278b46.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d80c1ca33ecd9304f8b6adb1c06a29be.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8f7e01d174d078eff8d28dd408300f76.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4e1ed4de5cac1a26bd8fddcb507b4af1.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9dd9c5b58f66e80d89e984cc97a17dc4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_86e61440efb90e80479d0567bc551d86.jpeg"
+    ]
+  },
+  {
+    "name": "虹口区消防救援支队",
+    "location": {
+      "lat": 31.264917,
+      "lng": 121.51759
+    },
+    "address": "上海市虹口区昆明路399号",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "虹口区",
+    "street_id": "b1cb5d13e799d7b45abbbca6",
+    "detail": 1,
+    "uid": "b1cb5d13e799d7b45abbbca6",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_306ab13724b7e60ef89e86f29ab4f07b.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=b1cb5d13e799d7b45abbbca6&width=720&height=360&quality=80&fovx=120",
+      "https://lbsugc.cdn.bcebos.com/images/B678b6d79cd9fa157c6.jpeg"
+    ]
+  },
+  {
+    "name": "虹口区虹口消防救援站",
+    "location": {
+      "lat": 31.25902,
+      "lng": 121.494689
+    },
+    "address": "上海市虹口区武进路与吴淞路交叉口北20米",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "虹口区",
+    "detail": 1,
+    "uid": "210ab2fe6d4c33275d17c314",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_c06642c02f608e7c871f284cb038bac8.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c06642c02f608e7c871f284cb038bac8.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f1ec71330aca749da5ed7832c095a7a1.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_044fabf5b650d4bca6167747b152d817.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_650d9086187e685ae40435b94f6010fb.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3ad9015ce698a80bce249c8ce106d81f.jpeg"
+    ]
+  },
+  {
+    "name": "胜喆汽修补胎搭电拖车救援",
+    "location": {
+      "lat": 31.362209,
+      "lng": 121.459579
+    },
+    "address": "上海市宝山区江一西路江杨水产品批发市场",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "宝山区",
+    "telephone": "13170020151",
+    "detail": 1,
+    "uid": "726a1d2df7ed852f9b005024",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_45a1a0aacbb8be3bd80f6ef6a3557934.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_45a1a0aacbb8be3bd80f6ef6a3557934.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B662c78b7a97ed528a.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B662c78b7f08cae717.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_31c0823f46addd996354deb6bad62a80.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 31.307645,
+      "lng": 121.492476
+    },
+    "address": "上海市虹口区逸仙路新海城东北侧",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "虹口区",
+    "detail": 1,
+    "uid": "88e8c47c000393784d2fdf5e",
+    "cover": "https://pic-map.cdn.bcebos.com/img/96097c856cb985c2224210a71666a5d2",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/96097c856cb985c2224210a71666a5d2"
+    ]
+  },
+  {
+    "name": "基洵汽修补胎搭电拖车救援",
+    "location": {
+      "lat": 31.371306,
+      "lng": 121.47577
+    },
+    "address": "上海市宝山区泰和路森谷美食公园",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "宝山区",
+    "telephone": "13170020149",
+    "detail": 1,
+    "uid": "ec56ec102740a0b86140a93f",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_218bc61d580f21f4c52fd6ee17f8e92f.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_218bc61d580f21f4c52fd6ee17f8e92f.jpeg"
+    ]
+  },
+  {
+    "name": "迎顺汽修补胎搭电拖车救援",
+    "location": {
+      "lat": 31.283894,
+      "lng": 121.226939
+    },
+    "address": "上海市嘉定区新黄路曹安钢材交易市场",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "嘉定区",
+    "telephone": "13170020156",
+    "detail": 1,
+    "uid": "7760bf627cd9c48bf50e77af",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B669ccf2b8c7a9d18c.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B669ccf2b8c7a9d18c.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B669ccf2b8d506c0ef.jpeg"
+    ]
+  },
+  {
+    "name": "神速救援公司",
+    "location": {
+      "lat": 31.051988,
+      "lng": 121.415282
+    },
+    "address": "上海市闵行区沪闵路2592号",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "闵行区",
+    "detail": 1,
+    "uid": "d810375ef3c9a5e7a5da396c",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B63626ac80140759f6.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B63626ac80140759f6.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B63626ac72e8c8e84b.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B63626ac7654ba1584f.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B63626ac8569f55ecf.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B63626ac7ca73e342f.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B63626ac74f10d13264.jpeg"
+    ]
+  }
+]

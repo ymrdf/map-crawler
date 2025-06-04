@@ -1,0 +1,134 @@
+[
+  {
+    "name": "昼夜流动补胎(道路救援)",
+    "location": {
+      "lat": 39.977301,
+      "lng": 119.562701
+    },
+    "address": "河北省秦皇岛市海港区新崔庄门市房26号",
+    "province": "河北省",
+    "city": "秦皇岛市",
+    "area": "海港区",
+    "telephone": "18833829209",
+    "detail": 1,
+    "uid": "fe48a7ac01ea4d4f4bcc4a3c",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B65c1d8c7d6a56799e.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B65c1d8c7d6a56799e.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65c1d8c7e09727334.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B675e29dec3cf21275c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_784b736f3717c94ab6526bfba77153f9.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d4afc0a89347f13f0874eee11ce212e6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6c6ca3eb92cd5c19e9ad0b0c25dd2e3b.jpeg"
+    ]
+  },
+  {
+    "name": "路航轮胎汽修补胎救援",
+    "location": {
+      "lat": 39.692839,
+      "lng": 119.256734
+    },
+    "address": "河北省秦皇岛市昌黎县365省道海岸葡萄庄园北2门斜对面",
+    "province": "河北省",
+    "city": "秦皇岛市",
+    "area": "昌黎县",
+    "telephone": "15032313030",
+    "detail": 1,
+    "uid": "547e66b6d446f8f8f7eafc81",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B6423e9e04492210b19.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B6423e9e04492210b19.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65cdcf3278d38116fa.jpeg"
+    ]
+  },
+  {
+    "name": "润滑油修理救援",
+    "location": {
+      "lat": 40.007467,
+      "lng": 119.718488
+    },
+    "address": "秦皇岛市山海关区关城北路",
+    "province": "河北省",
+    "city": "秦皇岛市",
+    "area": "山海关区",
+    "telephone": "13833529385",
+    "detail": 1,
+    "uid": "89dea92314e7f9642cb96d02",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B6630af368767c18603.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B6630af368767c18603.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6630a918a19ef17321.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6630af42407b413f9b.jpeg"
+    ]
+  },
+  {
+    "name": "秦皇岛祥弘汽车道路救援公司",
+    "location": {
+      "lat": 39.94369,
+      "lng": 119.574677
+    },
+    "address": "秦皇岛市海港区港峰街先茂里小区东南侧",
+    "province": "河北省",
+    "city": "秦皇岛市",
+    "area": "海港区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "742b66edc920d7125fbe8600",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B610e29709b9979643.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B610e29709b9979643.jpeg"
+    ]
+  },
+  {
+    "name": "秦皇岛市安全生产应急救援指挥中心",
+    "location": {
+      "lat": 39.959854,
+      "lng": 119.590847
+    },
+    "address": "秦皇岛市海港区燕山大街玉峰国际公寓东北侧约110米",
+    "province": "河北省",
+    "city": "秦皇岛市",
+    "area": "海港区",
+    "detail": 1,
+    "uid": "fac513b7e70236c688f15d6d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_3efe6316950ffb3fb7eed2bad062f323.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3efe6316950ffb3fb7eed2bad062f323.jpg"
+    ]
+  },
+  {
+    "name": "秦皇岛市消防救援支队东经路驻勤分队",
+    "location": {
+      "lat": 39.82357,
+      "lng": 119.501177
+    },
+    "address": "秦皇岛市北戴河区保四路北戴河区",
+    "province": "河北省",
+    "city": "秦皇岛市",
+    "area": "北戴河区",
+    "detail": 1,
+    "uid": "aaf21d2d005f0663081cc797",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ba3c86a2bc31817c084f7c0b7ec2b794.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ba3c86a2bc31817c084f7c0b7ec2b794.jpeg"
+    ]
+  },
+  {
+    "name": "爱心救援站",
+    "location": {
+      "lat": 39.834337,
+      "lng": 119.513173
+    },
+    "address": "秦皇岛市北戴河区育花支路育花二区",
+    "province": "河北省",
+    "city": "秦皇岛市",
+    "area": "北戴河区",
+    "detail": 1,
+    "uid": "07c56dae03b9cc7440e19205",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_adf609acb4d21c7333523ad0136c9b45.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_adf609acb4d21c7333523ad0136c9b45.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65dc1b98852921295b.jpeg"
+    ]
+  }
+]

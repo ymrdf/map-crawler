@@ -1,0 +1,172 @@
+[
+  {
+    "name": "广西玉林途安汽车救援服务有限公司",
+    "location": {
+      "lat": 22.651715,
+      "lng": 110.110041
+    },
+    "address": "广西壮族自治区玉林市玉州区G324(福昆线)",
+    "province": "广西壮族自治区",
+    "city": "玉林市",
+    "area": "玉州区",
+    "telephone": "13367759065",
+    "detail": 1,
+    "uid": "ef9b3f8e0c6078d71e1d11cc",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B665741578124a39a4.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B665741578124a39a4.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B665741578f52f11044.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1352ee4efeb5dcc19a0944f41d947766.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 22.692079,
+      "lng": 110.369768
+    },
+    "address": "玉林市北流市宝南路北流市消防大队",
+    "province": "广西壮族自治区",
+    "city": "玉林市",
+    "area": "北流市",
+    "detail": 1,
+    "uid": "421c69ce9dc5ecf745572684",
+    "cover": "https://pic-map.cdn.bcebos.com/img/5118a3a33e8b8a21de4f8142df153ca7",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/5118a3a33e8b8a21de4f8142df153ca7"
+    ]
+  },
+  {
+    "name": "安诺汽车救援服务有限公司",
+    "location": {
+      "lat": 22.656434,
+      "lng": 110.133754
+    },
+    "address": "玉林市玉州区二环北路毅德国际商贸城-1号交易广场",
+    "province": "广西壮族自治区",
+    "city": "玉林市",
+    "area": "玉州区",
+    "detail": 1,
+    "uid": "d56c64b53e2ffee33310af40",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a1a731e3d88685853264a51d88c074d5.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a1a731e3d88685853264a51d88c074d5.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a41ebc9af790a02440bf087463212d88.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B66751b784c393119f1.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_46f6ea99a40053118aebb918ef7f538b.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B67404828ee7198315.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9fd982879764c7ee9982ce653a7adcb0.jpeg"
+    ]
+  },
+  {
+    "name": "桂迅救援",
+    "location": {
+      "lat": 22.633472,
+      "lng": 110.169843
+    },
+    "address": "广西壮族自治区玉林市玉州区公园路康朋幼儿园",
+    "province": "广西壮族自治区",
+    "city": "玉林市",
+    "area": "玉州区",
+    "detail": 1,
+    "uid": "7fee23807eb67422aaf72921",
+    "cover": "https://pic-map.cdn.bcebos.com/img/cdd039c3a5608451e0c99f9aa5efb94e",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/cdd039c3a5608451e0c99f9aa5efb94e",
+      "https://lbsugc.cdn.bcebos.com/images/B6678d1ebbd1098359.jpeg"
+    ]
+  },
+  {
+    "name": "安宇汽车救援有限公司",
+    "location": {
+      "lat": 22.656099,
+      "lng": 110.133721
+    },
+    "address": "广西壮族自治区玉林市玉州区二环北路1228号毅德国际商贸城2号管1区17栋16号",
+    "province": "广西壮族自治区",
+    "city": "玉林市",
+    "area": "玉州区",
+    "telephone": "17776707024",
+    "detail": 1,
+    "uid": "a3052d4976a2f74f40afe6d0",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_35db6c10adfc6343e836b32982737af8.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_35db6c10adfc6343e836b32982737af8.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7028e203792b39693f3bae910ec16df0.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_85e2a30f04d8342da5fda895889dd414.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_26bdccb9218c9774962064e6bbc94142.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a79bade7f4e3b42886e9411e6afe0c5c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1a04c025a52c2327a6c33e64242d5702.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 22.621357,
+      "lng": 110.145791
+    },
+    "address": "玉林市玉州区玉玄路玉林市工业品市场东南侧约100米",
+    "province": "广西壮族自治区",
+    "city": "玉林市",
+    "area": "玉州区",
+    "detail": 1,
+    "uid": "a7f789d6290c5b776d20b9dc",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_f41a8668c14ceb761a2965a09c28ec3b.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f41a8668c14ceb761a2965a09c28ec3b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_373eb0680ea1aa352f581f57e715edbe.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_68e4d0ea33044bbd4a6a99bbd1da8155.jpeg"
+    ]
+  },
+  {
+    "name": "广西消防救援",
+    "location": {
+      "lat": 22.856282,
+      "lng": 110.548606
+    },
+    "address": "广西壮族自治区玉林市容县城西路559号",
+    "province": "广西壮族自治区",
+    "city": "玉林市",
+    "area": "容县",
+    "detail": 1,
+    "uid": "d88338b8bfb695b0a5c75682",
+    "cover": "https://pic-map.cdn.bcebos.com/img/74bd66710a1f29c4e2f0f56de30cf006",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/74bd66710a1f29c4e2f0f56de30cf006"
+    ]
+  },
+  {
+    "name": "北流市陶瓷城消防救援站",
+    "location": {
+      "lat": 22.739954,
+      "lng": 110.340285
+    },
+    "address": "广西壮族自治区玉林市北流市北流连接线",
+    "province": "广西壮族自治区",
+    "city": "玉林市",
+    "area": "北流市",
+    "detail": 1,
+    "uid": "0f9e1f191177392bbe4842f1",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_af07ab23aadea54142d1318644dd994b.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_af07ab23aadea54142d1318644dd994b.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 22.655022,
+      "lng": 110.172392
+    },
+    "address": "玉林市玉州区一环北路玉林市实验幼儿园名山园东北侧约90米",
+    "province": "广西壮族自治区",
+    "city": "玉林市",
+    "area": "玉州区",
+    "detail": 1,
+    "uid": "c7b268c105b4e742e5e965ec",
+    "cover": "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_84ae319dff7fd4de732b7ea8807eb6f7.jpg",
+    "photo_list": [
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_84ae319dff7fd4de732b7ea8807eb6f7.jpg"
+    ]
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "name": "西秀区紧急医学救援站",
+    "location": {
+      "lat": 26.244202,
+      "lng": 105.960237
+    },
+    "address": "贵州省安顺市西秀区黄果树大街166号",
+    "province": "贵州省",
+    "city": "安顺市",
+    "area": "西秀区",
+    "street_id": "18ebd78b244d360badb22a8b",
+    "detail": 1,
+    "uid": "18ebd78b244d360badb22a8b",
+    "cover": "https://taojin-his.cdn.bcebos.com/caef76094b36acafd5cccf8e73d98d1001e99c90.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=18ebd78b244d360badb22a8b&width=720&height=360&quality=80&fovx=120",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_99638243258bc91d89eef19148f84962.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5c1ba531fbb65a58f587b02d84696e38.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_521f9bd3e1b5d77ba2b4e0a8a12466f5.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65855818df2f612ce2.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_103f79f077683e3ec9faa0d10dc0c891.jpeg"
+    ]
+  },
+  {
+    "name": "中国国际救援中心贵州省总队普定大队",
+    "location": {
+      "lat": 26.300881,
+      "lng": 105.744509
+    },
+    "address": "安顺市普定县文明路凯旋城南侧约40米",
+    "province": "贵州省",
+    "city": "安顺市",
+    "area": "普定县",
+    "detail": 1,
+    "uid": "e623904281679a6f902ca379",
+    "cover": "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_82aff4f532f1ba9b757f6b42456a85ea.jpg",
+    "photo_list": [
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_82aff4f532f1ba9b757f6b42456a85ea.jpg"
+    ]
+  },
+  {
+    "name": "安顺市紧急救援中心",
+    "location": {
+      "lat": 26.245009,
+      "lng": 105.913214
+    },
+    "address": "西航路附近",
+    "province": "贵州省",
+    "city": "安顺市",
+    "area": "西秀区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "50f7d1464863a3c772210b19",
+    "cover": "https://taojin-his.cdn.bcebos.com/bf096b63f6246b6020169703e7f81a4c510fa2a8.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/bf096b63f6246b6020169703e7f81a4c510fa2a8.jpg",
+      "https://taojin-his.cdn.bcebos.com/4e4a20a4462309f715d033657e0e0cf3d7cad60e.jpg"
+    ]
+  },
+  {
+    "name": "顺兴共享挖机租赁公司",
+    "location": {
+      "lat": 26.428461,
+      "lng": 106.272739
+    },
+    "address": "安顺市平坝区永乐北路北苑小区东北侧约40米",
+    "province": "贵州省",
+    "city": "安顺市",
+    "area": "平坝区",
+    "telephone": "15117799177,15329835170",
+    "detail": 1,
+    "uid": "f6e37c643a782beea8f0cdb2",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_625f1584c3f37a084b4b1f48c9f0fde1.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_625f1584c3f37a084b4b1f48c9f0fde1.jpeg"
+    ]
+  },
+  {
+    "name": "脚手架出租、出售",
+    "location": {
+      "lat": 26.265835,
+      "lng": 105.997591
+    },
+    "address": "安顺市西秀区迎晖大道安顺九中西北侧约90米",
+    "province": "贵州省",
+    "city": "安顺市",
+    "area": "西秀区",
+    "detail": 1,
+    "uid": "7ec87d3672dcab44eddfca75",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_1a6f1afa589c71a5cc888b8d0ab44c65.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1a6f1afa589c71a5cc888b8d0ab44c65.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8a6fdb1fbdbdb9c269c1b11875990e46.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3c86a4a990bb6c2c575055455b0d8c06.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0a2975c9f218bdd998baae01adf9cac2.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_162caa225aaae8cae1e12409e38ffc7e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6a37e2bbf9a66dd9376ba4afec8cad86.jpeg"
+    ]
+  }
+]

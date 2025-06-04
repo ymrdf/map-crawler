@@ -1,0 +1,73 @@
+[
+  {
+    "name": "南通中道道路救援服务有限公司",
+    "location": {
+      "lat": 32.038021,
+      "lng": 120.79505
+    },
+    "address": "江苏省南通市崇川区天生港镇街道长江北路299号飞天实业一号楼二楼",
+    "province": "江苏省",
+    "city": "南通市",
+    "area": "崇川区",
+    "telephone": "051385100110",
+    "detail": 1,
+    "uid": "2bfa1e1ad9023e1679dbd295",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_9f8de07e04d05e986217d1956db30577.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9f8de07e04d05e986217d1956db30577.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/7718956beee5d38bf7a4e46e76574000_3349.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 31.865149,
+      "lng": 121.431054
+    },
+    "address": "南通市海门区解放路海门市临江幼儿园南侧约260米",
+    "province": "江苏省",
+    "city": "南通市",
+    "area": "海门区",
+    "detail": 1,
+    "uid": "1a2b5c2756abda4abb17e736",
+    "cover": "https://pic-map.cdn.bcebos.com/img/cb73b3360e61a13afe7b82d2973c2d7c",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/cb73b3360e61a13afe7b82d2973c2d7c"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 31.971772,
+      "lng": 121.121572
+    },
+    "address": "南通市海门区宝成路海门市三星镇中心幼儿园东北侧约150米",
+    "province": "江苏省",
+    "city": "南通市",
+    "area": "海门区",
+    "detail": 1,
+    "uid": "df2530a628b3883c33621206",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_80f7ca077fb3f1dd5af82f1d630c82e9.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_80f7ca077fb3f1dd5af82f1d630c82e9.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f5d2758422eb5e613b8e2b465d7f15af.jpeg"
+    ]
+  },
+  {
+    "name": "南通安捷道路救援服务有限公司",
+    "location": {
+      "lat": 32.038021,
+      "lng": 120.79505
+    },
+    "address": "江苏省南通市崇川区天生港镇街道长江北路299号飞天实业厂1号2楼",
+    "province": "江苏省",
+    "city": "南通市",
+    "area": "崇川区",
+    "detail": 1,
+    "uid": "48d18c3a71a9fb00d618b760",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_9f8de07e04d05e986217d1956db30577.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9f8de07e04d05e986217d1956db30577.jpeg"
+    ]
+  }
+]

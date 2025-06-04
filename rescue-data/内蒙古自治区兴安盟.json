@@ -1,0 +1,77 @@
+[
+  {
+    "name": "兴安盟泰新山道路救援有限公司",
+    "location": {
+      "lat": 46.103517,
+      "lng": 122.016645
+    },
+    "address": "内蒙古自治区兴安盟乌兰浩特市包商银行兴安盟融通支行南",
+    "province": "内蒙古自治区",
+    "city": "兴安盟",
+    "area": "乌兰浩特市",
+    "detail": 1,
+    "uid": "86859000dd30abc422f0171c",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B600e26d280f8ac5d5.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B600e26d280f8ac5d5.jpeg"
+    ]
+  },
+  {
+    "name": "永久轮胎修理救援",
+    "location": {
+      "lat": 46.117052,
+      "lng": 122.023119
+    },
+    "address": "兴安盟乌兰浩特市S203",
+    "province": "内蒙古自治区",
+    "city": "兴安盟",
+    "area": "乌兰浩特市",
+    "telephone": "15024823344",
+    "detail": 1,
+    "uid": "753b69426e99a186734b87a1",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_08a39d34778da1d3acebf92780caeecd.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_08a39d34778da1d3acebf92780caeecd.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_08cf773ab95880875a3474d469338ca9.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a7ed1235948fcbd23581386856802f7b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_01bfab048bd8ef39f5a0f4ca029e6b58.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a9402aef5b3f294bcd49adaae6c843aa.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_023b43f97aa8d62d456619038b90943e.jpeg"
+    ]
+  },
+  {
+    "name": "兴安盟消防救援支队",
+    "location": {
+      "lat": 46.076366,
+      "lng": 121.976349
+    },
+    "address": "内蒙古自治区兴安盟科尔沁右翼前旗罕山西街与金界路交叉口东北130米",
+    "province": "内蒙古自治区",
+    "city": "兴安盟",
+    "area": "科尔沁右翼前旗",
+    "detail": 1,
+    "uid": "53afc84696f11eeb29fc48da",
+    "cover": "https://pic-map.cdn.bcebos.com/img/044f8f1ebef1fa8352d2bec9932232b3",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/044f8f1ebef1fa8352d2bec9932232b3"
+    ]
+  },
+  {
+    "name": "乌兰浩特市光明西街消防救援站",
+    "location": {
+      "lat": 46.075503,
+      "lng": 122.080584
+    },
+    "address": "兴安盟乌兰浩特市光明西街民航大院东北侧约100米",
+    "province": "内蒙古自治区",
+    "city": "兴安盟",
+    "area": "乌兰浩特市",
+    "detail": 1,
+    "uid": "dcb443f154830aab3b221ce8",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B65951893915725c94.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B65951893915725c94.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65c9b7b1ead10a926.jpeg"
+    ]
+  }
+]

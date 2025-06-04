@@ -1,0 +1,116 @@
+[
+  {
+    "name": "速达汽车救援服务中心",
+    "location": {
+      "lat": 24.793232,
+      "lng": 118.568917
+    },
+    "address": "福建省泉州市晋江市罗裳村大道罗裳社区金玛国宾员工公寓对面",
+    "province": "福建省",
+    "city": "泉州市",
+    "area": "晋江市",
+    "telephone": "13328882282",
+    "detail": 1,
+    "uid": "c581537811fdfce53010af0c",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_b8ccc759c9c9e9e7593379c7ba0ac011.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b8ccc759c9c9e9e7593379c7ba0ac011.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_158451d68196575d31c6dd72e5a36d1c.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 25.132597,
+      "lng": 118.924164
+    },
+    "address": "泉州市泉港区中兴街万商·城市花园",
+    "province": "福建省",
+    "city": "泉州市",
+    "area": "泉港区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "b38fc5678803a68b4c6d4677",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_06d9b5d4704acd6e0601d62f0cce46b6.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_06d9b5d4704acd6e0601d62f0cce46b6.jpeg"
+    ]
+  },
+  {
+    "name": "泉州市雷霆救援中心",
+    "location": {
+      "lat": 25.113157,
+      "lng": 118.498906
+    },
+    "address": "泉州市南安市S307南安芦塘中学西北侧约180米",
+    "province": "福建省",
+    "city": "泉州市",
+    "area": "南安市",
+    "detail": 1,
+    "uid": "e1ec7b69b64d65ab2102628f",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_c31217c42329d7f5ac997e7761a05cea.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c31217c42329d7f5ac997e7761a05cea.jpeg"
+    ]
+  },
+  {
+    "name": "仙石海上救援队",
+    "location": {
+      "lat": 24.872969,
+      "lng": 118.634188
+    },
+    "address": "福建省泉州市晋江市仙石村妈祖庙旁",
+    "province": "福建省",
+    "city": "泉州市",
+    "area": "晋江市",
+    "detail": 1,
+    "uid": "33695b780d950a977ab55ce7",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B60acb9994fe929da7.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B60acb9994fe929da7.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b0613d50cd8c9ba5e0f556e1b8eb68d3.jpeg"
+    ]
+  },
+  {
+    "name": "民众汽修补胎搭电拖车救援",
+    "location": {
+      "lat": 24.909244,
+      "lng": 118.570087
+    },
+    "address": "泉州市鲤城区锦工中路联泰第一城南侧约110米",
+    "province": "福建省",
+    "city": "泉州市",
+    "area": "鲤城区",
+    "street_id": "99a42c1f1cbb05eaa4c7566c",
+    "detail": 1,
+    "uid": "99a42c1f1cbb05eaa4c7566c",
+    "cover": "https://taojin-his.cdn.bcebos.com/f2deb48f8c5494ee7bcdc68320f5e0fe98257eb9.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=99a42c1f1cbb05eaa4c7566c&width=720&height=360&quality=80&fovx=120",
+      "https://taojin-his.cdn.bcebos.com/d31b0ef41bd5ad6e6e8e4b0688cb39dbb7fd3ce2.jpg",
+      "https://taojin-his.cdn.bcebos.com/9e3df8dcd100baa1706d8f8d4d10b912c8fc2e47.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2faa0d66e67600f4740750a1947bb6ec.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_75111b145dc1a82dfd588e8ce9b2a3b2.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a0a741a94f3a0c004c9c3d8f8227ad98.jpg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 24.910156,
+      "lng": 118.568758
+    },
+    "address": "泉州市鲤城区锦工中路江南新区锦美安置区东侧约90米",
+    "province": "福建省",
+    "city": "泉州市",
+    "area": "鲤城区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "37869361b0d9f8c52fb17ebc",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B65ec1caa4a861fe6a.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B65ec1caa4a861fe6a.jpeg",
+      "https://pic-map.cdn.bcebos.com/img/ec9baa9d23ae056db075b4d024b86545"
+    ]
+  }
+]

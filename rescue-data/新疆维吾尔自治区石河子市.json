@@ -1,0 +1,46 @@
+[
+  {
+    "name": "石河子市新军旅汽车救援服务有限公司",
+    "location": {
+      "lat": 44.3269,
+      "lng": 86.061998
+    },
+    "address": "新疆维吾尔自治区石河子市G312",
+    "province": "新疆维吾尔自治区",
+    "city": "石河子市",
+    "area": "",
+    "telephone": "13999332999,15309937555",
+    "detail": 1,
+    "uid": "1ad91865962444bc9fec2bf8",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/9852e8bf7b5090c0c689f2fbb41f240d_3163.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/9852e8bf7b5090c0c689f2fbb41f240d_3163.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/02a81ef265495ea65b7700e11beaeb21_5734.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/8ef81b06d9fc242421d9bcd8f5c42767_3131.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/336b571d6fb9f7d82c030f090fcbe1ef_8070.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/a9df28af300cf5065afdcae020912061_6700.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/f54a0c3b58b2db3c8e09c5780a98b153_5567.jpeg"
+    ]
+  },
+  {
+    "name": "马刘加车行信息服务部",
+    "location": {
+      "lat": 44.28794,
+      "lng": 86.063255
+    },
+    "address": "石河子市军垦汽车城",
+    "province": "新疆维吾尔自治区",
+    "city": "石河子市",
+    "area": "",
+    "telephone": "18742918888",
+    "detail": 1,
+    "uid": "c513b3ddf4e81eac5abbbc56",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_3967edfe11bc76862c9cd27818fe3619.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3967edfe11bc76862c9cd27818fe3619.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_10d9eeb22965c218f790cd16b56c5a2b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_45068f820b52246e66387dfcaf5f7c27.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B676a225b7b212bb17.jpeg"
+    ]
+  }
+]

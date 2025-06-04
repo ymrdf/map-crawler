@@ -1,0 +1,104 @@
+[
+  {
+    "name": "廊坊方坦道路救援服务有限公司",
+    "location": {
+      "lat": 39.316862,
+      "lng": 116.487126
+    },
+    "address": "河北省廊坊市永清县西环加油站对面道路救援事故拖车豪车托运搭电换胎送油",
+    "province": "河北省",
+    "city": "廊坊市",
+    "area": "永清县",
+    "telephone": "18630447259",
+    "detail": 1,
+    "uid": "980afc16597f455771210b4b",
+    "cover": "https://pic-map.cdn.bcebos.com/img/7c7fc2359b5ac8bef5b1f274376d13ba",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/7c7fc2359b5ac8bef5b1f274376d13ba"
+    ]
+  },
+  {
+    "name": "左各庄镇消防救援站",
+    "location": {
+      "lat": 39.0119,
+      "lng": 116.631266
+    },
+    "address": "廊坊市文安县盛泰苑西南侧约140米",
+    "province": "河北省",
+    "city": "廊坊市",
+    "area": "文安县",
+    "detail": 1,
+    "uid": "234ec45142abbc32f4b91662",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_76ca72f8d6b0aea7dc579f696e2f2d16.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_76ca72f8d6b0aea7dc579f696e2f2d16.jpeg"
+    ]
+  },
+  {
+    "name": "三河市海城车辆救援有限公司",
+    "location": {
+      "lat": 40.008366,
+      "lng": 117.064527
+    },
+    "address": "廊坊市三河市北环路与团结路交叉路口往东约230米",
+    "province": "河北省",
+    "city": "廊坊市",
+    "area": "三河市",
+    "street_id": "",
+    "detail": 1,
+    "uid": "d51055bd57790dc8118824d8",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_27b7ae93389b860339a081a49a025d06.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_27b7ae93389b860339a081a49a025d06.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_42793d653949d3c0825c1dedff86288e.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_808ad47c40fe62c0148e5eb1bb537f76.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4537a651ef37da8d1863bd3af3884672.jpeg"
+    ]
+  },
+  {
+    "name": "米其林轮胎汽车维修保养救援",
+    "location": {
+      "lat": 39.538668,
+      "lng": 116.761702
+    },
+    "address": "廊坊市广阳区爱民东道华能加气站(爱民东道)西南侧约60米",
+    "province": "河北省",
+    "city": "廊坊市",
+    "area": "广阳区",
+    "street_id": "",
+    "telephone": "15127620795",
+    "detail": 1,
+    "uid": "aa090cc558b3411dcb213d5a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_38fa7d5e4186bde4721f5f8870342591.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_38fa7d5e4186bde4721f5f8870342591.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_db7cee72b9fcdf41a13a4862f8717e88.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9ba3d0d4a485eefbf73700d3405cbb7f.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_aa9432d05cabf89fdeb126ebd69fa27a.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ffe57108c609e56a936d7a54f8827fce.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ea1b64530427a2b859dec817fe82b844.jpeg"
+    ]
+  },
+  {
+    "name": "东盛汽车养护中心救援",
+    "location": {
+      "lat": 39.876484,
+      "lng": 116.869847
+    },
+    "address": "河北省廊坊市大厂回族自治县八百户小学西侧约110米路北",
+    "province": "河北省",
+    "city": "廊坊市",
+    "area": "大厂回族自治县",
+    "telephone": "16603165713",
+    "detail": 1,
+    "uid": "74aa0291a93dda857bf7968e",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_7bdd4b93f40eec1e02c8a288351314ce.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7bdd4b93f40eec1e02c8a288351314ce.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_61f73e89d2cdc0a156a7545617cb6921.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9a95de090b488299224b2ec427887f9f.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B6475a4d263f055b7a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d4e598297601760ab4bbeaceeb2a761c.jpeg"
+    ]
+  }
+]

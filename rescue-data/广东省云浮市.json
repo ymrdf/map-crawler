@@ -1,0 +1,133 @@
+[
+  {
+    "name": "云浮市云城区蓝天救援中心",
+    "location": {
+      "lat": 22.971389,
+      "lng": 112.043964
+    },
+    "address": "广东省云浮市云城区Y002",
+    "province": "广东省",
+    "city": "云浮市",
+    "area": "云城区",
+    "detail": 1,
+    "uid": "dbaf6b8265afb06d6cc02c1f",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_6c3c223fa7719d137ceb9b8e462d82d4.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6c3c223fa7719d137ceb9b8e462d82d4.jpeg"
+    ]
+  },
+  {
+    "name": "罗定市达运道路救援有限公司",
+    "location": {
+      "lat": 22.764316,
+      "lng": 111.574435
+    },
+    "address": "广东省云浮市罗定市大岗路43号",
+    "province": "广东省",
+    "city": "云浮市",
+    "area": "罗定市",
+    "detail": 1,
+    "uid": "f953a73abcd1cf5fb34c496c",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B63374d208e94f17afa.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B63374d208e94f17afa.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B63374d204af4fc6b2.jpeg"
+    ]
+  },
+  {
+    "name": "天之信汽车救援服务",
+    "location": {
+      "lat": 22.950335,
+      "lng": 112.052926
+    },
+    "address": "云浮市云城区乐谊横二巷蟠龙新康家园",
+    "province": "广东省",
+    "city": "云浮市",
+    "area": "云城区",
+    "telephone": "18807660403",
+    "detail": 1,
+    "uid": "24ec586784c5672e0482c213",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_397bdda39265a05f2b171c6ca75a3280.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_397bdda39265a05f2b171c6ca75a3280.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_38048c0024be1115c2bb085c23392ba4.jpeg"
+    ]
+  },
+  {
+    "name": "罗定市达运道路救援有限公司",
+    "location": {
+      "lat": 22.759326,
+      "lng": 111.563331
+    },
+    "address": "云浮市罗定市大岗西路达运道路救援有限公司",
+    "province": "广东省",
+    "city": "云浮市",
+    "area": "罗定市",
+    "telephone": "(0766)3411384,13421771769",
+    "detail": 1,
+    "uid": "e2d7eedbbdb14a9c1c389430",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/001/146_e61d8a0ad6aaba887a0683f2da203552.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/001/146_e61d8a0ad6aaba887a0683f2da203552.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/001/146_d93926ffc92f15729c7b896e6f6ab458.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1b77363bb8497d6cc6707d72bf8dafb0.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/1c8f0874f85bb11eb282d59bf285c237_0183.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/19a190d791d1b09310993641d9e0aa6b_7606.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/fe6825a276d93f9d413dfdd3233db013_5528.jpeg"
+    ]
+  },
+  {
+    "name": "云浮市森林消防支队",
+    "location": {
+      "lat": 22.942326,
+      "lng": 112.049338
+    },
+    "address": "广东省云浮市云城区星岩二路41号",
+    "province": "广东省",
+    "city": "云浮市",
+    "area": "云城区",
+    "detail": 1,
+    "uid": "3894b122e5eceaad2a02e11c",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_875ad13e3eded0935fdba42de50ebd7a.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_875ad13e3eded0935fdba42de50ebd7a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_114b557a68af9427ed61952ab2da1fa2.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_baf1494bac913e4cd202ea20a29c4edc.jpeg"
+    ]
+  },
+  {
+    "name": "云浮市云城区乐谊路消防救援站",
+    "location": {
+      "lat": 22.948499,
+      "lng": 112.051852
+    },
+    "address": "云浮市云城区乐谊路云城区消防大队",
+    "province": "广东省",
+    "city": "云浮市",
+    "area": "云城区",
+    "detail": 1,
+    "uid": "fec6b0b4c46bbd8943afe615",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_755e4b1d77a13b7fb8423a250d1bbd61.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_755e4b1d77a13b7fb8423a250d1bbd61.jpeg",
+      "https://pic-map.cdn.bcebos.com/img/d0eb1051e119ca81049a49c66edccc5f"
+    ]
+  },
+  {
+    "name": "罗定市龙华东路消防救援站",
+    "location": {
+      "lat": 22.775279,
+      "lng": 111.60341
+    },
+    "address": "广东省云浮市罗定市龙华东路罗定市中医院东侧约70米",
+    "province": "广东省",
+    "city": "云浮市",
+    "area": "罗定市",
+    "detail": 1,
+    "uid": "b13826fd98b1c543047ce8ef",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_c8440a01ae5206b292d4a4ba3fbfd7e4.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c8440a01ae5206b292d4a4ba3fbfd7e4.jpeg"
+    ]
+  }
+]

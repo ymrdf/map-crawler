@@ -1,0 +1,55 @@
+[
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 44.216861,
+      "lng": 80.425235
+    },
+    "address": "伊犁哈萨克自治州霍尔果斯市新星幼儿园西南侧约80米",
+    "province": "新疆维吾尔自治区",
+    "city": "伊犁哈萨克自治州",
+    "area": "霍尔果斯市",
+    "detail": 1,
+    "uid": "3ff460040b6161e6c61e5140",
+    "cover": "https://pic-map.cdn.bcebos.com/img/4f62e2ca3786d51bafd2075d7dbde4e0",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/4f62e2ca3786d51bafd2075d7dbde4e0"
+    ]
+  },
+  {
+    "name": "伊犁州消防救援支队",
+    "location": {
+      "lat": 43.938601,
+      "lng": 81.290564
+    },
+    "address": "伊犁哈萨克自治州伊宁市安徽路伊犁哈萨克自治州公安局消防局",
+    "province": "新疆维吾尔自治区",
+    "city": "伊犁哈萨克自治州",
+    "area": "伊宁市",
+    "detail": 1,
+    "uid": "b9429fdef192ad405fbe8617",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ee8807da39ac678d1954232913b15037.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ee8807da39ac678d1954232913b15037.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_480d167f9efdd6f0ec23c00a6701eda6.jpeg"
+    ]
+  },
+  {
+    "name": "伊宁市综合应急救援大队",
+    "location": {
+      "lat": 43.919873,
+      "lng": 81.331204
+    },
+    "address": "伊犁哈萨克自治州伊宁市解放南路72号附近",
+    "province": "新疆维吾尔自治区",
+    "city": "伊犁哈萨克自治州",
+    "area": "伊宁市",
+    "street_id": "",
+    "detail": 1,
+    "uid": "8c2863423987348d34b06c5d",
+    "cover": "https://taojin-his.cdn.bcebos.com/a50f4bfbfbedab64881e1c5cf236afc379311e39.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/a50f4bfbfbedab64881e1c5cf236afc379311e39.jpg"
+    ]
+  }
+]

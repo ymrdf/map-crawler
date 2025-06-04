@@ -1,0 +1,79 @@
+[
+  {
+    "name": "天台山隧道救援站",
+    "location": {
+      "lat": 34.253902,
+      "lng": 106.992118
+    },
+    "address": "陕西省宝鸡市渭滨区G85(宝坪高速)",
+    "province": "陕西省",
+    "city": "宝鸡市",
+    "area": "渭滨区",
+    "detail": 1,
+    "uid": "f26f43e1ca831129343a71ef",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_6fd0b02beb74acc118533ca9e6a64cff.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6fd0b02beb74acc118533ca9e6a64cff.jpeg"
+    ]
+  },
+  {
+    "name": "宝鸡市消防救援支队",
+    "location": {
+      "lat": 34.355072,
+      "lng": 107.246396
+    },
+    "address": "陕西省宝鸡市渭滨区新苑路18号",
+    "province": "陕西省",
+    "city": "宝鸡市",
+    "area": "渭滨区",
+    "street_id": "",
+    "telephone": "(0917)3372183",
+    "detail": 1,
+    "uid": "89abb40e389c2977100daa56",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_150b56a71955373da2cbe11fab3f4f2a.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_150b56a71955373da2cbe11fab3f4f2a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_77a05b45673e5d829c6ddb493f0bb628.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B64c21326587fdec0b.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B64c212e1ded29bdf3.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_95d090e87fa846f42857bfa9d0739c9a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_33d8958ded26a6f160686ee36eaf55ec.jpeg"
+    ]
+  },
+  {
+    "name": "宝鸡速展汽车救援有限公司",
+    "location": {
+      "lat": 34.348044,
+      "lng": 107.288379
+    },
+    "address": "陕西省宝鸡市渭滨区高新十二路西16号往北50米卓海院内",
+    "province": "陕西省",
+    "city": "宝鸡市",
+    "area": "渭滨区",
+    "telephone": "(0917)3393110,15191798666",
+    "detail": 1,
+    "uid": "d468661f5a7185e1ad080f93",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_e44237790c3359b57a6d88d62047ac34.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e44237790c3359b57a6d88d62047ac34.jpeg"
+    ]
+  },
+  {
+    "name": "扶风县消防救援大队",
+    "location": {
+      "lat": 34.381468,
+      "lng": 107.903403
+    },
+    "address": "陕西省宝鸡市扶风县南一路信合花园南一路西北侧约110米",
+    "province": "陕西省",
+    "city": "宝鸡市",
+    "area": "扶风县",
+    "street_id": "9bc2c205487fdca6aeb22a54",
+    "detail": 1,
+    "uid": "9bc2c205487fdca6aeb22a54",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_06be439c19aa40a77691d405eeea9cb2.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=9bc2c205487fdca6aeb22a54&width=720&height=360&quality=80&fovx=120"
+    ]
+  }
+]

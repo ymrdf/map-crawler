@@ -1,0 +1,99 @@
+[
+  {
+    "name": "曙光救援队",
+    "location": {
+      "lat": 29.583357,
+      "lng": 120.81269
+    },
+    "address": "浙江省绍兴市嵊州市东南路598号",
+    "province": "浙江省",
+    "city": "绍兴市",
+    "area": "嵊州市",
+    "street_id": "",
+    "detail": 1,
+    "uid": "7e7e9206e3fbfc51f4b91604",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_0288e880d99005a847fa6230eaf708ca.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0288e880d99005a847fa6230eaf708ca.jpg",
+      "https://poi-pic.cdn.bcebos.com/0d70d6ad5beeac1d95aec0d01be432e8.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6db0c6114771496ca010078351bfd6cd.jpg",
+      "https://taojin-his.cdn.bcebos.com/21a4462309f790522b950eee02f3d7ca7acbd55c.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_16f59b2188a447f6f3c865dff3adc385.jpg"
+    ]
+  },
+  {
+    "name": "马山县消防救援大队",
+    "location": {
+      "lat": 30.080019,
+      "lng": 120.667201
+    },
+    "address": "浙江省绍兴市越城区海南路与市场路交叉路口东南侧",
+    "province": "浙江省",
+    "city": "绍兴市",
+    "area": "越城区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "fd0cd7386684e4081811d5f6",
+    "cover": "https://pic-map.cdn.bcebos.com/img/731e3f65077dfc2b2a10083728b79022",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/731e3f65077dfc2b2a10083728b79022"
+    ]
+  },
+  {
+    "name": "诸暨市海豚救援",
+    "location": {
+      "lat": 29.714175,
+      "lng": 120.215461
+    },
+    "address": "浙江省绍兴市诸暨市城西新村山下赵82号",
+    "province": "浙江省",
+    "city": "绍兴市",
+    "area": "诸暨市",
+    "detail": 1,
+    "uid": "69dc248e5fa7ab214102455e",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_3709470f2ed6a5236f60b3c005569b23.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3709470f2ed6a5236f60b3c005569b23.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0aff2d6c62ebeb62d9681646d8d1f68f.jpeg"
+    ]
+  },
+  {
+    "name": "红枫救援",
+    "location": {
+      "lat": 29.794691,
+      "lng": 120.421795
+    },
+    "address": "浙江省绍兴市诸暨市步森大道136号2楼",
+    "province": "浙江省",
+    "city": "绍兴市",
+    "area": "诸暨市",
+    "detail": 1,
+    "uid": "8b2c90404fb36ec7f4e73ba3",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_7f566471aef45483b255d5c0db5b82e6.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7f566471aef45483b255d5c0db5b82e6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3f59ba66550b715319bf80c1fc170746.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a1ca556ee94508b3fa417555da768337.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ede50bf67399a6824679bcf5e123dfe4.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65767aa8033e07464.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B659512fd5a18c1361e.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 30.162388,
+      "lng": 120.888339
+    },
+    "address": "绍兴市上虞区进港公路与纬一东路交叉路口东北侧",
+    "province": "浙江省",
+    "city": "绍兴市",
+    "area": "上虞区",
+    "detail": 1,
+    "uid": "6155bf5106799c385cbe8615",
+    "cover": "https://pic-map.cdn.bcebos.com/img/e6454eb8b5d3aca0404352d83972dda9",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/e6454eb8b5d3aca0404352d83972dda9"
+    ]
+  }
+]

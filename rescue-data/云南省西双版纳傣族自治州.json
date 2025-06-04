@@ -1,0 +1,104 @@
+[
+  {
+    "name": "勐腊县雨林大道消防救援站",
+    "location": {
+      "lat": 21.45689,
+      "lng": 101.569582
+    },
+    "address": "云南省西双版纳傣族自治州勐腊县雨林大道342号",
+    "province": "云南省",
+    "city": "西双版纳傣族自治州",
+    "area": "勐腊县",
+    "detail": 1,
+    "uid": "7bceff5a4f74eb97d1f49ecc",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B61e4bf212f61ec2be.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B61e4bf212f61ec2be.jpeg",
+      "https://pic-map.cdn.bcebos.com/img/9be8b7eabe8be4fe327bf21b1e9d7f6b"
+    ]
+  },
+  {
+    "name": "勐海县消防救援大队",
+    "location": {
+      "lat": 21.960839,
+      "lng": 100.450118
+    },
+    "address": "茶乡路2号附近",
+    "province": "云南省",
+    "city": "西双版纳傣族自治州",
+    "area": "勐海县",
+    "street_id": "",
+    "detail": 1,
+    "uid": "12be3fd0f9e6205cbda82297",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_2d89a91d82277893f9dd5cd194ab5ba3.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2d89a91d82277893f9dd5cd194ab5ba3.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5ece971f76ca96853420cb24e4e64356.jpeg"
+    ]
+  },
+  {
+    "name": "版纳安心游景区直通车总部",
+    "location": {
+      "lat": 22.016759,
+      "lng": 100.826998
+    },
+    "address": "云南省西双版纳傣族自治州允景洪街道告庄西双景",
+    "province": "云南省",
+    "city": "西双版纳傣族自治州",
+    "area": "景洪市",
+    "telephone": "13578105330",
+    "detail": 1,
+    "uid": "6507549b5084eb0bb45f1e15",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B675cff5e3cf68166e1.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B675cff5e3cf68166e1.jpeg"
+    ]
+  },
+  {
+    "name": "西双版纳金三角旅游航运有限公司",
+    "location": {
+      "lat": 22.031222,
+      "lng": 100.803308
+    },
+    "address": "云南省西双版纳傣族自治州景洪市景亮路70号",
+    "province": "云南省",
+    "city": "西双版纳傣族自治州",
+    "area": "景洪市",
+    "street_id": "0fd04cb9c93cbde2b426551d",
+    "telephone": "15087667333",
+    "detail": 1,
+    "uid": "0fd04cb9c93cbde2b426551d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d05139bf6aa7e3e1bcffcb1a605f358a.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=0fd04cb9c93cbde2b426551d&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c58816286c526d736ed5c777a795eae2.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e9a0713588c2f190074917a3ffbe4f96.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a2faa2af8a12eef0ff1ecbac14a714c0.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_04e9bff056f2b7f758e68da3802fdfe4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0b25c96639097cd9f72e6eb1469cf618.jpeg"
+    ]
+  },
+  {
+    "name": "急道救援",
+    "location": {
+      "lat": 21.981284,
+      "lng": 100.812598
+    },
+    "address": "西双版纳傣族自治州景洪市勐泐大道会展住宅小区西南侧约90米",
+    "province": "云南省",
+    "city": "西双版纳傣族自治州",
+    "area": "景洪市",
+    "telephone": "18806910022",
+    "detail": 1,
+    "uid": "249535d17127bef5d0f49e1b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_35f7e4d77a1b4bcd2cc7171c48a4d6e4.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_35f7e4d77a1b4bcd2cc7171c48a4d6e4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1b1b9be7df909d04854cceeafef7e3da.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a1a5bd6624458acbe43e65d873e39592.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b8a097590db800487cf8ef3707dcf7b4.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a5e7d904a7ccb1f55f3ac6fd7f658277.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4b1d0ce5e99dec7b121961098ed4eca8.jpeg"
+    ]
+  }
+]

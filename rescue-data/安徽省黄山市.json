@@ -1,0 +1,56 @@
+[
+  {
+    "name": "歙县山越救援队",
+    "location": {
+      "lat": 29.863867,
+      "lng": 118.403924
+    },
+    "address": "安徽省黄山市歙县宾虹大道",
+    "province": "安徽省",
+    "city": "黄山市",
+    "area": "歙县",
+    "detail": 1,
+    "uid": "eabf22ccd536a659a1046410",
+    "cover": "https://pic-map.cdn.bcebos.com/img/472cdfbd2138b4ec91ff72b2edcca85b",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/472cdfbd2138b4ec91ff72b2edcca85b"
+    ]
+  },
+  {
+    "name": "黄山市消防救援支队",
+    "location": {
+      "lat": 29.727545,
+      "lng": 118.348591
+    },
+    "address": "安徽省黄山市屯溪区社屋前路18号",
+    "province": "安徽省",
+    "city": "黄山市",
+    "area": "屯溪区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "9252dd2665b646026e20b9a0",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ef8e530fcdcce53aa6e3caba3aad62cd.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ef8e530fcdcce53aa6e3caba3aad62cd.jpeg"
+    ]
+  },
+  {
+    "name": "黄山贞元汽车救援有限公司",
+    "location": {
+      "lat": 29.830145,
+      "lng": 118.365204
+    },
+    "address": "安徽省黄山市徽州区黄平路6号",
+    "province": "安徽省",
+    "city": "黄山市",
+    "area": "徽州区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "6f8243a5e44baa7c3fe231c5",
+    "cover": "https://taojin-pic-gz.cdn.bcebos.com/cd1f30177fd64ee84678b0c17f87c378.jpg",
+    "photo_list": [
+      "https://taojin-pic-gz.cdn.bcebos.com/cd1f30177fd64ee84678b0c17f87c378.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3bc1529580f2119089294c82953e15f2.jpeg"
+    ]
+  }
+]

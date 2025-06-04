@@ -1,0 +1,148 @@
+[
+  {
+    "name": "无锡市路路通交通救援服务有限公司",
+    "location": {
+      "lat": 31.647795,
+      "lng": 120.403723
+    },
+    "address": "江苏省无锡市锡山区八士东街与运河路交叉口正西方向14米",
+    "province": "江苏省",
+    "city": "无锡市",
+    "area": "锡山区",
+    "telephone": "(0510)83780569",
+    "detail": 1,
+    "uid": "cd6ed83ce9caff90c91b9507",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B6258db2b6e95c7dfa.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B6258db2b6e95c7dfa.jpeg"
+    ]
+  },
+  {
+    "name": "无锡顺畅汽车道路救援",
+    "location": {
+      "lat": 31.593669,
+      "lng": 120.23995
+    },
+    "address": "无锡市滨湖区钱荣路江苏省无锡交通高等职业技术学校(钱荣校区南校区)东北侧约210米",
+    "province": "江苏省",
+    "city": "无锡市",
+    "area": "滨湖区",
+    "telephone": "13093001329,13270175777",
+    "detail": 1,
+    "uid": "aeff5edf6fb8520d0bf5eb76",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_94564b1f9d30d09af0becf0782890d10.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_94564b1f9d30d09af0becf0782890d10.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B636383c0df6faaef5.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_29a584fd05be4ff4f9d7c6e74da4964c.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/cb4f25d2c20ee182f3fdc6d11e0e8c62_4333.jpeg"
+    ]
+  },
+  {
+    "name": "无锡安之畅道路救援服务",
+    "location": {
+      "lat": 31.643569,
+      "lng": 120.271793
+    },
+    "address": "无锡市惠山区石兴路与振石路交叉路口往西北约100米",
+    "province": "江苏省",
+    "city": "无锡市",
+    "area": "惠山区",
+    "detail": 1,
+    "uid": "f5d809ac4c5c631fa9175a50",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ee5e6ecb8f23a9c0246a8724ae8af7d3.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ee5e6ecb8f23a9c0246a8724ae8af7d3.jpeg"
+    ]
+  },
+  {
+    "name": "无锡市泰丰交通救援服务有限公司",
+    "location": {
+      "lat": 31.635408,
+      "lng": 120.34691
+    },
+    "address": "江苏省无锡市锡山区西新路3号",
+    "province": "江苏省",
+    "city": "无锡市",
+    "area": "锡山区",
+    "telephone": "13115056673",
+    "detail": 1,
+    "uid": "dd949a64c21bee24a6da39d3",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B60becd0b537335272.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B60becd0b537335272.jpeg"
+    ]
+  },
+  {
+    "name": "钱桥诚信轮胎补胎电瓶搭电救援",
+    "location": {
+      "lat": 31.615317,
+      "lng": 120.241126
+    },
+    "address": "江苏省无锡市惠山区钱威路91号",
+    "province": "江苏省",
+    "city": "无锡市",
+    "area": "惠山区",
+    "street_id": "",
+    "telephone": "(0510)83213301,13812501777",
+    "detail": 1,
+    "uid": "cee3db5c6f32acd9b54f5416",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_1ab7993396570e129fc6f8523ec4be30.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1ab7993396570e129fc6f8523ec4be30.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ab6e29225011727c6ef4a4a2b4c0e591.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5338374c0f23ffb7509c46a6abd7db42.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ec086ed550a1931bebc9fdbaf4ad5c31.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_36c764a441e6834a689e4dd21698e137.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9e5a79f8622f7975824b030d0ef0b626.jpeg"
+    ]
+  },
+  {
+    "name": "安品汽车救援",
+    "location": {
+      "lat": 31.852994,
+      "lng": 120.265319
+    },
+    "address": "江苏省无锡市江阴市称心路52-54号",
+    "province": "江苏省",
+    "city": "无锡市",
+    "area": "江阴市",
+    "street_id": "",
+    "telephone": "(0510)86182287",
+    "detail": 1,
+    "uid": "21c9df7108879a7bcc06a4f0",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_6c775bd3688c055eb75c0f095e98d078.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6c775bd3688c055eb75c0f095e98d078.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5d0f2d56d3fd5c39901579b371b7eb87.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3a793eb75457486df7b9cdc568342dfe.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B610fa2af67ff96d6b.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B610fa374967681455c.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B610fa38401441183d6.jpeg"
+    ]
+  },
+  {
+    "name": "迈通汽车救援",
+    "location": {
+      "lat": 31.628401,
+      "lng": 120.31149
+    },
+    "address": "江苏省无锡市梁溪区黄巷街道锡澄路311号",
+    "province": "江苏省",
+    "city": "无锡市",
+    "area": "梁溪区",
+    "street_id": "4e0823259a6fba69c9fa5f75",
+    "telephone": "13921508266",
+    "detail": 1,
+    "uid": "4e0823259a6fba69c9fa5f75",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_7e2d52ad43299c568eabfa53f19a6957.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=4e0823259a6fba69c9fa5f75&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0029a00c47254f9fbe7c6bbe5473ed57.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6b98f09001f2f44a6b9d628d736c97ab.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_ae6103f2ab1648f179bc1d052581d340.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_433f0f4d6854b99a8da2e7f156554b7b.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6673d03aa14693c9e.jpeg"
+    ]
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "name": "成辉汽车维修应急救援",
+    "location": {
+      "lat": 34.727307,
+      "lng": 104.905423
+    },
+    "address": "天水市武山县文昌路杏花村幼儿园北侧约130米",
+    "province": "甘肃省",
+    "city": "天水市",
+    "area": "武山县",
+    "telephone": "18919003623",
+    "detail": 1,
+    "uid": "a7bd113eb3f2c2bd7069d3cb",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_0d293b5ea0e612d1f3ad43116a0981ed.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0d293b5ea0e612d1f3ad43116a0981ed.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cd679ef95e991381cbaff15d04521115.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9de66a8ea524b1ad2be19e723b606f87.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_98cce5924391c9bb905deef108de7587.jpeg"
+    ]
+  },
+  {
+    "name": "天水市麦积区消防救援大队",
+    "location": {
+      "lat": 34.56026,
+      "lng": 105.906064
+    },
+    "address": "天水市麦积区新建巷宏达新区南侧",
+    "province": "甘肃省",
+    "city": "天水市",
+    "area": "麦积区",
+    "street_id": "114eb2190ac72ca05d17c3df",
+    "detail": 1,
+    "uid": "114eb2190ac72ca05d17c3df",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_63f98cee772640607212f1af9941775e.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=114eb2190ac72ca05d17c3df&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8e260695a1d963239d856b22c35d0060.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3ecdace08e7fbe90b8f0db4e1e47c113.jpeg"
+    ]
+  },
+  {
+    "name": "洗车修车车辆救援",
+    "location": {
+      "lat": 34.564451,
+      "lng": 105.691153
+    },
+    "address": "天水市秦州区连霍高速甘肃五建集团鸿泰家园南侧约190米",
+    "province": "甘肃省",
+    "city": "天水市",
+    "area": "秦州区",
+    "telephone": "15193872581",
+    "detail": 1,
+    "uid": "e4e6b66c38ec482673210bfb",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_b0a4ce48ceb1ee2cbfa7f1e9dcd2ca76.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b0a4ce48ceb1ee2cbfa7f1e9dcd2ca76.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bc4598f6f8609ce6aa7180ae1df7c49f.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_cee7df4abf719844c15c5f9105660418.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_acb4047f9b57e0a20bda08691eb340d7.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_53ccae2b3940da5b5905efcf844ba513.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_89e317c02c59b827da036e00002d4bda.jpeg"
+    ]
+  },
+  {
+    "name": "麦积区水上消防救援站",
+    "location": {
+      "lat": 34.563395,
+      "lng": 105.91491
+    },
+    "address": "天水市麦积区成纪大道东路兴中小区南侧约90米",
+    "province": "甘肃省",
+    "city": "天水市",
+    "area": "麦积区",
+    "detail": 1,
+    "uid": "82afabf7194a041776e5b6b6",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_e265b7d2246ca6be86f52f744e353995.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e265b7d2246ca6be86f52f744e353995.jpeg"
+    ]
+  },
+  {
+    "name": "二十里铺消防救援站",
+    "location": {
+      "lat": 34.563016,
+      "lng": 105.864879
+    },
+    "address": "甘肃省天水市麦积区羲皇大道中路神州租车东侧50米",
+    "province": "甘肃省",
+    "city": "天水市",
+    "area": "麦积区",
+    "detail": 1,
+    "uid": "b68b9497771a469428d7abe4",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_c6b51a5ba66a007501661e159c122bc1.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c6b51a5ba66a007501661e159c122bc1.jpeg"
+    ]
+  },
+  {
+    "name": "武由县宁远消防救援站",
+    "location": {
+      "lat": 34.731736,
+      "lng": 104.930438
+    },
+    "address": "天水市武山县东顺街与南滨河路交叉路口往西约130米",
+    "province": "甘肃省",
+    "city": "天水市",
+    "area": "武山县",
+    "detail": 1,
+    "uid": "1ac121a3bc68c20e90114c49",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_c10d06a6697a26143cb7a624d3b47944.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c10d06a6697a26143cb7a624d3b47944.jpeg"
+    ]
+  },
+  {
+    "name": "天水市消防救援支队新华路特勤站",
+    "location": {
+      "lat": 34.588517,
+      "lng": 105.746
+    },
+    "address": "天水市秦州区官墙里丽景花园",
+    "province": "甘肃省",
+    "city": "天水市",
+    "area": "秦州区",
+    "street_id": "c27c27644fab6d0aa1a9349b",
+    "detail": 1,
+    "uid": "c27c27644fab6d0aa1a9349b",
+    "cover": "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_ca776ae0a9e01fd3930ebfb351165619.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=c27c27644fab6d0aa1a9349b&width=720&height=360&quality=80&fovx=120"
+    ]
+  }
+]

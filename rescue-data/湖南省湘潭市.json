@@ -1,0 +1,98 @@
+[
+  {
+    "name": "湘潭离心机有限公司",
+    "location": {
+      "lat": 27.788851,
+      "lng": 112.9497
+    },
+    "address": "湖南省湘潭市湘潭县易俗河镇凤凰中路1370号",
+    "province": "湖南省",
+    "city": "湘潭市",
+    "area": "湘潭县",
+    "street_id": "2e28807fbc9288344354d7c2",
+    "telephone": "13574098584",
+    "detail": 1,
+    "uid": "2e28807fbc9288344354d7c2",
+    "cover": "https://poi-pic.cdn.bcebos.com/c7e024cee228c1d3f0f0b678a79bdbf0.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=2e28807fbc9288344354d7c2&width=720&height=360&quality=80&fovx=120",
+      "http://bj.bcebos.com/v1/duzhanread/501261c0-fda8-4fcc-bfd0-bf07d6f29716_cut.jpg",
+      "http://bj.bcebos.com/v1/duzhanread/d4899332-a668-407a-9086-cc8d5d30546a_cut.jpg",
+      "http://bj.bcebos.com/v1/duzhanread/f6182580-c5ea-417c-bf8e-d6300d83b7cb_cut.jpg",
+      "http://bj.bcebos.com/v1/duzhanread/e3b590b3-da31-4774-a9e2-eea8458dc904_cut.jpg",
+      "http://bj.bcebos.com/v1/duzhanread/6c87a352-dc1a-442c-bff7-47e28eaa8d01_cut.jpg"
+    ]
+  },
+  {
+    "name": "韶山市鸿利道路救援服务有限公司",
+    "location": {
+      "lat": 27.921607,
+      "lng": 112.544255
+    },
+    "address": "湖南省湘潭市韶山市X037(韶山南路)",
+    "province": "湖南省",
+    "city": "湘潭市",
+    "area": "韶山市",
+    "telephone": "15673273999",
+    "detail": 1,
+    "uid": "41a99642908a0b389de32104",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B638eb93063b3861e8.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B638eb93063b3861e8.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1cbf97404002ebca0bdb685fd6736121.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1d3810e6035191a46a12fe73b05a43a1.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_02d32682abe9f86d9979e5397e43f64e.jpeg"
+    ]
+  },
+  {
+    "name": "湘潭通用离心机有限公司",
+    "location": {
+      "lat": 27.663909,
+      "lng": 112.959606
+    },
+    "address": "湖南省湘潭市湘潭县谭家山镇分路口",
+    "province": "湖南省",
+    "city": "湘潭市",
+    "area": "湘潭县",
+    "detail": 1,
+    "uid": "7078272e4c318e2b58109308",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/Hf9198618367adab4e6e678bd87d4b31c8701e41e.jpg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/Hf9198618367adab4e6e678bd87d4b31c8701e41e.jpg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 27.743836,
+      "lng": 112.525556
+    },
+    "address": "湘潭市湘乡市梅湘路三和家园西侧约50米",
+    "province": "湖南省",
+    "city": "湘潭市",
+    "area": "湘乡市",
+    "detail": 1,
+    "uid": "233ae80e0f8b9c6c6e20b9a8",
+    "cover": "https://pic-map.cdn.bcebos.com/img/15de26576666a65ed185992e2f098d09",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/15de26576666a65ed185992e2f098d09"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 27.729921,
+      "lng": 112.559136
+    },
+    "address": "湘潭市湘乡市人民路金豆贝贝托育园东南侧约300米",
+    "province": "湖南省",
+    "city": "湘潭市",
+    "area": "湘乡市",
+    "detail": 1,
+    "uid": "500fb485e020f773abf0cd35",
+    "cover": "https://pic-map.cdn.bcebos.com/img/9489fac9139110c37ddfa6ff09840f56",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/9489fac9139110c37ddfa6ff09840f56"
+    ]
+  }
+]

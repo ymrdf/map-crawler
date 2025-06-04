@@ -1,0 +1,73 @@
+[
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 30.079156,
+      "lng": 103.116549
+    },
+    "address": "雅安市名山区平安路名山客运汽车站南侧",
+    "province": "四川省",
+    "city": "雅安市",
+    "area": "名山区",
+    "detail": 1,
+    "uid": "d129855aac3ec14a7369d332",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_600c678b7625320300020feb231508c1.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_600c678b7625320300020feb231508c1.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 30.009115,
+      "lng": 103.033106
+    },
+    "address": "雅安市雨城区先锋路雅安市综合应急救援支队",
+    "province": "四川省",
+    "city": "雅安市",
+    "area": "雨城区",
+    "detail": 1,
+    "uid": "4e1c99090455250ac6effb1c",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_df6f0b63dbe8fe55ac9b145933fa3b9e.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_df6f0b63dbe8fe55ac9b145933fa3b9e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b5aced9b5ad118e4a7318ea228feca42.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9657edd7b847250b6cc33ceaeea54858.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 30.382894,
+      "lng": 102.821766
+    },
+    "address": "雅安市宝兴县夹金山路泸州佳苑南侧约90米",
+    "province": "四川省",
+    "city": "雅安市",
+    "area": "宝兴县",
+    "street_id": "",
+    "detail": 1,
+    "uid": "a84e8905c1f0ec24f42310ce",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_e867bacbe6d7c9109413e1d6a869d79c.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e867bacbe6d7c9109413e1d6a869d79c.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 30.063843,
+      "lng": 102.780849
+    },
+    "address": "雅安市天全县安居北路小太阳实验幼儿园东南侧约100米",
+    "province": "四川省",
+    "city": "雅安市",
+    "area": "天全县",
+    "detail": 1,
+    "uid": "3b6151f9d37f44579222e0ec",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_880ea271b5350282ae01bb24375ff6bc.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_880ea271b5350282ae01bb24375ff6bc.jpeg"
+    ]
+  }
+]

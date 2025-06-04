@@ -1,0 +1,138 @@
+[
+  {
+    "name": "娄底市蓝天救援队",
+    "location": {
+      "lat": 27.706657,
+      "lng": 111.98815
+    },
+    "address": "娄底市娄星区东西五街新世界建材城西侧约170米",
+    "province": "湖南省",
+    "city": "娄底市",
+    "area": "娄星区",
+    "detail": 1,
+    "uid": "78ba2ac376fe5c77d81318c2",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_f1a9730c3c9b45261aab7b4bac487b06.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f1a9730c3c9b45261aab7b4bac487b06.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ce1b5e6965bdf31027a968d4061de57c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_216a40d824f9d2a52de98e0752ba3486.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6864b501ce12a114a26ac58dbbcc6b4e.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_570795871d6aa65ab58ea6d0cae66b9b.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9770623ecae69c744546d65d32916d5e.jpeg"
+    ]
+  },
+  {
+    "name": "娄底市国省干线公路应急抢险救援中心",
+    "location": {
+      "lat": 27.733952,
+      "lng": 111.98119
+    },
+    "address": "娄底市娄星区古溪街神童湾社区西北侧约200米",
+    "province": "湖南省",
+    "city": "娄底市",
+    "area": "娄星区",
+    "detail": 1,
+    "uid": "5dea8ffbce0daa1932f71d28",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_471002629c14e70366b65576119d86c7.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_471002629c14e70366b65576119d86c7.jpg"
+    ]
+  },
+  {
+    "name": "冷水江市红日路消防救援站",
+    "location": {
+      "lat": 27.694713,
+      "lng": 111.44072
+    },
+    "address": "娄底市冷水江市红日路有色小区南侧",
+    "province": "湖南省",
+    "city": "娄底市",
+    "area": "冷水江市",
+    "detail": 1,
+    "uid": "8442677eeee8cf95130daab7",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_bcd4f9702acc89b8c3fb2e26aace5716.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bcd4f9702acc89b8c3fb2e26aace5716.jpeg"
+    ]
+  },
+  {
+    "name": "娄底市工程机械应急救援支队新化大队",
+    "location": {
+      "lat": 27.739862,
+      "lng": 111.33186
+    },
+    "address": "娄底市新化县信义街新诚洲际酒店西南侧",
+    "province": "湖南省",
+    "city": "娄底市",
+    "area": "新化县",
+    "detail": 1,
+    "uid": "801e84259add275bfb22134c",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_c37ea9abe1b10a2e3ff09affbb04dc31.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c37ea9abe1b10a2e3ff09affbb04dc31.jpeg"
+    ]
+  },
+  {
+    "name": "娄底市娄星区娄星南路消防救援站",
+    "location": {
+      "lat": 27.731569,
+      "lng": 112.005711
+    },
+    "address": "娄底市娄星区西贸街418市场西南侧约170米",
+    "province": "湖南省",
+    "city": "娄底市",
+    "area": "娄星区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "d6f678321b94ca2590114c28",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_6b2e996f9a2c81cb026e631eb017296c.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6b2e996f9a2c81cb026e631eb017296c.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2af6a52434e0ba52a4dac592362de7f9.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_957b195526177424580388555b39fd45.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_548262c0f2f7ddcaf8807e68b419ce22.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_946c7045e0e0d70ba38db0a775d43888.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6579320626baf54ce.jpeg"
+    ]
+  },
+  {
+    "name": "娄底市消防救援支队涟滨特勤站",
+    "location": {
+      "lat": 27.782278,
+      "lng": 112.006521
+    },
+    "address": "娄底市娄星区娄商大道娄底消防",
+    "province": "湖南省",
+    "city": "娄底市",
+    "area": "娄星区",
+    "detail": 1,
+    "uid": "6c0f8a3b0a9a7f42f4b91635",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d372ed2c050a9b9534f925aa89096fd5.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d372ed2c050a9b9534f925aa89096fd5.jpeg"
+    ]
+  },
+  {
+    "name": "冷水江市公安消防大队",
+    "location": {
+      "lat": 27.69478,
+      "lng": 111.440782
+    },
+    "address": "湖南省娄底市冷水江市红日路31号",
+    "province": "湖南省",
+    "city": "娄底市",
+    "area": "冷水江市",
+    "street_id": "",
+    "detail": 1,
+    "uid": "8373a32a6578b87da8f0cde6",
+    "cover": "https://taojin-his.cdn.bcebos.com/37d3d539b6003af3341ca86e382ac65c1038b61d.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/37d3d539b6003af3341ca86e382ac65c1038b61d.jpg",
+      "https://taojin-his.cdn.bcebos.com/9345d688d43f879437f54d3fdf1b0ef41bd53a9c.jpg",
+      "https://taojin-his.cdn.bcebos.com/a9d3fd1f4134970a4a050b0498cad1c8a7865da2.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b4dc0039e8676b7ec0354f3aea51dc63.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5d01a6cab5d04b9beaa376d8d0c0415e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_62709267b7c6bbb7891d9cedca9fee33.jpg"
+    ]
+  }
+]

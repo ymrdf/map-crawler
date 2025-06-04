@@ -1,0 +1,122 @@
+[
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 33.971063,
+      "lng": 113.262674
+    },
+    "address": "平顶山市郏县候公大道与建业路交叉路口往东约230米",
+    "province": "河南省",
+    "city": "平顶山市",
+    "area": "郏县",
+    "detail": 1,
+    "uid": "5e0b4c43cf5a4665a2d2306c",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_b937ea982dc8f2cd5f450a291a187785.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b937ea982dc8f2cd5f450a291a187785.jpeg"
+    ]
+  },
+  {
+    "name": "一路平安汽车救援",
+    "location": {
+      "lat": 34.198363,
+      "lng": 112.840481
+    },
+    "address": "平顶山市汝州市梦想大道梨园新区",
+    "province": "河南省",
+    "city": "平顶山市",
+    "area": "汝州市",
+    "telephone": "17737831133",
+    "detail": 1,
+    "uid": "2acc2ca4748355984002456f",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_312c7e85f1317ff6331182fbd30e4fc6.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_312c7e85f1317ff6331182fbd30e4fc6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f979e2831ed9274ed9ae696a0aba8f35.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a39496071ed3e846bbf1c86db577be1c.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2f05745457d56bb417f1f3a3be2a2937.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e03db691e0f296b82db46f34986576d7.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b2c14672bab0051f892ddbb798a8be16.jpg"
+    ]
+  },
+  {
+    "name": "平顶山市石龙区矿山救援中心",
+    "location": {
+      "lat": 33.906809,
+      "lng": 112.890645
+    },
+    "address": "平顶山市石龙区昌茂大道16号",
+    "province": "河南省",
+    "city": "平顶山市",
+    "area": "石龙区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "8bebca17d566e5b438221c55",
+    "cover": "https://taojin-his.cdn.bcebos.com/a044ad345982b2b7270361ba3aadcbef76099b34.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/a044ad345982b2b7270361ba3aadcbef76099b34.jpg",
+      "https://taojin-his.cdn.bcebos.com/2e2eb9389b504fc2d873e87beedde71190ef6d9b.jpg"
+    ]
+  },
+  {
+    "name": "汝州市神鹰救援大队",
+    "location": {
+      "lat": 34.157403,
+      "lng": 112.863914
+    },
+    "address": "平顶山市汝州市封堂街汝州龙府东北侧约40米",
+    "province": "河南省",
+    "city": "平顶山市",
+    "area": "汝州市",
+    "detail": 1,
+    "uid": "5daca55e1549ad17465726db",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_7c281b07b886442e22c5ea2347965166.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7c281b07b886442e22c5ea2347965166.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 33.728111,
+      "lng": 113.300012
+    },
+    "address": "平顶山市湛河区和顺路河滨广场西南侧约50米",
+    "province": "河南省",
+    "city": "平顶山市",
+    "area": "湛河区",
+    "detail": 1,
+    "uid": "b53b15b35379a8712bd7abd7",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_20802c9b366aaae61c22b427dd9c9278.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_20802c9b366aaae61c22b427dd9c9278.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9252fdd77b5db1d4740da290e6f2138e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_589d40343d043d7740ad09e7c5399f5d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8943737427de543b6d0f5ef48b3159d7.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3fee5038b33229eca3f12195ec8ce42e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ae04dfe9d5dbb908f54cd2ba8ed77edc.jpeg"
+    ]
+  },
+  {
+    "name": "平顶山盛民机动车服务站",
+    "location": {
+      "lat": 33.713534,
+      "lng": 113.341862
+    },
+    "address": "河南省平顶山市湛河区S241(黄河路)",
+    "province": "河南省",
+    "city": "平顶山市",
+    "area": "湛河区",
+    "telephone": "(0375)2287888,13333756866",
+    "detail": 1,
+    "uid": "e775196ebfb53a375fd4fef5",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_467d54655bb59dc41b48a4ec9c1a401a.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_467d54655bb59dc41b48a4ec9c1a401a.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B631fd5ef01d735e68.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B631fd63feab65162da.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a63ec476f726cfad9ba4374e23130888.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a5700be589a429c9430d10bd1459331f.jpeg"
+    ]
+  }
+]

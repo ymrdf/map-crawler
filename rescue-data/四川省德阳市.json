@@ -1,0 +1,117 @@
+[
+  {
+    "name": "德阳市救援协会什邡市救援大队",
+    "location": {
+      "lat": 31.128003,
+      "lng": 104.176007
+    },
+    "address": "德阳市什邡市西顺城街方亭雅筑",
+    "province": "四川省",
+    "city": "德阳市",
+    "area": "什邡市",
+    "detail": 1,
+    "uid": "2574c410129fe021d23ce3e2",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_b9c1f3a60ea4592e0cdceb029d5e3fbe.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b9c1f3a60ea4592e0cdceb029d5e3fbe.jpeg"
+    ]
+  },
+  {
+    "name": "德阳蓝天救援",
+    "location": {
+      "lat": 31.097138,
+      "lng": 104.377943
+    },
+    "address": "四川省德阳市旌阳区G350(嘉陵江西路)",
+    "province": "四川省",
+    "city": "德阳市",
+    "area": "旌阳区",
+    "detail": 1,
+    "uid": "7162c5888f628dd381a12eb5",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B61d95d3c24ae89758.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B61d95d3c24ae89758.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B61d95d3bd06d42ef7.jpeg"
+    ]
+  },
+  {
+    "name": "德阳市紧急救援中心",
+    "location": {
+      "lat": 31.13664,
+      "lng": 104.401833
+    },
+    "address": "四川省德阳市旌阳区泰山北路与城隍庙街交叉口旁",
+    "province": "四川省",
+    "city": "德阳市",
+    "area": "旌阳区",
+    "street_id": "71f9edf95e5e965d37b06cb6",
+    "detail": 1,
+    "uid": "71f9edf95e5e965d37b06cb6",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_751bd9a3bb45573865b296d23a278458.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=71f9edf95e5e965d37b06cb6&width=720&height=360&quality=80&fovx=120",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_c952e8bab679f9f1a518244a95b6dbe8.jpg",
+      "https://taojin-his.cdn.bcebos.com/7aec54e736d12f2e860eac6e43c2d562853568b0.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d1019f6552ceb7858223da14c8cb733b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0391c1cede635083038ee4a8311336bd.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a1e0ab4dacfcc8e10ad9e8adef97eebe.jpeg"
+    ]
+  },
+  {
+    "name": "德阳市救援协会什邡市救援大队",
+    "location": {
+      "lat": 31.142263,
+      "lng": 104.174904
+    },
+    "address": "德阳市什邡市金河北路物华北苑",
+    "province": "四川省",
+    "city": "德阳市",
+    "area": "什邡市",
+    "detail": 1,
+    "uid": "c36c83a551b3536c8d77278e",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_35ada2c034f68a62f801e562fb085aed.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_35ada2c034f68a62f801e562fb085aed.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d946114a5bdb8af32ee22e544a0dd208.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bf3293782382725d0519c2edf727ec9d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_54dd611d3f8f454ed2706c6ec0f75a51.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_698a4c5d23d59b4dd31f3e03dca1f120.jpeg"
+    ]
+  },
+  {
+    "name": "什邡市金河路消防救援站",
+    "location": {
+      "lat": 31.130734,
+      "lng": 104.192331
+    },
+    "address": "德阳市什邡市金河东路南亚假日西侧",
+    "province": "四川省",
+    "city": "德阳市",
+    "area": "什邡市",
+    "street_id": "d781cb99cbcaf065fa0cad89",
+    "detail": 1,
+    "uid": "d781cb99cbcaf065fa0cad89",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_86637c194fbeac5cf2512567d3bf0db9.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=d781cb99cbcaf065fa0cad89&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "德阳市消防救援支队",
+    "location": {
+      "lat": 31.113085,
+      "lng": 104.391051
+    },
+    "address": "四川省德阳市旌阳区岷山路二段190号",
+    "province": "四川省",
+    "city": "德阳市",
+    "area": "旌阳区",
+    "street_id": "d27128ce23eee9199b68b45d",
+    "detail": 1,
+    "uid": "d27128ce23eee9199b68b45d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_eb6d85613f2ef18f7e20551db3e466cb.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=d27128ce23eee9199b68b45d&width=720&height=360&quality=80&fovx=120"
+    ]
+  }
+]

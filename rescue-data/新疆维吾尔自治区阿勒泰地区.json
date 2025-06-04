@@ -1,0 +1,36 @@
+[
+  {
+    "name": "青河县消防救援大队",
+    "location": {
+      "lat": 46.668175,
+      "lng": 90.386158
+    },
+    "address": "新疆维吾尔自治区阿勒泰地区青河县友好南路",
+    "province": "新疆维吾尔自治区",
+    "city": "阿勒泰地区",
+    "area": "青河县",
+    "detail": 1,
+    "uid": "1517214600ef0e2776e5b6f2",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_0a7f06563d5d85dd757116efe57cddcc.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0a7f06563d5d85dd757116efe57cddcc.jpeg"
+    ]
+  },
+  {
+    "name": "哈巴河县幸福路消防救援站",
+    "location": {
+      "lat": 48.078115,
+      "lng": 86.436097
+    },
+    "address": "新疆维吾尔自治区阿勒泰地区哈巴河县",
+    "province": "新疆维吾尔自治区",
+    "city": "阿勒泰地区",
+    "area": "哈巴河县",
+    "detail": 1,
+    "uid": "89176d43e2d2a5564e776e2b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_7f6522f7fc693a14e7f3e04600872898.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7f6522f7fc693a14e7f3e04600872898.jpeg"
+    ]
+  }
+]

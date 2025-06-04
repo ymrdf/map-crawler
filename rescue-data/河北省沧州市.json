@@ -1,0 +1,114 @@
+[
+  {
+    "name": "119消防救援",
+    "location": {
+      "lat": 38.735646,
+      "lng": 116.107096
+    },
+    "address": "沧州市任丘市会战北道河北省任丘市第三中学东北侧约50米",
+    "province": "河北省",
+    "city": "沧州市",
+    "area": "任丘市",
+    "detail": 1,
+    "uid": "036e6845a8eaf911deee8b7a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_fd6c8c3ceac4dec9e07cfeec7d40cfb9.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_fd6c8c3ceac4dec9e07cfeec7d40cfb9.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6add8ec4e666c749b8971c5d5edc8a61.jpeg"
+    ]
+  },
+  {
+    "name": "坤亮拖车救援",
+    "location": {
+      "lat": 38.563137,
+      "lng": 116.853176
+    },
+    "address": "河北省沧州市青县柳河屯胜利停车场",
+    "province": "河北省",
+    "city": "沧州市",
+    "area": "青县",
+    "detail": 1,
+    "uid": "930808b484de4410a11de90f",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/H63d0f703918fa0ec27fea002299759ee3d6ddb80.jpg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/H63d0f703918fa0ec27fea002299759ee3d6ddb80.jpg"
+    ]
+  },
+  {
+    "name": "沧州市运河区光荣路消防救援站",
+    "location": {
+      "lat": 38.316983,
+      "lng": 116.835967
+    },
+    "address": "沧州市运河区光荣路沧州市第十三中学东侧约90米",
+    "province": "河北省",
+    "city": "沧州市",
+    "area": "运河区",
+    "detail": 1,
+    "uid": "d2561173482b6a01d12dd612",
+    "cover": "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_990297c7babc879d9b8e86c17334099a.jpg",
+    "photo_list": [
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_990297c7babc879d9b8e86c17334099a.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_88696d0c95340ddf420d1accd6226356.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2f82c6a9a125de174ba50af8610b06bc.jpeg"
+    ]
+  },
+  {
+    "name": "青县马大线消防救援站",
+    "location": {
+      "lat": 38.664356,
+      "lng": 116.979203
+    },
+    "address": "河北省沧州市青县马厂镇杨官店凯航恒达机箱厂院内",
+    "province": "河北省",
+    "city": "沧州市",
+    "area": "青县",
+    "detail": 1,
+    "uid": "c9b3d2c9dc16b7c82eb17eb7",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B62df914355c8213eae.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B62df914355c8213eae.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B62df9148bae98b65a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_11506eafd07f360111f1392adb48f56f.jpeg"
+    ]
+  },
+  {
+    "name": "小虎补胎救援",
+    "location": {
+      "lat": 38.081996,
+      "lng": 117.253386
+    },
+    "address": "河北省沧州市盐山县吉祥路与平津大街交叉口东南约20米",
+    "province": "河北省",
+    "city": "沧州市",
+    "area": "盐山县",
+    "street_id": "1cc6903132c64dc7f7b9162d",
+    "telephone": "15831743612",
+    "detail": 1,
+    "uid": "1cc6903132c64dc7f7b9162d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_866edd9bb0f3609c40134e7c1a20c258.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=1cc6903132c64dc7f7b9162d&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_39ce72e4d9236a8c67fb8964460eb29e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_fe9cf7bca4bb4d97279c0c97cc854cbd.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f7fc5fcd1fe5840c5d2c73b0798661e1.jpeg"
+    ]
+  },
+  {
+    "name": "沧州市新华区渤海东路消防救援站",
+    "location": {
+      "lat": 38.350814,
+      "lng": 116.907808
+    },
+    "address": "河北省沧州市新华区G104(长芦北大道)",
+    "province": "河北省",
+    "city": "沧州市",
+    "area": "新华区",
+    "detail": 1,
+    "uid": "808d629cd77caa4f1894c698",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_282d0130f5164715f591ace8a13fc2a3.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_282d0130f5164715f591ace8a13fc2a3.jpeg"
+    ]
+  }
+]

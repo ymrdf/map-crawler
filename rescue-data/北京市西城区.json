@@ -1,0 +1,158 @@
+[
+  {
+    "name": "兴隆补胎送油搭电拖车救援",
+    "location": {
+      "lat": 39.866399,
+      "lng": 116.474375
+    },
+    "address": "北京市朝阳区大羊坊路东盈苑小区",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "朝阳区",
+    "telephone": "13275529017",
+    "detail": 1,
+    "uid": "2040b1b5b40afa3ac13644a9",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_8371947659e160d6c86d64b4d8cfb4be.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8371947659e160d6c86d64b4d8cfb4be.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6998a24009e8878ba4eb7ca7d7b3018a.jpeg"
+    ]
+  },
+  {
+    "name": "盛达搭电救援补胎维修",
+    "location": {
+      "lat": 39.898039,
+      "lng": 116.43546
+    },
+    "address": "北京市东城区龙潭街道黄杉木店东街193号",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "东城区",
+    "detail": 1,
+    "uid": "f64ac274825b57ee6fc02cb8",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_71647eff675da8f8c0d0a6a99556e8c5.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_71647eff675da8f8c0d0a6a99556e8c5.jpeg"
+    ]
+  },
+  {
+    "name": "紧急救援站",
+    "location": {
+      "lat": 39.892593,
+      "lng": 116.404028
+    },
+    "address": "北京市西城区天桥市场中街北京天桥艺术大厦",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "西城区",
+    "street_id": "11cb2cf949ec2987631c67b6",
+    "detail": 1,
+    "uid": "11cb2cf949ec2987631c67b6",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_9590a8c5088650dff988d9476234ff74.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=11cb2cf949ec2987631c67b6&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bcffa9a8237aef42a8e143223d8707ce.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_58591442abf590aeea4493f1d0d2741a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5aad2607e6675737f779a5dbd72a95f9.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a8b203720d544df8707275f49197181f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1e09dd981dd7242017b1b845dd441504.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 39.899779,
+      "lng": 116.333778
+    },
+    "address": "北京市西城区广莲路北巷西客站消防中队",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "西城区",
+    "detail": 1,
+    "uid": "2f50bca9ae5f1e04f32d83fa",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B65377e10e2eb3177b1.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B65377e10e2eb3177b1.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65377e639c4c87904.jpeg"
+    ]
+  },
+  {
+    "name": "轮胎专卖补胎救援",
+    "location": {
+      "lat": 40.218117,
+      "lng": 116.759516
+    },
+    "address": "北京市顺义区昌金路与李魏路交叉路口西南侧",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "顺义区",
+    "telephone": "15321838818",
+    "detail": 1,
+    "uid": "772de384690bed79353a715e",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/a4ecbdfb95827de7c5cfaf3f372c282e_2138.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/a4ecbdfb95827de7c5cfaf3f372c282e_2138.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/22cf74b2bcfa2bc2e8fecd9d30373962_3231.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/d2a7d2790cbba3faa92e8ad2a663d831_3832.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/a28df46eb0af32c8e515c703f6d8c0e5_4524.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/4a10182ab10b1bcfb9df5865e20ba73d_3485.jpeg",
+      "https://pic-map.cdn.bcebos.com/img/00efc73d9705a1e296e0416586cec3f6"
+    ]
+  },
+  {
+    "name": "西城区什刹海消防救援站",
+    "location": {
+      "lat": 39.954742,
+      "lng": 116.394955
+    },
+    "address": "北京市西城区西绦北巷北京市第十三中学(分校)",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "西城区",
+    "detail": 1,
+    "uid": "3fc00d58d39d6fa8e9f853f4",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_f149d38cc1c0c5fa426020c37d3c6366.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f149d38cc1c0c5fa426020c37d3c6366.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3efe4426c578797476fb5d75d4f41b13.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_794ca9a7d6953861de0fd534647a4a9b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d77508f5fe2d7dc2b43f707b68ed6614.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a57d8388b3b4167db558fa26f86c20e2.jpeg"
+    ]
+  },
+  {
+    "name": "西城区广安门消防救援站",
+    "location": {
+      "lat": 39.894389,
+      "lng": 116.343212
+    },
+    "address": "北京市西城区莲花河东侧路远见名苑-三期",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "西城区",
+    "detail": 1,
+    "uid": "6760a0dac5c733daab175a08",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_876239f03b49ac59b10bd67c6fb52d03.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_876239f03b49ac59b10bd67c6fb52d03.jpg"
+    ]
+  },
+  {
+    "name": "西城区金融街消防救援站",
+    "location": {
+      "lat": 39.927103,
+      "lng": 116.368454
+    },
+    "address": "北京市西城区金融街王府仓胡同8号",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "西城区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "c11437bb5cfe02f4eddfcaaf",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_380d1f59792c750edfeecf33791a1f8e.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_380d1f59792c750edfeecf33791a1f8e.jpg"
+    ]
+  }
+]

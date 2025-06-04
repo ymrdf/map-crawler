@@ -1,0 +1,98 @@
+[
+  {
+    "name": "救援补胎",
+    "location": {
+      "lat": 42.71637,
+      "lng": 122.4973
+    },
+    "address": "阜新市彰武县X914章古台镇人民政府东侧约160米",
+    "province": "辽宁省",
+    "city": "阜新市",
+    "area": "彰武县",
+    "telephone": "13941863285",
+    "detail": 1,
+    "uid": "b6507a568ab8a79ead080f30",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a1fb9a811e899bed453864a266300c6d.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a1fb9a811e899bed453864a266300c6d.jpeg"
+    ]
+  },
+  {
+    "name": "顺添汽车修理(黑鹰轮胎固特异轮胎店)",
+    "location": {
+      "lat": 41.999064,
+      "lng": 121.653706
+    },
+    "address": "辽宁省阜新市海州区振兴路29号",
+    "province": "辽宁省",
+    "city": "阜新市",
+    "area": "海州区",
+    "telephone": "13322326060,13384184066",
+    "detail": 1,
+    "uid": "3c1c15ea03cf3724e81e9726",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_3c7d9f309681e94e81c06537d193910c.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3c7d9f309681e94e81c06537d193910c.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B632c14f2d90a128c3.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f92e5e1b5f813cbccd3f1fb0ae4e90f2.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/c28dc6542f8bb57e5290c609420a66de_1569.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/67741ce6dfe762d864a325da0ca00a07_3551.jpeg"
+    ]
+  },
+  {
+    "name": "阜新市消防救援支队",
+    "location": {
+      "lat": 42.059961,
+      "lng": 121.674359
+    },
+    "address": "阜新市细河区玉龙路与正阳街交叉路口往东北约100米",
+    "province": "辽宁省",
+    "city": "阜新市",
+    "area": "细河区",
+    "detail": 1,
+    "uid": "11029a7855524f00b120a850",
+    "cover": "https://pic-map.cdn.bcebos.com/img/8820fae0b58c530fe52394f724d95360",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/8820fae0b58c530fe52394f724d95360"
+    ]
+  },
+  {
+    "name": "彰武县消防救援大队",
+    "location": {
+      "lat": 42.373191,
+      "lng": 122.552228
+    },
+    "address": "阜新市彰武县丹霍路",
+    "province": "辽宁省",
+    "city": "阜新市",
+    "area": "彰武县",
+    "detail": 1,
+    "uid": "5df3390c32bdfc893a04b151",
+    "cover": "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_7a2253d3e884a29dce35cff572c29c4d.jpg",
+    "photo_list": [
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_7a2253d3e884a29dce35cff572c29c4d.jpg"
+    ]
+  },
+  {
+    "name": "车险",
+    "location": {
+      "lat": 42.003627,
+      "lng": 121.656292
+    },
+    "address": "阜新市海州区创业路飞凡·逸阁小区南侧约30米",
+    "province": "辽宁省",
+    "city": "阜新市",
+    "area": "海州区",
+    "detail": 1,
+    "uid": "4621dcde0ba20f36fb2d61af",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_7b2bbdac2a00daa9c98e54149825ee1a.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7b2bbdac2a00daa9c98e54149825ee1a.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65b0a31b932df151d3.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65b0a31b987121301e.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B66ce8fc3136d817d99.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B66ce8fc37e06044d5.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B66ce8fc38c53b10108.jpeg"
+    ]
+  }
+]

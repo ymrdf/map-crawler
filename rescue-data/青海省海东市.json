@@ -1,0 +1,63 @@
+[
+  {
+    "name": "应急救援中心",
+    "location": {
+      "lat": 36.514632,
+      "lng": 102.076506
+    },
+    "address": "海东市平安区湟水路高铁新区E3小区北侧约150米",
+    "province": "青海省",
+    "city": "海东市",
+    "area": "平安区",
+    "telephone": "(0972)8219958",
+    "detail": 1,
+    "uid": "f445509b673d1f70a80dd810",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_74756766aa60ea091d55b9697b6e7ea7.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_74756766aa60ea091d55b9697b6e7ea7.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cd01aac75f3eaa240e3c97c44c966b6d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_15f72e4a193c23c83ff9c0c51e7f1365.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4aea05434e782d10e26537ed48e55b04.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_87f53451a2f8afcdbe9e2bf4c4e26f30.jpg"
+    ]
+  },
+  {
+    "name": "海东河湟新区消防救援大队",
+    "location": {
+      "lat": 36.51933,
+      "lng": 102.005621
+    },
+    "address": "海东市平安区唐蕃大道与星光一路交叉路口往东北约120米",
+    "province": "青海省",
+    "city": "海东市",
+    "area": "平安区",
+    "detail": 1,
+    "uid": "ebbce86c80fa7f725fbe8679",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_2a899b41ce81bb379d170dc00d3744be.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2a899b41ce81bb379d170dc00d3744be.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 36.480536,
+      "lng": 102.408636
+    },
+    "address": "海东市乐都区滨河路安泰小区东北侧约50米",
+    "province": "青海省",
+    "city": "海东市",
+    "area": "乐都区",
+    "detail": 1,
+    "uid": "e425d696c35caeffa11de9e7",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_7957bd7cb482e79826b57ee896a3c015.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7957bd7cb482e79826b57ee896a3c015.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_29fac0719b753048e1c3300842b4879d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ecfaa5118f71497d20280ac99c0e5407.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ebf65187065d3c7b5d3ec9ef5a07b2e3.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_35427a524d0a654f237fcf7f567e6901.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cf85e1933149f6045488a27b34a44fb5.jpeg"
+    ]
+  }
+]

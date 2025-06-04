@@ -1,0 +1,114 @@
+[
+  {
+    "name": "飞驰救援汽修有限公司",
+    "location": {
+      "lat": 32.547605,
+      "lng": 111.524629
+    },
+    "address": "湖北省十堰市丹江口市大坝二路老修配厂院内",
+    "province": "湖北省",
+    "city": "十堰市",
+    "area": "丹江口市",
+    "telephone": "15071596355",
+    "detail": 1,
+    "uid": "a5cfe65244997d294107c14d",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B60cc5c505e2373156.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B60cc5c505e2373156.jpeg"
+    ]
+  },
+  {
+    "name": "十堰精英汽车救援",
+    "location": {
+      "lat": 32.651243,
+      "lng": 110.853334
+    },
+    "address": "湖北省十堰市茅箭区福银高速(三环工业园东侧约200米)",
+    "province": "湖北省",
+    "city": "十堰市",
+    "area": "张湾区",
+    "telephone": "17507281128",
+    "detail": 1,
+    "uid": "6b22793e60d008fb31f71dc3",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B5f4dd825464dd127d2.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B5f4dd825464dd127d2.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B5f0d2e713c85ab19f.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 32.59218,
+      "lng": 110.875392
+    },
+    "address": "十堰市茅箭区吉林路与龙门三路交叉路口往西约140米",
+    "province": "湖北省",
+    "city": "十堰市",
+    "area": "茅箭区",
+    "detail": 1,
+    "uid": "0b1b6358874264805cd4fe12",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_91a167e84f99ffe09bfefe34272ed988.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_91a167e84f99ffe09bfefe34272ed988.jpeg"
+    ]
+  },
+  {
+    "name": "十堰市消防救援支队",
+    "location": {
+      "lat": 32.617642,
+      "lng": 110.781256
+    },
+    "address": "湖北省十堰市茅箭区人民南路81号",
+    "province": "湖北省",
+    "city": "十堰市",
+    "area": "茅箭区",
+    "street_id": "",
+    "telephone": "(0719)8875611",
+    "detail": 1,
+    "uid": "82ffd30dfa48e1ccae0457d4",
+    "cover": "https://taojin-his.cdn.bcebos.com/241f95cad1c8a7869e9928876b09c93d71cf5083.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/241f95cad1c8a7869e9928876b09c93d71cf5083.jpg",
+      "https://taojin-his.cdn.bcebos.com/78310a55b319ebc409f7762e8b26cffc1f1716fd.jpg",
+      "https://taojin-his.cdn.bcebos.com/cefc1e178a82b9018e82c0847a8da9773912ef5e.jpg",
+      "https://taojin-his.cdn.bcebos.com/279759ee3d6d55fb603014af61224f4a21a4dd41.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_51bcbc62672f29155e47b10e2fda61f1.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f2cee909107e8d6d162fd1a4623e49b9.jpg"
+    ]
+  },
+  {
+    "name": "张湾区车城街办消防救援站",
+    "location": {
+      "lat": 32.623067,
+      "lng": 110.767423
+    },
+    "address": "十堰市张湾区云南路东风商用车公司车架厂",
+    "province": "湖北省",
+    "city": "十堰市",
+    "area": "张湾区",
+    "detail": 1,
+    "uid": "cef9ed79d7f237735e0d02a0",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_7b30290c36e790407fd30f95965fb9fc.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7b30290c36e790407fd30f95965fb9fc.jpeg"
+    ]
+  },
+  {
+    "name": "郧西县消防救援大队",
+    "location": {
+      "lat": 32.989548,
+      "lng": 110.433299
+    },
+    "address": "湖北省十堰市郧西县郧西大道78号",
+    "province": "湖北省",
+    "city": "十堰市",
+    "area": "郧西县",
+    "detail": 1,
+    "uid": "ba63f8d009a013334c6d467f",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_de5b06611dc4917eb225e9f71211df4f.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_de5b06611dc4917eb225e9f71211df4f.jpeg"
+    ]
+  }
+]

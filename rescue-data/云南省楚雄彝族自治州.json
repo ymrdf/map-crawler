@@ -1,0 +1,83 @@
+[
+  {
+    "name": "鑫达汽修(道路救援)",
+    "location": {
+      "lat": 25.210365,
+      "lng": 101.274509
+    },
+    "address": "302国道鹦鹉山公园门口",
+    "province": "云南省",
+    "city": "楚雄彝族自治州",
+    "area": "南华县",
+    "telephone": "13508852122",
+    "detail": 1,
+    "uid": "4f354d68f47953df31870ac2",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_1f786f0a0d5dc3ff05df4019ecdcef1b.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1f786f0a0d5dc3ff05df4019ecdcef1b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3421c2f7c0e87f469dd3d36ad346417c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b4437e52e485780bdba8ab2d9b798d5c.jpeg"
+    ]
+  },
+  {
+    "name": "元谋县消防救援大队",
+    "location": {
+      "lat": 25.69626,
+      "lng": 101.876061
+    },
+    "address": "楚雄彝族自治州元谋县京昆线",
+    "province": "云南省",
+    "city": "楚雄彝族自治州",
+    "area": "元谋县",
+    "detail": 1,
+    "uid": "eae59ff31a5e4adcd3ff2314",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d2c8cd807a12c8d5efb7843350667c5b.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d2c8cd807a12c8d5efb7843350667c5b.jpeg"
+    ]
+  },
+  {
+    "name": "元谋欣驰道路救援服务有限公司",
+    "location": {
+      "lat": 25.702668,
+      "lng": 101.860027
+    },
+    "address": "云南省楚雄彝族自治州元谋县S214",
+    "province": "云南省",
+    "city": "楚雄彝族自治州",
+    "area": "元谋县",
+    "telephone": "15398784710",
+    "detail": 1,
+    "uid": "1532a1974861b97ba2a93455",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_15260788130ed51ab4180a37bfe0141c.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_15260788130ed51ab4180a37bfe0141c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_407d1f9b30d676beca48117213842fa8.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d7bb4a5cd1b27e41df2195dc2f575de5.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_45f662086e2ed4dd3f7b007d77ae06ab.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_147ece9d187196209ca27d2bca46c72a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bf09582628c9f07e08e755f925524edc.jpeg"
+    ]
+  },
+  {
+    "name": "楚雄消防救援支队龙江路站",
+    "location": {
+      "lat": 25.046269,
+      "lng": 101.545779
+    },
+    "address": "楚雄彝族自治州楚雄市龙江路楚雄市公安局龙江小区南侧约30米",
+    "province": "云南省",
+    "city": "楚雄彝族自治州",
+    "area": "楚雄市",
+    "detail": 1,
+    "uid": "e9bedf92800b699a45e2747d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_568f351f4d6b6f6880b3a75502fd77d5.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_568f351f4d6b6f6880b3a75502fd77d5.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1139e0d717bfdf1b7e0dd9dc7cd772f8.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1d003d85ae65faa8c6ba0c18ca113345.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0df848ab7a2b67d4a0c0754c73fc62db.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1985a60e4107f228add4ebedf1e8517f.jpeg"
+    ]
+  }
+]

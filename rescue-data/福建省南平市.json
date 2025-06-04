@@ -1,0 +1,128 @@
+[
+  {
+    "name": "南平市长安道路救援有限公司",
+    "location": {
+      "lat": 26.63766,
+      "lng": 118.168593
+    },
+    "address": "福建省南平市延平区四鹤街道环城南路29号5幢3号店",
+    "province": "福建省",
+    "city": "南平市",
+    "area": "延平区",
+    "telephone": "13950699791",
+    "detail": 1,
+    "uid": "90c08131a17d764c901fc9c8",
+    "cover": "https://taojin-pic-bj.cdn.bcebos.com/2d0c5e3c68e49998f2a612104a10d9eb.jpg",
+    "photo_list": [
+      "https://taojin-pic-bj.cdn.bcebos.com/2d0c5e3c68e49998f2a612104a10d9eb.jpg"
+    ]
+  },
+  {
+    "name": "南平市建阳区顺恒道路救援有限公司",
+    "location": {
+      "lat": 27.39836,
+      "lng": 118.103661
+    },
+    "address": "南平市建阳区宏云鑫商业广场",
+    "province": "福建省",
+    "city": "南平市",
+    "area": "建阳区",
+    "telephone": "13656979444",
+    "detail": 1,
+    "uid": "8600ce67033cc33ecd04eff7",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B654a16a95e1f1113c3.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B654a16a95e1f1113c3.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/fba5336d07bf6cb251a84980cfd57c25_6917.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/bd64dd9d8df92f82c5b6d39fb4520fbc_7995.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/7186736727b5b6e62af7fd4e8261134d_9620.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 27.330152,
+      "lng": 118.123464
+    },
+    "address": "南平市建阳区新建路建阳师范附属小学西侧",
+    "province": "福建省",
+    "city": "南平市",
+    "area": "建阳区",
+    "detail": 1,
+    "uid": "7fdce50d27e1797796f08c18",
+    "cover": "https://pic-map.cdn.bcebos.com/img/21a0ab4e11980d98a77cc98d1bf7e6c3",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/21a0ab4e11980d98a77cc98d1bf7e6c3"
+    ]
+  },
+  {
+    "name": "邵武市通泰消防救援站",
+    "location": {
+      "lat": 27.327731,
+      "lng": 117.503113
+    },
+    "address": "南平市邵武市张三丰大道与元宝路交叉路口往东南约140米",
+    "province": "福建省",
+    "city": "南平市",
+    "area": "邵武市",
+    "detail": 1,
+    "uid": "7ede8f5e6d7cb36cd3ff23c8",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_30095644043724f7c6fb6cfddeec04da.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_30095644043724f7c6fb6cfddeec04da.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_02cc2004944286a52b0d988d25f45f10.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 26.627394,
+      "lng": 118.17906
+    },
+    "address": "南平市延平区江滨南路格林联盟酒店(南平市延平汽车站新建路店)东侧约50米",
+    "province": "福建省",
+    "city": "南平市",
+    "area": "延平区",
+    "detail": 1,
+    "uid": "8cbe56818db9873ef8dc85d5",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a4cc05df1d7b43624816387b39286a45.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a4cc05df1d7b43624816387b39286a45.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3d287c8810924523fa95ccf81d67b38e.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 27.541749,
+      "lng": 117.324267
+    },
+    "address": "南平市光泽县武林西路皇庭丹郡东北侧约80米",
+    "province": "福建省",
+    "city": "南平市",
+    "area": "光泽县",
+    "detail": 1,
+    "uid": "25accd7ef7242b0d593ac81f",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a5166e3c296ce1d3b96f2e55a902b831.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a5166e3c296ce1d3b96f2e55a902b831.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 27.351741,
+      "lng": 117.498512
+    },
+    "address": "南平市邵武市解放东路邵武市水北幼儿园东南侧约90米",
+    "province": "福建省",
+    "city": "南平市",
+    "area": "邵武市",
+    "detail": 1,
+    "uid": "0ccb79e22d6478747adbd2d3",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_5638e2b0fce8077da6eff786755cf89e.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5638e2b0fce8077da6eff786755cf89e.jpg"
+    ]
+  }
+]

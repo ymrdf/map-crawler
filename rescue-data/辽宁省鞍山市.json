@@ -1,0 +1,124 @@
+[
+  {
+    "name": "96122道路救援",
+    "location": {
+      "lat": 41.113456,
+      "lng": 122.967867
+    },
+    "address": "辽宁省鞍山市铁西区兴盛路金地名居",
+    "province": "辽宁省",
+    "city": "鞍山市",
+    "area": "铁西区",
+    "street_id": "79371d029f2e46912811d1c9",
+    "detail": 1,
+    "uid": "79371d029f2e46912811d1c9",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_e366275d350df77505af9779fdd4c460.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=79371d029f2e46912811d1c9&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7640313987a22eaa71a04cd84a8d9eb0.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6cf630dfaef61a232abc84354be03cbb.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_944e3a7224b9c9b36ed2b100d941a590.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9736b97272425204e4594dc133116df4.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_d7b340dde2bb111f92405d6c6ee8ccd4.jpg"
+    ]
+  },
+  {
+    "name": "乐客补胎搭电救援",
+    "location": {
+      "lat": 41.104053,
+      "lng": 122.897658
+    },
+    "address": "鞍山市铁西区鞍腾路",
+    "province": "辽宁省",
+    "city": "鞍山市",
+    "area": "铁西区",
+    "telephone": "13504201946",
+    "detail": 1,
+    "uid": "d21e7995593a9a73c6effb7a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_71a2412f3a937d755c205dfca405e818.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_71a2412f3a937d755c205dfca405e818.jpeg"
+    ]
+  },
+  {
+    "name": "96122道路救援",
+    "location": {
+      "lat": 41.109879,
+      "lng": 123.083444
+    },
+    "address": "鞍山市立山区千山中路橡树湾",
+    "province": "辽宁省",
+    "city": "鞍山市",
+    "area": "立山区",
+    "street_id": "ef53b53b59d01ebdb020a826",
+    "detail": 1,
+    "uid": "ef53b53b59d01ebdb020a826",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_7ede0ac31d72cfe880996ab6d6ee90f4.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=ef53b53b59d01ebdb020a826&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8dd7680628416cea235d9f495494d6c4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6ebfe17a1286473896d416abce224337.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e5135f0830d5153508a8be08c3c17e33.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_04b6ea8c90ea6c354e961a414c56a708.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_de8f24174656e336cd27366095e88ce7.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 41.107911,
+      "lng": 122.961091
+    },
+    "address": "鞍山市铁西区解放西路华晨商务宾馆西侧约110米",
+    "province": "辽宁省",
+    "city": "鞍山市",
+    "area": "铁西区",
+    "street_id": "cff3b1fca294b387132935b2",
+    "detail": 1,
+    "uid": "cff3b1fca294b387132935b2",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_6953b892c7d951a1d39df63797cb7647.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=cff3b1fca294b387132935b2&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "蓝天救援队",
+    "location": {
+      "lat": 40.300119,
+      "lng": 123.304096
+    },
+    "address": "辽宁省鞍山市岫岩满族自治县康宁御景嘉苑东门",
+    "province": "辽宁省",
+    "city": "鞍山市",
+    "area": "岫岩满族自治县",
+    "detail": 1,
+    "uid": "165cf31629daef63afee7aa3",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_cb296e37f2681e352d18206cf6078405.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cb296e37f2681e352d18206cf6078405.jpeg"
+    ]
+  },
+  {
+    "name": "鞍山市电梯应急救援中心",
+    "location": {
+      "lat": 41.096027,
+      "lng": 123.000226
+    },
+    "address": "辽宁省鞍山市铁东区解放东路130号",
+    "province": "辽宁省",
+    "city": "鞍山市",
+    "area": "铁东区",
+    "street_id": "17c22fd80f930409c07da27c",
+    "detail": 1,
+    "uid": "17c22fd80f930409c07da27c",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_772bd7422e583821b7df4dd0bd90c4f9.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=17c22fd80f930409c07da27c&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4954ee52bb1bbf50f914aec20d304121.jpeg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_7dbb256aec6daca6fd3a95689a561826.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_fb192e83fc2e080a6bdb26c020cbcc61.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_70239fab85b7eb347e5a01439adee5c4.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_b386c95b29b899ae1a8df10d1e39ea2a.jpg"
+    ]
+  }
+]

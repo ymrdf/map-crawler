@@ -1,0 +1,19 @@
+[
+  {
+    "name": "怒江州消防救援支队",
+    "location": {
+      "lat": 25.827175,
+      "lng": 98.861844
+    },
+    "address": "云南省怒江傈僳族自治州泸水市碧江路-61号",
+    "province": "云南省",
+    "city": "怒江傈僳族自治州",
+    "area": "泸水市",
+    "detail": 1,
+    "uid": "0df5f74c79e300ace50738a8",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_982e28f2ff0d1634acfa6b0f71e9fd42.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_982e28f2ff0d1634acfa6b0f71e9fd42.jpeg"
+    ]
+  }
+]

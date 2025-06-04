@@ -1,0 +1,96 @@
+[
+  {
+    "name": "榆林市榆瑞集团道路救援有限公司",
+    "location": {
+      "lat": 38.432844,
+      "lng": 109.722146
+    },
+    "address": "榆林市榆阳区郭家伙场山立创业园内500处",
+    "province": "陕西省",
+    "city": "榆林市",
+    "area": "榆阳区",
+    "detail": 1,
+    "uid": "67a7e3241092a769acee7ab8",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_6d649b20482d4920683bfd854e591df9.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6d649b20482d4920683bfd854e591df9.jpeg"
+    ]
+  },
+  {
+    "name": "神木市消防救援大队",
+    "location": {
+      "lat": 38.968947,
+      "lng": 110.457488
+    },
+    "address": "陕西省榆林市神木市云川大道65号",
+    "province": "陕西省",
+    "city": "榆林市",
+    "area": "神木市",
+    "detail": 1,
+    "uid": "8342cd9fea65abb2a20464d0",
+    "cover": "https://pic-map.cdn.bcebos.com/img/8afde8e20acc43ac2b5b20194b5badd7",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/8afde8e20acc43ac2b5b20194b5badd7"
+    ]
+  },
+  {
+    "name": "利辉汽车维修救援",
+    "location": {
+      "lat": 37.60933,
+      "lng": 107.621829
+    },
+    "address": "榆林市定边县东环路浩能能源加油站西侧约90米",
+    "province": "陕西省",
+    "city": "榆林市",
+    "area": "定边县",
+    "street_id": "",
+    "telephone": "13080969055",
+    "detail": 1,
+    "uid": "a2fbeffa3416dc9c7369d352",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_09dcf3c90c2f718e7cd1387f9fbb308a.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_09dcf3c90c2f718e7cd1387f9fbb308a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6635990a736f610e00d7b8bdecabbf11.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_59029c2f9534f3af52b1e16ad8829920.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B5f5033bf601dd7616.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B5f3a9d61abd1ec7eb.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_dd3df039c72028d54523694646ed3c1f.jpeg"
+    ]
+  },
+  {
+    "name": "红山路消防救援站",
+    "location": {
+      "lat": 38.315156,
+      "lng": 109.756261
+    },
+    "address": "榆林市榆阳区红山东路尚品蓝天幼儿园(红山东路店)东侧",
+    "province": "陕西省",
+    "city": "榆林市",
+    "area": "榆阳区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "5431bec093d50c283b221c09",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_300692ee772bd7de073c3d22a5fd2ffd.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_300692ee772bd7de073c3d22a5fd2ffd.jpg"
+    ]
+  },
+  {
+    "name": "榆林市榆阳区上郡路消防救援站",
+    "location": {
+      "lat": 38.28002,
+      "lng": 109.771043
+    },
+    "address": "榆林市榆阳区上郡北路中国石油(榆林榆阳南郊加油站)南侧约100米",
+    "province": "陕西省",
+    "city": "榆林市",
+    "area": "榆阳区",
+    "detail": 1,
+    "uid": "75a876384129337b2b201aca",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_9b386c1f9dda8c39fc8a83d27f187046.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9b386c1f9dda8c39fc8a83d27f187046.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_88e9e0a0e6736f407b9ecf18bb45b852.jpeg"
+    ]
+  }
+]

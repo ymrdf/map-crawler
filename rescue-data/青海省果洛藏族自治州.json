@@ -1,0 +1,21 @@
+[
+  {
+    "name": "上海援青保障基地",
+    "location": {
+      "lat": 34.484658,
+      "lng": 100.243073
+    },
+    "address": "青海省果洛藏族自治州玛沁县大武镇雪山南路18号",
+    "province": "青海省",
+    "city": "果洛藏族自治州",
+    "area": "玛沁县",
+    "detail": 1,
+    "uid": "29a960f3f07b1b29fbf0cbdf",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B619611a1a953d125dc.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B619611a1a953d125dc.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B619611855a9d3130ed.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f05998df925e7acd82a7016ebbb80a08.jpeg"
+    ]
+  }
+]

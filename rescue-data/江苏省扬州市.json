@@ -1,0 +1,139 @@
+[
+  {
+    "name": "扬州联泰道路救援有限公司",
+    "location": {
+      "lat": 32.379225,
+      "lng": 119.728936
+    },
+    "address": "江苏省扬州市江都区大桥镇工业园区润大路2-1号",
+    "province": "江苏省",
+    "city": "扬州市",
+    "area": "江都区",
+    "detail": 1,
+    "uid": "51051add537f79a8c16c1448",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B621482f3c71ce13780.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B621482f3c71ce13780.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B621482f3a4c0e10815.jpeg"
+    ]
+  },
+  {
+    "name": "扬州市航丰汽车救援有限公司",
+    "location": {
+      "lat": 32.413359,
+      "lng": 119.589108
+    },
+    "address": "扬州市江都区文昌东路金域·地中海西南侧约90米",
+    "province": "江苏省",
+    "city": "扬州市",
+    "area": "江都区",
+    "detail": 1,
+    "uid": "9852e3cd8fce3b477ec876d3",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_f43b34af123a215768cff4eea28bf9c6.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f43b34af123a215768cff4eea28bf9c6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a7c3b645af21282bbe5729c3fbc3627e.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_beefb5df40a3320cb56c759f7cb98398.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_11a0525dc56cf07249231eadc68b115c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cf4487350ef5ea51efae553e2332bf84.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_54988ce34d689615eb778b95c2793861.jpeg"
+    ]
+  },
+  {
+    "name": "宝应亿嘉汽车救援有限公司",
+    "location": {
+      "lat": 33.216011,
+      "lng": 119.338249
+    },
+    "address": "扬州市宝应县通运路城南工业园",
+    "province": "江苏省",
+    "city": "扬州市",
+    "area": "宝应县",
+    "detail": 1,
+    "uid": "2d5e03806698346914948eec",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_6605888bc29b8b6b978248f01652e78f.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6605888bc29b8b6b978248f01652e78f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_785c378dda46b7a2b05ef2de3977d397.jpg"
+    ]
+  },
+  {
+    "name": "宝应县消防救援大队",
+    "location": {
+      "lat": 33.249066,
+      "lng": 119.32694
+    },
+    "address": "江苏省扬州市宝应县泰山东路6号",
+    "province": "江苏省",
+    "city": "扬州市",
+    "area": "宝应县",
+    "street_id": "",
+    "detail": 1,
+    "uid": "d8cfc1356f869b34ca1b95c0",
+    "cover": "https://taojin-his.cdn.bcebos.com/8326cffc1e178a82c6803020ff03738da877e8f6.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/8326cffc1e178a82c6803020ff03738da877e8f6.jpg",
+      "https://taojin-his.cdn.bcebos.com/80cb39dbb6fd526683118994a218972bd4073673.jpg",
+      "https://taojin-his.cdn.bcebos.com/f636afc379310a55c4cd9174be4543a983261040.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d338fe58357cdecf63dfa55c7866178c.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6593cc09c7e1af782ce3db3f266490f3.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9eaa4e387103a5edf276b2a1f7add3b0.jpeg"
+    ]
+  },
+  {
+    "name": "信安烟补胎拖车搭电道路救援",
+    "location": {
+      "lat": 32.452165,
+      "lng": 119.631957
+    },
+    "address": "扬州市江都区宁海线江都区砖桥派出所东侧约200米",
+    "province": "江苏省",
+    "city": "扬州市",
+    "area": "江都区",
+    "telephone": "131-45529383",
+    "detail": 1,
+    "uid": "a3f1482a8132b9e0c336446a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_b800e2c1fba1828e4354a921aa0a4067.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b800e2c1fba1828e4354a921aa0a4067.jpeg"
+    ]
+  },
+  {
+    "name": "仪征市消防救援大队",
+    "location": {
+      "lat": 32.292223,
+      "lng": 119.192823
+    },
+    "address": "江苏省扬州市仪征市沿山河东路5号",
+    "province": "江苏省",
+    "city": "扬州市",
+    "area": "仪征市",
+    "street_id": "",
+    "detail": 1,
+    "uid": "d7083fd6f703a36126d2bbc6",
+    "cover": "https://taojin-his.cdn.bcebos.com/a1ec08fa513d26977da93b665dfbb2fb4316d896.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/a1ec08fa513d26977da93b665dfbb2fb4316d896.jpg"
+    ]
+  },
+  {
+    "name": "宝应县安宜消防救援站",
+    "location": {
+      "lat": 33.249366,
+      "lng": 119.327188
+    },
+    "address": "扬州市宝应县泰山东路泰南路68号院",
+    "province": "江苏省",
+    "city": "扬州市",
+    "area": "宝应县",
+    "detail": 1,
+    "uid": "17f0d45444d6fe9fd22dd6d3",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d338fe58357cdecf63dfa55c7866178c.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d338fe58357cdecf63dfa55c7866178c.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7419976fb5540e001117aa328934e348.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9eaa4e387103a5edf276b2a1f7add3b0.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_15e86f9c90e1bd6d62b21ee7b88d0a8c.jpeg"
+    ]
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "name": "大连战蓝水域救援",
+    "location": {
+      "lat": 39.156293,
+      "lng": 121.665567
+    },
+    "address": "辽宁省大连市金州区G228(滨海公路)",
+    "province": "辽宁省",
+    "city": "大连市",
+    "area": "金州区",
+    "detail": 1,
+    "uid": "40112118a437a87628201a24",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B624e90353a219cac6.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B624e90353a219cac6.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B624e8fcb0b1184c41.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B624e8faaaff7ae531.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B624e8f9098eda13eb7.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_096449375713e1b2426bc349a3cd3741.jpeg"
+    ]
+  },
+  {
+    "name": "大连星盾救援服务有限公司",
+    "location": {
+      "lat": 39.058321,
+      "lng": 121.579848
+    },
+    "address": "大连市甘井子区",
+    "province": "辽宁省",
+    "city": "大连市",
+    "area": "甘井子区",
+    "telephone": "17084164777",
+    "detail": 1,
+    "uid": "680f336fd0a0116914948ef1",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B63eb1f0498a5ab21e.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B63eb1f0498a5ab21e.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B63eb1ee17812f644b.jpeg"
+    ]
+  },
+  {
+    "name": "海上救援训练基地",
+    "location": {
+      "lat": 39.040725,
+      "lng": 121.748756
+    },
+    "address": "大连市金州区滨海大道大连·海湾城4期西南侧约120米",
+    "province": "辽宁省",
+    "city": "大连市",
+    "area": "金州区",
+    "detail": 1,
+    "uid": "542c1d0824c51ce241afe6f5",
+    "cover": "https://taojin-his.cdn.bcebos.com/b90e7bec54e736d1931b0f1494504fc2d56269a6.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/b90e7bec54e736d1931b0f1494504fc2d56269a6.jpg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 38.815061,
+      "lng": 121.292642
+    },
+    "address": "大连市旅顺口区迎春街汤泉香格里南1门西北侧",
+    "province": "辽宁省",
+    "city": "大连市",
+    "area": "旅顺口区",
+    "detail": 1,
+    "uid": "58df401f2321a02fc4f50d70",
+    "cover": "https://pic-map.cdn.bcebos.com/img/4aa4e77673c4a58c082660263f9dc183",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/4aa4e77673c4a58c082660263f9dc183"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 38.892552,
+      "lng": 121.658811
+    },
+    "address": "大连市中山区白云街桃源名居西侧约120米",
+    "province": "辽宁省",
+    "city": "大连市",
+    "area": "中山区",
+    "detail": 1,
+    "uid": "d61831077b3e29656040a977",
+    "cover": "https://pic-map.cdn.bcebos.com/img/af386a3b355fc62e0e63c71357ba32c1",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/af386a3b355fc62e0e63c71357ba32c1"
+    ]
+  },
+  {
+    "name": "四海汽车救援",
+    "location": {
+      "lat": 39.285494,
+      "lng": 121.804144
+    },
+    "address": "大连市金州区国泰路北乐大市场",
+    "province": "辽宁省",
+    "city": "大连市",
+    "area": "金州区",
+    "telephone": "15330825111,18242083833",
+    "detail": 1,
+    "uid": "90e867b248dcd2801ef74dfa",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_6eab769a38f81954ef89aab683f1df11.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6eab769a38f81954ef89aab683f1df11.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_fd36d0e1b357740a613449a73d07fce8.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B604bfedd36b911198c.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B604bff3ac813fd988.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_164c48d4d3fb23919f58593e2e201aca.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65f93b61591c412e34.jpeg"
+    ]
+  },
+  {
+    "name": "庆鸿补胎拖车搭电道路救援",
+    "location": {
+      "lat": 38.938781,
+      "lng": 121.59148
+    },
+    "address": "大连市沙河口区敦煌路敦煌大厦西侧",
+    "province": "辽宁省",
+    "city": "大连市",
+    "area": "沙河口区",
+    "telephone": "16655214207",
+    "detail": 1,
+    "uid": "1d26b8e64db4009e0f3dda8c",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_5fd7a2854d8d4270cf7c07b26af47b57.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5fd7a2854d8d4270cf7c07b26af47b57.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_eec92115e924c142e7fd74cdcb1ff85a.jpeg"
+    ]
+  }
+]

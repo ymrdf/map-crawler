@@ -1,0 +1,171 @@
+[
+  {
+    "name": "渝中区较场口消防救援站",
+    "location": {
+      "lat": 29.561195,
+      "lng": 106.576933
+    },
+    "address": "重庆市渝中区新民街日月光购物中心潘家沟出入口西北侧约50米",
+    "province": "重庆市",
+    "city": "重庆市",
+    "area": "渝中区",
+    "street_id": "86c055c0190da983f21937f0",
+    "detail": 1,
+    "uid": "86c055c0190da983f21937f0",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_1ae722c0a0853375be1935697ff80ca4.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=86c055c0190da983f21937f0&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5ac5ac6e25698b28a24fadadaf5872e1.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8e3c88ddbd4bac21b8bc731fd1fac42b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_fb6451a052375fb4c720860de73c2c5f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_50b44960e9a908300e0599d5ab9a6e25.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B67177d1412e1217eee.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 29.552545,
+      "lng": 106.551769
+    },
+    "address": "重庆市渝中区菜袁路41号B座",
+    "province": "重庆市",
+    "city": "重庆市",
+    "area": "渝中区",
+    "detail": 1,
+    "uid": "1cd7640425ff5d5c2cb17e33",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_c01fe3acb5324f02ae8eebedb107aaf1.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c01fe3acb5324f02ae8eebedb107aaf1.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B658a8342a4f3913e4f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5cd6ea9d44b39343c9dfa721027ab029.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_01a56a2a96839bbf42082b4022bcce90.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e7942196986ba6ec14bba99cf9f33ca2.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_784dde564d908b6f82e95eccd9a9e2ba.jpeg"
+    ]
+  },
+  {
+    "name": "渝中区消防救援支队",
+    "location": {
+      "lat": 29.564539,
+      "lng": 106.548964
+    },
+    "address": "重庆市渝中区四新路33号",
+    "province": "重庆市",
+    "city": "重庆市",
+    "area": "渝中区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "7c13c3daabdf5d2f1d58009f",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B5fe1ffe12e2f21386d.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B5fe1ffe12e2f21386d.jpeg",
+      "https://pic-map.cdn.bcebos.com/img/b45b51f4e05f3d854f3040397446e469"
+    ]
+  },
+  {
+    "name": "重庆非同汽修补胎搭电拖车救援",
+    "location": {
+      "lat": 29.592274,
+      "lng": 106.521112
+    },
+    "address": "重庆市渝北区松桥路75号上海大厦c-1~2号",
+    "province": "重庆市",
+    "city": "重庆市",
+    "area": "渝北区",
+    "street_id": "",
+    "telephone": "13215522769",
+    "detail": 1,
+    "uid": "68d7187347b9f2c8c71e518e",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B5ebba1dcdeb1e1835c.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B5ebba1dcdeb1e1835c.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B5ebba1b68b64612bbf.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f9765b7a09192932c654af9ecb1d4ef5.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ff25609a6595e6737cfb76ffa795eeab.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a8835ec34cc2f9617df3062c64a0a0f4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2a7b880cbe7f767c2bd104934ecb4f99.jpeg"
+    ]
+  },
+  {
+    "name": "有道轮胎救援",
+    "location": {
+      "lat": 29.434448,
+      "lng": 106.428353
+    },
+    "address": "重庆市九龙坡区",
+    "province": "重庆市",
+    "city": "重庆市",
+    "area": "九龙坡区",
+    "detail": 1,
+    "uid": "7182126cb3c0dd6c4afc8df7",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_accd6c440e01082435e0f9e51bbbc3b9.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_accd6c440e01082435e0f9e51bbbc3b9.jpeg"
+    ]
+  },
+  {
+    "name": "火线救援",
+    "location": {
+      "lat": 29.663188,
+      "lng": 106.62682
+    },
+    "address": "重庆市渝北区两港大道与银梭大道交叉口圣名游乐城陆地乐园",
+    "province": "重庆市",
+    "city": "重庆市",
+    "area": "渝北区",
+    "detail": 1,
+    "uid": "8d422b171dd0a9d4260bd0cd",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/ba6eba9cf56fa08ec7e893647881adfd_9716.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/ba6eba9cf56fa08ec7e893647881adfd_9716.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/3b984b4ce997bbc1915ab1ceada550d1_0534.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_084c3f8c6e22ddabecf10c20b528167d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2fda1221d2c783d246da8d88a0bcd70f.jpeg"
+    ]
+  },
+  {
+    "name": "极致车服救援轮胎",
+    "location": {
+      "lat": 29.534271,
+      "lng": 106.486764
+    },
+    "address": "重庆市九龙坡区石新路2号附15号",
+    "province": "重庆市",
+    "city": "重庆市",
+    "area": "九龙坡区",
+    "telephone": "17353277358",
+    "detail": 1,
+    "uid": "527a87b84a9e2ecfd13ce32a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_4c26c0521dad92cc6ec54835995fec06.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4c26c0521dad92cc6ec54835995fec06.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_49cda34ef827d69877832975b0ab7cd1.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B66c9609f2cbc9ed27.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/2488b742ed8566d21f5207e5cb26fad9_5745.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_70323391068d93b26f228f734398ff91.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_85657a1a092f19c4c747cbca45b24969.jpeg"
+    ]
+  },
+  {
+    "name": "渝中区菜园坝消防救援站",
+    "location": {
+      "lat": 29.552583,
+      "lng": 106.551721
+    },
+    "address": "重庆市渝中区菜袁路东泰·城市派西南侧约220米",
+    "province": "重庆市",
+    "city": "重庆市",
+    "area": "渝中区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "7af544495ffae6ea0e0e6bd8",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_010a9309020aa498535889239712c4b2.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_010a9309020aa498535889239712c4b2.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_26a8bd426906d0b2e94d49ffe19bfeab.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8a31762475f0d0b54dba58eda7282b5d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_25c79e0a0e11f234a2e83b77bcc30ca6.jpeg"
+    ]
+  }
+]

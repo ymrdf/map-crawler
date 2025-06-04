@@ -1,0 +1,77 @@
+[
+  {
+    "name": "银川市紧急救援中心",
+    "location": {
+      "lat": 38.393434,
+      "lng": 106.492746
+    },
+    "address": "宁夏回族自治区银川市兴庆区景园街与汉关路交叉路口往南约100米",
+    "province": "宁夏回族自治区",
+    "city": "银川市",
+    "area": "兴庆区",
+    "telephone": "(0951)6192078",
+    "detail": 1,
+    "uid": "aab4ee16339b4e96990050b8",
+    "cover": "https://pic-map.cdn.bcebos.com/img/becab51a3d9e1ce87c6128163729c500",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/becab51a3d9e1ce87c6128163729c500"
+    ]
+  },
+  {
+    "name": "银川金翰道路救援有限公司",
+    "location": {
+      "lat": 38.559124,
+      "lng": 106.31781
+    },
+    "address": "银川市贺兰县兴发路麦清香食品有限公司",
+    "province": "宁夏回族自治区",
+    "city": "银川市",
+    "area": "贺兰县",
+    "detail": 1,
+    "uid": "c9bec752d3e4ec4585420ee3",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B5fdd9b3528aaf5d29.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B5fdd9b3528aaf5d29.jpeg"
+    ]
+  },
+  {
+    "name": "万晟通道路救援",
+    "location": {
+      "lat": 38.317699,
+      "lng": 106.222692
+    },
+    "address": "银川市永宁县李银路永宁县胜利中心小学西侧约130米",
+    "province": "宁夏回族自治区",
+    "city": "银川市",
+    "area": "永宁县",
+    "telephone": "13995413648",
+    "detail": 1,
+    "uid": "f9c89706e9df9663c7f50d58",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_df281fe2edcdf7c84495b58c464156b5.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_df281fe2edcdf7c84495b58c464156b5.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0d8311c06f6b45626a7774b14bd64a75.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B67bad53d9844636bc.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B67bad53e59c3e180b1.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B67bad53e5c278132da.jpeg"
+    ]
+  },
+  {
+    "name": "宁夏回族自治区消防救援总队",
+    "location": {
+      "lat": 38.485678,
+      "lng": 106.276804
+    },
+    "address": "宁夏回族自治区银川市兴庆区北京东路169号",
+    "province": "宁夏回族自治区",
+    "city": "银川市",
+    "area": "兴庆区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "ea8cd822fdc821caeee4a54b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_8023b885746ce45338e8e4eae6c494d6.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8023b885746ce45338e8e4eae6c494d6.jpg"
+    ]
+  }
+]

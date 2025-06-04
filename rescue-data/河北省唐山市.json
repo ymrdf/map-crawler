@@ -1,0 +1,92 @@
+[
+  {
+    "name": "事故清障道路救援",
+    "location": {
+      "lat": 39.283484,
+      "lng": 118.992723
+    },
+    "address": "唐山市乐亭县G228",
+    "province": "河北省",
+    "city": "唐山市",
+    "area": "乐亭县",
+    "detail": 1,
+    "uid": "8e417b7a4a7370386949f359",
+    "cover": "https://pic-map.cdn.bcebos.com/img/adf48b91b2daa450a46d4104b91e093f",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/adf48b91b2daa450a46d4104b91e093f"
+    ]
+  },
+  {
+    "name": "救援补胎",
+    "location": {
+      "lat": 40.143462,
+      "lng": 117.796545
+    },
+    "address": "唐山市遵化市G230",
+    "province": "河北省",
+    "city": "唐山市",
+    "area": "遵化市",
+    "detail": 1,
+    "uid": "78f914223f3313089868b445",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_49aebb8322728fcc4c05a975c4759390.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_49aebb8322728fcc4c05a975c4759390.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_09d1a5044ac9d552e51d30c76e5c7818.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5e576b63b89aa59a5bc23b175503150f.jpeg"
+    ]
+  },
+  {
+    "name": "唐山市路北区国防道消防救援站",
+    "location": {
+      "lat": 39.626367,
+      "lng": 118.131683
+    },
+    "address": "河北省唐山市路北区国防道60号",
+    "province": "河北省",
+    "city": "唐山市",
+    "area": "路北区",
+    "detail": 1,
+    "uid": "b09d3a4f18229e13cf06a462",
+    "cover": "https://pic-map.cdn.bcebos.com/img/8f36379173262a81d4a953a67f1309d5",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/8f36379173262a81d4a953a67f1309d5"
+    ]
+  },
+  {
+    "name": "补胎救援四轮定位",
+    "location": {
+      "lat": 40.138975,
+      "lng": 117.776581
+    },
+    "address": "唐山市遵化市邦宽线",
+    "province": "河北省",
+    "city": "唐山市",
+    "area": "遵化市",
+    "street_id": "",
+    "detail": 1,
+    "uid": "570fe4ddc46c7efaf1193725",
+    "cover": "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_71346ce178c1016a38cb1ca896e93fa3.jpg",
+    "photo_list": [
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_71346ce178c1016a38cb1ca896e93fa3.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9c1f5e95de3b14bb18fdf79dbba00bfc.jpeg"
+    ]
+  },
+  {
+    "name": "汽车修理外出救援",
+    "location": {
+      "lat": 39.956347,
+      "lng": 118.603595
+    },
+    "address": "唐山市迁安市杨柏线白龙港新区东北侧约130米",
+    "province": "河北省",
+    "city": "唐山市",
+    "area": "迁安市",
+    "detail": 1,
+    "uid": "d9224341bfa0aa1c1fe99948",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_bb24b632ad968f8f79960398e54739f5.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bb24b632ad968f8f79960398e54739f5.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_0851b9002550953872de21dd0d981ba9.jpg"
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "平泉镇道路救援服务公司",
+    "location": {
+      "lat": 35.624606,
+      "lng": 107.036014
+    },
+    "address": "甘肃省庆阳市镇原县南环路新星中学对面",
+    "province": "甘肃省",
+    "city": "庆阳市",
+    "area": "镇原县",
+    "detail": 1,
+    "uid": "b7163c2c14d814cc86420e97",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B5f6e4141de6ba15281.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B5f6e4141de6ba15281.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B5f6e41418e1f6bbac.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_245f3d3b5201f6cd3e11dbb7578fbaef.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e03700f22b4764583ba1ac022493a12b.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B5f6e41415fad9f89e.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B5f0f351107fe4d708.jpeg"
+    ]
+  },
+  {
+    "name": "和盛消防救援站",
+    "location": {
+      "lat": 35.461227,
+      "lng": 107.76544
+    },
+    "address": "庆阳市宁县G244",
+    "province": "甘肃省",
+    "city": "庆阳市",
+    "area": "宁县",
+    "detail": 1,
+    "uid": "e3b39709f8c997a7f32d832a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_e90db4af40d0e1bef2479468c2e4a694.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e90db4af40d0e1bef2479468c2e4a694.jpeg"
+    ]
+  },
+  {
+    "name": "华池消防",
+    "location": {
+      "lat": 36.433108,
+      "lng": 107.975505
+    },
+    "address": "202省道西50米",
+    "province": "甘肃省",
+    "city": "庆阳市",
+    "area": "华池县",
+    "detail": 1,
+    "uid": "19805925bf63a359cc06a4a1",
+    "cover": "https://pic-map.cdn.bcebos.com/img/b710a6613e91c18acf03f070595f96b1",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/b710a6613e91c18acf03f070595f96b1"
+    ]
+  }
+]

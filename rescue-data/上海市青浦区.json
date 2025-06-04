@@ -1,0 +1,160 @@
+[
+  {
+    "name": "汽车修理道路救援",
+    "location": {
+      "lat": 31.095848,
+      "lng": 120.994505
+    },
+    "address": "上海市青浦区淀峰路与沪青平公路交叉路口往东约140米",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "青浦区",
+    "telephone": "13771676486",
+    "detail": 1,
+    "uid": "ee142357fb82e896b64f54f0",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B6129daa9920b010741.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B6129daa9920b010741.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6129daa990a72876c.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B612991b810cd2b104.jpeg"
+    ]
+  },
+  {
+    "name": "上海市青浦区应急救援支队",
+    "location": {
+      "lat": 31.192473,
+      "lng": 121.111721
+    },
+    "address": "上海市青浦区香花桥街道胜利路1828号",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "青浦区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "0cd71c8c9833ef1743afe6b4",
+    "cover": "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_daafda2ae21dc916370a373be70314e7.jpg",
+    "photo_list": [
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_daafda2ae21dc916370a373be70314e7.jpg"
+    ]
+  },
+  {
+    "name": "青浦区赵巷消防救援站",
+    "location": {
+      "lat": 31.160816,
+      "lng": 121.207798
+    },
+    "address": "上海市青浦区赵巷镇中路绿中海雅庭北侧约30米",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "青浦区",
+    "detail": 1,
+    "uid": "104b86f9dcdd5f702efaa7cb",
+    "cover": "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_28e45a48591473b2dda5c54feaf475de.jpg",
+    "photo_list": [
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_28e45a48591473b2dda5c54feaf475de.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f31e8d67f801020aee3c9710a0cc054a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d2d79cfa12eb7952d73e7dd3f5356e23.jpeg"
+    ]
+  },
+  {
+    "name": "青浦区青安消防救援站",
+    "location": {
+      "lat": 31.160483,
+      "lng": 121.124083
+    },
+    "address": "上海市青浦区青安路庆华四村东北侧",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "青浦区",
+    "detail": 1,
+    "uid": "69f6fbfb86176bee4d776e3c",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_fcd3da162085fbedb38e8071306942bd.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_fcd3da162085fbedb38e8071306942bd.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f784f842e6a2439b330e588510f7cd56.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_5feaef3f5d44978c0493d74b18407005.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_f0b8c41a29e5c9dbc5781a7565194b81.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_94de238aed55b43df5b5f12b3cb20c93.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9e45b250f01c4fb1d814598086ecfcbc.jpeg"
+    ]
+  },
+  {
+    "name": "胜喆汽修补胎搭电拖车救援",
+    "location": {
+      "lat": 31.362209,
+      "lng": 121.459579
+    },
+    "address": "上海市宝山区江一西路江杨水产品批发市场",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "宝山区",
+    "telephone": "13170020151",
+    "detail": 1,
+    "uid": "726a1d2df7ed852f9b005024",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_45a1a0aacbb8be3bd80f6ef6a3557934.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_45a1a0aacbb8be3bd80f6ef6a3557934.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B662c78b7a97ed528a.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B662c78b7f08cae717.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_31c0823f46addd996354deb6bad62a80.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 31.160496,
+      "lng": 121.124267
+    },
+    "address": "上海市青浦区青安路庆华四村东北侧",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "青浦区",
+    "detail": 1,
+    "uid": "515b4f9360e744e1abf7291b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_7bcc5d280a3af3ba3237baa099a7bfd6.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7bcc5d280a3af3ba3237baa099a7bfd6.jpeg"
+    ]
+  },
+  {
+    "name": "梦缘补胎搭电拖车道路救援",
+    "location": {
+      "lat": 31.270346,
+      "lng": 121.48607
+    },
+    "address": "上海市虹口区宝山路858号",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "虹口区",
+    "telephone": "13215522769",
+    "detail": 1,
+    "uid": "1307137b865dce5bc9c3db98",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_eb8d0e3851e31ab565b39b02c48cab6c.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_eb8d0e3851e31ab565b39b02c48cab6c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0d30a9bfe30032010f917978e1a7213e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ed89735914766d8d980ae2f80691c9f4.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_672b1cf6a1ab93d032c67b2321fabae8.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_69cd4cec3d1fd9c41d71c9ebf92a80aa.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a10aa8295718151c6fa865d7a3bbd327.jpeg"
+    ]
+  },
+  {
+    "name": "基洵汽修补胎搭电拖车救援",
+    "location": {
+      "lat": 31.371306,
+      "lng": 121.47577
+    },
+    "address": "上海市宝山区泰和路森谷美食公园",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "宝山区",
+    "telephone": "13170020149",
+    "detail": 1,
+    "uid": "ec56ec102740a0b86140a93f",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_218bc61d580f21f4c52fd6ee17f8e92f.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_218bc61d580f21f4c52fd6ee17f8e92f.jpeg"
+    ]
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "name": "沂水道路救援大队",
+    "location": {
+      "lat": 35.789766,
+      "lng": 118.655282
+    },
+    "address": "山东省临沂市沂水县东一环路与雪山河路交叉路口往西南约90米",
+    "province": "山东省",
+    "city": "临沂市",
+    "area": "沂水县",
+    "street_id": "",
+    "detail": 1,
+    "uid": "93283cdd7b2539624d2fdf1d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_97ff484e4c172aa4287034cfb9b4a04e.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_97ff484e4c172aa4287034cfb9b4a04e.jpg",
+      "https://taojin-his.cdn.bcebos.com/78310a55b319ebc426a11e3f8c26cffc1f1716be.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e3cf3d8a9d22831c39aaa2bbc3c1f688.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c7ee8b50c45d8ad233a5403d0a6f7f1a.jpeg"
+    ]
+  },
+  {
+    "name": "大陆救援",
+    "location": {
+      "lat": 35.030708,
+      "lng": 118.310835
+    },
+    "address": "临沂市罗庄区盛源小区B区北门西沿街",
+    "province": "山东省",
+    "city": "临沂市",
+    "area": "罗庄区",
+    "street_id": "2409314d83a28815b54f547c",
+    "telephone": "15269955558",
+    "detail": 1,
+    "uid": "2409314d83a28815b54f547c",
+    "cover": "https://taojin-his.cdn.bcebos.com/cb8065380cd791234cba2029a3345982b2b78011.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=2409314d83a28815b54f547c&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_081413abc48097d332349d6c282417f6.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3b135cd056d36a2c799e5c0a31dff816.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b22de70822f92e480ffad278d4001373.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4555966f3db5d1900ac382864108ce2c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b9231103e415f224b8443a849d56f957.jpeg"
+    ]
+  },
+  {
+    "name": "道路救援",
+    "location": {
+      "lat": 35.043322,
+      "lng": 118.356559
+    },
+    "address": "临沂市兰山区平川路新华苑西南侧约40米",
+    "province": "山东省",
+    "city": "临沂市",
+    "area": "兰山区",
+    "telephone": "18253912818",
+    "detail": 1,
+    "uid": "79aeac2073ef70b2f4eafc14",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B647948af5278e127f7.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B647948af5278e127f7.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B647948dd1d27a10d4c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_55f5c8ec76f26ad25264eb3081287854.jpeg"
+    ]
+  },
+  {
+    "name": "通畅道路救援",
+    "location": {
+      "lat": 35.081351,
+      "lng": 118.098488
+    },
+    "address": "山东省临沂市兰陵县矿坑乡棠林村",
+    "province": "山东省",
+    "city": "临沂市",
+    "area": "兰陵县",
+    "street_id": "",
+    "telephone": "15653977911",
+    "detail": 1,
+    "uid": "829399565e1c49dad6b74ed4",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_9948dfd49e95c2ac087431197bfe394c.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9948dfd49e95c2ac087431197bfe394c.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B629730a8d040915c63.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B629730311d16fe5f2.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6297301f1aed8983d.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B61bf30644ebf772f1.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B61bf301acdb7a185df.jpeg"
+    ]
+  },
+  {
+    "name": "NBD救援指挥中心",
+    "location": {
+      "lat": 35.085998,
+      "lng": 118.287266
+    },
+    "address": "山东省临沂市兰山区临西九路涑河花园",
+    "province": "山东省",
+    "city": "临沂市",
+    "area": "兰山区",
+    "street_id": "25d39dbb601649c8cafa5f15",
+    "detail": 1,
+    "uid": "25d39dbb601649c8cafa5f15",
+    "cover": "https://taojin-his.cdn.bcebos.com/359b033b5bb5c9ea2b8e3cf6da39b6003af3b3a1.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=25d39dbb601649c8cafa5f15&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6a47c30678726060fe4ede0710dd53a5.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_678bdd5134ee0e324cef684384a8d23c.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_39d41af240e53808d1d94dd4cddea7b4.jpg"
+    ]
+  },
+  {
+    "name": "山东道客道路救援有限公司",
+    "location": {
+      "lat": 34.860894,
+      "lng": 117.951381
+    },
+    "address": "临沂市兰陵县S231向城镇中心小学东北侧约110米",
+    "province": "山东省",
+    "city": "临沂市",
+    "area": "兰陵县",
+    "detail": 1,
+    "uid": "452009a7652da40af33cba70",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_95b3fedc612cd99ca89877e213eb2ff1.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_95b3fedc612cd99ca89877e213eb2ff1.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bcaecc7b417d02f1ac46d1aada3dd653.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bf098f47d03ec6a96e0ae265e84eb520.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B668209efb4c3513191.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B668209efc472d123a0.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B668209bf807ee4b1d.jpeg"
+    ]
+  },
+  {
+    "name": "车拖车道路救援中心",
+    "location": {
+      "lat": 35.030466,
+      "lng": 118.308402
+    },
+    "address": "临沂市罗庄区琅琊王路盛源小区-B区",
+    "province": "山东省",
+    "city": "临沂市",
+    "area": "罗庄区",
+    "street_id": "",
+    "telephone": "13305390212",
+    "detail": 1,
+    "uid": "8eb856dd9859ec2bf82d61b8",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B6264fdfcc604bead6.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B6264fdfcc604bead6.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6264fdfc39c03123ec.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6264fdfc262a1126fb.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6264fdfb0c68917248.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6264fdfacabbd126bd.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B5f794ef3936f56bec.jpeg"
+    ]
+  },
+  {
+    "name": "临沭县救援",
+    "location": {
+      "lat": 34.914275,
+      "lng": 118.632597
+    },
+    "address": "临沂市临沭县兴大东街富贵苑小区西北侧",
+    "province": "山东省",
+    "city": "临沂市",
+    "area": "临沭县",
+    "street_id": "",
+    "detail": 1,
+    "uid": "baf1f5475fd4cfd00b1cc7c0",
+    "cover": "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_d85c61aa061a54719110a165f5fb8c9c.jpg",
+    "photo_list": [
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_d85c61aa061a54719110a165f5fb8c9c.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_bb4b616875e72f8eac06530acaf6419f.jpg"
+    ]
+  }
+]

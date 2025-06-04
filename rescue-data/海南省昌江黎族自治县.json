@@ -1,0 +1,38 @@
+[
+  {
+    "name": "昌江黎族自治县石碌消防救援站",
+    "location": {
+      "lat": 19.293806,
+      "lng": 109.062596
+    },
+    "address": "昌江黎族自治县昌江大道金水湾国际公馆西侧约100米",
+    "province": "海南省",
+    "city": "昌江黎族自治县",
+    "area": "",
+    "detail": 1,
+    "uid": "dabf752c75a0070bc16c1433",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_7277d0e1e7062075df77fb49ef61d48f.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7277d0e1e7062075df77fb49ef61d48f.jpeg"
+    ]
+  },
+  {
+    "name": "警锐押运护卫公司(昌江分公司)",
+    "location": {
+      "lat": 19.258098,
+      "lng": 109.055162
+    },
+    "address": "海南省昌江黎族自治县人民南路14号中行宿舍综合2层",
+    "province": "海南省",
+    "city": "昌江黎族自治县",
+    "area": "",
+    "street_id": "",
+    "detail": 1,
+    "uid": "d70163d3be1081375d17c3cf",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_b9fd12c9e827fe2f310df9b99aed4b9d.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b9fd12c9e827fe2f310df9b99aed4b9d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5ca6b4a8cf89cd1c094c426a75a6763d.jpeg"
+    ]
+  }
+]

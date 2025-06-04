@@ -1,0 +1,81 @@
+[
+  {
+    "name": "流动补胎修车救援",
+    "location": {
+      "lat": 34.051132,
+      "lng": 108.807875
+    },
+    "address": "陕西省西安市长安区S107(关中环线)",
+    "province": "陕西省",
+    "city": "西安市",
+    "area": "长安区",
+    "telephone": "18292047833",
+    "detail": 1,
+    "uid": "9baaf299a47b5e330482c281",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_6bef98f96a0937e9a103ea38b5ba7707.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6bef98f96a0937e9a103ea38b5ba7707.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/b21f05b3dea73b8de2b3ecd151b49687_7175.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/93a11233a729bec08d1bab3254a0c390_8148.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/94a96d875b69cf9d9597ddedab3647b0_2055.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/cb0606d6637b3e7ac9adf7b45eeb7293_9283.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B629ec78ba8ee39a77.jpeg"
+    ]
+  },
+  {
+    "name": "中安救援队",
+    "location": {
+      "lat": 34.218924,
+      "lng": 109.115548
+    },
+    "address": "西安市灞桥区鹿鸣路西安市第六十二中学东侧约60米",
+    "province": "陕西省",
+    "city": "西安市",
+    "area": "灞桥区",
+    "detail": 1,
+    "uid": "ef774f469ff542cd96ca0798",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_e8e384110282822a3b2ba46e88948958.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e8e384110282822a3b2ba46e88948958.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_55cb5add22dd64b8c79dfe494c4f7e33.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_84aacb07cccc11a4b8e17218437cf51b.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e38c28387532e688ed68004e49573fcd.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_089517e993e3b5d4f2479091d922526b.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b838f28cb9ece616ccc768389f778b51.jpeg"
+    ]
+  },
+  {
+    "name": "中国国际救援中心陕西省应急救援总队",
+    "location": {
+      "lat": 34.266981,
+      "lng": 108.962644
+    },
+    "address": "西安市新城区红十字会巷华威国际大厦",
+    "province": "陕西省",
+    "city": "西安市",
+    "area": "新城区",
+    "detail": 1,
+    "uid": "9f090ce621abbe841088241b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_c95370e990dc825fc7743ae4c27b45eb.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c95370e990dc825fc7743ae4c27b45eb.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 34.157443,
+      "lng": 109.003885
+    },
+    "address": "西安市长安区航天东路仟禧·悦长安酒店南侧约200米",
+    "province": "陕西省",
+    "city": "西安市",
+    "area": "长安区",
+    "detail": 1,
+    "uid": "73bdaf6bbb621f922a02e1d5",
+    "cover": "https://pic-map.cdn.bcebos.com/img/9cab08526b07583c5bb5ba8f4ca44d54",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/9cab08526b07583c5bb5ba8f4ca44d54"
+    ]
+  }
+]

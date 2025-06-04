@@ -1,0 +1,57 @@
+[
+  {
+    "name": "平凉市崆峒区消防救援大队",
+    "location": {
+      "lat": 35.55748,
+      "lng": 106.664767
+    },
+    "address": "平凉市崆峒区沪霍线玄鹤新城西南侧约50米",
+    "province": "甘肃省",
+    "city": "平凉市",
+    "area": "崆峒区",
+    "detail": 1,
+    "uid": "5e5cde5041164d49bea82253",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_4a5a759ed499e64a44d6221e9179e975.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4a5a759ed499e64a44d6221e9179e975.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_95f9cc401a814353c8d0854ab96073e9.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f985d00081c954fd2c26f361981b4f42.jpeg"
+    ]
+  },
+  {
+    "name": "甘肃路德救援服务有限公司",
+    "location": {
+      "lat": 35.546066,
+      "lng": 105.732875
+    },
+    "address": "平凉市静宁县天元路天元大酒店西北侧约170米",
+    "province": "甘肃省",
+    "city": "平凉市",
+    "area": "静宁县",
+    "telephone": "13809333113,15293678688",
+    "detail": 1,
+    "uid": "6a7c879eb71cbdcc9ff779bc",
+    "cover": "https://taojin-his.cdn.bcebos.com/0823dd54564e9258ad25af6d9082d158ccbf4e1b.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/0823dd54564e9258ad25af6d9082d158ccbf4e1b.jpg"
+    ]
+  },
+  {
+    "name": "平凉市崆峒区广成消防救援站",
+    "location": {
+      "lat": 35.557594,
+      "lng": 106.664829
+    },
+    "address": "平凉市崆峒区沪霍线玄鹤新城西南侧约30米",
+    "province": "甘肃省",
+    "city": "平凉市",
+    "area": "崆峒区",
+    "detail": 1,
+    "uid": "c49b7c3b4d9b9f4bf8f0cb26",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_95f9cc401a814353c8d0854ab96073e9.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_95f9cc401a814353c8d0854ab96073e9.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f985d00081c954fd2c26f361981b4f42.jpeg"
+    ]
+  }
+]

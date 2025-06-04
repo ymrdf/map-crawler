@@ -1,0 +1,142 @@
+[
+  {
+    "name": "汽车维修保养补胎道路救援",
+    "location": {
+      "lat": 32.883774,
+      "lng": 115.841208
+    },
+    "address": "安徽省阜阳市颍州区京九巷汽车南站财富名都19栋",
+    "province": "安徽省",
+    "city": "阜阳市",
+    "area": "颍州区",
+    "street_id": "c7b86552b8c016f0354aae3e",
+    "telephone": "18856898404",
+    "detail": 1,
+    "uid": "c7b86552b8c016f0354aae3e",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_3f9ccd88dc50cf4edd1e978ef83333b7.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=c7b86552b8c016f0354aae3e&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a7afb1ef31baef40d33805a7ed20473a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7044e84d411b4ed7999e955469ea2480.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65c6d7220f51cc628.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65c6d7220a811db22.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65c6d722133f812584.jpeg"
+    ]
+  },
+  {
+    "name": "阜阳市紧急救援中心",
+    "location": {
+      "lat": 32.888161,
+      "lng": 115.824052
+    },
+    "address": "中清路288号",
+    "province": "安徽省",
+    "city": "阜阳市",
+    "area": "颍州区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "e1aa319e83e838a53586f4d1",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ad1ed03f68caa299318882ce801bd46d.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ad1ed03f68caa299318882ce801bd46d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a0de05d2768e0d32fc77c979d030e8e9.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9d5124d83297422f45c05aae3bc6cbcf.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3603f50ecfd69bf6a083b47bf0bb6e19.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2b9264d4641d2aa21b669b5886d618e2.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_39f48888e46a0a55fa2542896d3ba414.jpg"
+    ]
+  },
+  {
+    "name": "太和县国泰路消防救援站",
+    "location": {
+      "lat": 33.181406,
+      "lng": 115.621653
+    },
+    "address": "阜阳市太和县国泰路精诚·锦都花园西南侧约100米",
+    "province": "安徽省",
+    "city": "阜阳市",
+    "area": "太和县",
+    "street_id": "4700a64014473487601c67ef",
+    "detail": 1,
+    "uid": "4700a64014473487601c67ef",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ceb68f772281290ef9e9fabaf3f65cf8.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=4700a64014473487601c67ef&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4a334b081e1a13f18cd2e4502a164476.jpg"
+    ]
+  },
+  {
+    "name": "阜阳蓝天救援队",
+    "location": {
+      "lat": 32.838297,
+      "lng": 115.895487
+    },
+    "address": "阜阳市颍州区花园湖路与琅琊山路交叉路口往北约90米",
+    "province": "安徽省",
+    "city": "阜阳市",
+    "area": "颍州区",
+    "detail": 1,
+    "uid": "f91dda253d99b409eedfca0b",
+    "cover": "https://taojin-his.cdn.bcebos.com/b3b7d0a20cf431ad8fd954684736acaf2edd9853.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/b3b7d0a20cf431ad8fd954684736acaf2edd9853.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_496c018921889bc1331c15e626acb01e.jpg"
+    ]
+  },
+  {
+    "name": "界首市金鑫道路救援服务有限公司",
+    "location": {
+      "lat": 33.289167,
+      "lng": 115.359247
+    },
+    "address": "阜阳市界首市养城大道",
+    "province": "安徽省",
+    "city": "阜阳市",
+    "area": "界首市",
+    "telephone": "15856789907",
+    "detail": 1,
+    "uid": "20c745f65438de2b02294f30",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/ea92ac87c982020e129a332dca45a4d3_0557.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/ea92ac87c982020e129a332dca45a4d3_0557.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_622f99e08e3cf83fd52934b739015374.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_66be39a3fb3f4b2b8d88978329ceed9c.jpeg"
+    ]
+  },
+  {
+    "name": "阜阳市紧急救援中心",
+    "location": {
+      "lat": 32.868515,
+      "lng": 115.837189
+    },
+    "address": "安徽省阜阳市颍州区三清路66号",
+    "province": "安徽省",
+    "city": "阜阳市",
+    "area": "颍州区",
+    "detail": 1,
+    "uid": "7414f51df58116de4254d7b0",
+    "cover": "https://pic-map.cdn.bcebos.com/img/cc1ef80eda6df5253de0c3f7794f3b2d",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/cc1ef80eda6df5253de0c3f7794f3b2d"
+    ]
+  },
+  {
+    "name": "阜阳市紧急救援中心",
+    "location": {
+      "lat": 32.897195,
+      "lng": 115.84631
+    },
+    "address": "安徽省阜阳市颍州区河滨东路146附近",
+    "province": "安徽省",
+    "city": "阜阳市",
+    "area": "颍州区",
+    "street_id": "f6aaaa81aa36bacebea240b5",
+    "detail": 1,
+    "uid": "f6aaaa81aa36bacebea240b5",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_97745aed6afa24d11726e09fad3860c7.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=f6aaaa81aa36bacebea240b5&width=720&height=360&quality=80&fovx=120",
+      "https://taojin-his.cdn.bcebos.com/f9198618367adab4c03a592386d4b31c8601e4ec.jpg"
+    ]
+  }
+]

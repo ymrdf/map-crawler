@@ -1,0 +1,77 @@
+[
+  {
+    "name": "喀左盛途运输有限公司",
+    "location": {
+      "lat": 41.137003,
+      "lng": 119.763991
+    },
+    "address": "朝阳市喀喇沁左翼蒙古族自治县",
+    "province": "辽宁省",
+    "city": "朝阳市",
+    "area": "喀喇沁左翼蒙古族自治县",
+    "detail": 1,
+    "uid": "f205cfbea372947dd1f49e98",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_3a1eb2e6beb34570ae3c04fc60cc2b3e.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3a1eb2e6beb34570ae3c04fc60cc2b3e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e69369d5f97d53e4891b00d18f4368d7.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65ae0d49b0735676d.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65ae0e54b4a77167ae.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65ae0d49bfb04fdd0.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65ec10eb6980d4853.jpeg"
+    ]
+  },
+  {
+    "name": "凌源市公安消防大队",
+    "location": {
+      "lat": 41.243017,
+      "lng": 119.394103
+    },
+    "address": "朝阳市凌源市红山路西段173-1号",
+    "province": "辽宁省",
+    "city": "朝阳市",
+    "area": "凌源市",
+    "detail": 1,
+    "uid": "b12bdeb6e5a10a9ced74f8a2",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a0f664db7d87fe24a299eeca265b8ed1.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a0f664db7d87fe24a299eeca265b8ed1.jpg"
+    ]
+  },
+  {
+    "name": "朝阳市消防救援支队",
+    "location": {
+      "lat": 41.601056,
+      "lng": 120.443278
+    },
+    "address": "朝阳市龙城区长江路兴源·丽江城北侧约90米",
+    "province": "辽宁省",
+    "city": "朝阳市",
+    "area": "龙城区",
+    "detail": 1,
+    "uid": "7da8a2f691ba14df2a02e13c",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_8590e4b7386df29587f81604f78f63ac.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8590e4b7386df29587f81604f78f63ac.jpg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 41.601009,
+      "lng": 120.443343
+    },
+    "address": "朝阳市龙城区长江路兴源·丽江城北侧约80米",
+    "province": "辽宁省",
+    "city": "朝阳市",
+    "area": "龙城区",
+    "detail": 1,
+    "uid": "0ded3352d2de24ea40ab9a94",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_e99c1a503595be2db0435ac59813bbe0.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e99c1a503595be2db0435ac59813bbe0.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8c7ff1392a73017c48cd322dd3db81e6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_329726ffd389812e6c28fa7f2e965036.jpeg"
+    ]
+  }
+]

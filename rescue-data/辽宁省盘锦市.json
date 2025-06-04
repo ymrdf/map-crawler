@@ -1,0 +1,104 @@
+[
+  {
+    "name": "盘锦政通拖车救援服务中心",
+    "location": {
+      "lat": 41.177542,
+      "lng": 122.067063
+    },
+    "address": "辽宁省盘锦市双台子区辽河湿地公园(沿河南街北)",
+    "province": "辽宁省",
+    "city": "盘锦市",
+    "area": "双台子区",
+    "street_id": "",
+    "telephone": "15604279993",
+    "detail": 1,
+    "uid": "1e7149d8cf254812cf06a47a",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/Hcb8065380cd79123311d1b54a7345982b2b78015.jpg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/Hcb8065380cd79123311d1b54a7345982b2b78015.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/Hc995d143ad4bd1135a78381250afa40f4bfb055c.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/H9213b07eca806538a8ee2b339ddda144ad34828e.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/Hf703738da9773912b7ba48ccf4198618377ae2fb.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/H4a36acaf2edda3ccc8ff37000be93901213f92f3.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/H267f9e2f070828380a9111b9b499a9014d08f1fb.jpg"
+    ]
+  },
+  {
+    "name": "大件吊装运输救援",
+    "location": {
+      "lat": 41.247327,
+      "lng": 122.015852
+    },
+    "address": "盘锦市盘山县辽河路北段与沈盘线交叉路口往东北约80米",
+    "province": "辽宁省",
+    "city": "盘锦市",
+    "area": "盘山县",
+    "detail": 1,
+    "uid": "142a962a4c299a255a3ac8c5",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_1187626a0426099bfcff6948fd566336.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1187626a0426099bfcff6948fd566336.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7b26a2058d6b1a9ce4dcfb7150f0d4ca.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1d15852c4c493f8add18b2df1b146ad7.jpeg"
+    ]
+  },
+  {
+    "name": "盘锦润益汽车拖车道路救援搭电送油公司",
+    "location": {
+      "lat": 41.22456,
+      "lng": 122.039834
+    },
+    "address": "辽宁省盘锦市双台子区庄李线",
+    "province": "辽宁省",
+    "city": "盘锦市",
+    "area": "双台子区",
+    "detail": 1,
+    "uid": "99d5abc8839f457f2b3a9f8e",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_97e8ccf695759dff0ca6e75e39d4e2f3.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_97e8ccf695759dff0ca6e75e39d4e2f3.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B617cd53dedeecb257.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B617cd521c893498e8.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B617cd54c1d11da479.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B617cd5158fb3a16961.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B60cafafa6816cb3ed.jpeg"
+    ]
+  },
+  {
+    "name": "盘锦市兴隆台区向海大道消防救援站",
+    "location": {
+      "lat": 41.159691,
+      "lng": 122.077015
+    },
+    "address": "辽宁省盘锦市兴隆台区向海大道紫润茗都东侧约80米",
+    "province": "辽宁省",
+    "city": "盘锦市",
+    "area": "兴隆台区",
+    "detail": 1,
+    "uid": "b3e1206ff7fcf63c3ee231af",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_1452d02ece7eb46e7d7795275bae81c2.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1452d02ece7eb46e7d7795275bae81c2.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_80d8712472f232f87da4ee17fdc8015e.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_d40665a064f5aafb59402ffbcf5f803e.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c4956bde83400021c003f0b6f66fe145.jpeg"
+    ]
+  },
+  {
+    "name": "辽河油田消防支队综合救援大队",
+    "location": {
+      "lat": 41.143016,
+      "lng": 122.106333
+    },
+    "address": "盘锦市兴隆台区兴油街兴油小区(南二区店)西南侧约30米",
+    "province": "辽宁省",
+    "city": "盘锦市",
+    "area": "兴隆台区",
+    "detail": 1,
+    "uid": "840a7c4b8507cb64a6c75617",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_bd085c4f982a5709551f04a1caf098ac.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bd085c4f982a5709551f04a1caf098ac.jpeg"
+    ]
+  }
+]

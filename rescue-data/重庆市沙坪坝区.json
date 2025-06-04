@@ -1,0 +1,138 @@
+[
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 29.555091,
+      "lng": 106.458512
+    },
+    "address": "重庆市沙坪坝区晒光路67号",
+    "province": "重庆市",
+    "city": "重庆市",
+    "area": "沙坪坝区",
+    "detail": 1,
+    "uid": "3ecd5e854474508c441a3227",
+    "cover": "https://pic-map.cdn.bcebos.com/img/67699f18204903a39ee68d6806e28a84",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/67699f18204903a39ee68d6806e28a84"
+    ]
+  },
+  {
+    "name": "昂冠汽修补胎搭电拖车救援",
+    "location": {
+      "lat": 29.568508,
+      "lng": 106.593128
+    },
+    "address": "陕西路33号(朝天门地铁站1号口步行140米)协信商厦F2",
+    "province": "重庆市",
+    "city": "重庆市",
+    "area": "渝中区",
+    "telephone": "13035019283",
+    "detail": 1,
+    "uid": "8ae51508d6700cbf1ef74dea",
+    "cover": "https://taojin-pic-gz.cdn.bcebos.com/78e96620235f288f94844a37e04ff719.jpeg",
+    "photo_list": [
+      "https://taojin-pic-gz.cdn.bcebos.com/78e96620235f288f94844a37e04ff719.jpeg"
+    ]
+  },
+  {
+    "name": "极致车服拖车救援",
+    "location": {
+      "lat": 29.54495,
+      "lng": 106.519224
+    },
+    "address": "重庆市渝中区茶亭南路4号附4号",
+    "province": "重庆市",
+    "city": "重庆市",
+    "area": "渝中区",
+    "telephone": "17353277358",
+    "detail": 1,
+    "uid": "f1d1500c6762c0dd95f08c34",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_3b2694e5e894c61f17c41a09a59087a6.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3b2694e5e894c61f17c41a09a59087a6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cbceec7e913f9890855076f7d1c39c28.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_013b400aff19b6998952bfe9a892a95f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d36e1c61434890a66d0262b580c672b5.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_20a01a4edfd77e1f6ebd5b6afd8ee744.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2f4939678668f615551888823fde2fa4.jpeg"
+    ]
+  },
+  {
+    "name": "重庆非同汽修补胎搭电拖车救援",
+    "location": {
+      "lat": 29.592274,
+      "lng": 106.521112
+    },
+    "address": "重庆市渝北区松桥路75号上海大厦c-1~2号",
+    "province": "重庆市",
+    "city": "重庆市",
+    "area": "渝北区",
+    "street_id": "",
+    "telephone": "13215522769",
+    "detail": 1,
+    "uid": "68d7187347b9f2c8c71e518e",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B5ebba1dcdeb1e1835c.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B5ebba1dcdeb1e1835c.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B5ebba1b68b64612bbf.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f9765b7a09192932c654af9ecb1d4ef5.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ff25609a6595e6737cfb76ffa795eeab.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a8835ec34cc2f9617df3062c64a0a0f4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2a7b880cbe7f767c2bd104934ecb4f99.jpeg"
+    ]
+  },
+  {
+    "name": "有道轮胎救援",
+    "location": {
+      "lat": 29.434448,
+      "lng": 106.428353
+    },
+    "address": "重庆市九龙坡区",
+    "province": "重庆市",
+    "city": "重庆市",
+    "area": "九龙坡区",
+    "detail": 1,
+    "uid": "7182126cb3c0dd6c4afc8df7",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_accd6c440e01082435e0f9e51bbbc3b9.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_accd6c440e01082435e0f9e51bbbc3b9.jpeg"
+    ]
+  },
+  {
+    "name": "火线救援",
+    "location": {
+      "lat": 29.663188,
+      "lng": 106.62682
+    },
+    "address": "重庆市渝北区两港大道与银梭大道交叉口圣名游乐城陆地乐园",
+    "province": "重庆市",
+    "city": "重庆市",
+    "area": "渝北区",
+    "detail": 1,
+    "uid": "8d422b171dd0a9d4260bd0cd",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/ba6eba9cf56fa08ec7e893647881adfd_9716.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/ba6eba9cf56fa08ec7e893647881adfd_9716.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/3b984b4ce997bbc1915ab1ceada550d1_0534.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_084c3f8c6e22ddabecf10c20b528167d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2fda1221d2c783d246da8d88a0bcd70f.jpeg"
+    ]
+  },
+  {
+    "name": "沙坪坝区歌乐山消防救援站",
+    "location": {
+      "lat": 29.590753,
+      "lng": 106.424458
+    },
+    "address": "重庆市沙坪坝区厦成线重庆市立信职业教育中心",
+    "province": "重庆市",
+    "city": "重庆市",
+    "area": "沙坪坝区",
+    "detail": 1,
+    "uid": "ee5e89ca58f79f332ce67b37",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d0d281add2d02bdb64ccedd3d1636af9.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d0d281add2d02bdb64ccedd3d1636af9.jpeg"
+    ]
+  }
+]

@@ -1,0 +1,185 @@
+[
+  {
+    "name": "利军轮胎(流动救援)",
+    "location": {
+      "lat": 36.789775,
+      "lng": 114.057577
+    },
+    "address": "河北省邯郸市武安市S312",
+    "province": "河北省",
+    "city": "邯郸市",
+    "area": "武安市",
+    "telephone": "18348750800",
+    "detail": 1,
+    "uid": "8aeb8a0e6436abeaa8f0cddb",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B64812a2115875aa11.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B64812a2115875aa11.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_48183da7135fdb8552c0b6afa36e15c5.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f398c8b69404aae48f113d1b94c97386.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b08826630a6deda47243f47f255eb40d.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B676395607ed4a86dd.jpeg"
+    ]
+  },
+  {
+    "name": "邯郸市峰峰矿区滏阳东路消防救援站",
+    "location": {
+      "lat": 36.425797,
+      "lng": 114.226669
+    },
+    "address": "邯郸市峰峰矿区滏阳东路兆丰广场北侧约40米",
+    "province": "河北省",
+    "city": "邯郸市",
+    "area": "峰峰矿区",
+    "detail": 1,
+    "uid": "13ac970dea14e7986849f30b",
+    "cover": "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_e142cb073374eebfbe182281fdda74cb.jpg",
+    "photo_list": [
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_e142cb073374eebfbe182281fdda74cb.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2f0a5ac4fa910e3a1ddb0746985868e2.jpeg"
+    ]
+  },
+  {
+    "name": "119消防救援",
+    "location": {
+      "lat": 36.605336,
+      "lng": 114.534733
+    },
+    "address": "邯郸市邯山区和平路亚太中柳林小区东北侧约160米",
+    "province": "河北省",
+    "city": "邯郸市",
+    "area": "邯山区",
+    "detail": 1,
+    "uid": "0a3c07ba6d5b9e42364aae63",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_9da0288687ca2edeee20894a948f33e5.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9da0288687ca2edeee20894a948f33e5.jpeg"
+    ]
+  },
+  {
+    "name": "子博汽车救援",
+    "location": {
+      "lat": 36.60069,
+      "lng": 114.549935
+    },
+    "address": "华信路88号",
+    "province": "河北省",
+    "city": "邯郸市",
+    "area": "丛台区",
+    "telephone": "13082151111",
+    "detail": 1,
+    "uid": "ab7e2bc4af2df24495ca0756",
+    "cover": "https://taojin-his.cdn.bcebos.com/f9198618367adab414fd8f5684d4b31c8701e4f2.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/f9198618367adab414fd8f5684d4b31c8701e4f2.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/H9825bc315c6034a84578f84dc713495408237667.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/H37d12f2eb9389b50d11b0c4c8835e5dde6116ecc.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/Hd058ccbf6c81800a8e27bb60bc3533fa838b4799.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/Ha1ec08fa513d2697c126b3d759fbb2fb4216d847.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/H574e9258d109b3de0da0d906c1bf6c81800a4c44.jpg"
+    ]
+  },
+  {
+    "name": "邯郸臂车升降机租赁道路救援有限公司",
+    "location": {
+      "lat": 36.564242,
+      "lng": 114.457713
+    },
+    "address": "河北省邯郸市邯山区机场路万合机电市场12排一号",
+    "province": "河北省",
+    "city": "邯郸市",
+    "area": "邯山区",
+    "telephone": "15028041555,15530006168",
+    "detail": 1,
+    "uid": "a5628bb2dbbc7c41b320a899",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B6527b9bec7e8112357.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B6527b9bec7e8112357.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6527b9be05c8b109ab.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6527b9bd3d2751684c.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6527b9bad1a8c10db0.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6527b9bc7007f4966.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6527b9c0889e214611.jpeg"
+    ]
+  },
+  {
+    "name": "魏县洹水大道消防救援站",
+    "location": {
+      "lat": 36.355755,
+      "lng": 114.956684
+    },
+    "address": "邯郸市魏县洹水大道东段魏都花园西南侧约50米",
+    "province": "河北省",
+    "city": "邯郸市",
+    "area": "魏县",
+    "detail": 1,
+    "uid": "50832d118b8e3fed0b69d9f4",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_4d8589418d77ae433db21c1fc0306c84.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4d8589418d77ae433db21c1fc0306c84.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_19ee55604c5bc60872868bcbb16fd8ff.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9a9dbf44c1434bd0985551d63160d243.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b8e59fc26d591fd07ccfe7097e4a6b5c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_03bb0c3155258684959197536c84a077.jpeg"
+    ]
+  },
+  {
+    "name": "邯郸蓝天救援队",
+    "location": {
+      "lat": 36.640922,
+      "lng": 114.539546
+    },
+    "address": "邯郸市丛台区家和路荣盛·锦绣花苑",
+    "province": "河北省",
+    "city": "邯郸市",
+    "area": "丛台区",
+    "detail": 1,
+    "uid": "a940c72bb8fca0c8c909f030",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B607aac06dc72e15cd5.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B607aac06dc72e15cd5.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4e349167f676a3dddaf1295914f87144.jpeg"
+    ]
+  },
+  {
+    "name": "长安吊车救援",
+    "location": {
+      "lat": 36.563683,
+      "lng": 114.832342
+    },
+    "address": "河北省邯郸市肥乡区肥乡镇长安路森林公园东角路口",
+    "province": "河北省",
+    "city": "邯郸市",
+    "area": "肥乡区",
+    "telephone": "(0310)8563363,13785058513",
+    "detail": 1,
+    "uid": "6df40dd27d79b82da5da392a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_e0f9e3b3b7503b7abba2019edbf3236a.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e0f9e3b3b7503b7abba2019edbf3236a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_233fffe26dd096963c2cd34543cea470.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_c705f4164c7527af0c0b2c6d94ca8649.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_af7348f1e1472d0c1f2845da5c9ad934.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_833e9e38da897c98553979baa8480cd3.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b851466d20eb2d85e3cad86e4e6ba32f.jpeg"
+    ]
+  },
+  {
+    "name": "丛台北路消防救援站",
+    "location": {
+      "lat": 36.626982,
+      "lng": 114.530705
+    },
+    "address": "河北省邯郸市丛台区丛台北路雅园(丛台北路)北侧约40米",
+    "province": "河北省",
+    "city": "邯郸市",
+    "area": "丛台区",
+    "detail": 1,
+    "uid": "71ca7669bef5ba5802897269",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_cb75dcf85f1b12aee26b813d25631379.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cb75dcf85f1b12aee26b813d25631379.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e1b14f222257584824bbfbd9c6914e6f.jpeg"
+    ]
+  }
+]

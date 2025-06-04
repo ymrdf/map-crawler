@@ -1,0 +1,108 @@
+[
+  {
+    "name": "攀枝花市消防救援支队",
+    "location": {
+      "lat": 26.584942,
+      "lng": 101.724482
+    },
+    "address": "四川省攀枝花市东区攀枝花大道东段-801号",
+    "province": "四川省",
+    "city": "攀枝花市",
+    "area": "东区",
+    "detail": 1,
+    "uid": "92ae27f0099df5aee81e97c3",
+    "cover": "https://pic-map.cdn.bcebos.com/img/8f7bc666fb900a40adc47802a8242cfd",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/8f7bc666fb900a40adc47802a8242cfd",
+      "https://lbsugc.cdn.bcebos.com/images/B664074d567ec91227d.jpeg"
+    ]
+  },
+  {
+    "name": "攀枝花市仁和区金沙大道消防救援站",
+    "location": {
+      "lat": 26.567447,
+      "lng": 101.85423
+    },
+    "address": "攀枝花市仁和区金沙江大道东段大沙坝派出所南侧约280米",
+    "province": "四川省",
+    "city": "攀枝花市",
+    "area": "仁和区",
+    "detail": 1,
+    "uid": "2d1db7ae52b684b5ed74f880",
+    "cover": "https://pic-map.cdn.bcebos.com/img/86758743ed77d4bc2b086808a64a24f2",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/86758743ed77d4bc2b086808a64a24f2"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 26.199191,
+      "lng": 101.828982
+    },
+    "address": "攀枝花市仁和区京昆线平地派出所西侧约200米",
+    "province": "四川省",
+    "city": "攀枝花市",
+    "area": "仁和区",
+    "detail": 1,
+    "uid": "556a6cc010030e4182288a96",
+    "cover": "https://pic-map.cdn.bcebos.com/img/af1b84e7178c8bbd88f6c26ff53a916e",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/af1b84e7178c8bbd88f6c26ff53a916e"
+    ]
+  },
+  {
+    "name": "仁和镇消防救援所",
+    "location": {
+      "lat": 26.497613,
+      "lng": 101.741218
+    },
+    "address": "攀枝花市仁和区正德街西路小学",
+    "province": "四川省",
+    "city": "攀枝花市",
+    "area": "仁和区",
+    "detail": 1,
+    "uid": "adf0b228d7f6545f3517dc98",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a0ef04f1b7dc01175b0bce6603f8145a.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a0ef04f1b7dc01175b0bce6603f8145a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_adf8f67e616fd4be9b5df9d177b9b2c7.jpeg"
+    ]
+  },
+  {
+    "name": "滴滴出行",
+    "location": {
+      "lat": 26.529352,
+      "lng": 101.704264
+    },
+    "address": "攀枝花市仁和区",
+    "province": "四川省",
+    "city": "攀枝花市",
+    "area": "仁和区",
+    "detail": 1,
+    "uid": "0782980639966a91128824e3",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_5411322737d0487a1d98cb6970ed23ae.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5411322737d0487a1d98cb6970ed23ae.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ad62983bbd7d314ce67fe0864a29eba8.jpeg"
+    ]
+  },
+  {
+    "name": "百援精养(攀枝花宏达店)",
+    "location": {
+      "lat": 26.675958,
+      "lng": 101.855438
+    },
+    "address": "西环南路326号",
+    "province": "四川省",
+    "city": "攀枝花市",
+    "area": "盐边县",
+    "telephone": "(0812)8653886,(0812)8656071",
+    "detail": 1,
+    "uid": "44a4ee95ec160fd902294f93",
+    "cover": "https://photo-meituan.cdn.bcebos.com/photo/1734681082e13ae91064195100791d76738a9ad59a",
+    "photo_list": [
+      "https://photo-meituan.cdn.bcebos.com/photo/1734681082e13ae91064195100791d76738a9ad59a"
+    ]
+  }
+]

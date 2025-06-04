@@ -1,0 +1,139 @@
+[
+  {
+    "name": "兴隆补胎送油搭电拖车救援",
+    "location": {
+      "lat": 39.866399,
+      "lng": 116.474375
+    },
+    "address": "北京市朝阳区大羊坊路东盈苑小区",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "朝阳区",
+    "telephone": "13275529017",
+    "detail": 1,
+    "uid": "2040b1b5b40afa3ac13644a9",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_8371947659e160d6c86d64b4d8cfb4be.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8371947659e160d6c86d64b4d8cfb4be.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6998a24009e8878ba4eb7ca7d7b3018a.jpeg"
+    ]
+  },
+  {
+    "name": "丰台区长辛店消防救援站",
+    "location": {
+      "lat": 39.805463,
+      "lng": 116.199009
+    },
+    "address": "北京市丰台区周口店路与京市路主路交叉路口往西南约140米",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "丰台区",
+    "street_id": "ad7a483c2c83851c5abbbc9a",
+    "detail": 1,
+    "uid": "ad7a483c2c83851c5abbbc9a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ee42fb9f9000a5a052d53170bf9ec635.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=ad7a483c2c83851c5abbbc9a&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_735846af5fb30e4350c09cc56691a127.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4b9d31f1b50fac627c2280390d30a358.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2b55f882ef6045249285e14dbf1c814a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d7a40802e4ab0d57552454478a418c13.jpeg"
+    ]
+  },
+  {
+    "name": "盛达搭电救援补胎维修",
+    "location": {
+      "lat": 39.898039,
+      "lng": 116.43546
+    },
+    "address": "北京市东城区龙潭街道黄杉木店东街193号",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "东城区",
+    "detail": 1,
+    "uid": "f64ac274825b57ee6fc02cb8",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_71647eff675da8f8c0d0a6a99556e8c5.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_71647eff675da8f8c0d0a6a99556e8c5.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 39.869603,
+      "lng": 116.391633
+    },
+    "address": "北京市丰台区马家堡路洋桥北里小区(东3门)东侧约70米",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "丰台区",
+    "detail": 1,
+    "uid": "84ceb60ca410652e1ef74da8",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_cc4078bd423c52d4562118711f72decd.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cc4078bd423c52d4562118711f72decd.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_171d487a38398d8042605e749dff453c.jpeg"
+    ]
+  },
+  {
+    "name": "中国救援消防",
+    "location": {
+      "lat": 39.828754,
+      "lng": 116.17939
+    },
+    "address": "北京市丰台区太子峪路",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "丰台区",
+    "detail": 1,
+    "uid": "b186224b9816adde88b98813",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B61bedea37eae051be.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B61bedea37eae051be.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1c547ac2745fcc9b811189e6c94f3e12.jpeg"
+    ]
+  },
+  {
+    "name": "轮胎专卖补胎救援",
+    "location": {
+      "lat": 40.218117,
+      "lng": 116.759516
+    },
+    "address": "北京市顺义区昌金路与李魏路交叉路口西南侧",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "顺义区",
+    "telephone": "15321838818",
+    "detail": 1,
+    "uid": "772de384690bed79353a715e",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/a4ecbdfb95827de7c5cfaf3f372c282e_2138.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/a4ecbdfb95827de7c5cfaf3f372c282e_2138.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/22cf74b2bcfa2bc2e8fecd9d30373962_3231.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/d2a7d2790cbba3faa92e8ad2a663d831_3832.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/a28df46eb0af32c8e515c703f6d8c0e5_4524.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/4a10182ab10b1bcfb9df5865e20ba73d_3485.jpeg",
+      "https://pic-map.cdn.bcebos.com/img/00efc73d9705a1e296e0416586cec3f6"
+    ]
+  },
+  {
+    "name": "丰台区王佐消防救援站",
+    "location": {
+      "lat": 39.800167,
+      "lng": 116.189471
+    },
+    "address": "北京市丰台区长青路与鑫源路交叉路口往东南约220米",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "丰台区",
+    "detail": 1,
+    "uid": "a6fcd5394a9b4ab11b94c6da",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_9e215f1db5df4a734fa550248acae3bc.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9e215f1db5df4a734fa550248acae3bc.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d16b2ac1fcb1ee0a8f520754e41bfe11.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cd25a9073d3ea04793fa81a3f998f35d.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_53db26bb7d0ed9597f533162d3f85d59.jpeg"
+    ]
+  }
+]

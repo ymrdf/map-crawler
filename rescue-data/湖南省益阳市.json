@@ -1,0 +1,191 @@
+[
+  {
+    "name": "益阳市永信救援有限公司",
+    "location": {
+      "lat": 28.591576,
+      "lng": 112.392052
+    },
+    "address": "湖南省益阳市赫山区G5513(长张高速)",
+    "province": "湖南省",
+    "city": "益阳市",
+    "area": "赫山区",
+    "detail": 1,
+    "uid": "e097b0f45f4233ec6f476088",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a8407fb9e1e4068d7587e9589f166601.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a8407fb9e1e4068d7587e9589f166601.jpeg"
+    ]
+  },
+  {
+    "name": "益阳蓝天救援",
+    "location": {
+      "lat": 28.591347,
+      "lng": 112.347432
+    },
+    "address": "湖南省益阳市赫山区会龙山街道白鹿路桥南河边",
+    "province": "湖南省",
+    "city": "益阳市",
+    "area": "赫山区",
+    "detail": 1,
+    "uid": "cb2304c212ebb3b6c2f1cfda",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_57c01d4ff636775dd641215256bc13c9.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_57c01d4ff636775dd641215256bc13c9.jpeg"
+    ]
+  },
+  {
+    "name": "益阳市消防救援支队",
+    "location": {
+      "lat": 28.579851,
+      "lng": 112.349226
+    },
+    "address": "湖南省益阳市赫山区金防路18号",
+    "province": "湖南省",
+    "city": "益阳市",
+    "area": "赫山区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "e7d61afa963e27428936ee19",
+    "cover": "https://taojin-his.cdn.bcebos.com/472309f7905298229d9449c9ddca7bcb0a46d411.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/472309f7905298229d9449c9ddca7bcb0a46d411.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4e2c43961b4293752e4f36d72e493891.jpg"
+    ]
+  },
+  {
+    "name": "益阳消防救援",
+    "location": {
+      "lat": 29.37488,
+      "lng": 112.410881
+    },
+    "address": "湖南省益阳市南县南洲东路848号(宝塔湖世纪城北侧约30米)",
+    "province": "湖南省",
+    "city": "益阳市",
+    "area": "南县",
+    "street_id": "7e791d014ff2d3c73786f44d",
+    "detail": 1,
+    "uid": "7e791d014ff2d3c73786f44d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_3b9009391b89a4a30eb3e736009d9ece.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=7e791d014ff2d3c73786f44d&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_74e4c59d4a27c784fc71df32dc7698f7.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_da197da36f2e11b16e2c17cf12650d47.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 28.583427,
+      "lng": 112.366522
+    },
+    "address": "益阳市赫山区大桃北路北美阳光城西侧约40米",
+    "province": "湖南省",
+    "city": "益阳市",
+    "area": "赫山区",
+    "detail": 1,
+    "uid": "9fdbb5f5ebbc61ec593ac8f4",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d2674d44efbe69f0186321f9bce6f752.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d2674d44efbe69f0186321f9bce6f752.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ed3479a3032671a9373e590a05fd4193.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B675a7d507f1a15e9b.jpeg"
+    ]
+  },
+  {
+    "name": "益阳消防救援",
+    "location": {
+      "lat": 28.534136,
+      "lng": 112.157843
+    },
+    "address": "湖南省益阳市桃江县桃花江镇金盆大道北段343号",
+    "province": "湖南省",
+    "city": "益阳市",
+    "area": "桃江县",
+    "detail": 1,
+    "uid": "ca82c561a218b09d9ff7793e",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_8196b71e471e4efe76cefa5073fdbfbf.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8196b71e471e4efe76cefa5073fdbfbf.jpeg"
+    ]
+  },
+  {
+    "name": "沅江市新华救援队",
+    "location": {
+      "lat": 29.053595,
+      "lng": 112.313888
+    },
+    "address": "益阳市沅江市南嘴镇桥头路70号",
+    "province": "湖南省",
+    "city": "益阳市",
+    "area": "沅江市",
+    "detail": 1,
+    "uid": "e2d3997e1f8072fb354aae20",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_bce150ee0a8932f88a305ef924d4dd3a.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bce150ee0a8932f88a305ef924d4dd3a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3d5759173073be04ecd648de1b094bdd.jpeg"
+    ]
+  },
+  {
+    "name": "益阳市消防救援支队重型机械救援队",
+    "location": {
+      "lat": 28.444713,
+      "lng": 112.443177
+    },
+    "address": "益阳市赫山区云峰路沧水铺镇政府东南侧约140米",
+    "province": "湖南省",
+    "city": "益阳市",
+    "area": "赫山区",
+    "detail": 1,
+    "uid": "0ebd8a2e36e5f7edc26c14d6",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_79ea6ecac47aae7d9e292ef87c92607e.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_79ea6ecac47aae7d9e292ef87c92607e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_170649f8a03ab5cfaad5670c06454d5c.jpeg"
+    ]
+  },
+  {
+    "name": "益阳市资阳区大码头消防救援站",
+    "location": {
+      "lat": 28.597785,
+      "lng": 112.32776
+    },
+    "address": "益阳市资阳区向仓南路益阳市石码头小学北侧约180米",
+    "province": "湖南省",
+    "city": "益阳市",
+    "area": "资阳区",
+    "street_id": "665ca53e8c986a1a725e80a9",
+    "detail": 1,
+    "uid": "665ca53e8c986a1a725e80a9",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_94b9bf7311499825bd0a7a4ea9d04942.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=665ca53e8c986a1a725e80a9&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6c96c3be0da83beab8c0c19ceb5f8937.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_470641773dee96e6b9fa1cc066021e73.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4232c0104860cc031f202b1bdc07d221.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a615a63792d4e6337d55681065b28dba.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f2d5d12e2bcc4d5269c525c714f3b456.jpeg"
+    ]
+  },
+  {
+    "name": "湖南先锋应急救援服务有限公司",
+    "location": {
+      "lat": 28.578749,
+      "lng": 112.395128
+    },
+    "address": "湖南省益阳市赫山区金富巷2号",
+    "province": "湖南省",
+    "city": "益阳市",
+    "area": "赫山区",
+    "telephone": "(0737)6115122,15273793738",
+    "detail": 1,
+    "uid": "e561ed45f9e431e54557265d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_0d1f18f89ef250d8818350958620fc33.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0d1f18f89ef250d8818350958620fc33.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_234609f42b5961b62b84a2a23bc4760a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_40bf2ed81727d329aa58ce23cf23d038.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65d2ed1f9b6ef13404.jpeg"
+    ]
+  }
+]

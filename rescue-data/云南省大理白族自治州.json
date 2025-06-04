@@ -1,0 +1,20 @@
+[
+  {
+    "name": "大理消防洱海水上应急救援中队",
+    "location": {
+      "lat": 25.608386,
+      "lng": 100.246185
+    },
+    "address": "大理白族自治州大理市滨海大道洱海公园",
+    "province": "云南省",
+    "city": "大理白族自治州",
+    "area": "大理市",
+    "street_id": "",
+    "detail": 1,
+    "uid": "4478994d688baaae246e98b8",
+    "cover": "https://taojin-his.cdn.bcebos.com/a2cc7cd98d1001e9ff7486bab60e7bec54e7973f.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/a2cc7cd98d1001e9ff7486bab60e7bec54e7973f.jpg"
+    ]
+  }
+]

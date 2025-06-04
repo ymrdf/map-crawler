@@ -1,0 +1,36 @@
+[
+  {
+    "name": "四川奉化鑫汽车救援服务有限公司",
+    "location": {
+      "lat": 31.454982,
+      "lng": 103.017567
+    },
+    "address": "阿坝藏族羌族自治州理县成那线",
+    "province": "四川省",
+    "city": "阿坝藏族羌族自治州",
+    "area": "理县",
+    "detail": 1,
+    "uid": "e0cadd62ce5b1e6badb22ab0",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_5aa9b0a47c5558a5317a6f5aa84b8ebd.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5aa9b0a47c5558a5317a6f5aa84b8ebd.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 33.596998,
+      "lng": 102.954009
+    },
+    "address": "四川省阿坝藏族羌族自治州若尔盖县达扎寺镇德阳大道16号",
+    "province": "四川省",
+    "city": "阿坝藏族羌族自治州",
+    "area": "若尔盖县",
+    "detail": 1,
+    "uid": "87c682f9289753aeede4a5c6",
+    "cover": "https://pic-map.cdn.bcebos.com/img/6656df21c3980cfe3c270ace2cfe0bae",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/6656df21c3980cfe3c270ace2cfe0bae"
+    ]
+  }
+]

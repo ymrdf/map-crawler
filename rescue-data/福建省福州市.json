@@ -1,0 +1,177 @@
+[
+  {
+    "name": "福州闽时达汽车救援有限公司",
+    "location": {
+      "lat": 26.07141,
+      "lng": 119.369617
+    },
+    "address": "福州市晋安区上洋路速8酒店(鼓山店)",
+    "province": "福建省",
+    "city": "福州市",
+    "area": "晋安区",
+    "telephone": "18959169271",
+    "detail": 1,
+    "uid": "c54707d9bc0ce566e70738b1",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B645ef0c1b3f257d4e.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B645ef0c1b3f257d4e.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B645ef0c18899b1006e.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B645eef1d2891ba0fb.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/f673c39291b3a9a7823093d87dac9a59_1197.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2dcf446fed82e8d50ae332502b0045aa.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_540c74c3a38b97e2aa4d63c3ea6ef981.jpeg"
+    ]
+  },
+  {
+    "name": "极速救援",
+    "location": {
+      "lat": 25.717894,
+      "lng": 119.326407
+    },
+    "address": "福州市福清市清宏路星汇龙城1期南侧约50米",
+    "province": "福建省",
+    "city": "福州市",
+    "area": "福清市",
+    "telephone": "15980502396",
+    "detail": 1,
+    "uid": "08fc1f12ec3c9314c929150e",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_8301b1950390f939b18fcf171ffcaad6.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8301b1950390f939b18fcf171ffcaad6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_61ccfc13f05b36ab1862bc7cfdc9a75d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0b3666351ea78a4be69908348caac37a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d9c17c991a551b8278a832444988d61b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e77bc9e911b6c548c8870a6d415f6c5f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ad37bfe3e77e5d1c82b110e77a763d63.jpeg"
+    ]
+  },
+  {
+    "name": "福建省曙光救援中心",
+    "location": {
+      "lat": 26.127337,
+      "lng": 119.251671
+    },
+    "address": "福建省福州市闽侯县荆溪镇永丰社区杜坞村40号",
+    "province": "福建省",
+    "city": "福州市",
+    "area": "闽侯县",
+    "detail": 1,
+    "uid": "398b1d9239be6cca58f6be32",
+    "cover": "https://pic-map.cdn.bcebos.com/img/1b3fddecd7871882f198279f0d70cfe8",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/1b3fddecd7871882f198279f0d70cfe8"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 26.027384,
+      "lng": 119.297497
+    },
+    "address": "福州市仓山区福湾路",
+    "province": "福建省",
+    "city": "福州市",
+    "area": "仓山区",
+    "detail": 1,
+    "uid": "eef68b1742cf22da774ff121",
+    "cover": "https://pic-map.cdn.bcebos.com/img/fc8470c1988d16af8a08de6cbc63e288",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/fc8470c1988d16af8a08de6cbc63e288"
+    ]
+  },
+  {
+    "name": "三山消防救援站",
+    "location": {
+      "lat": 25.53422,
+      "lng": 119.520028
+    },
+    "address": "福州市福清市京岚线福清三山中学西南侧约140米",
+    "province": "福建省",
+    "city": "福州市",
+    "area": "福清市",
+    "detail": 1,
+    "uid": "a5626b3b0baa554f373a71f4",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_b0ce41a1e360b990205ac962b10e289b.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b0ce41a1e360b990205ac962b10e289b.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 26.042413,
+      "lng": 119.212242
+    },
+    "address": "福州市闽侯县广贤路福州汽车客运西站南侧约250米",
+    "province": "福建省",
+    "city": "福州市",
+    "area": "闽侯县",
+    "detail": 1,
+    "uid": "94dcf777f9ddefc340e1928f",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_83df6f218fd7126d314d0676aacec0a4.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_83df6f218fd7126d314d0676aacec0a4.jpg"
+    ]
+  },
+  {
+    "name": "曙光救援",
+    "location": {
+      "lat": 26.029662,
+      "lng": 119.268686
+    },
+    "address": "福州市仓山区红江路金山工业集中区浦上园C区",
+    "province": "福建省",
+    "city": "福州市",
+    "area": "仓山区",
+    "detail": 1,
+    "uid": "4c51bc0aaf57771443ab9aaf",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_af9febe4608138b573d060d1af45244a.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_af9febe4608138b573d060d1af45244a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7c41e52b6af6cc9a4448833e5ae05b8d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a3fec960d017856f6662bd725b89179b.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65924e01d77d7453f.jpeg"
+    ]
+  },
+  {
+    "name": "福州市晋安区新店消防救援站",
+    "location": {
+      "lat": 26.134505,
+      "lng": 119.316686
+    },
+    "address": "福建省福州市晋安区新店镇南平东路157号",
+    "province": "福建省",
+    "city": "福州市",
+    "area": "晋安区",
+    "street_id": "dfbbde0d449cc9e02ce67b71",
+    "detail": 1,
+    "uid": "dfbbde0d449cc9e02ce67b71",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_fad848c1ba7c3b28145255e0512cdcf1.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=dfbbde0d449cc9e02ce67b71&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "福州市长乐区航城消防救援站",
+    "location": {
+      "lat": 25.950124,
+      "lng": 119.495831
+    },
+    "address": "福州市长乐区凯歌路龙汇御景西北侧约70米",
+    "province": "福建省",
+    "city": "福州市",
+    "area": "长乐区",
+    "street_id": "a9d7f60a37d2ba7575e5b67b",
+    "detail": 1,
+    "uid": "a9d7f60a37d2ba7575e5b67b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_76356e45dad93088fe2adcb8d971bc67.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=a9d7f60a37d2ba7575e5b67b&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c0d1022aaa6c4b04a8aeb71ae11fe382.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_50d026057593c9536bf911d5a766ba36.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b7a4bbf1fa6ad821260d0c5154179974.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a3d37336336bc4d35aaf6445660a1b67.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_694b676f536352343d6f28202f884bba.jpeg"
+    ]
+  }
+]

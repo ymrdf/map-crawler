@@ -1,0 +1,137 @@
+[
+  {
+    "name": "蓝天救援",
+    "location": {
+      "lat": 36.066063,
+      "lng": 111.544499
+    },
+    "address": "临汾市尧都区五一东路",
+    "province": "山西省",
+    "city": "临汾市",
+    "area": "尧都区",
+    "detail": 1,
+    "uid": "66b5353185731f8715c8f693",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ff6f1b849a2debf1cc647ab663f47bf7.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ff6f1b849a2debf1cc647ab663f47bf7.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B662753d26dc88143ae.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B662753d2a4b001138b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2ae1aa292537faafa8748c4ad800b0bd.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B667898be611ac13df0.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6777964e2f55513662.jpeg"
+    ]
+  },
+  {
+    "name": "尧都赵明道路救援",
+    "location": {
+      "lat": 36.039448,
+      "lng": 111.599208
+    },
+    "address": "山西省临汾市尧都区",
+    "province": "山西省",
+    "city": "临汾市",
+    "area": "尧都区",
+    "telephone": "13133170407",
+    "detail": 1,
+    "uid": "f3549607b0e7f556f42310c9",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_0a444642c184d770407879522d43b1fc.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0a444642c184d770407879522d43b1fc.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 36.074188,
+      "lng": 111.525495
+    },
+    "address": "山西省临汾市尧都区平阳南路69号",
+    "province": "山西省",
+    "city": "临汾市",
+    "area": "尧都区",
+    "street_id": "53b47ea2c9479f26b35c6ac0",
+    "detail": 1,
+    "uid": "53b47ea2c9479f26b35c6ac0",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_b17d1168b1e4ed30f188d19388de6a91.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=53b47ea2c9479f26b35c6ac0&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a820961ec6bc4dd6eacef7a227f1c564.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2abdc5e7b5fcf4ced062729420a7485f.jpeg"
+    ]
+  },
+  {
+    "name": "临汾蓝天救援队",
+    "location": {
+      "lat": 36.07302,
+      "lng": 111.493337
+    },
+    "address": "山西省临汾市尧都区G309(平阳大桥)",
+    "province": "山西省",
+    "city": "临汾市",
+    "area": "尧都区",
+    "detail": 1,
+    "uid": "413fb6fd8ad46396b6147fcf",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/H8694a4c27d1ed21bcd1518e5a06eddc450da3fd5.jpg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/H8694a4c27d1ed21bcd1518e5a06eddc450da3fd5.jpg"
+    ]
+  },
+  {
+    "name": "金桥道路救援",
+    "location": {
+      "lat": 36.199215,
+      "lng": 111.633883
+    },
+    "address": "山西省临汾市洪洞县G108(霍侯一级公路)",
+    "province": "山西省",
+    "city": "临汾市",
+    "area": "洪洞县",
+    "telephone": "18335792029",
+    "detail": 1,
+    "uid": "aeeb0a6c057e74dda1a93406",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_e7cf2184fc64a42503b3a6826de33ce2.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e7cf2184fc64a42503b3a6826de33ce2.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_041af17001dc7e59ca7ba20e365e369f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_583af21068647f8e09b7f02d0a40f62a.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6369bb1882219c929.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6369bb115801516d5a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_fa32f711366b06bb09f41ba5e8d0daa2.jpeg"
+    ]
+  },
+  {
+    "name": "襄汾县消防救援大队",
+    "location": {
+      "lat": 35.897722,
+      "lng": 111.413241
+    },
+    "address": "山西省临汾市襄汾县尧风街",
+    "province": "山西省",
+    "city": "临汾市",
+    "area": "襄汾县",
+    "detail": 1,
+    "uid": "c178ee6d54df132582a12e24",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B606284868207c14879.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B606284868207c14879.jpeg",
+      "https://pic-map.cdn.bcebos.com/img/93c1117dffeb1d50b6adc6aa3aa13a52"
+    ]
+  },
+  {
+    "name": "古县消防救援大队",
+    "location": {
+      "lat": 36.291624,
+      "lng": 111.942098
+    },
+    "address": "山西省临汾市古县G341(胶海线)",
+    "province": "山西省",
+    "city": "临汾市",
+    "area": "古县",
+    "detail": 1,
+    "uid": "49cc95bbaf15ac84c27da2ad",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d1fdf6366ef58166195232c679a980dd.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d1fdf6366ef58166195232c679a980dd.jpeg"
+    ]
+  }
+]

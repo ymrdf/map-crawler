@@ -1,0 +1,122 @@
+[
+  {
+    "name": "清峰汽车免费道路救援",
+    "location": {
+      "lat": 42.985755,
+      "lng": 126.749193
+    },
+    "address": "吉林市桦甸市渤海大街外贸住宅楼西南侧",
+    "province": "吉林省",
+    "city": "吉林市",
+    "area": "桦甸市",
+    "street_id": "26b260c071cfdad72fb90817",
+    "telephone": "13704346633",
+    "detail": 1,
+    "uid": "26b260c071cfdad72fb90817",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_3ddbc4c40e65e48e7ba31bc4401b46b5.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=26b260c071cfdad72fb90817&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0a83d4b0ad25105129ed334f4c50d18e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0529942aa580bf41f960c27f42f7b5bf.jpeg"
+    ]
+  },
+  {
+    "name": "吉林市福瑞汽车救援",
+    "location": {
+      "lat": 43.825466,
+      "lng": 126.535377
+    },
+    "address": "吉林省吉林市船营区北新胡同与独立路交叉口东北100米",
+    "province": "吉林省",
+    "city": "吉林市",
+    "area": "船营区",
+    "telephone": "13314379071,13504380380",
+    "detail": 1,
+    "uid": "fa21c0f9957b92fe9ff77995",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a8c23664bfe9a3257397a1efafb5771e.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a8c23664bfe9a3257397a1efafb5771e.jpeg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_709ee3413f4b8c5ecec470243acf3f62.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_5a4cc8a46f75910c17fac39359b64766.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f5b23747beb62d99b69a8aa0d02cb923.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_daefb07852ff00994b3c63bb97198d6f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d8fde92eba0bcab5a43227c97d864bbf.jpeg"
+    ]
+  },
+  {
+    "name": "吉林市昌邑区中康路消防救援站",
+    "location": {
+      "lat": 43.865592,
+      "lng": 126.57568
+    },
+    "address": "吉林省吉林市昌邑区中康路13号",
+    "province": "吉林省",
+    "city": "吉林市",
+    "area": "昌邑区",
+    "detail": 1,
+    "uid": "02f95982746a3f57250bd08d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_5f44b24133d6380203bc68eae59200c8.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5f44b24133d6380203bc68eae59200c8.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a756bf66ed772bb56ebb033478c241e2.jpeg"
+    ]
+  },
+  {
+    "name": "船营区消防救援大队",
+    "location": {
+      "lat": 43.830197,
+      "lng": 126.484422
+    },
+    "address": "吉林省吉林市船营区远大吉林市二十五中学斜对面",
+    "province": "吉林省",
+    "city": "吉林市",
+    "area": "船营区",
+    "detail": 1,
+    "uid": "f69d365b3de0658dcc06a482",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B60d5321b2c8d1e993.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B60d5321b2c8d1e993.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B60d5324c2d3ff3fe9.jpeg",
+      "https://pic-map.cdn.bcebos.com/img/da2b8701079d6f8038cc39b618fb6429"
+    ]
+  },
+  {
+    "name": "吉林市红剑救援队队部",
+    "location": {
+      "lat": 43.883209,
+      "lng": 126.598601
+    },
+    "address": "吉林市昌邑区龙江街沿江住宅区西侧",
+    "province": "吉林省",
+    "city": "吉林市",
+    "area": "昌邑区",
+    "detail": 1,
+    "uid": "4f2c0cd5ec54d0aea1d23021",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_3fb63edce34085dfa3a304e89fe472f0.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3fb63edce34085dfa3a304e89fe472f0.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B657d3aedf081cbe3d.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B67622a7d9f40c3c1d.jpeg"
+    ]
+  },
+  {
+    "name": "吉林市应急救援信息中心",
+    "location": {
+      "lat": 43.844034,
+      "lng": 126.552883
+    },
+    "address": "吉林市船营区北京路永明小区",
+    "province": "吉林省",
+    "city": "吉林市",
+    "area": "船营区",
+    "detail": 1,
+    "uid": "1926d5b5de7cbf3bca1b95fe",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_229a2b2f607a80d55676970149ed8b79.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_229a2b2f607a80d55676970149ed8b79.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_017067eb1dc540f6e2137848c04636e1.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9d684fc540bf1e635e32bd692502dcc7.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_53140eaed44dc0ea6f881bc5b3c26f8d.jpeg"
+    ]
+  }
+]

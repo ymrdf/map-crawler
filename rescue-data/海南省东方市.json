@@ -1,0 +1,53 @@
+[
+  {
+    "name": "移动脚手架出租出售(东方店)",
+    "location": {
+      "lat": 19.075418,
+      "lng": 108.687539
+    },
+    "address": "东方市海榆(西)线",
+    "province": "海南省",
+    "city": "东方市",
+    "area": "",
+    "detail": 1,
+    "uid": "61a297a85447d1d4d13ce3df",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_debda3aa4e9dc151dac469abdc751b68.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_debda3aa4e9dc151dac469abdc751b68.jpeg"
+    ]
+  },
+  {
+    "name": "宗申车辆",
+    "location": {
+      "lat": 19.224865,
+      "lng": 108.688969
+    },
+    "address": "东方市四更边防派出所东侧",
+    "province": "海南省",
+    "city": "东方市",
+    "area": "",
+    "detail": 1,
+    "uid": "fa3781138afbcade4151c066",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_0ebe09f0c976bad618443440a11b2188.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0ebe09f0c976bad618443440a11b2188.jpeg"
+    ]
+  },
+  {
+    "name": "极目无人机",
+    "location": {
+      "lat": 19.126527,
+      "lng": 108.819519
+    },
+    "address": "东方市S314大田镇零公里幼儿园东南侧约160米",
+    "province": "海南省",
+    "city": "东方市",
+    "area": "",
+    "detail": 1,
+    "uid": "b8c532aa761ffeaaab0dd8eb",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_46609cc2ab5de37c9ba146292d1479ee.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_46609cc2ab5de37c9ba146292d1479ee.jpeg"
+    ]
+  }
+]

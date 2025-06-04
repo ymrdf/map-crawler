@@ -1,0 +1,76 @@
+[
+  {
+    "name": "云南科宁救援科技有限公司",
+    "location": {
+      "lat": 24.380656,
+      "lng": 102.546243
+    },
+    "address": "玉溪市红塔区州桥路亚金花园南侧约150米",
+    "province": "云南省",
+    "city": "玉溪市",
+    "area": "红塔区",
+    "telephone": "15187700165,15308777002",
+    "detail": 1,
+    "uid": "ae9e1f8ec1d55ee5b6f42f35",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_68464f1a5fc78a7e6c063b0169698d1a.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_68464f1a5fc78a7e6c063b0169698d1a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_de328412d4f6d7d774587d87d7f64fee.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_580ea9864b763aab50ac7500041447ed.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b7e86437a61b349aef27a304bbea63ca.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5872d876d51400ee864f1c01e18e7f66.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_105f56cb894b1352580ff8c23266d9c4.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 24.134702,
+      "lng": 102.800093
+    },
+    "address": "玉溪市通海县晚街路杨广镇人民政府南侧约100米",
+    "province": "云南省",
+    "city": "玉溪市",
+    "area": "通海县",
+    "detail": 1,
+    "uid": "00ccffff6415a7ad583ac84c",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ee71af43ece2344b948386710538095c.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ee71af43ece2344b948386710538095c.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 24.677775,
+      "lng": 102.907721
+    },
+    "address": "云南省玉溪市澄江市人民西路延长线",
+    "province": "云南省",
+    "city": "玉溪市",
+    "area": "澄江市",
+    "detail": 1,
+    "uid": "50d72b160e7ee088a10464aa",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_e34974808a71b02f06c7f6053810ce74.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e34974808a71b02f06c7f6053810ce74.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 24.184231,
+      "lng": 102.42374
+    },
+    "address": "玉溪市峨山彝族自治县G357登云小学东北侧约240米",
+    "province": "云南省",
+    "city": "玉溪市",
+    "area": "峨山彝族自治县",
+    "detail": 1,
+    "uid": "ef99d6a1464ab77c61685871",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_bd379e2f77c3d018f7851402f9fb99bf.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bd379e2f77c3d018f7851402f9fb99bf.jpeg"
+    ]
+  }
+]

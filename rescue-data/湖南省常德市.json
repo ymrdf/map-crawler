@@ -1,0 +1,160 @@
+[
+  {
+    "name": "蓝天救援队",
+    "location": {
+      "lat": 29.586323,
+      "lng": 111.405514
+    },
+    "address": "常德市石门县武陵南街中宝石化(加油站)东北侧约30米",
+    "province": "湖南省",
+    "city": "常德市",
+    "area": "石门县",
+    "detail": 1,
+    "uid": "a952f6b62229aa162efaa754",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_dce5d593658f04ac10c5778407c2c817.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_dce5d593658f04ac10c5778407c2c817.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0799a42ff377a95b44d7ad1541b65205.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2b22bf9e05f79cc2bd6ae633ddca562d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_243d383aec81f922a6796c342bafe0b7.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8e84d6ffdd5bfae3d5cf3df722183fce.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_415801fb255741de8e75481e18a86d4e.jpeg"
+    ]
+  },
+  {
+    "name": "飞龙救援队",
+    "location": {
+      "lat": 29.578933,
+      "lng": 111.438782
+    },
+    "address": "常德市石门县曹家棚路亨通苑小区西南侧约270米",
+    "province": "湖南省",
+    "city": "常德市",
+    "area": "石门县",
+    "telephone": "(0736)5338118",
+    "detail": 1,
+    "uid": "a74857ab39f562c6704b8732",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_52be29c8b931a43e6163d7e9eb56a574.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_52be29c8b931a43e6163d7e9eb56a574.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B667b8a6895e5f49dc.jpeg"
+    ]
+  },
+  {
+    "name": "汉寿蓝天救援队",
+    "location": {
+      "lat": 28.904755,
+      "lng": 111.955527
+    },
+    "address": "常德市汉寿县汉寿大道金山国际新城",
+    "province": "湖南省",
+    "city": "常德市",
+    "area": "汉寿县",
+    "detail": 1,
+    "uid": "aef85f34c46efb3c100daa00",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_275497d83c45f7ca3edf6f2cb3a35e16.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_275497d83c45f7ca3edf6f2cb3a35e16.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B671b4073bed6e77c8.jpeg"
+    ]
+  },
+  {
+    "name": "常德市武陵区蓝天救援队",
+    "location": {
+      "lat": 29.057025,
+      "lng": 111.696056
+    },
+    "address": "常德市武陵区朝阳路朝阳新城东南侧约30米",
+    "province": "湖南省",
+    "city": "常德市",
+    "area": "武陵区",
+    "detail": 1,
+    "uid": "418f5d656518392a36b06cc5",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_2f8eb9e7c4830215ed8659a01cc2b0c2.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2f8eb9e7c4830215ed8659a01cc2b0c2.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_edb0ac8b96a32c00dbb60c2e8c66acd0.jpeg"
+    ]
+  },
+  {
+    "name": "常德市消防救援支队",
+    "location": {
+      "lat": 29.059379,
+      "lng": 111.702466
+    },
+    "address": "湖南省常德市武陵区柳叶大道2555号",
+    "province": "湖南省",
+    "city": "常德市",
+    "area": "武陵区",
+    "detail": 1,
+    "uid": "a0b2224dc449c81e03ff2d37",
+    "cover": "https://pic-map.cdn.bcebos.com/img/8ded508a1515f45a03f3d01165b2b000",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/8ded508a1515f45a03f3d01165b2b000"
+    ]
+  },
+  {
+    "name": "常德市应急救援中心",
+    "location": {
+      "lat": 29.052321,
+      "lng": 111.701219
+    },
+    "address": "常德市武陵区玫瑰二巷滨湖小学西北侧约140米",
+    "province": "湖南省",
+    "city": "常德市",
+    "area": "武陵区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "bf624972566fca39b23c81b4",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_3de2e8e23796efaeba18d4fdb1a990f5.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3de2e8e23796efaeba18d4fdb1a990f5.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e98e759780c530ae00c0c87dc7d9e977.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_fa711a3a9d6e140f3edfc5d6df5a82fe.jpeg"
+    ]
+  },
+  {
+    "name": "鑫宇汽车维修服务中心",
+    "location": {
+      "lat": 29.07395,
+      "lng": 111.707403
+    },
+    "address": "常德大道幸福小区3079号汽车维修保养钣金喷漆事故理赔保险销售轮胎补胎24小时道路救援汽车配件",
+    "province": "湖南省",
+    "city": "常德市",
+    "area": "武陵区",
+    "telephone": "15200681088",
+    "detail": 1,
+    "uid": "dc887f53a28108cbeb1e9743",
+    "cover": "https://photo-meituan.cdn.bcebos.com/photo/17337082679fc4a491a0b38bef3439ac428625a5fc",
+    "photo_list": [
+      "https://photo-meituan.cdn.bcebos.com/photo/17337082679fc4a491a0b38bef3439ac428625a5fc",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4ba058c48d34f4e200045f1b08d7e058.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2fe31e58c2e2b5b63ca2c70e6ea50f49.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_50c147bcec5a538af214fbe39ad34d6b.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1615678afc457a6fbfd3cb67731f0ccf.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B6062937b6d95d18389.jpeg"
+    ]
+  },
+  {
+    "name": "临澧县消防救援大队",
+    "location": {
+      "lat": 29.445081,
+      "lng": 111.650067
+    },
+    "address": "常德市临澧县兴隆路临澧县第二完全小学东南侧约120米",
+    "province": "湖南省",
+    "city": "常德市",
+    "area": "临澧县",
+    "street_id": "",
+    "detail": 1,
+    "uid": "cf71955d7a782d98adb22ae2",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_739172629ecd2cf7a0b09ee14590d829.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_739172629ecd2cf7a0b09ee14590d829.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_c63495cb0c1ce4b0c553c8c204db53e3.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_d7c57e500586d9a3a8da268ed14175fb.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4d520650015b077ccd508e660bf06cca.jpg"
+    ]
+  }
+]

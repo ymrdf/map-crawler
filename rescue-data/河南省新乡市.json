@@ -1,0 +1,174 @@
+[
+  {
+    "name": "应急救援",
+    "location": {
+      "lat": 35.396959,
+      "lng": 113.919529
+    },
+    "address": "新乡市凤泉区宝山大道新乡市凤泉区幼儿园西北侧约280米",
+    "province": "河南省",
+    "city": "新乡市",
+    "area": "凤泉区",
+    "detail": 1,
+    "uid": "4bf8ef5f1ea833f4d8d8913a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_533446e848f3b0013f643a1fba2bab56.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_533446e848f3b0013f643a1fba2bab56.jpeg"
+    ]
+  },
+  {
+    "name": "力持航救援",
+    "location": {
+      "lat": 35.161472,
+      "lng": 114.707901
+    },
+    "address": "河南省新乡市长垣市南蒲街道华豫大道长垣国际万商城13栋18号",
+    "province": "河南省",
+    "city": "新乡市",
+    "area": "长垣市",
+    "detail": 1,
+    "uid": "14c2f3ead9c47967c8213d24",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_e6ce97b88b666741260ed853d1363def.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e6ce97b88b666741260ed853d1363def.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_68c5341b2b1cd1652ebb4068aadf6409.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6488a6cfb7b8d58a9e6bfaa98492de07.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b1ccf635871618b7f9c7b1fe2a163ac2.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_68e263ff0f62aab2a6c2cafcff96b1ca.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_732ead52e194e0c4c574d5728aa528af.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 35.32288,
+      "lng": 113.884069
+    },
+    "address": "新乡市牧野区宏力大道(中)新乡市第二人民医院",
+    "province": "河南省",
+    "city": "新乡市",
+    "area": "牧野区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "0d8e6b7c6b2c5d493ce23179",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_7b035901b2a6b9145f86a98cda06bede.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7b035901b2a6b9145f86a98cda06bede.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7fcb86b5b8088926332b9d40bc2bb7c7.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 35.273301,
+      "lng": 114.747629
+    },
+    "address": "新乡市长垣市",
+    "province": "河南省",
+    "city": "新乡市",
+    "area": "长垣市",
+    "detail": 1,
+    "uid": "be6e12173ff6262851e5c567",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_4acda85a2e07bc2e4ef6b9a5048e2106.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4acda85a2e07bc2e4ef6b9a5048e2106.jpeg"
+    ]
+  },
+  {
+    "name": "长垣市人民路消防救援站",
+    "location": {
+      "lat": 35.208315,
+      "lng": 114.644781
+    },
+    "address": "新乡市长垣市人民路与亿隆大道交叉路口西南侧",
+    "province": "河南省",
+    "city": "新乡市",
+    "area": "长垣市",
+    "detail": 1,
+    "uid": "218ba075659d0c5f593ac855",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_bea0dedbc6cb2de0d8dec253191cf0f4.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bea0dedbc6cb2de0d8dec253191cf0f4.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 35.27244,
+      "lng": 113.678649
+    },
+    "address": "新乡市获嘉县中山路东城嘉苑北侧约50米",
+    "province": "河南省",
+    "city": "新乡市",
+    "area": "获嘉县",
+    "detail": 1,
+    "uid": "30ac4b70bf6a2b419cf77973",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_c9caf0ad6e59d0f00f2580b9a30a9f08.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c9caf0ad6e59d0f00f2580b9a30a9f08.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c5b2d5cf46a7e89ceb8e4b3cb7c6fde3.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f930fc02b90127e4edff71d8daecb503.jpeg"
+    ]
+  },
+  {
+    "name": "辉县市玉财道路救援服务有限公司",
+    "location": {
+      "lat": 35.493155,
+      "lng": 113.81605
+    },
+    "address": "新乡市辉县市共和路清晖花园西北门西南侧约80米",
+    "province": "河南省",
+    "city": "新乡市",
+    "area": "辉县市",
+    "detail": 1,
+    "uid": "c6727c60b2a0fd8701294f21",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_60005612c5335e23147665a9ea5e6ed3.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_60005612c5335e23147665a9ea5e6ed3.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_17815232200168d83f300e2cffb45c01.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8a35674ceaac4b4f7490ee5b51284b62.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e7012dffc115f96b15df0aad0f6bc0c6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f241a940a5b789dd0e43b31dbb1dd883.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bab187c80e96e53a69992b3e332d16f0.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 35.16821,
+      "lng": 114.215662
+    },
+    "address": "新乡市延津县棉东街元和·经典名门",
+    "province": "河南省",
+    "city": "新乡市",
+    "area": "延津县",
+    "detail": 1,
+    "uid": "9460053fc9078204b45f1e00",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_1f4376b7802ee6f784f7f5fd53ffefdb.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1f4376b7802ee6f784f7f5fd53ffefdb.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e553b7fe1480ad3d4dd499b3b95549c8.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_450369b09f16fa878302aa0c395b8808.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6590568dec6aa69adc9bb76c0d30687b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_59ccc8eb49fcecb4bd521a48ea5de74c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b4e686a50348411b119f681c2f4fda1b.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 35.208273,
+      "lng": 114.644999
+    },
+    "address": "新乡市长垣市人民路与亿隆大道交叉路口南侧",
+    "province": "河南省",
+    "city": "新乡市",
+    "area": "长垣市",
+    "detail": 1,
+    "uid": "f8b4eb5be533d5485d0d0248",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_95cbc9a0b617a4fd9019a6b0494dbd89.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_95cbc9a0b617a4fd9019a6b0494dbd89.jpeg"
+    ]
+  }
+]

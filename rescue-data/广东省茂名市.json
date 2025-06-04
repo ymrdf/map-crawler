@@ -1,0 +1,151 @@
+[
+  {
+    "name": "拖拖车吊车救援",
+    "location": {
+      "lat": 22.253741,
+      "lng": 110.928097
+    },
+    "address": "茂名市信宜市水口镇政府旁",
+    "province": "广东省",
+    "city": "茂名市",
+    "area": "信宜市",
+    "detail": 1,
+    "uid": "ffd42e74782faf51f60e7735",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B630586258f8761581b.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B630586258f8761581b.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B630586258c6b7424e.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B63058625a617f954d.jpeg"
+    ]
+  },
+  {
+    "name": "茂名市安捷紧急救援服务有限公司",
+    "location": {
+      "lat": 21.900882,
+      "lng": 110.867429
+    },
+    "address": "茂名市高州市站前路金鸿东方花园南侧约280米",
+    "province": "广东省",
+    "city": "茂名市",
+    "area": "高州市",
+    "detail": 1,
+    "uid": "0c6b87c1d80be94b81a12eda",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_dd3f7fe0d7d4176ac6d6caaa5e7a40ae.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_dd3f7fe0d7d4176ac6d6caaa5e7a40ae.jpeg"
+    ]
+  },
+  {
+    "name": "医疗救援车转动",
+    "location": {
+      "lat": 21.65263,
+      "lng": 110.633219
+    },
+    "address": "茂名市化州市教育路化州市人民医院东南侧",
+    "province": "广东省",
+    "city": "茂名市",
+    "area": "化州市",
+    "detail": 1,
+    "uid": "c774a51b696a3b98c4f02561",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_08e7176a368887fd498d2e573d288893.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_08e7176a368887fd498d2e573d288893.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8fa8ff387566192bd80b79a84f372b9e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cd03ea05575bb504a4eb070ecba6d8f4.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65c805440a75b160d1.jpeg"
+    ]
+  },
+  {
+    "name": "化州市合江消防救援站",
+    "location": {
+      "lat": 21.94258,
+      "lng": 110.562324
+    },
+    "address": "茂名市化州市S285合江镇中心幼儿园北侧约60米",
+    "province": "广东省",
+    "city": "茂名市",
+    "area": "化州市",
+    "detail": 1,
+    "uid": "6d6d0f7cbc9fc48071210b18",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B623062e2c80a1c261.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B623062e2c80a1c261.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3baf8b7d5f9b5bfbaf8233cb65b7ef63.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 22.332147,
+      "lng": 110.943866
+    },
+    "address": "茂名市信宜市银湖东路炜卓·明珠花园西南侧约50米",
+    "province": "广东省",
+    "city": "茂名市",
+    "area": "信宜市",
+    "street_id": "6d8accc569a343f854bfff11",
+    "detail": 1,
+    "uid": "6d8accc569a343f854bfff11",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_738badea7b93becc7ada1bcbaca0cbcc.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=6d8accc569a343f854bfff11&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "化州市北京路消防救援站",
+    "location": {
+      "lat": 21.66888,
+      "lng": 110.683663
+    },
+    "address": "茂名市化州市樟沙南路广东化州鉴江司法职业学校东北侧约250米",
+    "province": "广东省",
+    "city": "茂名市",
+    "area": "化州市",
+    "detail": 1,
+    "uid": "4dec77fb241b61cefa42b26f",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B615fb2c5c314117cb7.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B615fb2c5c314117cb7.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e89b33a5b21b704efa19bd8e86cccd59.jpeg"
+    ]
+  },
+  {
+    "name": "茂名市茂南区油城一路消防救援站",
+    "location": {
+      "lat": 21.681646,
+      "lng": 110.861017
+    },
+    "address": "茂名市茂南区油城二路茂名石化新华南住宅小区东北侧约220米",
+    "province": "广东省",
+    "city": "茂名市",
+    "area": "茂南区",
+    "detail": 1,
+    "uid": "650530442b1b04c32cb17e66",
+    "cover": "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_5349b88f3987e0d7ebd9039e2198b819.jpg",
+    "photo_list": [
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_5349b88f3987e0d7ebd9039e2198b819.jpg"
+    ]
+  },
+  {
+    "name": "茂名市茂南区红旗南路消防救援站",
+    "location": {
+      "lat": 21.667233,
+      "lng": 110.908452
+    },
+    "address": "茂名市茂南区红旗南路茂名热电厂生活区东南侧约80米",
+    "province": "广东省",
+    "city": "茂名市",
+    "area": "茂南区",
+    "detail": 1,
+    "uid": "fd55b9dc7e4387116140a9d6",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d1fbdb72ba2406f795eb6a165788b27e.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d1fbdb72ba2406f795eb6a165788b27e.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7047ff728c883a2b893e8f524972f1dc.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_cf3b9e505c941deff77ecc332894339e.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cefebb4a123ef5cfa344e442e1cccea4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_11698c1addf29f274b9cc913f40f7e7e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f66c567fa431ea346586c7279645e951.jpeg"
+    ]
+  }
+]

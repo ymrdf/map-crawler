@@ -1,0 +1,101 @@
+[
+  {
+    "name": "柳州市鱼峰公安消防大队鱼峰中队",
+    "location": {
+      "lat": 24.30338,
+      "lng": 109.416399
+    },
+    "address": "广西壮族自治区柳州市鱼峰区柳石路80号",
+    "province": "广西壮族自治区",
+    "city": "柳州市",
+    "area": "鱼峰区",
+    "street_id": "933b6bff77bfa367c7f025ff",
+    "detail": 1,
+    "uid": "933b6bff77bfa367c7f025ff",
+    "cover": "https://taojin-his.cdn.bcebos.com/9d82d158ccbf6c8157c5c9b3bf3eb13532fa40ff.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=933b6bff77bfa367c7f025ff&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ba374d3ea6cc239ae47ff710e74fcba9.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0e3b2d80bae7cee8c432000ba3fe1a3e.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1e5c7bc6ff8d73e9c354de9ce78cd4ab.jpg",
+      "https://poi-pic.cdn.bcebos.com/1e5c7bc6ff8d73e9c354de9ce78cd4ab.jpg"
+    ]
+  },
+  {
+    "name": "柳州市消防救援支队",
+    "location": {
+      "lat": 24.415764,
+      "lng": 109.545084
+    },
+    "address": "广西壮族自治区柳州市鱼峰区官塘大道119号",
+    "province": "广西壮族自治区",
+    "city": "柳州市",
+    "area": "鱼峰区",
+    "street_id": "7adfd5424a1e8f288605bf1b",
+    "telephone": "(0772)3601514",
+    "detail": 1,
+    "uid": "7adfd5424a1e8f288605bf1b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_39d209873bc657fdde6084ef3a8ce5b1.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_39d209873bc657fdde6084ef3a8ce5b1.jpg",
+      "https://taojin-his.cdn.bcebos.com/4610b912c8fcc3cef14976599c45d688d53f20ca.jpg"
+    ]
+  },
+  {
+    "name": "柳州市柳江区消防救援大队",
+    "location": {
+      "lat": 24.266291,
+      "lng": 109.353618
+    },
+    "address": "广西壮族自治区柳州市柳江区柳堡路689号",
+    "province": "广西壮族自治区",
+    "city": "柳州市",
+    "area": "柳江区",
+    "detail": 1,
+    "uid": "2adaba8fd620e905e8e58243",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B673c07463ec9cb856.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B673c07463ec9cb856.jpeg"
+    ]
+  },
+  {
+    "name": "柳州市柳南区河西消防救援站",
+    "location": {
+      "lat": 24.323568,
+      "lng": 109.372613
+    },
+    "address": "柳州市柳南区柳太路广西柳州高级中学(柳南校区)西侧约30米",
+    "province": "广西壮族自治区",
+    "city": "柳州市",
+    "area": "柳南区",
+    "detail": 1,
+    "uid": "8a9e08cb1dfbb41ce5e965e3",
+    "cover": "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_8dd2195e2c81be32f17688faef404429.jpg",
+    "photo_list": [
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_8dd2195e2c81be32f17688faef404429.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_fb67b74eb60d267d7d22789ecd0233e5.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_77bd613ee707c21a53aefb2babf75f85.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e0999fd925928d015c201ec55e34e794.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_14355bd97b49afef49a7b886cd5580e6.jpeg"
+    ]
+  },
+  {
+    "name": "广西消防救援",
+    "location": {
+      "lat": 24.26581,
+      "lng": 109.353865
+    },
+    "address": "柳州市柳江区柳堡路柳堡东苑",
+    "province": "广西壮族自治区",
+    "city": "柳州市",
+    "area": "柳江区",
+    "street_id": "539f58574948554f902ca311",
+    "detail": 1,
+    "uid": "539f58574948554f902ca311",
+    "cover": "https://poi-pic.cdn.bcebos.com/a7cb01e52e1bee8325ba7463e470d9e1.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=539f58574948554f902ca311&width=720&height=360&quality=80&fovx=120",
+      "https://lbsugc.cdn.bcebos.com/images/B673c07463ec9cb856.jpeg"
+    ]
+  }
+]

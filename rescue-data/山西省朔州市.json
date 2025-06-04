@@ -1,0 +1,101 @@
+[
+  {
+    "name": "道路救援",
+    "location": {
+      "lat": 39.844884,
+      "lng": 113.111363
+    },
+    "address": "朔州市怀仁市新华大桥立交桥通泰教师园东侧约90米",
+    "province": "山西省",
+    "city": "朔州市",
+    "area": "怀仁市",
+    "telephone": "13753205305,15634950277",
+    "detail": 1,
+    "uid": "ce1383881694a8fa601c67fa",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_0178a3a5b953279c1eef3a2fea716746.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0178a3a5b953279c1eef3a2fea716746.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_84c41ca00e371d7ac0bde3a71edbb00f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_03c5b4254fad0424ab9d43ed8472db12.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B67aae328806e3fda1.jpeg"
+    ]
+  },
+  {
+    "name": "山阴县消防救援大队",
+    "location": {
+      "lat": 39.520672,
+      "lng": 112.874169
+    },
+    "address": "朔州市山阴县青年东街岱岳派出所南侧约150米",
+    "province": "山西省",
+    "city": "朔州市",
+    "area": "山阴县",
+    "detail": 1,
+    "uid": "49207f88a3f1910904fef560",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a0a8b1f13062f64e2ba7de1a6d55ae9f.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a0a8b1f13062f64e2ba7de1a6d55ae9f.jpeg"
+    ]
+  },
+  {
+    "name": "朔州市朔城区消防救援大队",
+    "location": {
+      "lat": 39.337394,
+      "lng": 112.429337
+    },
+    "address": "朔州市朔城区马邑路朔城区第六小学北侧约110米",
+    "province": "山西省",
+    "city": "朔州市",
+    "area": "朔城区",
+    "detail": 1,
+    "uid": "7ae45163cab374302cb908a7",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_16fbf703d18081c0d35a6d762bed42cf.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_16fbf703d18081c0d35a6d762bed42cf.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c39850b09b4ff6ddd4665aa9f5de171e.jpeg"
+    ]
+  },
+  {
+    "name": "右玉县消防救援大队",
+    "location": {
+      "lat": 39.984863,
+      "lng": 112.468873
+    },
+    "address": "朔州市右玉县玉羊东街益民苑小区东侧约50米",
+    "province": "山西省",
+    "city": "朔州市",
+    "area": "右玉县",
+    "detail": 1,
+    "uid": "49617cc54a2e6d98260bd0cf",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a7ad0659671f80fa2072fa3f9f223d02.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a7ad0659671f80fa2072fa3f9f223d02.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2fd5520495863f5ddbb3609f29f68deb.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_235024dfb595356860ebe70d69a09c81.jpeg"
+    ]
+  },
+  {
+    "name": "信义汽车玻璃拖车救援",
+    "location": {
+      "lat": 39.567738,
+      "lng": 113.171156
+    },
+    "address": "朔州市应县新建西街中国石化加油站(城西站)东侧约150米",
+    "province": "山西省",
+    "city": "朔州市",
+    "area": "应县",
+    "street_id": "",
+    "telephone": "13303495929",
+    "detail": 1,
+    "uid": "86d6c7bef8103e20fa42b2be",
+    "cover": "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_b18d0898c848831902fcde9108b58590.jpg",
+    "photo_list": [
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_b18d0898c848831902fcde9108b58590.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c0b4e79187c07cadfe4ca33ea49032a8.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1d63487ed81c9652482776faa5c1f35f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cb9cec429fecf94a25efe749158680a9.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3807227447a1b42b823db14ac0092a0b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_516bcd2ab53e07ab689596be372a218e.jpeg"
+    ]
+  }
+]

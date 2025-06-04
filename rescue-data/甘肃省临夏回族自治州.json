@@ -1,0 +1,78 @@
+[
+  {
+    "name": "广河续航养车轮胎·机油专卖店",
+    "location": {
+      "lat": 35.484467,
+      "lng": 103.557459
+    },
+    "address": "甘肃省临夏回族自治州广河县S309",
+    "province": "甘肃省",
+    "city": "临夏回族自治州",
+    "area": "广河县",
+    "telephone": "13830137873",
+    "detail": 1,
+    "uid": "4542bc774021f7e6b9df8f8b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_fa2022e4ef6af869f9750cf20f9fa647.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_fa2022e4ef6af869f9750cf20f9fa647.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5a98bf9d3bd479d66e4983c3a9b0eabb.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B638c79a07504412888.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2a1ba599afdc96673f37c4b7d27f1d5c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f063cab7c610cb9d7f15c6463bfad804.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_303e5085b0da797555209f2417b64f37.jpeg"
+    ]
+  },
+  {
+    "name": "临夏市消防救援大队",
+    "location": {
+      "lat": 35.599159,
+      "lng": 103.250953
+    },
+    "address": "临夏回族自治州临夏市折双路临夏雪羚商务宾馆东南侧约170米",
+    "province": "甘肃省",
+    "city": "临夏回族自治州",
+    "area": "临夏市",
+    "detail": 1,
+    "uid": "9d35548c9ca22f28abf729f4",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B65bc4249bb51fcbcd.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B65bc4249bb51fcbcd.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65bc4225e94caa081.jpeg"
+    ]
+  },
+  {
+    "name": "临夏安速汽车困境脱困救援搭电公司",
+    "location": {
+      "lat": 35.592219,
+      "lng": 103.203013
+    },
+    "address": "甘肃临夏州临夏市环城西路125号",
+    "province": "甘肃省",
+    "city": "临夏回族自治州",
+    "area": "临夏市",
+    "detail": 1,
+    "uid": "618f8c3243b6dbfa2cfaa75c",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B615be420e7e2f7301.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B615be420e7e2f7301.jpeg"
+    ]
+  },
+  {
+    "name": "广河县消防救援大队",
+    "location": {
+      "lat": 35.496312,
+      "lng": 103.599961
+    },
+    "address": "甘肃省临夏回族自治州广河县滨河路",
+    "province": "甘肃省",
+    "city": "临夏回族自治州",
+    "area": "广河县",
+    "detail": 1,
+    "uid": "fb1c6fde9509648c71455bc9",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B60cd6d71489ac7d1c.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B60cd6d71489ac7d1c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_14c01868afebe865d91eaa6e14f1cef3.jpeg"
+    ]
+  }
+]

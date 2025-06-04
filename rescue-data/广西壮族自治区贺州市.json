@@ -1,0 +1,118 @@
+[
+  {
+    "name": "昭平安顺道路救援服务部",
+    "location": {
+      "lat": 24.159439,
+      "lng": 110.825666
+    },
+    "address": "广西壮族自治区贺州市昭平县水一方庄园附近",
+    "province": "广西壮族自治区",
+    "city": "贺州市",
+    "area": "昭平县",
+    "telephone": "13907745111",
+    "detail": 1,
+    "uid": "445f6abbdc2d045b343a7189",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B60a35dc2ae66116c6b.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B60a35dc2ae66116c6b.jpeg"
+    ]
+  },
+  {
+    "name": "贺州市雄锋道路救援服务有限公司",
+    "location": {
+      "lat": 24.407102,
+      "lng": 111.583594
+    },
+    "address": "贺州市八步区桃源北路桂东广场西侧约180米",
+    "province": "广西壮族自治区",
+    "city": "贺州市",
+    "area": "八步区",
+    "telephone": "13737406338",
+    "detail": 1,
+    "uid": "d41d53858d8bbec9e9f853a9",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B639d330f7b557a441.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B639d330f7b557a441.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_292c253ab367c386c68f64dccdaf9a47.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_761cfb50e57f0c29801bd53021e014b0.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5b5fd70f2a937db8288d7b103780907b.jpeg"
+    ]
+  },
+  {
+    "name": "钟山县消防救援大队",
+    "location": {
+      "lat": 24.531543,
+      "lng": 111.305811
+    },
+    "address": "贺州市钟山县广场路钟山幸福医院西南侧约40米",
+    "province": "广西壮族自治区",
+    "city": "贺州市",
+    "area": "钟山县",
+    "detail": 1,
+    "uid": "b6f066c8e892c1ed22026206",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d57a4c4d3999ef8d43c385d999bf0dd3.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d57a4c4d3999ef8d43c385d999bf0dd3.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_ab35d895bde6e8dc038dae73e248f299.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3d98824793ee97053a18bc7f66b0a1bd.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8e03d605ec546632222ce126468eb620.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_384c83bf698c017350a0df0336893c81.jpeg"
+    ]
+  },
+  {
+    "name": "三一挖掘机贺州公司",
+    "location": {
+      "lat": 24.444998,
+      "lng": 111.520104
+    },
+    "address": "广西壮族自治区贺州市平桂区G207(潇贺大道)",
+    "province": "广西壮族自治区",
+    "city": "贺州市",
+    "area": "平桂区",
+    "detail": 1,
+    "uid": "77fd2f0f1ac75eda40ab9ab9",
+    "cover": "https://pic-map.cdn.bcebos.com/img/565067d8bc100811495d161a9004b8a2",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/565067d8bc100811495d161a9004b8a2"
+    ]
+  },
+  {
+    "name": "贺州市腾龙汽车拖车道路救援搭电送油公司",
+    "location": {
+      "lat": 24.41122,
+      "lng": 111.577115
+    },
+    "address": "贺州市八步区贺州大道11号",
+    "province": "广西壮族自治区",
+    "city": "贺州市",
+    "area": "八步区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "34930fb54ea003138d7727f3",
+    "cover": "https://taojin-his.cdn.bcebos.com/b17eca8065380cd71618428cac44ad3459828149.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/b17eca8065380cd71618428cac44ad3459828149.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/no_bd_transfer/e153bb249aeff01ae9299a2ca86ccc13",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_990c0187785396222038095dc377f41f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d1d41cfa56a3a33d8a1867ee98419f48.jpg"
+    ]
+  },
+  {
+    "name": "贺州市消防救援支队建设路消防救援站",
+    "location": {
+      "lat": 24.419419,
+      "lng": 111.568638
+    },
+    "address": "广西壮族自治区贺州市八步区建设东路36号",
+    "province": "广西壮族自治区",
+    "city": "贺州市",
+    "area": "八步区",
+    "detail": 1,
+    "uid": "42f8161189cd0c726f3e1b02",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a8db106b27bbd4d00441bc88926ba63b.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a8db106b27bbd4d00441bc88926ba63b.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B66ce937491748db76.jpeg"
+    ]
+  }
+]

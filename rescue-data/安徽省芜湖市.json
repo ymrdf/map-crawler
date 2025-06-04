@@ -1,0 +1,154 @@
+[
+  {
+    "name": "道路救援有限公司",
+    "location": {
+      "lat": 30.951362,
+      "lng": 118.37135
+    },
+    "address": "芜湖市南陵县漳河大道安南中国MALL1期",
+    "province": "安徽省",
+    "city": "芜湖市",
+    "area": "南陵县",
+    "detail": 1,
+    "uid": "d481a358a5df821ab1077d97",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_996264e3e63b399de3530bb8029c5056.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_996264e3e63b399de3530bb8029c5056.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 31.317678,
+      "lng": 118.382347
+    },
+    "address": "芜湖市弋江区利民路中江新村西南侧约40米",
+    "province": "安徽省",
+    "city": "芜湖市",
+    "area": "弋江区",
+    "detail": 1,
+    "uid": "e693bbbd8546c6ef260bd0ad",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a35495fdb264e08e4075215a31ae25af.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a35495fdb264e08e4075215a31ae25af.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_17d65cca185204c982089fa54b43d0b6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7088d4b4fb6e30692b813fd69c6d44e4.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6576d3d0db6b4d021.jpeg"
+    ]
+  },
+  {
+    "name": "芜湖蓝天救援队",
+    "location": {
+      "lat": 31.370105,
+      "lng": 118.401039
+    },
+    "address": "芜湖市鸠江区钱桥路钱桥小区东侧",
+    "province": "安徽省",
+    "city": "芜湖市",
+    "area": "鸠江区",
+    "detail": 1,
+    "uid": "3140428e4ac59e61afee7a26",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B631a9a46461441766b.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B631a9a46461441766b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ba670e0f386d7bb62936bc8c9eb6eb88.jpeg"
+    ]
+  },
+  {
+    "name": "芜湖久运道路救援",
+    "location": {
+      "lat": 31.391101,
+      "lng": 118.382409
+    },
+    "address": "芜湖市镜湖区港一路华强公寓北侧约180米",
+    "province": "安徽省",
+    "city": "芜湖市",
+    "area": "镜湖区",
+    "detail": 1,
+    "uid": "e8b1955a46a0539db817e7f3",
+    "cover": "https://pic-map.cdn.bcebos.com/img/70f8f5495d3d13372c126c4c927a12b0",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/70f8f5495d3d13372c126c4c927a12b0"
+    ]
+  },
+  {
+    "name": "芜湖市紧急救援中心",
+    "location": {
+      "lat": 31.361513,
+      "lng": 118.464436
+    },
+    "address": "芜湖市鸠江区赤铸山东路与安康路交叉路口往西北约150米(芜湖市第一人民医院北侧)",
+    "province": "安徽省",
+    "city": "芜湖市",
+    "area": "鸠江区",
+    "street_id": "3406f2ddd844fd5a5d17c361",
+    "detail": 1,
+    "uid": "3406f2ddd844fd5a5d17c361",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_78a42c106a4c31190899f85ea48d2f67.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=3406f2ddd844fd5a5d17c361&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "安辰救援",
+    "location": {
+      "lat": 31.297965,
+      "lng": 117.962706
+    },
+    "address": "安徽省芜湖市无为市福渡镇初级中学旁",
+    "province": "安徽省",
+    "city": "芜湖市",
+    "area": "无为市",
+    "telephone": "15056222230",
+    "detail": 1,
+    "uid": "aca4315c0d8f8eb6d8eced5e",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_4d6049287190f98ad2fc90cdcda2186b.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4d6049287190f98ad2fc90cdcda2186b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_84c793d21a0870c098d3b37af2f14abb.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_48f0b75b591c23af40b4ab28102b0c60.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_06d9a10d4c03a9d2ccabb26afdae27fe.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ac21292e2c2d46cf9bad08a95ec5361d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_44c0cfece2e6cde0bed50ffe7cc1dd1a.jpeg"
+    ]
+  },
+  {
+    "name": "元徽道路救援有限公司",
+    "location": {
+      "lat": 31.387731,
+      "lng": 118.445364
+    },
+    "address": "芜湖市鸠江区南翔万商装饰建材博览城(建材七街店)东南侧约100米",
+    "province": "安徽省",
+    "city": "芜湖市",
+    "area": "鸠江区",
+    "telephone": "13955300909",
+    "detail": 1,
+    "uid": "061a12d7cb910f7314948e11",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_575ad98ae166a71f4734111ea0c1dd9a.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_575ad98ae166a71f4734111ea0c1dd9a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f530bbd01d671841cbc3b95d216f8f25.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cd15d0915db8be901442bb86607a9f7c.jpeg"
+    ]
+  },
+  {
+    "name": "家安道路救援公司",
+    "location": {
+      "lat": 30.90758,
+      "lng": 118.336104
+    },
+    "address": "芜湖市南陵县南翔路CNG加气站东北侧约150米",
+    "province": "安徽省",
+    "city": "芜湖市",
+    "area": "南陵县",
+    "street_id": "",
+    "telephone": "15955371228",
+    "detail": 1,
+    "uid": "08c7dbe532ae601c705e806e",
+    "cover": "https://pic-map.cdn.bcebos.com/img/2ec30598816a5435955f8cfe913e7e4f",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/2ec30598816a5435955f8cfe913e7e4f"
+    ]
+  }
+]

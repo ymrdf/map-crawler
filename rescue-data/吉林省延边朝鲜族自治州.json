@@ -1,0 +1,68 @@
+[
+  {
+    "name": "救援龙达汽车修理厂",
+    "location": {
+      "lat": 43.374863,
+      "lng": 128.274551
+    },
+    "address": "吉林省延边朝鲜族自治州敦化市长德物流园1期17栋23号",
+    "province": "吉林省",
+    "city": "延边朝鲜族自治州",
+    "area": "敦化市",
+    "telephone": "13029086345",
+    "detail": 1,
+    "uid": "3e07e2559fea63ae9868b46f",
+    "cover": "https://photo-meituan.cdn.bcebos.com/photo/1732346298761eb27f4d8e277b588f98fd88eb0b78",
+    "photo_list": [
+      "https://photo-meituan.cdn.bcebos.com/photo/1732346298761eb27f4d8e277b588f98fd88eb0b78",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_83d1fdbf7bd950f865d825f0b0a39767.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_028d23d3a1a6f86eb2fcdea26f5a24b0.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_879b2ecbb0b85f48f224e4b2ceef861c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_852aba7e1f79606599f3f67278c9dbd1.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_47d434e067a7d90959fd655c29982be2.jpeg"
+    ]
+  },
+  {
+    "name": "延吉市蓝天救援中心",
+    "location": {
+      "lat": 42.902824,
+      "lng": 129.565654
+    },
+    "address": "延边朝鲜族自治州延吉市长白山东路天池新村",
+    "province": "吉林省",
+    "city": "延边朝鲜族自治州",
+    "area": "延吉市",
+    "detail": 1,
+    "uid": "a18bf6480e1423b8be4842ca",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_191ee60a04b8c30274cd0b00612ba1f4.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_191ee60a04b8c30274cd0b00612ba1f4.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B66946df7df5bdc89c.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B66946df7cb4cafe81.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B66946df7de5ac9791.jpeg"
+    ]
+  },
+  {
+    "name": "宏伟汽车救援",
+    "location": {
+      "lat": 42.874761,
+      "lng": 130.347071
+    },
+    "address": "延边朝鲜族自治州珲春市珲乌线长安小区南侧约90米",
+    "province": "吉林省",
+    "city": "延边朝鲜族自治州",
+    "area": "珲春市",
+    "telephone": "15843377760",
+    "detail": 1,
+    "uid": "3ede8e60f140f56079dbd244",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_5e8a5aeb0da64532b183e7c1ee153962.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5e8a5aeb0da64532b183e7c1ee153962.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_27d3b19f25f2b47449500b1a1e0bc5a8.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f8d1d7833fde07768c2a3fd3ea2fbc64.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3a318276c2f06ae698e7aeeab8a4064f.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B662aee30757b47c69.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B662aee307a964174b5.jpeg"
+    ]
+  }
+]

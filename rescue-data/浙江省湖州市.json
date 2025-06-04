@@ -1,0 +1,179 @@
+[
+  {
+    "name": "浙江民安公益救援",
+    "location": {
+      "lat": 30.998931,
+      "lng": 119.940422
+    },
+    "address": "浙江省湖州市长兴县图影大道第七小学西南侧约230米",
+    "province": "浙江省",
+    "city": "湖州市",
+    "area": "长兴县",
+    "street_id": "d761d99e828db1b3b04c4911",
+    "telephone": "13567292818",
+    "detail": 1,
+    "uid": "d761d99e828db1b3b04c4911",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a8e385fa07891d058d333200062b5500.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a8e385fa07891d058d333200062b5500.jpg",
+      "https://poi-pic.cdn.bcebos.com/a8e385fa07891d058d333200062b5500.jpg"
+    ]
+  },
+  {
+    "name": "安吉民安公益救援",
+    "location": {
+      "lat": 30.651194,
+      "lng": 119.691279
+    },
+    "address": "浙江省湖州市安吉县昌硕街道吉星公馆19号",
+    "province": "浙江省",
+    "city": "湖州市",
+    "area": "安吉县",
+    "street_id": "",
+    "telephone": "4009920579",
+    "detail": 1,
+    "uid": "54c03f86825c135a100daa15",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_c11f63ae3911fff9b4ac5a3670735fb1.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c11f63ae3911fff9b4ac5a3670735fb1.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_93be3193e7d6f5bb35f98c8dfbf3a8ad.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f0307c237cbbe8d453c9774b49e6b87b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_639e64269244ab8f2e77cc3c887ebcdc.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bd403996cab5a5f88cf9deef5ca45c4b.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6bf7eaec7ae5863ec94b636017c81a0c.jpg"
+    ]
+  },
+  {
+    "name": "湖州市阳光汽车道路救援有限公司",
+    "location": {
+      "lat": 30.889156,
+      "lng": 120.138125
+    },
+    "address": "浙江省湖州市吴兴区白鱼潭路幸福里公馆102号",
+    "province": "浙江省",
+    "city": "湖州市",
+    "area": "吴兴区",
+    "street_id": "",
+    "telephone": "18609620223",
+    "detail": 1,
+    "uid": "38a177aac7f24e0663180955",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_7f2b1f42116db49d3d851160373fa70e.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7f2b1f42116db49d3d851160373fa70e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_649da83e5db7c0623f86e72419acac5d.jpeg"
+    ]
+  },
+  {
+    "name": "浙能应急救援中心",
+    "location": {
+      "lat": 30.989788,
+      "lng": 119.928775
+    },
+    "address": "浙江省湖州市长兴县雉州大道100号",
+    "province": "浙江省",
+    "city": "湖州市",
+    "area": "长兴县",
+    "street_id": "2804827722781c899de32112",
+    "detail": 1,
+    "uid": "2804827722781c899de32112",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_efcdcc44b5c7b6d9d8e170c2f3c9fcb0.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=2804827722781c899de32112&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic.cdn.bcebos.com/efcdcc44b5c7b6d9d8e170c2f3c9fcb0.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3cfc0cbd583fc14eb04ddfb18bb3544e.jpeg"
+    ]
+  },
+  {
+    "name": "应急救援",
+    "location": {
+      "lat": 30.783427,
+      "lng": 120.16969
+    },
+    "address": "湖州市南浔区星光大街和孚镇人民政府东北侧",
+    "province": "浙江省",
+    "city": "湖州市",
+    "area": "南浔区",
+    "street_id": "b5f6f119d309c0323310afda",
+    "detail": 1,
+    "uid": "b5f6f119d309c0323310afda",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_76d24e10cc7feb8d1423fd2430461907.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_76d24e10cc7feb8d1423fd2430461907.jpeg"
+    ]
+  },
+  {
+    "name": "安吉县灵峰消防救援站",
+    "location": {
+      "lat": 30.599248,
+      "lng": 119.672295
+    },
+    "address": "湖州市安吉县浒溪南路香溪堤岸东南侧约60米",
+    "province": "浙江省",
+    "city": "湖州市",
+    "area": "安吉县",
+    "detail": 1,
+    "uid": "35b8764def253dc23310af13",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_658d19f6c4aaacf5dd650608a8627752.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_658d19f6c4aaacf5dd650608a8627752.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 30.914902,
+      "lng": 119.683467
+    },
+    "address": "湖州市长兴县中兴路",
+    "province": "浙江省",
+    "city": "湖州市",
+    "area": "长兴县",
+    "detail": 1,
+    "uid": "cf2cdf47cdde85749c09f7c0",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_79def41a25b69b680d6b0cb9cbc697da.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_79def41a25b69b680d6b0cb9cbc697da.jpeg"
+    ]
+  },
+  {
+    "name": "安吉孝丰镇丰城公益救援中心",
+    "location": {
+      "lat": 30.596559,
+      "lng": 119.572777
+    },
+    "address": "湖州市安吉县灵龙南路孝丰镇云鸿新城",
+    "province": "浙江省",
+    "city": "湖州市",
+    "area": "安吉县",
+    "street_id": "",
+    "detail": 1,
+    "uid": "478622e909390e05fbf0cbee",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_03ec0a85f1886653e6d20e357e33828c.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_03ec0a85f1886653e6d20e357e33828c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_db5c208e594ab8c189198c4701802b38.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_38ef05d563ba8bdfba01dcd94e72afc9.jpg",
+      "https://poi-pic.cdn.bcebos.com/db5c208e594ab8c189198c4701802b38.jpg",
+      "https://taojin-his.cdn.bcebos.com/838ba61ea8d3fd1fa8832c4d3f4e251f95ca5f3b.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7ac35207ac54abca8ecc10d2035d772c.jpeg"
+    ]
+  },
+  {
+    "name": "阿宾轮胎商行",
+    "location": {
+      "lat": 30.652794,
+      "lng": 119.758659
+    },
+    "address": "浙江省湖州安吉县递铺街道义士塔自然村4号",
+    "province": "浙江省",
+    "city": "湖州市",
+    "area": "安吉县",
+    "telephone": "13736186211",
+    "detail": 1,
+    "uid": "77eebb582b0829a8b5147fab",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_c3bbfe657f234ee4615effec30572fc7.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c3bbfe657f234ee4615effec30572fc7.jpeg"
+    ]
+  }
+]

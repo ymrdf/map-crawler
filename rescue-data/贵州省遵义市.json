@@ -1,0 +1,144 @@
+[
+  {
+    "name": "宇通救援",
+    "location": {
+      "lat": 27.544173,
+      "lng": 106.848167
+    },
+    "address": "播州区南白镇第五十二中对门",
+    "province": "贵州省",
+    "city": "遵义市",
+    "area": "播州区",
+    "street_id": "3748860dc80b28cfc9fa5f5f",
+    "detail": 1,
+    "uid": "3748860dc80b28cfc9fa5f5f",
+    "cover": "https://taojin-his.cdn.bcebos.com/35a85edf8db1cb1309365b75d054564e92584b7c.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=3748860dc80b28cfc9fa5f5f&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ece63d9aff9d442a1c9a806f564384fe.jpeg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_b53f7b36fe57825e134fa644a3e6b592.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_a6301caa07dcd02a92614d0f416dba93.jpg",
+      "https://taojin-his.cdn.bcebos.com/a50f4bfbfbedab646403fab8fc36afc379311e50.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_011a1ce6e924e88c71ca576ef27563ba.jpeg"
+    ]
+  },
+  {
+    "name": "紧急救援电话",
+    "location": {
+      "lat": 28.433338,
+      "lng": 105.746519
+    },
+    "address": "遵义市赤水市两河口镇燕子岩",
+    "province": "贵州省",
+    "city": "遵义市",
+    "area": "赤水市",
+    "detail": 1,
+    "uid": "e808e7e11b51ca48b8bd6320",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_cf48e107e83d2f6529f948c6848c6c98.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cf48e107e83d2f6529f948c6848c6c98.jpeg"
+    ]
+  },
+  {
+    "name": "紧急救援电话",
+    "location": {
+      "lat": 28.430937,
+      "lng": 105.742747
+    },
+    "address": "遵义市赤水市两河口镇燕子岩",
+    "province": "贵州省",
+    "city": "遵义市",
+    "area": "赤水市",
+    "detail": 1,
+    "uid": "300aa35324eaba0f2806cef6",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_f95828da39a23786967bdc7fd18c266f.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f95828da39a23786967bdc7fd18c266f.jpeg"
+    ]
+  },
+  {
+    "name": "紧急救援电话",
+    "location": {
+      "lat": 28.432551,
+      "lng": 105.743858
+    },
+    "address": "遵义市赤水市两河口镇燕子岩",
+    "province": "贵州省",
+    "city": "遵义市",
+    "area": "赤水市",
+    "detail": 1,
+    "uid": "df6725e39631acde0ab93aa8",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_63f123cd1aa68e676ca430b63a36b63b.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_63f123cd1aa68e676ca430b63a36b63b.jpeg"
+    ]
+  },
+  {
+    "name": "紧急救援电话",
+    "location": {
+      "lat": 28.433261,
+      "lng": 105.749887
+    },
+    "address": "遵义市赤水市两河口镇燕子岩",
+    "province": "贵州省",
+    "city": "遵义市",
+    "area": "赤水市",
+    "detail": 1,
+    "uid": "62917bc339ddb592abf0cddc",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ac5718d3ac32c0c1c080e301cc67b981.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ac5718d3ac32c0c1c080e301cc67b981.jpeg"
+    ]
+  },
+  {
+    "name": "紧急救援电话",
+    "location": {
+      "lat": 28.431426,
+      "lng": 105.750828
+    },
+    "address": "遵义市赤水市两河口镇燕子岩停车场",
+    "province": "贵州省",
+    "city": "遵义市",
+    "area": "赤水市",
+    "detail": 1,
+    "uid": "7d18c5bde397c3f23913fded",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_044250695bcc468d690a9b62da4ed5ff.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_044250695bcc468d690a9b62da4ed5ff.jpeg"
+    ]
+  },
+  {
+    "name": "紧急救援电话",
+    "location": {
+      "lat": 28.430181,
+      "lng": 105.743147
+    },
+    "address": "遵义市赤水市两河口镇燕子岩",
+    "province": "贵州省",
+    "city": "遵义市",
+    "area": "赤水市",
+    "detail": 1,
+    "uid": "3a9ae7659cff6210acee7a7e",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_488ddc7b0cfbaea3b0d928e0d95e6fc9.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_488ddc7b0cfbaea3b0d928e0d95e6fc9.jpeg"
+    ]
+  },
+  {
+    "name": "紧急救援电话",
+    "location": {
+      "lat": 28.396177,
+      "lng": 105.977552
+    },
+    "address": "遵义市赤水市元厚镇五柱峰村赤水丹霞旅游区·佛光岩",
+    "province": "贵州省",
+    "city": "遵义市",
+    "area": "赤水市",
+    "detail": 1,
+    "uid": "55b7832f7f7ab29ee5e96594",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_340a3bb8a81f601f76efaf620a44f9b2.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_340a3bb8a81f601f76efaf620a44f9b2.jpeg"
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "name": "救援3161938",
+    "location": {
+      "lat": 36.814177,
+      "lng": 118.084699
+    },
+    "address": "淄博市张店区人民东路恒润园",
+    "province": "山东省",
+    "city": "淄博市",
+    "area": "张店区",
+    "detail": 1,
+    "uid": "3f4e4741755abaffc3364402",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_3d30330f1c34091ef8635980d3cbcad0.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3d30330f1c34091ef8635980d3cbcad0.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f307d2f6918efc08a828a2c5e8d94f2e.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_78d013f8e6df3997b00e894c389fe7ee.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f6208464e5ea457525239b0c93232b9c.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_76ec09ff13f75da1f95b0627b941beee.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3f8ea0bcb9b8095b17c71f6ffb7afeb9.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 36.831625,
+      "lng": 118.03084
+    },
+    "address": "山东省淄博市张店区玉龙商街江南豪庭",
+    "province": "山东省",
+    "city": "淄博市",
+    "area": "张店区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "9b0fa7ed5f26a7cf4e5547fe",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_46a46e93b373fa87a952dcc3b41dcf5e.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_46a46e93b373fa87a952dcc3b41dcf5e.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1827b534162fa775b0d56fc3c6e5ed8e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d36ec6eb1d7993cb418639d36f3db61d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1ffc278856f6911ba23a530f9a768c78.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65867ce83fcb9f905.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65a0dadae6466151a5.jpeg"
+    ]
+  },
+  {
+    "name": "桓台县消防救援大队",
+    "location": {
+      "lat": 36.970703,
+      "lng": 118.063948
+    },
+    "address": "淄博市桓台县友谊路幸福小区东北侧约110米",
+    "province": "山东省",
+    "city": "淄博市",
+    "area": "桓台县",
+    "detail": 1,
+    "uid": "9fcf018a45370b8e7702691e",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_bc7a77fa528be94a76468f6a8dd35b49.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bc7a77fa528be94a76468f6a8dd35b49.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 36.648513,
+      "lng": 117.981169
+    },
+    "address": "淄博市淄川区般阳路唐骏家园西南侧约140米",
+    "province": "山东省",
+    "city": "淄博市",
+    "area": "淄川区",
+    "detail": 1,
+    "uid": "3cba473e96821df734b06c4e",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_b4ce1664bb031375860e8484adc858d5.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b4ce1664bb031375860e8484adc858d5.jpeg"
+    ]
+  }
+]

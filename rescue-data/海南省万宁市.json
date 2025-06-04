@@ -1,0 +1,98 @@
+[
+  {
+    "name": "万宁蓝天救援队",
+    "location": {
+      "lat": 18.749184,
+      "lng": 110.219452
+    },
+    "address": "万宁市长春西路与天健大道交叉路口往南约180米",
+    "province": "海南省",
+    "city": "万宁市",
+    "area": "",
+    "detail": 1,
+    "uid": "25c77e453133cd3ae81e97e7",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B64aa0f5e2e63ec303.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B64aa0f5e2e63ec303.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B64aa0f5e50b86bbec.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B64aa0f5e509a0a321.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B64aa0f5de5a4de17a.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B64aa0f5e25c79aafe.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B64aa0f5e4a3e212003.jpeg"
+    ]
+  },
+  {
+    "name": "海南美丽行旅游公司",
+    "location": {
+      "lat": 18.680569,
+      "lng": 110.351521
+    },
+    "address": "海南省万宁市X435(滨海大道)",
+    "province": "海南省",
+    "city": "万宁市",
+    "area": "",
+    "telephone": "15289955605",
+    "detail": 1,
+    "uid": "1c665f58b32ae8be82a12e6a",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B64f7213f826aae1b6.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B64f7213f826aae1b6.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B64f721405b7e212609.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B64f721400406c28b6.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B64f7213ff06a813245.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B64f721405b15914b51.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_255ecd19c7809212ac19407efd91d8b9.jpeg"
+    ]
+  },
+  {
+    "name": "万宁市消防救援大队",
+    "location": {
+      "lat": 18.802953,
+      "lng": 110.381353
+    },
+    "address": "海南省万宁市万城镇丰园北街",
+    "province": "海南省",
+    "city": "万宁市",
+    "area": "",
+    "detail": 1,
+    "uid": "be59ae5c373624cfc4f50da5",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_0270eb32fc61813cf16399f35193c501.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0270eb32fc61813cf16399f35193c501.jpeg"
+    ]
+  },
+  {
+    "name": "随程国际旅行社有限公司(万宁分公司)",
+    "location": {
+      "lat": 18.751523,
+      "lng": 110.233558
+    },
+    "address": "万宁市迎宾大道龙潭·温泉印象南侧约250米",
+    "province": "海南省",
+    "city": "万宁市",
+    "area": "",
+    "detail": 1,
+    "uid": "1e9ee1db473b99e0a11de99e",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B65adc4ddc0321151ff.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B65adc4ddc0321151ff.jpeg"
+    ]
+  },
+  {
+    "name": "超级玩家槟榔杆总部",
+    "location": {
+      "lat": 18.863069,
+      "lng": 110.193701
+    },
+    "address": "海南省万宁市三更罗镇新中居胶厂斜对面",
+    "province": "海南省",
+    "city": "万宁市",
+    "area": "",
+    "detail": 1,
+    "uid": "2c89097f3a1c94581fe999d7",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B6176aa1f229f172f6.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B6176aa1f229f172f6.jpeg"
+    ]
+  }
+]

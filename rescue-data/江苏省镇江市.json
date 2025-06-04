@@ -1,0 +1,59 @@
+[
+  {
+    "name": "镇江市京口区中山路消防救援站",
+    "location": {
+      "lat": 32.20978,
+      "lng": 119.45503
+    },
+    "address": "镇江市京口区中山东路镇江八佰伴(中山东路店)西南侧约50米",
+    "province": "江苏省",
+    "city": "镇江市",
+    "area": "京口区",
+    "detail": 1,
+    "uid": "87864d5e92e9f838ca29158d",
+    "cover": "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_345a5328f9517fe02f3fe3bfaff8c8bf.jpg",
+    "photo_list": [
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_345a5328f9517fe02f3fe3bfaff8c8bf.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B65cc1abf3c5bb139fb.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bec78526ccc108a04e58638b2782d208.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d8e8b555fc7f97558f88e2a2c213d069.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6795f0b0761dcc2c6.jpeg"
+    ]
+  },
+  {
+    "name": "镇江市京口区东吴路消防救援站",
+    "location": {
+      "lat": 32.223722,
+      "lng": 119.482224
+    },
+    "address": "江苏省镇江市京口区东吴路129号院东南侧约50米",
+    "province": "江苏省",
+    "city": "镇江市",
+    "area": "京口区",
+    "detail": 1,
+    "uid": "7be76f6cab250b57bd48422e",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_120ec38988a10044c949b91c43fca199.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_120ec38988a10044c949b91c43fca199.jpeg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_2dbd668e895571c206343250bc69443a.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_521f92e555bd162601b97dfa0d12907e.jpeg"
+    ]
+  },
+  {
+    "name": "丹阳市云阳消防救援站",
+    "location": {
+      "lat": 31.994195,
+      "lng": 119.589857
+    },
+    "address": "江苏镇江市丹阳市丹凤南路67号",
+    "province": "江苏省",
+    "city": "镇江市",
+    "area": "丹阳市",
+    "detail": 1,
+    "uid": "bce8cef654909e98cb2915c6",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_3e90e9549b4d0865720b0cb79d3073b0.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3e90e9549b4d0865720b0cb79d3073b0.jpeg"
+    ]
+  }
+]

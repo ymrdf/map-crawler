@@ -1,0 +1,73 @@
+[
+  {
+    "name": "天津市救援拖运有限公司",
+    "location": {
+      "lat": 39.045352,
+      "lng": 117.639557
+    },
+    "address": "天津市滨海新区塘黄路翔鹤园西侧约50米",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "滨海新区",
+    "detail": 1,
+    "uid": "4dd8df6233fd0450ad31e553",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_488c0670056dbfb373c65169969440e9.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_488c0670056dbfb373c65169969440e9.jpeg"
+    ]
+  },
+  {
+    "name": "东丽区银河大道消防救援站",
+    "location": {
+      "lat": 39.054293,
+      "lng": 117.509286
+    },
+    "address": "天津市东丽区三号路丽霞里东侧约30米",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "东丽区",
+    "street_id": "d4f0c64309819f3441d63e9d",
+    "detail": 1,
+    "uid": "d4f0c64309819f3441d63e9d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_362d38f40ccbc53000bdb28300dfc37e.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=d4f0c64309819f3441d63e9d&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "东丽区新立街消防救援站",
+    "location": {
+      "lat": 39.078759,
+      "lng": 117.341732
+    },
+    "address": "天津市东丽区紫英路天津市第一百中学西南侧约30米",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "东丽区",
+    "detail": 1,
+    "uid": "542c55f01b4c09391894c613",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_7eeba1773f9e58972d27717a80b2a2a0.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7eeba1773f9e58972d27717a80b2a2a0.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c886cd15dc643d682687829de59a777d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1c9161bc6c4d7c513d313af343fbb214.jpeg"
+    ]
+  },
+  {
+    "name": "金钟街消防救援站",
+    "location": {
+      "lat": 39.201076,
+      "lng": 117.263727
+    },
+    "address": "天津市东丽区北环铁路特大桥",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "东丽区",
+    "detail": 1,
+    "uid": "15e090a6f4da322b5d0d0270",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_f3e059d058afd77094b013e0169a40a6.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f3e059d058afd77094b013e0169a40a6.jpeg"
+    ]
+  }
+]

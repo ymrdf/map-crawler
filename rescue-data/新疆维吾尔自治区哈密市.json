@@ -1,0 +1,38 @@
+[
+  {
+    "name": "哈密市新畅道路救援服务公司",
+    "location": {
+      "lat": 42.87382,
+      "lng": 93.562912
+    },
+    "address": "哈密市伊州区北出口向石油基地走300米振兰氧气斜对面",
+    "province": "新疆维吾尔自治区",
+    "city": "哈密市",
+    "area": "伊州区",
+    "telephone": "13209028366",
+    "detail": 1,
+    "uid": "d7fad673c6e64b35d4b74e8a",
+    "cover": "https://poi-pic.cdn.bcebos.com/76132e5107ad8869004a106fead2c6ec.jpg",
+    "photo_list": [
+      "https://poi-pic.cdn.bcebos.com/76132e5107ad8869004a106fead2c6ec.jpg",
+      "https://poi-pic.cdn.bcebos.com/8fd62ff162e299f8303cb8a958eebe2e.jpg"
+    ]
+  },
+  {
+    "name": "新疆驿达汽车服务道路救援",
+    "location": {
+      "lat": 42.881118,
+      "lng": 93.55704
+    },
+    "address": "哈密市伊州区沪霍线哈密车友酒店南侧约150米",
+    "province": "新疆维吾尔自治区",
+    "city": "哈密市",
+    "area": "伊州区",
+    "detail": 1,
+    "uid": "6e45054e8fb69cc3eee4a5cd",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B61616ff63dcb62ceb.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B61616ff63dcb62ceb.jpeg"
+    ]
+  }
+]

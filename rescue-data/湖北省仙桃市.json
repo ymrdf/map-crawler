@@ -1,0 +1,54 @@
+[
+  {
+    "name": "肖邦救援",
+    "location": {
+      "lat": 30.340318,
+      "lng": 113.506468
+    },
+    "address": "仙桃市新城大道和平社区东南侧约250米",
+    "province": "湖北省",
+    "city": "仙桃市",
+    "area": "",
+    "telephone": "(0728)3498888",
+    "detail": 1,
+    "uid": "aa7a0b59b2339c23c51e51f6",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B676a694fb176114f43.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B676a694fb176114f43.jpeg"
+    ]
+  },
+  {
+    "name": "平然汽车救援",
+    "location": {
+      "lat": 30.364272,
+      "lng": 113.503054
+    },
+    "address": "湖北省仙桃市打字号村五组",
+    "province": "湖北省",
+    "city": "仙桃市",
+    "area": "",
+    "detail": 1,
+    "uid": "862cee139e57772a5bf6be18",
+    "cover": "https://pic-map.cdn.bcebos.com/img/1b0461c4d2ac567d734000e74e5937c9",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/1b0461c4d2ac567d734000e74e5937c9"
+    ]
+  },
+  {
+    "name": "凌霄防护用品有限公司",
+    "location": {
+      "lat": 30.255209,
+      "lng": 113.535906
+    },
+    "address": "仙桃市彭场大道东段千秋家园东南侧约150米",
+    "province": "湖北省",
+    "city": "仙桃市",
+    "area": "",
+    "detail": 1,
+    "uid": "fe7ff331efbb2656d5b74ed7",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_18ee106734aa1f567806832b8e5e33e4.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_18ee106734aa1f567806832b8e5e33e4.jpeg"
+    ]
+  }
+]

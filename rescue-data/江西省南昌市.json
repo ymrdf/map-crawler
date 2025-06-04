@@ -1,0 +1,155 @@
+[
+  {
+    "name": "雄鹰救援队",
+    "location": {
+      "lat": 28.678346,
+      "lng": 115.925392
+    },
+    "address": "江西省南昌市青山湖区二七南路659号",
+    "province": "江西省",
+    "city": "南昌市",
+    "area": "青山湖区",
+    "detail": 1,
+    "uid": "f993e432680c2abe43afe625",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_eeda64dc9c37ebe70c998ac17d5d8d9d.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_eeda64dc9c37ebe70c998ac17d5d8d9d.jpeg"
+    ]
+  },
+  {
+    "name": "江西吉诺救援",
+    "location": {
+      "lat": 28.608144,
+      "lng": 115.963976
+    },
+    "address": "高新南大道东,胡家村幸福家园C46",
+    "province": "江西省",
+    "city": "南昌市",
+    "area": "青山湖区",
+    "street_id": "b507b7ec86bbb831130daaf5",
+    "telephone": "(0791)83979595,4001199595",
+    "detail": 1,
+    "uid": "b507b7ec86bbb831130daaf5",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_85718632122dd9f0f4399d4492765021.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=b507b7ec86bbb831130daaf5&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9c83e73523175b06f363df58c9db001a.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7cc3e5821e261d8b55a7daae765861ef.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c6e30fecc6ef676ada3edb24d8f1b880.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2a67c4388c76659da07e63e9226cdc3e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_43b3f2a92b87c3918713c0683836240e.jpeg"
+    ]
+  },
+  {
+    "name": "江西南昌紧急救援中心",
+    "location": {
+      "lat": 28.718145,
+      "lng": 115.884433
+    },
+    "address": "江西省南昌市红谷滩新区丰和北大道788号",
+    "province": "江西省",
+    "city": "南昌市",
+    "area": "红谷滩区",
+    "street_id": "",
+    "telephone": "(0791)83859062",
+    "detail": 1,
+    "uid": "7c4725aae358be1a79dbd26a",
+    "cover": "https://taojin-his.cdn.bcebos.com/b21c8701a18b87d676e029270a0828381f30fd6c.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/b21c8701a18b87d676e029270a0828381f30fd6c.jpg",
+      "https://taojin-his.cdn.bcebos.com/b3119313b07eca802664142b9d2397dda044839c.jpg",
+      "https://taojin-his.cdn.bcebos.com/91529822720e0cf394a7884a0046f21fbe09aa2b.jpg",
+      "https://taojin-his.cdn.bcebos.com/d833c895d143ad4bdea5a3968f025aafa50f06d8.jpg",
+      "https://taojin-his.cdn.bcebos.com/9f2f070828381f303c9e83f2a3014c086f06f0e2.jpg",
+      "https://taojin-his.cdn.bcebos.com/1c950a7b02087bf4d41059b2f8d3572c10dfcfe9.jpg"
+    ]
+  },
+  {
+    "name": "南昌市消防救援支队重型机械工程救援大队",
+    "location": {
+      "lat": 28.661455,
+      "lng": 115.946789
+    },
+    "address": "江西省南昌市青山湖区上海路9号",
+    "province": "江西省",
+    "city": "南昌市",
+    "area": "青山湖区",
+    "detail": 1,
+    "uid": "0e76d20fdd418774f50e7736",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_9e5f467d9aa29aa7f85c7207ce02f982.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9e5f467d9aa29aa7f85c7207ce02f982.jpg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 28.860028,
+      "lng": 115.55847
+    },
+    "address": "南昌市安义县S414与北外环路交叉路口往西北约110米",
+    "province": "江西省",
+    "city": "南昌市",
+    "area": "安义县",
+    "detail": 1,
+    "uid": "c7747f86fb1a8f4e177643f9",
+    "cover": "https://pic-map.cdn.bcebos.com/img/97dde1cbc891f0f2494ca4edd599b46e",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/97dde1cbc891f0f2494ca4edd599b46e"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 28.559373,
+      "lng": 115.637242
+    },
+    "address": "南昌市新建区关帝路西山中学东北侧约170米",
+    "province": "江西省",
+    "city": "南昌市",
+    "area": "新建区",
+    "detail": 1,
+    "uid": "f942807fb1a0b012128824a7",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_0c62e35d9abc8af4aef2c24d52909be6.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0c62e35d9abc8af4aef2c24d52909be6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1452c2e379db9c03a9099fddeaed6baa.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 28.706418,
+      "lng": 115.960913
+    },
+    "address": "南昌市青山湖区民营大道中大青山湖东园南侧约90米",
+    "province": "江西省",
+    "city": "南昌市",
+    "area": "青山湖区",
+    "detail": 1,
+    "uid": "fdf06ad0894f7efccac3db07",
+    "cover": "https://pic-map.cdn.bcebos.com/img/3b5cbc50dc69e8e94a8949d5a0a0dfeb",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/3b5cbc50dc69e8e94a8949d5a0a0dfeb",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_19a727cd40ddfd12050b8aec99b4692d.jpeg"
+    ]
+  },
+  {
+    "name": "铁鹰救援队",
+    "location": {
+      "lat": 28.678112,
+      "lng": 115.925502
+    },
+    "address": "江西省南昌市青山湖区二七南路669号",
+    "province": "江西省",
+    "city": "南昌市",
+    "area": "青山湖区",
+    "detail": 1,
+    "uid": "ff569eea25a42250f82d610d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_4c83e5b957243cf0bca2c34c25805e93.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4c83e5b957243cf0bca2c34c25805e93.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_77313ab53f33e97f36a036b048bd2597.jpeg"
+    ]
+  }
+]

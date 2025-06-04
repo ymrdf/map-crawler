@@ -1,0 +1,175 @@
+[
+  {
+    "name": "抚州市雨阳汽车拖车补胎道路救援搭电公司",
+    "location": {
+      "lat": 27.98503,
+      "lng": 116.355567
+    },
+    "address": "江西省抚州市临川区龙梦沁园东南侧90米",
+    "province": "江西省",
+    "city": "抚州市",
+    "area": "临川区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "fba29c2938045087220220ea",
+    "cover": "https://poi-pic.cdn.bcebos.com/7e52d7609cdb9a5393b329a5b2466150.jpg",
+    "photo_list": [
+      "https://poi-pic.cdn.bcebos.com/7e52d7609cdb9a5393b329a5b2466150.jpg"
+    ]
+  },
+  {
+    "name": "华蓝救援",
+    "location": {
+      "lat": 27.215766,
+      "lng": 116.52735
+    },
+    "address": "江西省抚州市南丰县环城南路石背小区156号",
+    "province": "江西省",
+    "city": "抚州市",
+    "area": "南丰县",
+    "detail": 1,
+    "uid": "99a57aeae58c57e81d5800ee",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_0c287f5ab3bd235965d575f84c78073b.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0c287f5ab3bd235965d575f84c78073b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cb310fa57516dce49332724003a840fc.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_27f24f7b3b3e72ebc690cb1042c1439f.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8c2c19dfe1b2e6e5bb534576682343cd.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e23c23f16e900b67316921792ccd5f16.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_191a41d4e844ebc38ba4cc7b54b0cd19.jpeg"
+    ]
+  },
+  {
+    "name": "圣隆汽车救援",
+    "location": {
+      "lat": 27.957065,
+      "lng": 116.348405
+    },
+    "address": "抚州市临川区富祥路蓝天艺术幼儿园(2部)东侧约130米",
+    "province": "江西省",
+    "city": "抚州市",
+    "area": "临川区",
+    "detail": 1,
+    "uid": "1bc01c8642169d7c72210bb3",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_04171b690f5a3afcca6869b1a49ad278.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_04171b690f5a3afcca6869b1a49ad278.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8990a1f4d06b47ba408635dd51dd0b88.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3a2055fbab03ec4f88f011f1b57e82cb.jpeg"
+    ]
+  },
+  {
+    "name": "中国蓝天救援抚州支队",
+    "location": {
+      "lat": 27.996508,
+      "lng": 116.36458
+    },
+    "address": "抚州市临川区宾馆路抚州市保育院北侧约50米",
+    "province": "江西省",
+    "city": "抚州市",
+    "area": "临川区",
+    "street_id": "30292254b8ff50bac5effb2c",
+    "detail": 1,
+    "uid": "30292254b8ff50bac5effb2c",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_5350c3af45bd1ab81a161c1e37cb56f7.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=30292254b8ff50bac5effb2c&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ba6d41bcd87bb422fecfece49bd47383.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f2c3654fd351a1157390611e432f7f89.jpg"
+    ]
+  },
+  {
+    "name": "速野道路救援有限公司",
+    "location": {
+      "lat": 27.547854,
+      "lng": 116.63622
+    },
+    "address": "抚州市南城县建昌南大道山水佳园",
+    "province": "江西省",
+    "city": "抚州市",
+    "area": "南城县",
+    "telephone": "13125242777,13755970887",
+    "detail": 1,
+    "uid": "71cd931f436816edad080f59",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_deea402ea966a1d2d12d7975f8beb38d.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_deea402ea966a1d2d12d7975f8beb38d.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f07184c7b7d8f0914abe1e870c0cc240.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_adb51810db73e499849a811bdcf1b1cf.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d9741b3658f4773e46aa1e3cf40ea95b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ca173750b81b857b3739ae22ae442941.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6680b80c8ab996223.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 28.063904,
+      "lng": 116.483291
+    },
+    "address": "抚州市临川区太阳中学南侧约100米",
+    "province": "江西省",
+    "city": "抚州市",
+    "area": "临川区",
+    "detail": 1,
+    "uid": "7ddf01b6d5897ea7c72ba1eb",
+    "cover": "https://pic-map.cdn.bcebos.com/img/3e1b42fb3e2ecd541faa467f54576f57",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/3e1b42fb3e2ecd541faa467f54576f57"
+    ]
+  },
+  {
+    "name": "东乡蓝天救援队",
+    "location": {
+      "lat": 28.256239,
+      "lng": 116.630519
+    },
+    "address": "抚州市东乡区雄岚大道与朝阳大道交叉路口往西北约290米",
+    "province": "江西省",
+    "city": "抚州市",
+    "area": "东乡区",
+    "street_id": "e66ec8cf21d867f52fb17e37",
+    "detail": 1,
+    "uid": "e66ec8cf21d867f52fb17e37",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_1e8d0435d778f6d58e61bbc07bab5900.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=e66ec8cf21d867f52fb17e37&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5559ba66fecb73a00e9ae38b75584e71.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_410b3a7961281fe92005bc1c9f3b6a42.jpeg"
+    ]
+  },
+  {
+    "name": "南城县应急救援",
+    "location": {
+      "lat": 27.601777,
+      "lng": 116.643786
+    },
+    "address": "抚州市南城县金丰路",
+    "province": "江西省",
+    "city": "抚州市",
+    "area": "南城县",
+    "detail": 1,
+    "uid": "f2a45a15e795bf80d2f49e4a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_f8edf04bd922129ee9d008a926f6d122.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f8edf04bd922129ee9d008a926f6d122.jpg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 27.687729,
+      "lng": 116.278138
+    },
+    "address": "江西省抚州市宜黄县丰九路与厚西路交叉路口西北侧",
+    "province": "江西省",
+    "city": "抚州市",
+    "area": "宜黄县",
+    "detail": 1,
+    "uid": "8dd155b8799dd9074d55475e",
+    "cover": "https://pic-map.cdn.bcebos.com/img/bec79021ba93fb70cd20011400a7cfcb",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/bec79021ba93fb70cd20011400a7cfcb"
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "name": "屯昌县消防救援大队",
+    "location": {
+      "lat": 19.395639,
+      "lng": 110.118666
+    },
+    "address": "屯昌县环东二路海南中部建材城东北侧约300米",
+    "province": "海南省",
+    "city": "屯昌县",
+    "area": "",
+    "detail": 1,
+    "uid": "772eba4af59eb40131f71d96",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_6b006570ebf58c7ab9ec7a6706322c5b.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6b006570ebf58c7ab9ec7a6706322c5b.jpeg"
+    ]
+  },
+  {
+    "name": "屯昌县乌坡镇专职消防救援站",
+    "location": {
+      "lat": 19.185802,
+      "lng": 110.079659
+    },
+    "address": "海南省屯昌县新风路小太阳幼儿园西北侧约70米",
+    "province": "海南省",
+    "city": "屯昌县",
+    "area": "",
+    "detail": 1,
+    "uid": "00d37eff3a497c7589f15d12",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ebc55bc36918c4706fdb2180f9a33b1e.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ebc55bc36918c4706fdb2180f9a33b1e.jpeg"
+    ]
+  }
+]

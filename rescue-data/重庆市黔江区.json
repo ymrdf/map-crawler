@@ -1,0 +1,161 @@
+[
+  {
+    "name": "德永救援",
+    "location": {
+      "lat": 29.302117,
+      "lng": 108.781884
+    },
+    "address": "红军南一路25号",
+    "province": "重庆市",
+    "city": "重庆市",
+    "area": "黔江区",
+    "telephone": "18996955510",
+    "detail": 1,
+    "uid": "8fc644aff882a2795bf6be50",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B6257d2128dd2a3e4e.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B6257d2128dd2a3e4e.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B62580db3e4ae94373.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ca7e2e3367518ef3730a9a17ceaa29eb.jpeg"
+    ]
+  },
+  {
+    "name": "濯水镇综合应急救援队",
+    "location": {
+      "lat": 29.308263,
+      "lng": 108.780164
+    },
+    "address": "重庆市黔江区厦成线濯水古镇",
+    "province": "重庆市",
+    "city": "重庆市",
+    "area": "黔江区",
+    "detail": 1,
+    "uid": "2694061be0f99752f11937e1",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_de97bcc6e89e1bb6d472094f3e9d12ac.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_de97bcc6e89e1bb6d472094f3e9d12ac.jpeg"
+    ]
+  },
+  {
+    "name": "昂冠汽修补胎搭电拖车救援",
+    "location": {
+      "lat": 29.568508,
+      "lng": 106.593128
+    },
+    "address": "陕西路33号(朝天门地铁站1号口步行140米)协信商厦F2",
+    "province": "重庆市",
+    "city": "重庆市",
+    "area": "渝中区",
+    "telephone": "13035019283",
+    "detail": 1,
+    "uid": "8ae51508d6700cbf1ef74dea",
+    "cover": "https://taojin-pic-gz.cdn.bcebos.com/78e96620235f288f94844a37e04ff719.jpeg",
+    "photo_list": [
+      "https://taojin-pic-gz.cdn.bcebos.com/78e96620235f288f94844a37e04ff719.jpeg"
+    ]
+  },
+  {
+    "name": "极致车服拖车救援",
+    "location": {
+      "lat": 29.54495,
+      "lng": 106.519224
+    },
+    "address": "重庆市渝中区茶亭南路4号附4号",
+    "province": "重庆市",
+    "city": "重庆市",
+    "area": "渝中区",
+    "telephone": "17353277358",
+    "detail": 1,
+    "uid": "f1d1500c6762c0dd95f08c34",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_3b2694e5e894c61f17c41a09a59087a6.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3b2694e5e894c61f17c41a09a59087a6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cbceec7e913f9890855076f7d1c39c28.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_013b400aff19b6998952bfe9a892a95f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d36e1c61434890a66d0262b580c672b5.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_20a01a4edfd77e1f6ebd5b6afd8ee744.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2f4939678668f615551888823fde2fa4.jpeg"
+    ]
+  },
+  {
+    "name": "重庆非同汽修补胎搭电拖车救援",
+    "location": {
+      "lat": 29.592274,
+      "lng": 106.521112
+    },
+    "address": "重庆市渝北区松桥路75号上海大厦c-1~2号",
+    "province": "重庆市",
+    "city": "重庆市",
+    "area": "渝北区",
+    "street_id": "",
+    "telephone": "13215522769",
+    "detail": 1,
+    "uid": "68d7187347b9f2c8c71e518e",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B5ebba1dcdeb1e1835c.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B5ebba1dcdeb1e1835c.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B5ebba1b68b64612bbf.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f9765b7a09192932c654af9ecb1d4ef5.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ff25609a6595e6737cfb76ffa795eeab.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a8835ec34cc2f9617df3062c64a0a0f4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2a7b880cbe7f767c2bd104934ecb4f99.jpeg"
+    ]
+  },
+  {
+    "name": "有道轮胎救援",
+    "location": {
+      "lat": 29.434448,
+      "lng": 106.428353
+    },
+    "address": "重庆市九龙坡区",
+    "province": "重庆市",
+    "city": "重庆市",
+    "area": "九龙坡区",
+    "detail": 1,
+    "uid": "7182126cb3c0dd6c4afc8df7",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_accd6c440e01082435e0f9e51bbbc3b9.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_accd6c440e01082435e0f9e51bbbc3b9.jpeg"
+    ]
+  },
+  {
+    "name": "黔江区新华消防救援站",
+    "location": {
+      "lat": 29.531783,
+      "lng": 108.793496
+    },
+    "address": "重庆市黔江区新华大道中段重庆市黔江区实验幼儿园东侧约30米",
+    "province": "重庆市",
+    "city": "重庆市",
+    "area": "黔江区",
+    "street_id": "1e4ca27af44d697d734b872f",
+    "detail": 1,
+    "uid": "1e4ca27af44d697d734b872f",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_7207c56b4d55d4488162924de80d0f2b.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=1e4ca27af44d697d734b872f&width=720&height=360&quality=80&fovx=120",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_07b353a6c22a261d5796bb5e127021a8.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_adac7c5f213cb2641166eef5072ca7d9.jpg"
+    ]
+  },
+  {
+    "name": "火线救援",
+    "location": {
+      "lat": 29.663188,
+      "lng": 106.62682
+    },
+    "address": "重庆市渝北区两港大道与银梭大道交叉口圣名游乐城陆地乐园",
+    "province": "重庆市",
+    "city": "重庆市",
+    "area": "渝北区",
+    "detail": 1,
+    "uid": "8d422b171dd0a9d4260bd0cd",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/ba6eba9cf56fa08ec7e893647881adfd_9716.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/ba6eba9cf56fa08ec7e893647881adfd_9716.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/3b984b4ce997bbc1915ab1ceada550d1_0534.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_084c3f8c6e22ddabecf10c20b528167d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2fda1221d2c783d246da8d88a0bcd70f.jpeg"
+    ]
+  }
+]

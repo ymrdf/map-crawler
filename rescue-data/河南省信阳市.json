@@ -1,0 +1,162 @@
+[
+  {
+    "name": "潢川县航空路消防救援站",
+    "location": {
+      "lat": 32.147248,
+      "lng": 115.053885
+    },
+    "address": "信阳市潢川县农业路锦江花苑东南侧约60米",
+    "province": "河南省",
+    "city": "信阳市",
+    "area": "潢川县",
+    "street_id": "",
+    "detail": 1,
+    "uid": "d0b3fb714577b8d8b75f1e8c",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_bc41e3f5f1675cdc39961f69b04dd860.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bc41e3f5f1675cdc39961f69b04dd860.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_2311f8a02d1767f5e48422701108a653.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_128654847a77cdba516cb2d710f3e303.jpeg"
+    ]
+  },
+  {
+    "name": "蓝天救援队",
+    "location": {
+      "lat": 32.094733,
+      "lng": 114.13621
+    },
+    "address": "信阳市平桥区城阳城路滨湖小区",
+    "province": "河南省",
+    "city": "信阳市",
+    "area": "平桥区",
+    "detail": 1,
+    "uid": "0b7898475a7049df1811d514",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a00456f45d49355dfe424538a48baeb7.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a00456f45d49355dfe424538a48baeb7.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_94c1f1eee37f99faaeeb671dc2623b6e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d9b5df25d21dd25239e05215d9a5376e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_15043adf48728ee34664332769d883ec.jpeg"
+    ]
+  },
+  {
+    "name": "固始县踏月寺消防救援站",
+    "location": {
+      "lat": 32.180573,
+      "lng": 115.678636
+    },
+    "address": "信阳市固始县踏月寺街幸福嘉园西南侧约30米",
+    "province": "河南省",
+    "city": "信阳市",
+    "area": "固始县",
+    "street_id": "83515755e45b9072cf06a421",
+    "detail": 1,
+    "uid": "83515755e45b9072cf06a421",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ca9e5972add9fba072caab2b943b3005.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=83515755e45b9072cf06a421&width=720&height=360&quality=80&fovx=120",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_7a16aba5a94f68e8778778f7e3a6b3bd.jpg"
+    ]
+  },
+  {
+    "name": "淮滨蓝天救援队",
+    "location": {
+      "lat": 32.447734,
+      "lng": 115.428304
+    },
+    "address": "河南省信阳市淮滨县东大埂路与江淮路交叉路口往东约150米",
+    "province": "河南省",
+    "city": "信阳市",
+    "area": "淮滨县",
+    "detail": 1,
+    "uid": "6376cbef79e188049122e006",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B621af26f6ad5b105df.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B621af26f6ad5b105df.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e5d9aff9fdf69dca53fd8f689c4efc27.jpeg"
+    ]
+  },
+  {
+    "name": "信阳全友拖车搭电道路救援脱困公司",
+    "location": {
+      "lat": 32.126298,
+      "lng": 114.16905
+    },
+    "address": "信阳市平桥区平桥创业园东南侧约130米",
+    "province": "河南省",
+    "city": "信阳市",
+    "area": "平桥区",
+    "detail": 1,
+    "uid": "28556cfd4bd86ff342d63e6d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_4b3f67b54f6ff4e631b1951ad5881a74.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4b3f67b54f6ff4e631b1951ad5881a74.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7a8691581e5684d583460a58d3a3a6ee.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a3027b07f3d427e75daff56a084ca6fd.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_743fcebd1d166c18d80083f50b9337dd.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e6611ea9a15c770ac161106a6cac1d44.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4122139ec542ef58518d3c8edeccf2c8.jpeg"
+    ]
+  },
+  {
+    "name": "罗山县消防救援大队",
+    "location": {
+      "lat": 32.199663,
+      "lng": 114.522714
+    },
+    "address": "信阳市罗山县龙山大道中段康桥名居西侧约30米",
+    "province": "河南省",
+    "city": "信阳市",
+    "area": "罗山县",
+    "street_id": "",
+    "detail": 1,
+    "uid": "d4e23c8a174d97429b68b42c",
+    "cover": "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_6e938c00e52061accf873b0fef585f31.jpg",
+    "photo_list": [
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_6e938c00e52061accf873b0fef585f31.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_77f31d1599da9259b1d06ec4ea2e0365.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e9e85b9ab904be0cc81f29abc1d88d50.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b3a1d3cbd508f39d5fdb32c4cfea4499.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 31.562419,
+      "lng": 114.756603
+    },
+    "address": "信阳市新县X022陈店乡政府西侧约70米",
+    "province": "河南省",
+    "city": "信阳市",
+    "area": "新县",
+    "detail": 1,
+    "uid": "8aa3558825cad471c4f0250d",
+    "cover": "https://pic-map.cdn.bcebos.com/img/46e4f9fe9ec6480bea1ced9256a3020d",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/46e4f9fe9ec6480bea1ced9256a3020d"
+    ]
+  },
+  {
+    "name": "淮滨县大伟道路救援服务有限公司",
+    "location": {
+      "lat": 32.453972,
+      "lng": 115.414669
+    },
+    "address": "信阳市淮滨县金谷春大道明晨不锈钢东北侧约280米",
+    "province": "河南省",
+    "city": "信阳市",
+    "area": "淮滨县",
+    "street_id": "",
+    "detail": 1,
+    "uid": "18aab32504d8fef9eb1e970e",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d7ae7f1a656bc1de639eb7b878c4730e.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d7ae7f1a656bc1de639eb7b878c4730e.jpg",
+      "https://taojin-his.cdn.bcebos.com/aa64034f78f0f736ce0bf2ce0155b319eac41303.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5c379ef9f13d8203f04246306ef0015f.jpg",
+      "https://taojin-his.cdn.bcebos.com/54fbb2fb43166d22334a933c4f2309f79052d25d.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_dcf775347d59f1852d8726ec7d9a6ed0.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ed7583131513b8882ffdade42e190607.jpeg"
+    ]
+  }
+]

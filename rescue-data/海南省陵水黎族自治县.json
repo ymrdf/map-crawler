@@ -1,0 +1,77 @@
+[
+  {
+    "name": "陵水县消防救援大队",
+    "location": {
+      "lat": 18.540902,
+      "lng": 110.045633
+    },
+    "address": "陵水黎族自治县G361鸿儿幼儿园南侧约120米",
+    "province": "海南省",
+    "city": "陵水黎族自治县",
+    "area": "",
+    "detail": 1,
+    "uid": "9ba9eeea9c87deedc61e518e",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_4d930e80e4a03a5833f676d9d4e23e9d.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4d930e80e4a03a5833f676d9d4e23e9d.jpeg"
+    ]
+  },
+  {
+    "name": "海南大民工程机械有限公司洒水车出租",
+    "location": {
+      "lat": 18.452396,
+      "lng": 110.052716
+    },
+    "address": "陵水黎族自治县X663",
+    "province": "海南省",
+    "city": "陵水黎族自治县",
+    "area": "",
+    "telephone": "18889905967,18907660967",
+    "detail": 1,
+    "uid": "5ad3b1dca4177073cb213d66",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B661611243565c9d11.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B661611243565c9d11.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B661611242449b17539.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B661611245a03212e75.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B661611243a127de61.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B66161124700eec14a.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B66161124149dd11ba2.jpeg"
+    ]
+  },
+  {
+    "name": "陵水椰林立走旅游发展网店",
+    "location": {
+      "lat": 18.514291,
+      "lng": 110.037034
+    },
+    "address": "陵水黎族自治县机械厂小区路陵水中学东北侧约160米",
+    "province": "海南省",
+    "city": "陵水黎族自治县",
+    "area": "",
+    "telephone": "18976163855",
+    "detail": 1,
+    "uid": "61e824c9d9d1348bd1f49ebc",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_85fcda6c94d6f5afefa112a74a4ccae6.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_85fcda6c94d6f5afefa112a74a4ccae6.jpeg"
+    ]
+  },
+  {
+    "name": "陵水林圣旅游客运有限公司",
+    "location": {
+      "lat": 18.423193,
+      "lng": 109.903004
+    },
+    "address": "陵水黎族自治县清水湾大道雅居乐云海泽月",
+    "province": "海南省",
+    "city": "陵水黎族自治县",
+    "area": "",
+    "detail": 1,
+    "uid": "177f6c905b360b617c29bdfc",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B672084637e9bb12513.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B672084637e9bb12513.jpeg"
+    ]
+  }
+]

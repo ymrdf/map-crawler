@@ -1,0 +1,191 @@
+[
+  {
+    "name": "佳通汽修救援公司",
+    "location": {
+      "lat": 36.345024,
+      "lng": 113.211635
+    },
+    "address": "长治市潞城区锡海线与Y914交叉路口往东约90米",
+    "province": "山西省",
+    "city": "长治市",
+    "area": "潞城区",
+    "telephone": "13467023599,15234511918",
+    "detail": 1,
+    "uid": "4fb516c3eb727a869de321c1",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_e9a53574abfd24276e257c391d13a235.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e9a53574abfd24276e257c391d13a235.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_949ae918055a1575f356c2ab68f221da.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_835b3c0cbbd0508eeb8c9aba3eed1112.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9df1f508e6983ee86f8f543930456552.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6cb943090395c394afa2e0f844a5f5d9.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65f558db5e6fc135b3.jpeg"
+    ]
+  },
+  {
+    "name": "电车救援",
+    "location": {
+      "lat": 36.338746,
+      "lng": 112.900899
+    },
+    "address": "228省道与309国道交叉口西南100米",
+    "province": "山西省",
+    "city": "长治市",
+    "area": "屯留区",
+    "street_id": "",
+    "telephone": "15534508863",
+    "detail": 1,
+    "uid": "d89aa45c585d4cfa9d9d6890",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_fff932b4c81204536610ba7a10308270.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_fff932b4c81204536610ba7a10308270.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4032c1aa052d1039951ff651255d5a3f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_582c1ffa135204f7ce9d0a483b2dfc19.jpeg"
+    ]
+  },
+  {
+    "name": "道路救援",
+    "location": {
+      "lat": 36.347891,
+      "lng": 112.903493
+    },
+    "address": "长治市屯留区化许线七星台家具城北侧约110米",
+    "province": "山西省",
+    "city": "长治市",
+    "area": "屯留区",
+    "street_id": "bff7aa91d16a05151329353d",
+    "detail": 1,
+    "uid": "bff7aa91d16a05151329353d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_919922017d5cd861647e309fa3065e85.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=bff7aa91d16a05151329353d&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f83c7cff3b989fb506b26d9b3bfc6cea.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_dc30057c1339d8cf94eb922d5a77668f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0476df14e5886767f0011c99dc7234bf.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4f41803def0531980fd3b1eb1667576e.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 36.058787,
+      "lng": 113.05425
+    },
+    "address": "长治市上党区迎宾西街清河苑(新市西街)东北侧约200米",
+    "province": "山西省",
+    "city": "长治市",
+    "area": "上党区",
+    "detail": 1,
+    "uid": "9813a622d535ec110c0e6bf7",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_e9fa4d3a18bfb26884223d4c52bc99c8.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e9fa4d3a18bfb26884223d4c52bc99c8.jpeg"
+    ]
+  },
+  {
+    "name": "店上消防救援",
+    "location": {
+      "lat": 36.444178,
+      "lng": 113.122982
+    },
+    "address": "山西省长治市潞城区新长安路",
+    "province": "山西省",
+    "city": "长治市",
+    "area": "潞城区",
+    "detail": 1,
+    "uid": "00542b951150af29f6c59c04",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_472b1303d4abc27cd1f2b475363a46c9.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_472b1303d4abc27cd1f2b475363a46c9.jpeg"
+    ]
+  },
+  {
+    "name": "平顺县消防救援大队",
+    "location": {
+      "lat": 36.198988,
+      "lng": 113.467055
+    },
+    "address": "山西省长治市平顺县",
+    "province": "山西省",
+    "city": "长治市",
+    "area": "平顺县",
+    "detail": 1,
+    "uid": "8283d5e0df847f8e79b55cee",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B65b5b9b93bd0612f43.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B65b5b9b93bd0612f43.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65b5b9b918a98147be.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65b5b9b922f151311a.jpeg"
+    ]
+  },
+  {
+    "name": "长治市潞州区太东消防救援站",
+    "location": {
+      "lat": 36.198552,
+      "lng": 113.143879
+    },
+    "address": "山西省长治市潞州区紫金东街342号",
+    "province": "山西省",
+    "city": "长治市",
+    "area": "潞州区",
+    "street_id": "7bbc9379d12ced97b5f42f1d",
+    "detail": 1,
+    "uid": "7bbc9379d12ced97b5f42f1d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_18fa963dad81fe191e15edf20d81b5e7.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=7bbc9379d12ced97b5f42f1d&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 36.503061,
+      "lng": 113.061052
+    },
+    "address": "长治市襄垣县G519与滨河东路交叉路口往东南约230米",
+    "province": "山西省",
+    "city": "长治市",
+    "area": "襄垣县",
+    "detail": 1,
+    "uid": "f427360035613da08505bf0e",
+    "cover": "https://pic-map.cdn.bcebos.com/img/68b461050f5cafbac218d8f7cf254652",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/68b461050f5cafbac218d8f7cf254652"
+    ]
+  },
+  {
+    "name": "武乡县消防救援大队",
+    "location": {
+      "lat": 36.831079,
+      "lng": 112.854398
+    },
+    "address": "长治市武乡县和平三路与裕丰街交叉路口往西南约280米",
+    "province": "山西省",
+    "city": "长治市",
+    "area": "武乡县",
+    "detail": 1,
+    "uid": "ecf108cf988b49b1882fb55b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_5f1024bc164083422843ad8bca86e6c2.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5f1024bc164083422843ad8bca86e6c2.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B5fe69321381671613f.jpeg"
+    ]
+  },
+  {
+    "name": "壶关县消防救援大队",
+    "location": {
+      "lat": 36.148437,
+      "lng": 113.228844
+    },
+    "address": "长治市壶关县开元大街南100米",
+    "province": "山西省",
+    "city": "长治市",
+    "area": "壶关县",
+    "detail": 1,
+    "uid": "98f336a925549b7637b06cb4",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_3f9cef8943276919fd2126b4e8a25f7b.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3f9cef8943276919fd2126b4e8a25f7b.jpg"
+    ]
+  }
+]

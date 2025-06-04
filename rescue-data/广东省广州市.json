@@ -1,0 +1,128 @@
+[
+  {
+    "name": "晟峰道路救援",
+    "location": {
+      "lat": 23.037828,
+      "lng": 113.438531
+    },
+    "address": "广东省广州市番禺区商业街28号",
+    "province": "广东省",
+    "city": "广州市",
+    "area": "番禺区",
+    "street_id": "",
+    "telephone": "18520644677",
+    "detail": 1,
+    "uid": "a825588317a6f97938e4a619",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_492498ce926460351f29d46d9d335a2c.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_492498ce926460351f29d46d9d335a2c.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B607d5b643fbcc75ef.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5889f2c8b532390dee283ab6388f7a48.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B607e26e72e43e133d3.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cb54b34541dd75c32763f05f77082572.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/fa16b7ba23288392ae9ceaf9ea4dd965_3754.jpeg"
+    ]
+  },
+  {
+    "name": "广州市天河区石牌消防救援站",
+    "location": {
+      "lat": 23.140019,
+      "lng": 113.362667
+    },
+    "address": "广东省广州市天河区中山大道西126号",
+    "province": "广东省",
+    "city": "广州市",
+    "area": "天河区",
+    "street_id": "0f97e10ef48555772811d155",
+    "detail": 1,
+    "uid": "0f97e10ef48555772811d155",
+    "cover": "https://taojin-his.cdn.bcebos.com/242dd42a2834349baf6fc5cec3ea15ce36d3be14.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=0f97e10ef48555772811d155&width=720&height=360&quality=80&fovx=120",
+      "https://lbsugc.cdn.bcebos.com/images/B6515a535db95716b96.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6515a536016eb1698f.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6515a535d2ed31235d.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6515a53603c3a120e8.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6515a535e9189f9f4.jpeg"
+    ]
+  },
+  {
+    "name": "野生救援",
+    "location": {
+      "lat": 23.13443,
+      "lng": 113.287899
+    },
+    "address": "广东省广州市越秀区东皋大道-11号大院东南侧约30米",
+    "province": "广东省",
+    "city": "广州市",
+    "area": "越秀区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "cc8d5898b282aa7cfbf0cbfc",
+    "cover": "https://taojin-his.cdn.bcebos.com/e61190ef76c6a7efd0a5f85af4faaf51f2de66ce.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/e61190ef76c6a7efd0a5f85af4faaf51f2de66ce.jpg"
+    ]
+  },
+  {
+    "name": "广州市海珠区同福路消防救援站",
+    "location": {
+      "lat": 23.109223,
+      "lng": 113.263856
+    },
+    "address": "同福中路316号",
+    "province": "广东省",
+    "city": "广州市",
+    "area": "海珠区",
+    "street_id": "7b7b95d28f6f1fc61b11d5be",
+    "detail": 1,
+    "uid": "7b7b95d28f6f1fc61b11d5be",
+    "cover": "https://taojin-his.cdn.bcebos.com/b7003af33a87e9504bd314671e385343faf2b4f1.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=7b7b95d28f6f1fc61b11d5be&width=720&height=360&quality=80&fovx=120",
+      "https://taojin-his.cdn.bcebos.com/242dd42a2834349b94d0ef81c0ea15ce37d3bee4.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b2005d58ba5d87127fe19af68b781d74.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1c36b0790808a61e9c82001adb83e8e6.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B66d1ea53a3652145c0.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 23.122532,
+      "lng": 113.316676
+    },
+    "address": "广州市越秀区明月路广州市公安消防支队越秀区大队五羊村中队",
+    "province": "广东省",
+    "city": "广州市",
+    "area": "越秀区",
+    "street_id": "480795e9d401c23ad6851f82",
+    "detail": 1,
+    "uid": "480795e9d401c23ad6851f82",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_c196a9b977091b24cb533c480f297bec.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=480795e9d401c23ad6851f82&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1da6c20d49e0f08c9fb24afb47644b76.jpeg"
+    ]
+  },
+  {
+    "name": "广州市天河区员村消防救援站",
+    "location": {
+      "lat": 23.127181,
+      "lng": 113.374034
+    },
+    "address": "广东省广州市天河区黄埔大道中310号",
+    "province": "广东省",
+    "city": "广州市",
+    "area": "天河区",
+    "street_id": "b4d3904059fbc17fbd48423a",
+    "detail": 1,
+    "uid": "b4d3904059fbc17fbd48423a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_471ba8c574b4315c54f8e269e56c1fc9.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=b4d3904059fbc17fbd48423a&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2803621badc9197099536ef76ea4a3f0.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f79ec3360de201d0493465a90a24d955.jpeg"
+    ]
+  }
+]

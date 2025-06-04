@@ -1,0 +1,149 @@
+[
+  {
+    "name": "保航汽车道路救援一站式服务",
+    "location": {
+      "lat": 27.314042,
+      "lng": 103.697274
+    },
+    "address": "昭通市昭阳区迎宾大道远大广场",
+    "province": "云南省",
+    "city": "昭通市",
+    "area": "昭阳区",
+    "detail": 1,
+    "uid": "bb55ca03677d1e41c909f06d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_e48e8192c81399074d17d92a78e41f59.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e48e8192c81399074d17d92a78e41f59.jpeg"
+    ]
+  },
+  {
+    "name": "永善县玉泉路消防救援站",
+    "location": {
+      "lat": 28.239618,
+      "lng": 103.638994
+    },
+    "address": "昭通市永善县玉泉路示范小学西北侧约130米",
+    "province": "云南省",
+    "city": "昭通市",
+    "area": "永善县",
+    "detail": 1,
+    "uid": "7f791d5ade44fbee4e776e1c",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_436caa6719cd16fd8bfbe00152f293b1.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_436caa6719cd16fd8bfbe00152f293b1.jpeg"
+    ]
+  },
+  {
+    "name": "鲁甸县文屏消防救援站",
+    "location": {
+      "lat": 27.203603,
+      "lng": 103.566256
+    },
+    "address": "昭通市鲁甸县昭鲁大道鲁甸县磷肥厂家属区东南侧约230米",
+    "province": "云南省",
+    "city": "昭通市",
+    "area": "鲁甸县",
+    "detail": 1,
+    "uid": "d33f8cebf4fec7756d47607e",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_83ed97701925731616303b4bce22f1fb.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_83ed97701925731616303b4bce22f1fb.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 27.341474,
+      "lng": 103.724528
+    },
+    "address": "昭通市昭阳区云兴街昭阳区第四小学西南侧约80米",
+    "province": "云南省",
+    "city": "昭通市",
+    "area": "昭阳区",
+    "detail": 1,
+    "uid": "ef1f558599fa6e3dc16c14d2",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_07d43741c03943fdb757844f7a254232.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_07d43741c03943fdb757844f7a254232.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c3e9cbd61725fe00a876a036d1eb69bf.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ec8f0719b468a1783bf34ec2940ef0d0.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6573d9743fd6fc1c9.jpeg"
+    ]
+  },
+  {
+    "name": "昭阳区消防救援大队",
+    "location": {
+      "lat": 27.330253,
+      "lng": 103.729763
+    },
+    "address": "云南省昭通市昭阳区学生路127号",
+    "province": "云南省",
+    "city": "昭通市",
+    "area": "昭阳区",
+    "street_id": "",
+    "telephone": "(0870)2226545",
+    "detail": 1,
+    "uid": "4c36c2eac99f8cc2ab175a0e",
+    "cover": "https://taojin-his.cdn.bcebos.com/4d086e061d950a7b280c906606d162d9f2d3c953.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/4d086e061d950a7b280c906606d162d9f2d3c953.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_26872c518a48048e7157412c81576617.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_db50f33e121d22b1e5a71e7d65387244.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_87218a2a26a7a5502dbe9923b8d5619a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5525676fdb446d2d887f360a5399f39a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_419e4cdad7816a5cf15a12ecad5077c1.jpeg"
+    ]
+  },
+  {
+    "name": "昭通市昭阳区学生路消防救援站",
+    "location": {
+      "lat": 27.329829,
+      "lng": 103.729727
+    },
+    "address": "昭通市昭阳区学生路林语华府东侧约160米",
+    "province": "云南省",
+    "city": "昭通市",
+    "area": "昭阳区",
+    "detail": 1,
+    "uid": "44e029294841d1a8c909f0ca",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a4bfa00fb51124a2827a1b2dcd78a604.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a4bfa00fb51124a2827a1b2dcd78a604.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_87218a2a26a7a5502dbe9923b8d5619a.jpeg"
+    ]
+  },
+  {
+    "name": "鲁甸县消防救援大队",
+    "location": {
+      "lat": 27.203951,
+      "lng": 103.565571
+    },
+    "address": "昭通市鲁甸县昭鲁大道鲁甸县磷肥厂家属区东南侧约150米",
+    "province": "云南省",
+    "city": "昭通市",
+    "area": "鲁甸县",
+    "detail": 1,
+    "uid": "3c44618fac2256a5c42ba188",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_83ed97701925731616303b4bce22f1fb.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_83ed97701925731616303b4bce22f1fb.jpeg"
+    ]
+  },
+  {
+    "name": "昭鲁大道消防救援站",
+    "location": {
+      "lat": 27.268587,
+      "lng": 103.671635
+    },
+    "address": "昭通市昭鲁大道",
+    "province": "云南省",
+    "city": "昭通市",
+    "area": "昭阳区",
+    "detail": 1,
+    "uid": "64bc5d29a24cd617725e8034",
+    "cover": "https://pic-map.cdn.bcebos.com/img/659c6c9bcb2e0f4a03cd08500ccf5b76",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/659c6c9bcb2e0f4a03cd08500ccf5b76"
+    ]
+  }
+]

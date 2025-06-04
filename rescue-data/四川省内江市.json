@@ -1,0 +1,175 @@
+[
+  {
+    "name": "旗帅轮胎补胎24小时救援",
+    "location": {
+      "lat": 29.334554,
+      "lng": 105.300963
+    },
+    "address": "光丰村17号",
+    "province": "四川省",
+    "city": "内江市",
+    "area": "隆昌市",
+    "street_id": "6f19750a8361c312631809e8",
+    "telephone": "19048241107",
+    "detail": 1,
+    "uid": "6f19750a8361c312631809e8",
+    "cover": "https://photo-meituan.cdn.bcebos.com/photo/1733358888b034bbde6e4e5513091ffc708b99b930",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=6f19750a8361c312631809e8&width=720&height=360&quality=80&fovx=120",
+      "https://lbsugc.cdn.bcebos.com/images/B652f8418ec49f15b56.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/d833c49001089f9eb7cf7e089a9aadfe_3695.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/470aec12b60a2f719bb529acadbd8c64_6217.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3933eb9d5f53669c2d5a69475734d397.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1016c1036277c2f84d4877eaf3d03b91.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 29.572043,
+      "lng": 105.068454
+    },
+    "address": "内江市市中区江宁街庙儿山公租房小区北侧约40米",
+    "province": "四川省",
+    "city": "内江市",
+    "area": "市中区",
+    "detail": 1,
+    "uid": "8f4321fc4c3a92d59e95ded5",
+    "cover": "https://pic-map.cdn.bcebos.com/img/8e7f0f20189184b322ae35ad0739bb90",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/8e7f0f20189184b322ae35ad0739bb90"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 29.342914,
+      "lng": 105.282499
+    },
+    "address": "内江市隆昌市仁和街海棠苑东南侧约30米",
+    "province": "四川省",
+    "city": "内江市",
+    "area": "隆昌市",
+    "detail": 1,
+    "uid": "b8a0422f5ef91760a8f0cd5b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a48403fcdf5a3ed0821d555e969c5ace.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a48403fcdf5a3ed0821d555e969c5ace.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c7b343f90899f0f29f55729a8b67e702.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9511415f966ff32ef4caf2e3d2c90bf5.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2bb931169383ee9f2b7671b9a9fbb525.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7912dc57bb9e1d357b0a54f89ec2fed9.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0c1b093ee5808e371825b1fde894cfba.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 29.348154,
+      "lng": 105.319372
+    },
+    "address": "内江市隆昌市环城东路云峰派出所西侧",
+    "province": "四川省",
+    "city": "内江市",
+    "area": "隆昌市",
+    "detail": 1,
+    "uid": "8682da5d321897a0c42ba1e1",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_19443eabfbe44573d6e2383051d33d8b.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_19443eabfbe44573d6e2383051d33d8b.jpeg"
+    ]
+  },
+  {
+    "name": "内江市东兴区兴盛路消防救援站",
+    "location": {
+      "lat": 29.604743,
+      "lng": 105.084632
+    },
+    "address": "四川省内江市东兴区新观街483号",
+    "province": "四川省",
+    "city": "内江市",
+    "area": "东兴区",
+    "detail": 1,
+    "uid": "445dd366c84e38919d82ea2f",
+    "cover": "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_66ff7baa5ff09ea71ba734b0e96b87fd.jpg",
+    "photo_list": [
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_66ff7baa5ff09ea71ba734b0e96b87fd.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_53c5d75c20187766d6f85f79bf291713.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bf2f16611e58bfc11070e4248af532ec.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 29.60482,
+      "lng": 105.084607
+    },
+    "address": "内江市东兴区新观街凤凰社区西北侧约30米",
+    "province": "四川省",
+    "city": "内江市",
+    "area": "东兴区",
+    "detail": 1,
+    "uid": "41d70990ae60c42912882455",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_b3fce62a7591c9597af5117b89e50f10.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b3fce62a7591c9597af5117b89e50f10.jpg"
+    ]
+  },
+  {
+    "name": "资中县消防救援大队",
+    "location": {
+      "lat": 29.791405,
+      "lng": 104.876314
+    },
+    "address": "四川省内江市资中县磐石大道",
+    "province": "四川省",
+    "city": "内江市",
+    "area": "资中县",
+    "detail": 1,
+    "uid": "92817415450f82e01029359b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_b2b29a78bc32b5fa007ced15df28fdaf.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b2b29a78bc32b5fa007ced15df28fdaf.jpeg"
+    ]
+  },
+  {
+    "name": "内江市东兴区太白路消防救援站",
+    "location": {
+      "lat": 29.603192,
+      "lng": 105.071162
+    },
+    "address": "四川省内江市东兴区西林街道太白路188号",
+    "province": "四川省",
+    "city": "内江市",
+    "area": "东兴区",
+    "detail": 1,
+    "uid": "9389c0b345bbd2f14107c17e",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_190c9dff594cbdf1345910c201011c49.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_190c9dff594cbdf1345910c201011c49.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3404390a182f7f6d0fb3bdc87afeb2be.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cc5e282d3dec9215730ebf5a9a208ca5.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2000eba096fe8cd39e04ed5d82b0d5b6.jpeg"
+    ]
+  },
+  {
+    "name": "内江市市中区凤鸣大道消防救援站",
+    "location": {
+      "lat": 29.586687,
+      "lng": 105.028745
+    },
+    "address": "内江市市中区汉晨路内江市科技开发学校西北侧约260米",
+    "province": "四川省",
+    "city": "内江市",
+    "area": "市中区",
+    "detail": 1,
+    "uid": "8b5d43d73f2eb772931fc905",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_5663e983ba9b896e8e4938a0be75661c.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5663e983ba9b896e8e4938a0be75661c.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0e3145800f625ee0f0e4192d0d28ca11.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_39a5c3e2f55f2d5586a4b205d46b9454.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_93b44f4941cfa0dc9c09db212df2b744.jpeg"
+    ]
+  }
+]

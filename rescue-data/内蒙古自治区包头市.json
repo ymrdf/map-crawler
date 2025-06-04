@@ -1,0 +1,167 @@
+[
+  {
+    "name": "佳远兴拖车救援公司",
+    "location": {
+      "lat": 40.652547,
+      "lng": 109.889541
+    },
+    "address": "万青路黄海汽车包头威龙专卖店旁",
+    "province": "内蒙古自治区",
+    "city": "包头市",
+    "area": "青山区",
+    "street_id": "845e8c7d5147201c276e984f",
+    "telephone": "15847240222",
+    "detail": 1,
+    "uid": "845e8c7d5147201c276e984f",
+    "cover": "https://taojin-his.cdn.bcebos.com/64380cd7912397dd2cbf7db75782b2b7d1a287bb.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=845e8c7d5147201c276e984f&width=720&height=360&quality=80&fovx=120",
+      "https://lbsugc.cdn.bcebos.com/images/H9825bc315c6034a86b17d717c6134954082376aa.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_919009de2c184d5b29af61b7ee4eb91f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_de3455c232ba54d96f833a24d0a13864.jpeg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_b4ddbf471164c407ba01ed2f7c3016e9.jpg",
+      "https://poi-pic.cdn.bcebos.com/146f78a0921666fdb4892b077e3117e0.jpg"
+    ]
+  },
+  {
+    "name": "航海救援",
+    "location": {
+      "lat": 40.667751,
+      "lng": 109.887741
+    },
+    "address": "包头市青山区草原道呼得木林大街11号街坊",
+    "province": "内蒙古自治区",
+    "city": "包头市",
+    "area": "青山区",
+    "telephone": "15147296120",
+    "detail": 1,
+    "uid": "f9890f173cef2bbe02897266",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_e36bb7550ca8c28fbaaab469b7f2fa98.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e36bb7550ca8c28fbaaab469b7f2fa98.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5d7663274db2b3714b8457e236b7b487.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9b65fa75cbe73d82f3651ef6d374bac9.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7d20a59be5e0ee56559066b5f9770db8.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6782467847dfd9296.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f8b25c2d71c1cbe377b3cea109254013.jpeg"
+    ]
+  },
+  {
+    "name": "包头市昆都仑区乌兰道消防救援站",
+    "location": {
+      "lat": 40.667287,
+      "lng": 109.818589
+    },
+    "address": "包头市昆都仑区白云鄂博路盛星小区西南侧约50米",
+    "province": "内蒙古自治区",
+    "city": "包头市",
+    "area": "昆都仑区",
+    "detail": 1,
+    "uid": "9cbb9520dc222a9083a00c6b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_2f0484db0405eb079870f23870a2b89a.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2f0484db0405eb079870f23870a2b89a.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2f3e05bd1ea8cf15600c215867f922f3.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_379ffa7ffcadb6503c17965c24bd4bda.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1738c31752b95f7879945f81a01ae167.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8f8865ef17576e59eb2f077f197acd76.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b04537f9167a3cce4d2642d3a4517b18.jpeg"
+    ]
+  },
+  {
+    "name": "包头市昆都仑区白云路消防救援站",
+    "location": {
+      "lat": 40.629827,
+      "lng": 109.81488
+    },
+    "address": "包头市昆都仑区白云鄂博路恒大名都小区西南侧约130米",
+    "province": "内蒙古自治区",
+    "city": "包头市",
+    "area": "昆都仑区",
+    "detail": 1,
+    "uid": "5dedc856bbb680e915764352",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_3f8a857449eb4d805a0fea6236e17dcb.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3f8a857449eb4d805a0fea6236e17dcb.jpeg"
+    ]
+  },
+  {
+    "name": "孝善救援",
+    "location": {
+      "lat": 40.589493,
+      "lng": 110.024942
+    },
+    "address": "内蒙古自治区包头市东河区体育场南路10号",
+    "province": "内蒙古自治区",
+    "city": "包头市",
+    "area": "东河区",
+    "detail": 1,
+    "uid": "1d812db16971f15c6c47607b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_3be99663d69a82780d0bda3739d695b6.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3be99663d69a82780d0bda3739d695b6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5ba777dff753b50d2d89fa63ca91f704.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c98a1b9d7248bf333967345b5df44f16.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1b45aa6485391a8eb154eb08e5886ac6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c9638fbf1169ad1ba7332fba72973c39.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8de2bbfcfbb60f2ad9027d47bb842f81.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 40.660387,
+      "lng": 109.912474
+    },
+    "address": "包头市青山区文化路欧鹿生活城南侧约30米",
+    "province": "内蒙古自治区",
+    "city": "包头市",
+    "area": "青山区",
+    "detail": 1,
+    "uid": "f6cd298c7c15c346593ac817",
+    "cover": "https://pic-map.cdn.bcebos.com/img/e12b5d0881101b91b02b6d291f23284c",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/e12b5d0881101b91b02b6d291f23284c"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 40.666922,
+      "lng": 109.818849
+    },
+    "address": "包头市昆都仑区乌兰道都市豪庭西北侧",
+    "province": "内蒙古自治区",
+    "city": "包头市",
+    "area": "昆都仑区",
+    "detail": 1,
+    "uid": "9eeb0249e0baf993882fb504",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_7f505bb1b3d6148c4a72529019514d0c.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7f505bb1b3d6148c4a72529019514d0c.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f57b01cae96522a08e7ebfad29ef8894.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d41df7e7880a1bb8e4184628e54c2771.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_409c9b726a14e3e9a2776f3f8b84a017.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_ae63cbd68f96dba70c92227401ffea78.jpg"
+    ]
+  },
+  {
+    "name": "富强路消防救援站",
+    "location": {
+      "lat": 40.666246,
+      "lng": 109.866941
+    },
+    "address": "内蒙古自治区包头市青山区富强路与青年路交叉路口往东南约50米(正翔国际)",
+    "province": "内蒙古自治区",
+    "city": "包头市",
+    "area": "青山区",
+    "street_id": "a08ba9033fd6a3d76240a92c",
+    "detail": 1,
+    "uid": "a08ba9033fd6a3d76240a92c",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a5b617bf7810b066a44c66293cf7c583.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a5b617bf7810b066a44c66293cf7c583.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f93b4cc249c0b7c0cf5aee18ed79334f.jpg"
+    ]
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "name": "龙山县福鑫道路救援服务有限责任公司",
+    "location": {
+      "lat": 29.444098,
+      "lng": 109.450081
+    },
+    "address": "湘西土家族苗族自治州龙山县老城路龙山县第三小学东侧约200米",
+    "province": "湖南省",
+    "city": "湘西土家族苗族自治州",
+    "area": "龙山县",
+    "detail": 1,
+    "uid": "f0a0f7e9f9625922d3ff236d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a8dd01ab61f69bb0c0b894126a0faaa4.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a8dd01ab61f69bb0c0b894126a0faaa4.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B662f63792120ed248.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B662f63782c9105f2e.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B662f63789cd469012.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B662f63784c8517515.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B662f6378d5ae81042b.jpeg"
+    ]
+  },
+  {
+    "name": "湘西曙光救援队",
+    "location": {
+      "lat": 28.223644,
+      "lng": 109.672151
+    },
+    "address": "湖南省湘西土家族苗族自治州吉首市开发路6号",
+    "province": "湖南省",
+    "city": "湘西土家族苗族自治州",
+    "area": "吉首市",
+    "detail": 1,
+    "uid": "390dd79890022764e6e965e2",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_05d5a5d05919aaa66aa1821cd55e96d1.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_05d5a5d05919aaa66aa1821cd55e96d1.jpeg"
+    ]
+  },
+  {
+    "name": "湘西土家族苗族自治州消防救援支队",
+    "location": {
+      "lat": 28.324188,
+      "lng": 109.736881
+    },
+    "address": "湘西土家族苗族自治州吉首市光明西路吉首二中西侧约80米",
+    "province": "湖南省",
+    "city": "湘西土家族苗族自治州",
+    "area": "吉首市",
+    "street_id": "",
+    "detail": 1,
+    "uid": "383e8b12caff32a40b69d951",
+    "cover": "https://taojin-his.cdn.bcebos.com/3b292df5e0fe9925860a05bb32a85edf8cb171d2.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/3b292df5e0fe9925860a05bb32a85edf8cb171d2.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_aa69674d1f8dec142889d89dee4f0bd3.jpeg"
+    ]
+  },
+  {
+    "name": "花垣县消防救援大队",
+    "location": {
+      "lat": 28.576845,
+      "lng": 109.490987
+    },
+    "address": "湖南省湘西土家族苗族自治州花垣县花垣镇四方井路乾薪国际大酒店西北侧约50米",
+    "province": "湖南省",
+    "city": "湘西土家族苗族自治州",
+    "area": "花垣县",
+    "street_id": "",
+    "telephone": "(0743)7218059",
+    "detail": 1,
+    "uid": "553a4f8833445a4b2bb97cc8",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_62ef3fc655be7566e892aac64f8855a3.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_62ef3fc655be7566e892aac64f8855a3.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f9d56cd4cd558c1b60e3ddf221f46ff4.jpeg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_bd5a13bc4f2c8c59b8d9bf3c09113ed8.jpg",
+      "https://taojin-his.cdn.bcebos.com/0eb30f2442a7d9332ea52a8da54bd11373f0013b.jpg",
+      "https://taojin-his.cdn.bcebos.com/a2cc7cd98d1001e94131daf1b00e7bec54e7973b.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8a85ae322baeadfdfd7213cbfe5f17fc.jpeg"
+    ]
+  },
+  {
+    "name": "花垣县赶秋南路消防救援站",
+    "location": {
+      "lat": 28.577159,
+      "lng": 109.491071
+    },
+    "address": "湘西土家族苗族自治州花垣县四方井路吉首市花垣县乾薪国际大酒店西北侧约50米",
+    "province": "湖南省",
+    "city": "湘西土家族苗族自治州",
+    "area": "花垣县",
+    "detail": 1,
+    "uid": "8a7dae0da1bf3abb46e27420",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a3d11d7768002ef252e87fafb7a8331f.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a3d11d7768002ef252e87fafb7a8331f.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c55b24e45ffcc749614e1b716e956676.jpeg"
+    ]
+  },
+  {
+    "name": "泸溪县消防救援大队",
+    "location": {
+      "lat": 28.219776,
+      "lng": 110.21587
+    },
+    "address": "湖南省湘西土家族苗族自治州泸溪县319国道与朝阳路交叉口东南140米",
+    "province": "湖南省",
+    "city": "湘西土家族苗族自治州",
+    "area": "泸溪县",
+    "detail": 1,
+    "uid": "0f4acbc51d9d8c2a71455be0",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B61c91cb253280739d.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B61c91cb253280739d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2342089811caa53ce3b6369ee19d09a2.jpeg"
+    ]
+  }
+]

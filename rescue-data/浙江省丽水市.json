@@ -1,0 +1,87 @@
+[
+  {
+    "name": "温州香萌汽车拖车道路救援脱困公司",
+    "location": {
+      "lat": 28.470568,
+      "lng": 119.474601
+    },
+    "address": "浙江省丽水市松阳县艺佳轮胎服务中心",
+    "province": "浙江省",
+    "city": "丽水市",
+    "area": "松阳县",
+    "detail": 1,
+    "uid": "b8ee634aad8a03526cc02c28",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/H9213b07eca806538a5e623969adda144ad348223.jpg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/H9213b07eca806538a5e623969adda144ad348223.jpg"
+    ]
+  },
+  {
+    "name": "庆元县千峰救援队",
+    "location": {
+      "lat": 27.613135,
+      "lng": 118.975823
+    },
+    "address": "丽水市庆元县八都大街庆元县公安局菊隆中心派出所东北侧",
+    "province": "浙江省",
+    "city": "丽水市",
+    "area": "庆元县",
+    "detail": 1,
+    "uid": "26904e96dad36320b34c49fd",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_593396489641e3ade0138380bc6db93a.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_593396489641e3ade0138380bc6db93a.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 28.077527,
+      "lng": 119.134864
+    },
+    "address": "丽水市龙泉市江滨北路江滨楼北侧约80米",
+    "province": "浙江省",
+    "city": "丽水市",
+    "area": "龙泉市",
+    "detail": 1,
+    "uid": "fa6da3deca28dc3317c8f64b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_c45870d5a319fb7b9021d66576841886.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c45870d5a319fb7b9021d66576841886.jpeg"
+    ]
+  },
+  {
+    "name": "云和捷程道路救援服务有限公司",
+    "location": {
+      "lat": 28.114754,
+      "lng": 119.598281
+    },
+    "address": "浙江省丽水市云和县睦田移民新村8号",
+    "province": "浙江省",
+    "city": "丽水市",
+    "area": "云和县",
+    "detail": 1,
+    "uid": "9a8c95586b6b6595c91b9526",
+    "cover": "https://pic-map.cdn.bcebos.com/img/4f32dfa70dbb9bc2fb5d15cbad5f40bb",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/4f32dfa70dbb9bc2fb5d15cbad5f40bb"
+    ]
+  },
+  {
+    "name": "金丽温高速养护救援中心",
+    "location": {
+      "lat": 28.405345,
+      "lng": 119.897479
+    },
+    "address": "丽水市莲都区长深高速与成大街交叉路口往西南约130米",
+    "province": "浙江省",
+    "city": "丽水市",
+    "area": "莲都区",
+    "detail": 1,
+    "uid": "f26280faa022b473f7eafc8a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_7e8752f811bb274bd8d3709f8fdd5be5.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7e8752f811bb274bd8d3709f8fdd5be5.jpeg"
+    ]
+  }
+]

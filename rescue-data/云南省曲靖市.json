@@ -1,0 +1,74 @@
+[
+  {
+    "name": "曲靖市马龙区龙泉路消防救援站",
+    "location": {
+      "lat": 25.44812,
+      "lng": 103.585573
+    },
+    "address": "曲靖市马龙区龙泉北路马龙建材城南侧约200米",
+    "province": "云南省",
+    "city": "曲靖市",
+    "area": "马龙区",
+    "detail": 1,
+    "uid": "fa8c4b20d27803f660180939",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_8786f2d21f6c90ba66ce862c4737a9f7.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8786f2d21f6c90ba66ce862c4737a9f7.jpg"
+    ]
+  },
+  {
+    "name": "6号救援召夸中心服务站",
+    "location": {
+      "lat": 24.85031,
+      "lng": 103.69707
+    },
+    "address": "曲靖市陆良县福昆线召夸镇客运站西北侧约270米",
+    "province": "云南省",
+    "city": "曲靖市",
+    "area": "陆良县",
+    "telephone": "13759442726,18313541148",
+    "detail": 1,
+    "uid": "77f4bfbaba0b4e4e3c9a5ed9",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_38661196f6e00dd42c0655efced1d1ec.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_38661196f6e00dd42c0655efced1d1ec.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c4942a989204f7542bba6ad8f2b60299.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5c63ed1f16c3347d6fa65b3184a983bb.jpeg"
+    ]
+  },
+  {
+    "name": "曲靖市沾益区消防救援大队",
+    "location": {
+      "lat": 25.600945,
+      "lng": 103.823692
+    },
+    "address": "云南省曲靖市沾益区湖西路10号",
+    "province": "云南省",
+    "city": "曲靖市",
+    "area": "沾益区",
+    "detail": 1,
+    "uid": "ab1277b9756bd26fa1046441",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_27cf5b5891e247763c2067bcc005d1da.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_27cf5b5891e247763c2067bcc005d1da.jpeg"
+    ]
+  },
+  {
+    "name": "罗平县九龙大道消防救援站",
+    "location": {
+      "lat": 24.900594,
+      "lng": 104.310671
+    },
+    "address": "曲靖市罗平县观音街法院小区东北侧约40米",
+    "province": "云南省",
+    "city": "曲靖市",
+    "area": "罗平县",
+    "detail": 1,
+    "uid": "5261c9657ae5da2aafee7ac3",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_de16752ded6d5067aff6dc7b7de727b4.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_de16752ded6d5067aff6dc7b7de727b4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2fc029e1c4d13fc2e61bbf85032547c2.jpeg"
+    ]
+  }
+]

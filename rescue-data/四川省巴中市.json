@@ -1,0 +1,130 @@
+[
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 32.341208,
+      "lng": 106.836939
+    },
+    "address": "巴中市南江县银铃街红塔一社安置小区东南侧约120米",
+    "province": "四川省",
+    "city": "巴中市",
+    "area": "南江县",
+    "detail": 1,
+    "uid": "746eed87b8c5fe5d14b54b7f",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_50c2a2855f959f0abeb56c2d95559e8a.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_50c2a2855f959f0abeb56c2d95559e8a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4533e1ede3d67d10f48167285197b1c7.jpeg"
+    ]
+  },
+  {
+    "name": "南江救援",
+    "location": {
+      "lat": 32.359365,
+      "lng": 106.825754
+    },
+    "address": "巴中市南江县银昆高速陈家坝小区",
+    "province": "四川省",
+    "city": "巴中市",
+    "area": "南江县",
+    "detail": 1,
+    "uid": "7eed658d7a592782f503b893",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_f8341fc2c5be48e5a7d70dff86f0bba7.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f8341fc2c5be48e5a7d70dff86f0bba7.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_dbb58ddb7b80e816b114665920005d1e.jpeg"
+    ]
+  },
+  {
+    "name": "蓝天救援",
+    "location": {
+      "lat": 31.675884,
+      "lng": 107.43844
+    },
+    "address": "巴中市平昌县",
+    "province": "四川省",
+    "city": "巴中市",
+    "area": "平昌县",
+    "detail": 1,
+    "uid": "76747686074945e588f15d80",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B649463bfd9e378324.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B649463bfd9e378324.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B649462c468c831493e.jpeg"
+    ]
+  },
+  {
+    "name": "应急救援",
+    "location": {
+      "lat": 32.169204,
+      "lng": 106.675136
+    },
+    "address": "巴中市南江县X125南江县长赤镇小学南侧约130米",
+    "province": "四川省",
+    "city": "巴中市",
+    "area": "南江县",
+    "detail": 1,
+    "uid": "d1dcd573e8fdd1d2220262e2",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_727e0515fd18af1127dd3808f09bf2dd.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_727e0515fd18af1127dd3808f09bf2dd.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ce7049419624b95735b05d0b3a0ded94.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_549dba9cd147654e88bf3868f3dfe2a1.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_adfa0a940ee92c51a2bbd497de1c632e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c82690f1ba4c9111ad977e6a59a94912.jpeg"
+    ]
+  },
+  {
+    "name": "巴中市恩阳区消防救援大队",
+    "location": {
+      "lat": 31.795597,
+      "lng": 106.666664
+    },
+    "address": "外环路口",
+    "province": "四川省",
+    "city": "巴中市",
+    "area": "恩阳区",
+    "detail": 1,
+    "uid": "d1431d77753fab3709b93ae7",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_5c6e6960cff10475a1b731859a576d1b.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5c6e6960cff10475a1b731859a576d1b.jpeg"
+    ]
+  },
+  {
+    "name": "巴中市恩阳区玉山镇政府专职消防救援站",
+    "location": {
+      "lat": 31.690358,
+      "lng": 106.69138
+    },
+    "address": "四川省巴中市恩阳区Y003",
+    "province": "四川省",
+    "city": "巴中市",
+    "area": "恩阳区",
+    "detail": 1,
+    "uid": "fc8e29099700656b7dc87600",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B64a0483c3a31b3ca6.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B64a0483c3a31b3ca6.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B64a0483c3115c5d54.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_711378a590043197c6f2f81f8fb82b06.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 31.620258,
+      "lng": 106.539915
+    },
+    "address": "巴中市恩阳区焦茶路育英幼儿园(下八庙镇人民政府东)东侧约120米",
+    "province": "四川省",
+    "city": "巴中市",
+    "area": "恩阳区",
+    "detail": 1,
+    "uid": "9b47dcf3d6d3d2a4a0d230f1",
+    "cover": "https://pic-map.cdn.bcebos.com/img/95303e921a716645ee5810b909316739",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/95303e921a716645ee5810b909316739"
+    ]
+  }
+]

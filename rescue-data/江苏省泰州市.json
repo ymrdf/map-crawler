@@ -1,0 +1,118 @@
+[
+  {
+    "name": "捷安救援装备",
+    "location": {
+      "lat": 32.419607,
+      "lng": 119.982372
+    },
+    "address": "泰州市高港区姜高路中国石油(姜高加油站)西侧约150米",
+    "province": "江苏省",
+    "city": "泰州市",
+    "area": "高港区",
+    "street_id": "63d57ec4bad37e0c17c8f655",
+    "detail": 1,
+    "uid": "63d57ec4bad37e0c17c8f655",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_568faf4dc63ae49b2ee53c5b3b3d81e0.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_568faf4dc63ae49b2ee53c5b3b3d81e0.jpg"
+    ]
+  },
+  {
+    "name": "安通救援",
+    "location": {
+      "lat": 31.988651,
+      "lng": 120.238484
+    },
+    "address": "江苏省泰州市靖江市城西大道长盛花苑南门东侧",
+    "province": "江苏省",
+    "city": "泰州市",
+    "area": "靖江市",
+    "telephone": "15052318933",
+    "detail": 1,
+    "uid": "690e30ce8b5765141df74d34",
+    "cover": "https://pic-map.cdn.bcebos.com/img/4b653467850d08d613a0dbac7b90b49b",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/4b653467850d08d613a0dbac7b90b49b"
+    ]
+  },
+  {
+    "name": "江苏爱群汽车救援有限公司",
+    "location": {
+      "lat": 32.153635,
+      "lng": 120.041685
+    },
+    "address": "泰州市泰兴市江平南路祥生未来城·翰林府西南侧约290米",
+    "province": "江苏省",
+    "city": "泰州市",
+    "area": "泰兴市",
+    "street_id": "",
+    "detail": 1,
+    "uid": "c029c26c842804c10a5cb3e6",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_0644deafe1df2eae654089674532ceaf.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0644deafe1df2eae654089674532ceaf.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_59ea7d02c323c2990c17ca103904277b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_612ea51a8e05a6111282868c8c0ca4be.jpeg"
+    ]
+  },
+  {
+    "name": "泰兴市通江路消防救援站",
+    "location": {
+      "lat": 32.163418,
+      "lng": 120.009532
+    },
+    "address": "泰州市泰兴市国庆西路扬子江高级中学南侧约80米",
+    "province": "江苏省",
+    "city": "泰州市",
+    "area": "泰兴市",
+    "detail": 1,
+    "uid": "232f6deca02049f34002457c",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_882e61a0e5543d844b57ffb5fcba06b4.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_882e61a0e5543d844b57ffb5fcba06b4.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f977d74843c51530d41aee3d6099bb7c.jpg",
+      "https://poi-pic.cdn.bcebos.com/f977d74843c51530d41aee3d6099bb7c.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_79a2f5bcb0ffbe720420b2ee9e87cfc4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_297a0cb770ba0d58c85dbcdda95f994c.jpeg"
+    ]
+  },
+  {
+    "name": "泰州市顺途汽车救援服务有限公司",
+    "location": {
+      "lat": 32.492644,
+      "lng": 119.851564
+    },
+    "address": "泰州市海陵区马楼路九龙新寓北侧约180米",
+    "province": "江苏省",
+    "city": "泰州市",
+    "area": "海陵区",
+    "telephone": "15996006983",
+    "detail": 1,
+    "uid": "f1be48b4a18275f022026262",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B65b2437f6da7d132c9.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B65b2437f6da7d132c9.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65b242e7b7c8a159f2.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6a977b8f57782775c7d4d9a097d6a67f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f3a823c7bb9c89d7ae7896c58ad6634a.jpeg"
+    ]
+  },
+  {
+    "name": "苏陈航空救援支队",
+    "location": {
+      "lat": 32.46672,
+      "lng": 120.029594
+    },
+    "address": "江苏省泰州市海陵区苏陈镇苏蔡路1号-16",
+    "province": "江苏省",
+    "city": "泰州市",
+    "area": "海陵区",
+    "detail": 1,
+    "uid": "85aeae7f5680280e01294f57",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B61c827011927c6682.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B61c827011927c6682.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2cc93b8ae5c93735afc0009bfc81fd43.jpeg"
+    ]
+  }
+]

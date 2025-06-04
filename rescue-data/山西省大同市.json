@@ -1,0 +1,132 @@
+[
+  {
+    "name": "海宁道路救援",
+    "location": {
+      "lat": 40.427294,
+      "lng": 114.138069
+    },
+    "address": "大同市天镇县G512中国石油(天镇第2加油站)南侧约90米",
+    "province": "山西省",
+    "city": "大同市",
+    "area": "天镇县",
+    "detail": 1,
+    "uid": "cbf3b084a5d64d180482c205",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_f63c651a541f36c4b50bdbd48e07df3d.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f63c651a541f36c4b50bdbd48e07df3d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cbea79dacf50ff5da7bf67f3d51303cb.jpg"
+    ]
+  },
+  {
+    "name": "大同市亿阳道路救援有限公司",
+    "location": {
+      "lat": 40.209435,
+      "lng": 113.323088
+    },
+    "address": "山西省大同市新荣区G208(二淅线)",
+    "province": "山西省",
+    "city": "大同市",
+    "area": "新荣区",
+    "detail": 1,
+    "uid": "bc9c375a36c17c0b6140a93f",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B6104f548656c3f7ac.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B6104f548656c3f7ac.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6104f4fc4c88215682.jpeg"
+    ]
+  },
+  {
+    "name": "中国矿山救援",
+    "location": {
+      "lat": 40.038851,
+      "lng": 113.173379
+    },
+    "address": "大同市云冈区救护街宝龙嘉园东侧约120米",
+    "province": "山西省",
+    "city": "大同市",
+    "area": "云冈区",
+    "street_id": "d965f95c2c3817482efaa734",
+    "detail": 1,
+    "uid": "d965f95c2c3817482efaa734",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_40748e529b07223871777422e9f14378.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=d965f95c2c3817482efaa734&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d05552ef4fb56a6827a7f10f2399efa8.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cafa7ab1849d21c671617bcbd105d621.jpeg"
+    ]
+  },
+  {
+    "name": "魏都名车维修中心24小时救援",
+    "location": {
+      "lat": 40.054998,
+      "lng": 113.292777
+    },
+    "address": "大同市平城区开源街福盛园",
+    "province": "山西省",
+    "city": "大同市",
+    "area": "平城区",
+    "telephone": "15935266701,18734213345",
+    "detail": 1,
+    "uid": "57cd42e29462e19fab0dd812",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_dac81170b399872913f8243c7d35c22b.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_dac81170b399872913f8243c7d35c22b.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B63241a07ab7949d0d.jpeg"
+    ]
+  },
+  {
+    "name": "平城区消防救援大队西街消防救援站",
+    "location": {
+      "lat": 40.102905,
+      "lng": 113.303777
+    },
+    "address": "山西省大同市平城区司令部街小皮巷小区西北侧约50米",
+    "province": "山西省",
+    "city": "大同市",
+    "area": "平城区",
+    "street_id": "0db9f2752b623754871541a3",
+    "detail": 1,
+    "uid": "0db9f2752b623754871541a3",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_1e53a181c9da4531a08239325df816a4.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=0db9f2752b623754871541a3&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c22091bbd7d0d75ca7ad83b752650cb8.jpeg"
+    ]
+  },
+  {
+    "name": "平城区消防救援大队天祥街消防救援站",
+    "location": {
+      "lat": 40.091971,
+      "lng": 113.364373
+    },
+    "address": "山西省大同市平城区天祥街233号",
+    "province": "山西省",
+    "city": "大同市",
+    "area": "平城区",
+    "street_id": "eac2ea6da710c8fe6b49f3f7",
+    "detail": 1,
+    "uid": "eac2ea6da710c8fe6b49f3f7",
+    "cover": "https://taojin-his.cdn.bcebos.com/4b90f603738da977553c3f05bf51f8198618e389.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=eac2ea6da710c8fe6b49f3f7&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "经开区消防救援站",
+    "location": {
+      "lat": 40.067477,
+      "lng": 113.407658
+    },
+    "address": "大同市云州区南环东路樊庄家园西南侧约60米",
+    "province": "山西省",
+    "city": "大同市",
+    "area": "云州区",
+    "street_id": "ffe8f1993009ed1d85420e75",
+    "detail": 1,
+    "uid": "ffe8f1993009ed1d85420e75",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_dee26c32c09fcd62878b274188301c23.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=ffe8f1993009ed1d85420e75&width=720&height=360&quality=80&fovx=120"
+    ]
+  }
+]

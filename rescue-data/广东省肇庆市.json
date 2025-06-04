@@ -1,0 +1,159 @@
+[
+  {
+    "name": "肇庆市利诚汽车道路救援有限公司",
+    "location": {
+      "lat": 23.037598,
+      "lng": 112.472644
+    },
+    "address": "肇庆市高要区沿江一路畔江苑商住小区北侧约150米",
+    "province": "广东省",
+    "city": "肇庆市",
+    "area": "高要区",
+    "detail": 1,
+    "uid": "90c43f9c978f456b4251c0d6",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/H0bd162d9f2d3572cda2ef9958613632763d0c3af.jpg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/H0bd162d9f2d3572cda2ef9958613632763d0c3af.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_817ac623d7f931c0a471fcc80362a9f2.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_04bcd50d0d6a2ba23d0860ffefdd6925.jpg"
+    ]
+  },
+  {
+    "name": "肇庆市消防救援支队",
+    "location": {
+      "lat": 23.103781,
+      "lng": 112.519378
+    },
+    "address": "肇庆市端州区信安大道122区(市第一人民医院新院旁)",
+    "province": "广东省",
+    "city": "肇庆市",
+    "area": "端州区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "d63617a2a7130ffe4d2fdfa8",
+    "cover": "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_5854480d6ce45e0f60af10015e1a873f.jpg",
+    "photo_list": [
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_5854480d6ce45e0f60af10015e1a873f.jpg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 23.927472,
+      "lng": 112.188743
+    },
+    "address": "肇庆市怀集县解放北路与解放七路北巷交叉路口往西南约70米",
+    "province": "广东省",
+    "city": "肇庆市",
+    "area": "怀集县",
+    "street_id": "d473187c23b153dcbea2408a",
+    "detail": 1,
+    "uid": "d473187c23b153dcbea2408a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_1146ce454968f2689a7c926ed9d1f06c.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=d473187c23b153dcbea2408a&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_06a2675dda931fc8ae1289136cb9b3fc.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5c7fad4a75c9ad70104c4816be213c89.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d3e71343d7e5840091e4822ea5952127.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_83e4484a73875e0e0a34ddcdc12f2ca2.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6798ca829b2f9d7dadfaeeda91f25ed5.jpeg"
+    ]
+  },
+  {
+    "name": "畅行救援",
+    "location": {
+      "lat": 23.911639,
+      "lng": 112.161555
+    },
+    "address": "广东省肇庆市怀集县幸福街道怀高新洲国际博览城(一期14楼105商铺)02",
+    "province": "广东省",
+    "city": "肇庆市",
+    "area": "怀集县",
+    "telephone": "13760092111",
+    "detail": 1,
+    "uid": "6addfbc88335f620fbf0cbea",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_98063256e4273d486e4a804a8a31480c.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_98063256e4273d486e4a804a8a31480c.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B665a6418b7ef5138ee.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 23.24895,
+      "lng": 112.791057
+    },
+    "address": "广东省肇庆市四会市S263中国石油加油站北塘东北侧约220米",
+    "province": "广东省",
+    "city": "肇庆市",
+    "area": "四会市",
+    "street_id": "",
+    "detail": 1,
+    "uid": "022027d45f0103709900503f",
+    "cover": "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_45a81384d92910236110fdaf38c43d32.jpg",
+    "photo_list": [
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_45a81384d92910236110fdaf38c43d32.jpg"
+    ]
+  },
+  {
+    "name": "肇庆市端州区城东消防救援站",
+    "location": {
+      "lat": 23.064278,
+      "lng": 112.493046
+    },
+    "address": "肇庆市端州区端州三路消防住宅小区北侧约30米",
+    "province": "广东省",
+    "city": "肇庆市",
+    "area": "端州区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "9aa890f6452b48aa0f0e6b97",
+    "cover": "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_ebe01e7849d4e9719ab9071a82684271.jpg",
+    "photo_list": [
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_ebe01e7849d4e9719ab9071a82684271.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_11a466c1d17cc63b28a6bb4decc67707.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_36777977c833b285e4b04226ee5027e4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6e7a9731c489a69b94471cd488698e53.jpeg"
+    ]
+  },
+  {
+    "name": "肇庆市众诚交通救援服务有限公司",
+    "location": {
+      "lat": 23.070102,
+      "lng": 112.438546
+    },
+    "address": "肇庆市端州区岗布西路肇庆市光明幼儿园东南侧约140米",
+    "province": "广东省",
+    "city": "肇庆市",
+    "area": "端州区",
+    "telephone": "18316143328",
+    "detail": 1,
+    "uid": "65b23ca24958026f26e0a0ef",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_fc124e8bd6dd6b0e54dddb0ab369abe7.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_fc124e8bd6dd6b0e54dddb0ab369abe7.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ff93b3b8eaf9a0ccb8ba69bd594a4755.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_61f0a421474172bf60a275721dd68add.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B670cbfe53311c1450a.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6768fc0e0a37911c53.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 23.317655,
+      "lng": 112.824649
+    },
+    "address": "肇庆市四会市将军大街福旺雅苑西北侧约30米",
+    "province": "广东省",
+    "city": "肇庆市",
+    "area": "四会市",
+    "detail": 1,
+    "uid": "c691b14a173780c115a19039",
+    "cover": "https://pic-map.cdn.bcebos.com/img/06dec04556eec30e3201a29434e5a914",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/06dec04556eec30e3201a29434e5a914"
+    ]
+  }
+]

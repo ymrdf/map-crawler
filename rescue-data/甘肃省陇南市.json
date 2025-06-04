@@ -1,0 +1,37 @@
+[
+  {
+    "name": "永新事故车维修救援",
+    "location": {
+      "lat": 33.367331,
+      "lng": 104.97936
+    },
+    "address": "甘肃省陇南市武都区华昌汽车城",
+    "province": "甘肃省",
+    "city": "陇南市",
+    "area": "武都区",
+    "detail": 1,
+    "uid": "1eb61404b99ddd67471a3239",
+    "cover": "https://pic-map.cdn.bcebos.com/img/11493fe2ecf9396a569dd6e39aef3a67",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/11493fe2ecf9396a569dd6e39aef3a67"
+    ]
+  },
+  {
+    "name": "宕昌县消防救援大队",
+    "location": {
+      "lat": 34.035748,
+      "lng": 104.376106
+    },
+    "address": "甘肃省陇南市宕昌县城关镇新城社区岷江大道267号",
+    "province": "甘肃省",
+    "city": "陇南市",
+    "area": "宕昌县",
+    "detail": 1,
+    "uid": "8773a638b51aff5f028972ca",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_dde6703a5790b1f482b27b8c7feef9db.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_dde6703a5790b1f482b27b8c7feef9db.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2a3d5bfb961a266080a797d4c9d95055.jpeg"
+    ]
+  }
+]

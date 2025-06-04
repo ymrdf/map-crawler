@@ -1,0 +1,166 @@
+[
+  {
+    "name": "阳泉市新宇汽车救援有限公司",
+    "location": {
+      "lat": 37.850691,
+      "lng": 113.642431
+    },
+    "address": "阳泉市郊区阳铝街",
+    "province": "山西省",
+    "city": "阳泉市",
+    "area": "郊区",
+    "detail": 1,
+    "uid": "e91a11894027a054b6147fe3",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B6201e78a7d7357899.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B6201e78a7d7357899.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 37.875316,
+      "lng": 113.606874
+    },
+    "address": "阳泉市郊区天津街康达小区东侧",
+    "province": "山西省",
+    "city": "阳泉市",
+    "area": "郊区",
+    "detail": 1,
+    "uid": "aa24ab95d9b1edf5b42655ed",
+    "cover": "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_b7ac78843ccbd914d4719fef25f67906.jpg",
+    "photo_list": [
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_b7ac78843ccbd914d4719fef25f67906.jpg"
+    ]
+  },
+  {
+    "name": "阳泉市紧急医疗救援中心-门诊部",
+    "location": {
+      "lat": 37.887734,
+      "lng": 113.588275
+    },
+    "address": "山西省阳泉市泉中路531号",
+    "province": "山西省",
+    "city": "阳泉市",
+    "area": "郊区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "10124b097024f107cae33caa",
+    "cover": "https://taojin-his.cdn.bcebos.com/bba1cd11728b4710d16f9c3fc8cec3fdfd032384.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/bba1cd11728b4710d16f9c3fc8cec3fdfd032384.jpg",
+      "https://taojin-his.cdn.bcebos.com/95eef01f3a292df5d936c2eebf315c6035a87357.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B65cb0b7c6851fe293.jpeg"
+    ]
+  },
+  {
+    "name": "阳泉鑫想事晟安防工程有限公司",
+    "location": {
+      "lat": 37.870773,
+      "lng": 113.590965
+    },
+    "address": "山西省阳泉市城区沃尔玛三层赛格电脑城",
+    "province": "山西省",
+    "city": "阳泉市",
+    "area": "城区",
+    "telephone": "13111230907",
+    "detail": 1,
+    "uid": "4099c47c4a5151af83a00c7f",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/H0dd7912397dda14427e48c47bfb7d0a20df48652.jpg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/H0dd7912397dda14427e48c47bfb7d0a20df48652.jpg"
+    ]
+  },
+  {
+    "name": "阳泉市押运护卫有限公司",
+    "location": {
+      "lat": 37.85019,
+      "lng": 113.588445
+    },
+    "address": "山西省阳泉市城区南外环街596号",
+    "province": "山西省",
+    "city": "阳泉市",
+    "area": "城区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "181653340d801e79fb2d6178",
+    "cover": "https://taojin-his.cdn.bcebos.com/fc1f4134970a304eb9539a7edac8a786c8175cc4.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/fc1f4134970a304eb9539a7edac8a786c8175cc4.jpg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 37.852169,
+      "lng": 113.595218
+    },
+    "address": "山西省阳泉市城区龙潭街与南庄路交叉路口往西约150米",
+    "province": "山西省",
+    "city": "阳泉市",
+    "area": "城区",
+    "detail": 1,
+    "uid": "6937d7e581c85e0cc7f50deb",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_effef0a2fae944722221f6b11ccf9918.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_effef0a2fae944722221f6b11ccf9918.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_adb23d80c47af291a8d0ef7b3a72470a.jpeg"
+    ]
+  },
+  {
+    "name": "城区消防救援大队南山消防救援站",
+    "location": {
+      "lat": 37.852086,
+      "lng": 113.595164
+    },
+    "address": "山西省阳泉市城区龙潭街与南庄路交叉口西北方向70米",
+    "province": "山西省",
+    "city": "阳泉市",
+    "area": "城区",
+    "telephone": "(0353)5698136",
+    "detail": 1,
+    "uid": "14ccf85687b71e9838221ca8",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B65f790e3a9bd9dc4c.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B65f790e3a9bd9dc4c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_fa302d5ec47cec47ed51f061d32e9146.jpeg"
+    ]
+  },
+  {
+    "name": "阳泉市铠甲工程机械租赁有限公司",
+    "location": {
+      "lat": 37.930356,
+      "lng": 113.594972
+    },
+    "address": "山西省阳泉市郊区荫营镇三泉村阳泉市三星实业总公司汽修厂1-2号房",
+    "province": "山西省",
+    "city": "阳泉市",
+    "area": "郊区",
+    "telephone": "(0353)8888588",
+    "detail": 1,
+    "uid": "1556ccee960e4ee83310afc5",
+    "cover": "https://poi-pic.cdn.bcebos.com/5afe1b6f5a830de6042d236f09d8861c.jpg",
+    "photo_list": [
+      "https://poi-pic.cdn.bcebos.com/5afe1b6f5a830de6042d236f09d8861c.jpg"
+    ]
+  },
+  {
+    "name": "阳泉市君祥汽车拖车搭电道路救援脱困公司",
+    "location": {
+      "lat": 37.870132,
+      "lng": 113.611799
+    },
+    "address": "阳泉市郊区青岛路世纪宏苑(A区)",
+    "province": "山西省",
+    "city": "阳泉市",
+    "area": "郊区",
+    "detail": 1,
+    "uid": "59d55670aab0b3469fec2b1e",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_e48b06c8e5bb8a44bba4142f562b3f30.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e48b06c8e5bb8a44bba4142f562b3f30.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7fedd3f8ff5193f885ff3608c42339d1.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_483b16dfb70882b9cf5780d448c2b3c5.jpeg"
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "name": "自贡市报废汽车专营公司",
+    "location": {
+      "lat": 29.298234,
+      "lng": 104.737077
+    },
+    "address": "四川省自贡市自流井区自宜路48号",
+    "province": "四川省",
+    "city": "自贡市",
+    "area": "自流井区",
+    "detail": 1,
+    "uid": "061cbb7aa1cb48cbeddfcace",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B65d476016eae0b87b.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B65d476016eae0b87b.jpeg"
+    ]
+  },
+  {
+    "name": "荣县二佛街消防救援站",
+    "location": {
+      "lat": 29.452602,
+      "lng": 104.427164
+    },
+    "address": "自贡市荣县荣牛路御景苑东北侧约50米",
+    "province": "四川省",
+    "city": "自贡市",
+    "area": "荣县",
+    "detail": 1,
+    "uid": "e5e8b8773eeeeb2160180973",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_61bd286b0f21c1766ee0e4d9c2aa89b2.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_61bd286b0f21c1766ee0e4d9c2aa89b2.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_06a6f77ffdaa2ff0c34d6b12fdde2a1e.jpeg"
+    ]
+  },
+  {
+    "name": "装载机出租",
+    "location": {
+      "lat": 29.067989,
+      "lng": 104.964899
+    },
+    "address": "自贡市富顺县S206与马桑街交叉路口西南侧",
+    "province": "四川省",
+    "city": "自贡市",
+    "area": "富顺县",
+    "detail": 1,
+    "uid": "0fbb07d1debe77a529d7abe6",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_f776bc2a5da1459bb1ffdfbeaf12e64c.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f776bc2a5da1459bb1ffdfbeaf12e64c.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_04e530ec3a10a70e9f3f521c58bda97d.jpeg"
+    ]
+  },
+  {
+    "name": "自贡市沿滩区开元路消防救援站",
+    "location": {
+      "lat": 29.274858,
+      "lng": 104.886294
+    },
+    "address": "自贡市沿滩区开元南路蓓蕾幼儿园北侧",
+    "province": "四川省",
+    "city": "自贡市",
+    "area": "沿滩区",
+    "detail": 1,
+    "uid": "a180c43827970c7ad618b759",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_9907c14faeec0913a3ff3ac43f3bb233.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9907c14faeec0913a3ff3ac43f3bb233.jpg"
+    ]
+  },
+  {
+    "name": "耀途车改车灯音响升级中心",
+    "location": {
+      "lat": 29.195547,
+      "lng": 104.987278
+    },
+    "address": "自贡市富顺县北湖北路远达北湖上城",
+    "province": "四川省",
+    "city": "自贡市",
+    "area": "富顺县",
+    "telephone": "15281388209",
+    "detail": 1,
+    "uid": "7f5df23b8c0a3b17b45f1e60",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B66a5d09d3ea0910320.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B66a5d09d3ea0910320.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B66a5d0925736d16436.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1950b4c8d7b245650fcb76f68ff92561.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a70bb9672c0d4510c870541b2ed97032.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_83db5244466d76e603f0c63e99eeed62.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6587d7c4b769628ec.jpeg"
+    ]
+  }
+]

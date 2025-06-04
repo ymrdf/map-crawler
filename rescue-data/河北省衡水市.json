@@ -1,0 +1,139 @@
+[
+  {
+    "name": "轿车托运物流道路救援拖车",
+    "location": {
+      "lat": 37.761603,
+      "lng": 115.773229
+    },
+    "address": "河北省衡水市桃城区大麻森乡S040(京衡北大街)",
+    "province": "河北省",
+    "city": "衡水市",
+    "area": "桃城区",
+    "detail": 1,
+    "uid": "12c928c7c631ceacb6f42fd3",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_4f3a21499f835ea49cdcbf98a7217a5d.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4f3a21499f835ea49cdcbf98a7217a5d.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B66238eccecdae6412.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B66238ed5132c9de4b.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B674bd1599eda03b3b.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B674bd159acf421863c.jpeg"
+    ]
+  },
+  {
+    "name": "汽修救援",
+    "location": {
+      "lat": 37.531744,
+      "lng": 115.661063
+    },
+    "address": "衡水市枣强县G240",
+    "province": "河北省",
+    "city": "衡水市",
+    "area": "枣强县",
+    "detail": 1,
+    "uid": "25b6cdf589e039d9abf7290a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a75b853f761355cec1a1b04cd04505d5.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a75b853f761355cec1a1b04cd04505d5.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e12dfe719261b23ba5ec9f6c00f7c955.jpeg"
+    ]
+  },
+  {
+    "name": "衡水便捷道路救援服务有限公司",
+    "location": {
+      "lat": 37.724968,
+      "lng": 115.646405
+    },
+    "address": "河北省衡水市桃城区S102(南环西路)",
+    "province": "河北省",
+    "city": "衡水市",
+    "area": "桃城区",
+    "telephone": "17703188000",
+    "detail": 1,
+    "uid": "a1c989a2cf38f2be8bfc06f7",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/4b550fc4eb6aad04ba3fd804dcddd7ad_3187.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/4b550fc4eb6aad04ba3fd804dcddd7ad_3187.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B605967aeb78c0152ba.jpeg"
+    ]
+  },
+  {
+    "name": "三车道养车枣强店",
+    "location": {
+      "lat": 37.499951,
+      "lng": 115.732566
+    },
+    "address": "河北省衡水市枣强县枣强镇金柱水泵商场东南95米",
+    "province": "河北省",
+    "city": "衡水市",
+    "area": "枣强县",
+    "telephone": "18803383767",
+    "detail": 1,
+    "uid": "106a53cf410ee53ae6e96598",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_08409486eacb52ee2781b659fa2b30ab.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_08409486eacb52ee2781b659fa2b30ab.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b680b4186fa531e49b44943a3af3fa07.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5c0bb9c27ce8b59ff1f1f05dcdb44d3d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f1294035ec0197c6266713a7ef0471dc.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_96d95344932c10d236ee0eaec8239b7d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a8145a629181af244749642228f957c9.jpeg"
+    ]
+  },
+  {
+    "name": "故城县江源大街消防救援站",
+    "location": {
+      "lat": 37.372304,
+      "lng": 115.941031
+    },
+    "address": "衡水市故城县江源大街与同心路交叉路口往北约210米",
+    "province": "河北省",
+    "city": "衡水市",
+    "area": "故城县",
+    "street_id": "",
+    "detail": 1,
+    "uid": "e348fbbc726345976c3e1b36",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_b3167ade655275918b7a8d618476c77d.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b3167ade655275918b7a8d618476c77d.jpg"
+    ]
+  },
+  {
+    "name": "衡水市桃城区人民东路消防救援站",
+    "location": {
+      "lat": 37.736929,
+      "lng": 115.712553
+    },
+    "address": "衡水市桃城区人民东路靓景名居南侧约60米",
+    "province": "河北省",
+    "city": "衡水市",
+    "area": "桃城区",
+    "street_id": "cdad3d4b25fe4d4a4afd3f7d",
+    "detail": 1,
+    "uid": "cdad3d4b25fe4d4a4afd3f7d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_2ec3caa9111b1c5ccdaf493d11bdda70.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=cdad3d4b25fe4d4a4afd3f7d&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic.cdn.bcebos.com/2ec3caa9111b1c5ccdaf493d11bdda70.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4f5563a462a4aadb81ec4c8211b021b3.jpeg"
+    ]
+  },
+  {
+    "name": "衡水市消防救援支队",
+    "location": {
+      "lat": 37.72281,
+      "lng": 115.662552
+    },
+    "address": "衡水市桃城区南环西路丽景福苑南区北侧约80米",
+    "province": "河北省",
+    "city": "衡水市",
+    "area": "桃城区",
+    "street_id": "d2f7e848628abc30ad0457ff",
+    "detail": 1,
+    "uid": "d2f7e848628abc30ad0457ff",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B65e7c5e676ecc131d3.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=d2f7e848628abc30ad0457ff&width=720&height=360&quality=80&fovx=120"
+    ]
+  }
+]

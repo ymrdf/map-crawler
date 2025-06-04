@@ -1,0 +1,58 @@
+[
+  {
+    "name": "蓝鲸救援济南支队",
+    "location": {
+      "lat": 36.3465,
+      "lng": 116.925403
+    },
+    "address": "济南市长清区京岚线中佰石化(加油站)北侧约180米",
+    "province": "山东省",
+    "city": "济南市",
+    "area": "长清区",
+    "street_id": "b052aaf8ff54f03189fc06ad",
+    "detail": 1,
+    "uid": "b052aaf8ff54f03189fc06ad",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_efe065b1e7adef01e5a7cfea59c88031.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=b052aaf8ff54f03189fc06ad&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "济南市章丘蓝天救援队",
+    "location": {
+      "lat": 36.733906,
+      "lng": 117.55744
+    },
+    "address": "济南市章丘区汇友路与造纸厂路交叉路口往西北约230米",
+    "province": "山东省",
+    "city": "济南市",
+    "area": "章丘区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "73c48ea44673cca3b04c49a2",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_af2e5b571e672cb668c223af6cb83758.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_af2e5b571e672cb668c223af6cb83758.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c8e22a41b13451670f74148019e3c375.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0d775eaef336862cbb90d161b23bde23.jpeg"
+    ]
+  },
+  {
+    "name": "商河县三合道路救援中心",
+    "location": {
+      "lat": 37.310152,
+      "lng": 117.168852
+    },
+    "address": "济南市商河县振业街鑫隆·帝景城-A区",
+    "province": "山东省",
+    "city": "济南市",
+    "area": "商河县",
+    "street_id": "",
+    "detail": 1,
+    "uid": "bef7aa6e1efff3cb30621202",
+    "cover": "https://taojin-his.cdn.bcebos.com/09fa513d269759ee5368e8dbbafb43166d22dfe2.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/09fa513d269759ee5368e8dbbafb43166d22dfe2.jpg"
+    ]
+  }
+]

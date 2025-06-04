@@ -1,0 +1,79 @@
+[
+  {
+    "name": "伊春鹏程维修站",
+    "location": {
+      "lat": 47.715784,
+      "lng": 128.886947
+    },
+    "address": "黑龙江省伊春市伊美区青山西大街174-6号",
+    "province": "黑龙江省",
+    "city": "伊春市",
+    "area": "伊美区",
+    "telephone": "(0458)3611113",
+    "detail": 1,
+    "uid": "2a5667d7aa9e766d81288ac8",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/H0b46f21fbe096b63bef8842703338744eaf8ace0.jpg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/H0b46f21fbe096b63bef8842703338744eaf8ace0.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3dbc2fc6b5eb4dfdddc2b79930ee388d.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c84a1a5e07ddd42ee82d59642c5a0f3b.jpeg"
+    ]
+  },
+  {
+    "name": "伊春市伊凌王出租汽车有限责任公司",
+    "location": {
+      "lat": 47.738822,
+      "lng": 128.922795
+    },
+    "address": "伊春市伊美区和平街明园小区南侧约40米",
+    "province": "黑龙江省",
+    "city": "伊春市",
+    "area": "伊美区",
+    "detail": 1,
+    "uid": "2fba320256a023a204fef5da",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_384047f7c8e1a0448f3538a25a6ce9d1.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_384047f7c8e1a0448f3538a25a6ce9d1.jpeg"
+    ]
+  },
+  {
+    "name": "伊春市伊美区消防救援大队",
+    "location": {
+      "lat": 47.731603,
+      "lng": 128.901829
+    },
+    "address": "伊春市伊美区新兴中大街八一小区西北侧约60米",
+    "province": "黑龙江省",
+    "city": "伊春市",
+    "area": "伊美区",
+    "detail": 1,
+    "uid": "31ef9487adf0fb10b42655d8",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ba9d73e7b844c9a2e675d8d14cc16db6.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ba9d73e7b844c9a2e675d8d14cc16db6.jpeg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_b06cd4858c4281d7420656b9fce07c9f.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6bbd1288ab8e32275bf2f6371ea8f24c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f577e2db003184adb79789aee09be0c7.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_912677f447fea3d1fa0e25e6916889fe.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c84630450fef1b9431fed4459185aaf3.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 47.856386,
+      "lng": 128.840509
+    },
+    "address": "伊春市友好区友好大街友好区客运站西南侧约170米",
+    "province": "黑龙江省",
+    "city": "伊春市",
+    "area": "友好区",
+    "street_id": "acd4816850e1c566b4147ff7",
+    "detail": 1,
+    "uid": "acd4816850e1c566b4147ff7",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_1961f2587a3a5e4eededd25d0248b223.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=acd4816850e1c566b4147ff7&width=720&height=360&quality=80&fovx=120"
+    ]
+  }
+]

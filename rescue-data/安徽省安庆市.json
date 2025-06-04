@@ -1,0 +1,92 @@
+[
+  {
+    "name": "腊树镇维稳应急救援大队",
+    "location": {
+      "lat": 30.446767,
+      "lng": 116.579548
+    },
+    "address": "安庆市怀宁县中心街怀宁县腊树镇人民政府",
+    "province": "安徽省",
+    "city": "安庆市",
+    "area": "怀宁县",
+    "detail": 1,
+    "uid": "e98f20450ca43192cae33c6e",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a8206bdaa83c5d1863709152ab154f3f.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a8206bdaa83c5d1863709152ab154f3f.jpeg"
+    ]
+  },
+  {
+    "name": "国家危险化学品应急救援安庆基地",
+    "location": {
+      "lat": 30.526068,
+      "lng": 117.012172
+    },
+    "address": "安庆市大观区袁东路中国石化(安徽省安庆市大观工业园加油站)南侧约180米",
+    "province": "安徽省",
+    "city": "安庆市",
+    "area": "大观区",
+    "detail": 1,
+    "uid": "6083812cb972bd4bc7f50d8a",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B6268faee2e258101d9.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B6268faee2e258101d9.jpeg",
+      "https://pic-map.cdn.bcebos.com/img/0f4fb0cf4e1b4fbb663fbb1c6fd6fd25"
+    ]
+  },
+  {
+    "name": "安庆市紧急救援中心",
+    "location": {
+      "lat": 30.575422,
+      "lng": 117.064049
+    },
+    "address": "石塘湖路59号",
+    "province": "安徽省",
+    "city": "安庆市",
+    "area": "宜秀区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "cc0849a03e2c6649950319a6",
+    "cover": "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_212e635b63b86aa507abae47088f8f88.jpg",
+    "photo_list": [
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_212e635b63b86aa507abae47088f8f88.jpg"
+    ]
+  },
+  {
+    "name": "潜山市消防救援大队",
+    "location": {
+      "lat": 30.646091,
+      "lng": 116.59782
+    },
+    "address": "安徽省安庆市潜山市梅河路与滨河东路交叉口南140米",
+    "province": "安徽省",
+    "city": "安庆市",
+    "area": "潜山市",
+    "street_id": "b6d8a1ff3e0c4e27c8213d9f",
+    "detail": 1,
+    "uid": "b6d8a1ff3e0c4e27c8213d9f",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a63f87b249255046c13db7fe43ce311c.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=b6d8a1ff3e0c4e27c8213d9f&width=720&height=360&quality=80&fovx=120",
+      "https://lbsugc.cdn.bcebos.com/images/B659ce20dd9abe8e32.jpeg"
+    ]
+  },
+  {
+    "name": "安庆中伟道路救援有限公司",
+    "location": {
+      "lat": 30.554304,
+      "lng": 117.091179
+    },
+    "address": "安庆市宜秀区白泽路永安派出所向东100米润普工业园内四楼",
+    "province": "安徽省",
+    "city": "安庆市",
+    "area": "宜秀区",
+    "street_id": "c6a46780e347039c6fc02cb3",
+    "detail": 1,
+    "uid": "c6a46780e347039c6fc02cb3",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_5a98963a5c05f19d69a4883e4db7a94b.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=c6a46780e347039c6fc02cb3&width=720&height=360&quality=80&fovx=120"
+    ]
+  }
+]

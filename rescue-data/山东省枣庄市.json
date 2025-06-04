@@ -1,0 +1,95 @@
+[
+  {
+    "name": "众诚道路救援",
+    "location": {
+      "lat": 34.855813,
+      "lng": 117.624013
+    },
+    "address": "枣庄市市中区烟汕线郭里集乡中心小学西北侧约110米",
+    "province": "山东省",
+    "city": "枣庄市",
+    "area": "市中区",
+    "detail": 1,
+    "uid": "7d0415888f57f6bb08f5ebda",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_df419ca6ab00ee09f7e146a1776fb3b5.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_df419ca6ab00ee09f7e146a1776fb3b5.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3ff95f903de547704f9d1d2bd1f31267.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B658250eb0a0263487.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B659cb48191bb8a7dc.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65d436d3bb597298d.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65d43688a7f88f440.jpeg"
+    ]
+  },
+  {
+    "name": "战虎救援队接待处",
+    "location": {
+      "lat": 34.777049,
+      "lng": 117.267151
+    },
+    "address": "枣庄市薛城区S318御园福邸西侧约110米",
+    "province": "山东省",
+    "city": "枣庄市",
+    "area": "薛城区",
+    "detail": 1,
+    "uid": "8d1dec8f92b37d4b3f9a5eb1",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_2098d536a475ab42bb4b4cb8c6ce7341.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2098d536a475ab42bb4b4cb8c6ce7341.jpg"
+    ]
+  },
+  {
+    "name": "枣庄蓝天救援队",
+    "location": {
+      "lat": 35.109683,
+      "lng": 117.174464
+    },
+    "address": "山东省枣庄市滕州市育才路新世纪花园东南侧约50米",
+    "province": "山东省",
+    "city": "枣庄市",
+    "area": "滕州市",
+    "detail": 1,
+    "uid": "a5d04916f5c3734ead0457fc",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_2bd184bbdb480bfd4a7042fdfdc19773.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2bd184bbdb480bfd4a7042fdfdc19773.jpeg"
+    ]
+  },
+  {
+    "name": "滕州市龙泉消防救援站",
+    "location": {
+      "lat": 35.055271,
+      "lng": 117.204606
+    },
+    "address": "山东省枣庄市滕州市龙泉南路(滕州市机动车检测中心北侧约100米)",
+    "province": "山东省",
+    "city": "枣庄市",
+    "area": "滕州市",
+    "detail": 1,
+    "uid": "4a59db7cf06596b73686f480",
+    "cover": "https://pic-map.cdn.bcebos.com/img/c61d0b72cd204b98ba8ddd34cf53c811",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/c61d0b72cd204b98ba8ddd34cf53c811"
+    ]
+  },
+  {
+    "name": "中国国际救援中心",
+    "location": {
+      "lat": 35.094397,
+      "lng": 117.448532
+    },
+    "address": "枣庄市山亭区北新路郭庄社区紫竹西苑东侧约30米",
+    "province": "山东省",
+    "city": "枣庄市",
+    "area": "山亭区",
+    "detail": 1,
+    "uid": "285f0f269441346a1029352c",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B657be5f3bdb64c2b6.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B657be5f3bdb64c2b6.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65c861ab41272598c.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B668642339ae5e14172.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B676f671e7604112aca.jpeg"
+    ]
+  }
+]

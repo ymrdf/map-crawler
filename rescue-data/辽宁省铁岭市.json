@@ -1,0 +1,91 @@
+[
+  {
+    "name": "铁岭市汽车维修救援中心",
+    "location": {
+      "lat": 42.321783,
+      "lng": 123.887708
+    },
+    "address": "铁岭市银州区京抚线与柴东线交叉路口往东约60米",
+    "province": "辽宁省",
+    "city": "铁岭市",
+    "area": "银州区",
+    "telephone": "13700103122",
+    "detail": 1,
+    "uid": "b22fefc4efc5f1dd2b11d132",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B5fb617551c23ae5d3.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B5fb617551c23ae5d3.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B5fde0eedc1ca68e45.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B5fde0eed9b8c5175cf.jpeg"
+    ]
+  },
+  {
+    "name": "铁能救援",
+    "location": {
+      "lat": 42.462833,
+      "lng": 123.574717
+    },
+    "address": "铁岭市调兵山市沈环线南岭小区东北侧约60米",
+    "province": "辽宁省",
+    "city": "铁岭市",
+    "area": "调兵山市",
+    "detail": 1,
+    "uid": "b5ad8220d14e2f66c42ba1eb",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B65b5f1e14187d123e3.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B65b5f1e14187d123e3.jpeg"
+    ]
+  },
+  {
+    "name": "铁岭顺达防腐电杆有限公司",
+    "location": {
+      "lat": 42.564099,
+      "lng": 124.166011
+    },
+    "address": "辽宁省铁岭市清河区",
+    "province": "辽宁省",
+    "city": "铁岭市",
+    "area": "清河区",
+    "telephone": "15775000000",
+    "detail": 1,
+    "uid": "10ad425a9d7389d3b75f1e83",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d40f452ecdd5e9a70bed3e5d45424ed7.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d40f452ecdd5e9a70bed3e5d45424ed7.jpeg"
+    ]
+  },
+  {
+    "name": "昌图县经济开发区消防救援中队",
+    "location": {
+      "lat": 43.143903,
+      "lng": 124.322685
+    },
+    "address": "铁岭市昌图县创业大街与光辉路交叉路口往北约80米",
+    "province": "辽宁省",
+    "city": "铁岭市",
+    "area": "昌图县",
+    "detail": 1,
+    "uid": "c8bf187a38b4ade76fc02cf6",
+    "cover": "https://pic-map.cdn.bcebos.com/img/9e4427a90674c8952142edf8a1606f00",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/9e4427a90674c8952142edf8a1606f00"
+    ]
+  },
+  {
+    "name": "辽宁达澳报废汽车回收拆解有限公司",
+    "location": {
+      "lat": 42.502982,
+      "lng": 123.589526
+    },
+    "address": "铁岭市调兵山市创业路",
+    "province": "辽宁省",
+    "city": "铁岭市",
+    "area": "调兵山市",
+    "detail": 1,
+    "uid": "76e6e305dfe56da02fb96d15",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_3e19c2806e607332bebe2a436ae735ea.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3e19c2806e607332bebe2a436ae735ea.jpeg"
+    ]
+  }
+]

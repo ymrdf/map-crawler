@@ -1,0 +1,70 @@
+[
+  {
+    "name": "应急救援",
+    "location": {
+      "lat": 27.535028,
+      "lng": 108.341138
+    },
+    "address": "铜仁市石阡县易民新街石阡县花桥镇中心小学西南侧约160米",
+    "province": "贵州省",
+    "city": "铜仁市",
+    "area": "石阡县",
+    "detail": 1,
+    "uid": "a47bcc28384cfbe7b7265590",
+    "cover": "https://pic-map.cdn.bcebos.com/img/7dd3478f2b542d72673fc7bfb11db68e",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/7dd3478f2b542d72673fc7bfb11db68e"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 27.682496,
+      "lng": 109.178784
+    },
+    "address": "铜仁市万山区第三幼儿园东侧约270米",
+    "province": "贵州省",
+    "city": "铜仁市",
+    "area": "万山区",
+    "detail": 1,
+    "uid": "655117c62839675678f796bb",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_34588ece98798784acdb3fe0ab7a5cb7.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_34588ece98798784acdb3fe0ab7a5cb7.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 27.528216,
+      "lng": 109.153185
+    },
+    "address": "铜仁市万山区玉铜公路与万山红大道交叉路口往北约160米",
+    "province": "贵州省",
+    "city": "铜仁市",
+    "area": "万山区",
+    "detail": 1,
+    "uid": "6067bf88175ac851db13183c",
+    "cover": "https://pic-map.cdn.bcebos.com/img/f98227077e87e9752f1cf6be35691d96",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/f98227077e87e9752f1cf6be35691d96"
+    ]
+  },
+  {
+    "name": "碧江区广建路消防救援站",
+    "location": {
+      "lat": 27.727557,
+      "lng": 109.20303
+    },
+    "address": "铜仁市碧江区环东路景尚名都北侧约40米",
+    "province": "贵州省",
+    "city": "铜仁市",
+    "area": "碧江区",
+    "detail": 1,
+    "uid": "a3e817b88e1d56751b11d560",
+    "cover": "https://pic-map.cdn.bcebos.com/img/7b047b823fd1beb7954b8eb245af50d6",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/7b047b823fd1beb7954b8eb245af50d6"
+    ]
+  }
+]

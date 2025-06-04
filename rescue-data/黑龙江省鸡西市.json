@@ -1,0 +1,89 @@
+[
+  {
+    "name": "五洲汽车救援中心",
+    "location": {
+      "lat": 45.295832,
+      "lng": 130.990286
+    },
+    "address": "鸡西市红旗路与东山街交叉路口3号楼8号门市",
+    "province": "黑龙江省",
+    "city": "鸡西市",
+    "area": "鸡冠区",
+    "telephone": "15094687777",
+    "detail": 1,
+    "uid": "6c7b03a571d984e86318093b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d58febdcbd900977481674e52d57ae40.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d58febdcbd900977481674e52d57ae40.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_42a04a45428552c8d5d31a0c6c2785ed.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4c2c5a96b08295107a9945fd8b7b9fde.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b7b5497fb45131d3ab6a2cde52754cff.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3aa17b90f14569ee0cb1db25de418619.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_635a22f11a8d89660f51f6b5322532ba.jpeg"
+    ]
+  },
+  {
+    "name": "鸡西市消防救援支队南山大队",
+    "location": {
+      "lat": 45.311318,
+      "lng": 130.996066
+    },
+    "address": "鸡西市鸡冠区市政路儿童公园西门西南侧约50米",
+    "province": "黑龙江省",
+    "city": "鸡西市",
+    "area": "鸡冠区",
+    "detail": 1,
+    "uid": "c87b325aba54fb1ba5da390e",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_bea9e52a635bca3a8e02b37a4822738b.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bea9e52a635bca3a8e02b37a4822738b.jpeg"
+    ]
+  },
+  {
+    "name": "小龙汽车修配厂高速救援",
+    "location": {
+      "lat": 45.352867,
+      "lng": 130.859253
+    },
+    "address": "黑龙江省鸡西市滴道区S309(方虎路)",
+    "province": "黑龙江省",
+    "city": "鸡西市",
+    "area": "滴道区",
+    "telephone": "15146777891",
+    "detail": 1,
+    "uid": "1116b82e06547d21b9df8fe0",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/cf2c778b93f22feace9b20745fc17f19_2028.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/cf2c778b93f22feace9b20745fc17f19_2028.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e3ca84e23b9d1c0f9ec7629176c4b7af.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_fddb62601a9eb0652a22ee5e33d6aa9c.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65688ff6b37129b1d.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/4670efae2c4986c4b78a3d65ecee8f61_0625.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/b75379d0495ae49dd14ce6e7756aebde_1727.jpeg"
+    ]
+  },
+  {
+    "name": "隆腾汽修行救援",
+    "location": {
+      "lat": 45.354546,
+      "lng": 130.847498
+    },
+    "address": "黑龙江省鸡西市滴道区同乐三组团7号楼",
+    "province": "黑龙江省",
+    "city": "鸡西市",
+    "area": "滴道区",
+    "street_id": "7e06ed9668eefc3e0869d960",
+    "telephone": "13903678079",
+    "detail": 1,
+    "uid": "7e06ed9668eefc3e0869d960",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_7bb1fd2d1f30bbdc4d5be58a20d1203c.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=7e06ed9668eefc3e0869d960&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a23a9306cc76c43e2a53aaed8fb7d6a1.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5a21a68919df2374e340136994eade20.jpg",
+      "https://taojin-his.cdn.bcebos.com/c2cec3fdfc039245e1b45ff78c94a4c27c1e25c0.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e5bdcb5468b3787db914ad980a53891f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5314a62600c27b510c2c920e5893dba8.jpeg"
+    ]
+  }
+]

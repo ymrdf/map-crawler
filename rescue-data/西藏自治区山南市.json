@@ -1,0 +1,40 @@
+[
+  {
+    "name": "西藏山南市消防救援支队桑耶寺大队",
+    "location": {
+      "lat": 29.328193,
+      "lng": 91.518943
+    },
+    "address": "山南市扎囊县泽桑公路",
+    "province": "西藏自治区",
+    "city": "山南市",
+    "area": "扎囊县",
+    "detail": 1,
+    "uid": "41a1fa11b324ba58c1f1cf0f",
+    "cover": "https://pic-map.cdn.bcebos.com/img/7119c3ff3c1d8960a7c2c1e83361d85a",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/7119c3ff3c1d8960a7c2c1e83361d85a"
+    ]
+  },
+  {
+    "name": "领航数码",
+    "location": {
+      "lat": 29.2456,
+      "lng": 91.77019
+    },
+    "address": "西藏自治区乃东区泽当镇格桑路交警支队旁",
+    "province": "西藏自治区",
+    "city": "山南市",
+    "area": "乃东区",
+    "street_id": "7e495fbd7824bdf34c3a59f8",
+    "telephone": "15208030891",
+    "detail": 1,
+    "uid": "7e495fbd7824bdf34c3a59f8",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_27ba69a4b658fa880000168bc9e0e112.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=7e495fbd7824bdf34c3a59f8&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e17510f51eb4e0b0a08415b2b8766eb6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_41cfd91f6fce7dfbf60958d62ebd0df6.jpeg"
+    ]
+  }
+]

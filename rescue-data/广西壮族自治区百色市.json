@@ -1,0 +1,148 @@
+[
+  {
+    "name": "百色润达汽车道路救援有限公司",
+    "location": {
+      "lat": 23.872754,
+      "lng": 106.665791
+    },
+    "address": "百色市右江区城东大道时代阳光城-1期南侧约110米",
+    "province": "广西壮族自治区",
+    "city": "百色市",
+    "area": "右江区",
+    "telephone": "13097766228",
+    "detail": 1,
+    "uid": "a17aee64762fb5c09de3217b",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/7d5862f431b9242870316e5396da9137_3842.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/7d5862f431b9242870316e5396da9137_3842.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/3845687a152e144a147981cfece991f2_0070.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/f5ddb0006cdbd790c5a283586c3cdee4_4262.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/4943bf292a0a746fc200e81bd85df658_2239.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/d48af74610ea893d54c5a5e1dadd3d67_3338.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1888266439ad1d8ee2426ef5eb47ec8c.jpeg"
+    ]
+  },
+  {
+    "name": "百色市消防救援支队",
+    "location": {
+      "lat": 23.902335,
+      "lng": 106.654352
+    },
+    "address": "百色市右江区站前大道7号",
+    "province": "广西壮族自治区",
+    "city": "百色市",
+    "area": "右江区",
+    "detail": 1,
+    "uid": "fa21eeff51b6d52ccc06a4da",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_b36fd8fadb4be63e36b1f397364a14cd.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b36fd8fadb4be63e36b1f397364a14cd.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 23.893634,
+      "lng": 106.656112
+    },
+    "address": "城东大道中百色综合港对面恒宁城市广场F1",
+    "province": "广西壮族自治区",
+    "city": "百色市",
+    "area": "右江区",
+    "street_id": "360c9a43ff8f8017eb12e41c",
+    "detail": 1,
+    "uid": "360c9a43ff8f8017eb12e41c",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_81360d22ebb3e163b5df82d9c41fb5f5.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=360c9a43ff8f8017eb12e41c&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_889212de161ddf26d32b9ccce2763e17.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2cf7bb3791c26f937186b3d6953ab18e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4b44bfc08f3158421847a5d47f4c2be6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d90b931934f963c5ea23efec5f75b7a5.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65ea4e4513cc36643.jpeg"
+    ]
+  },
+  {
+    "name": "平果市消防救援大队",
+    "location": {
+      "lat": 23.337429,
+      "lng": 107.597808
+    },
+    "address": "广西壮族自治区百色市平果市迎宾大道麒麟华府",
+    "province": "广西壮族自治区",
+    "city": "百色市",
+    "area": "平果市",
+    "street_id": "4cd137fd7eca348b990050b5",
+    "detail": 1,
+    "uid": "4cd137fd7eca348b990050b5",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_82e2e8fe3a58a87599b0ffb5e297dafc.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=4cd137fd7eca348b990050b5&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_31c5b73799a26ccfdc6641e9ad081493.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0e8322462f5ced990d488c6eb494a3ea.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_259e8ab4a3c01cbbcb7263f06f5fc880.jpeg"
+    ]
+  },
+  {
+    "name": "阿贵汽车维修拖车道路救援",
+    "location": {
+      "lat": 23.874826,
+      "lng": 106.664648
+    },
+    "address": "百色市右江区城东大道时代阳光城-1期西侧约70米",
+    "province": "广西壮族自治区",
+    "city": "百色市",
+    "area": "右江区",
+    "street_id": "a972edf11c4300541d1d116c",
+    "telephone": "18507767288",
+    "detail": 1,
+    "uid": "a972edf11c4300541d1d116c",
+    "cover": "https://taojin-his.cdn.bcebos.com/3bf33a87e950352a45f8ded55d43fbf2b3118b56.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/3bf33a87e950352a45f8ded55d43fbf2b3118b56.jpg",
+      "https://taojin-his.cdn.bcebos.com/a1ec08fa513d269722d390645ffbb2fb4316d883.jpg",
+      "https://taojin-his.cdn.bcebos.com/a9d3fd1f4134970a795e47169fcad1c8a7865ddd.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4d547c83a9c58cd099c0cdf916524c94.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5d451545b6f7c81cb713dab6d289b401.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b042c5b8fb017f1f971e85b667fb73e3.jpg"
+    ]
+  },
+  {
+    "name": "百色市紧急救援中心",
+    "location": {
+      "lat": 23.898877,
+      "lng": 106.627152
+    },
+    "address": "城乡路8号",
+    "province": "广西壮族自治区",
+    "city": "百色市",
+    "area": "右江区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "48eb0058b8110eac2ee67b8a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_4ec75e64f2552de24e8dfbe7277df0c3.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4ec75e64f2552de24e8dfbe7277df0c3.jpeg"
+    ]
+  },
+  {
+    "name": "德保县桃源消防救援站",
+    "location": {
+      "lat": 23.325536,
+      "lng": 106.630292
+    },
+    "address": "广西壮族自治区百色市德保县桃源路1号",
+    "province": "广西壮族自治区",
+    "city": "百色市",
+    "area": "德保县",
+    "street_id": "8a9d48c07f5a28ccd13ce304",
+    "detail": 1,
+    "uid": "8a9d48c07f5a28ccd13ce304",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_43f8597316b7b83cf8948fe323eaaaa2.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=8a9d48c07f5a28ccd13ce304&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_764c314a65d2eb738d9bb484483183d7.jpeg",
+      "https://taojin-pic-bj.cdn.bcebos.com/7bca66ad1f49f2f3e7095c2f56d6a845.jpg"
+    ]
+  }
+]

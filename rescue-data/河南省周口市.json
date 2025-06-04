@@ -1,0 +1,138 @@
+[
+  {
+    "name": "周口蓝天救援队",
+    "location": {
+      "lat": 33.610906,
+      "lng": 114.646205
+    },
+    "address": "周口市川汇区常青路万基城市花园",
+    "province": "河南省",
+    "city": "周口市",
+    "area": "川汇区",
+    "detail": 1,
+    "uid": "957c362c241ed87108f5eb1d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_5bef5d84be7384ca702191b4c0ad9b33.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5bef5d84be7384ca702191b4c0ad9b33.jpg",
+      "https://poi-pic.cdn.bcebos.com/5bef5d84be7384ca702191b4c0ad9b33.jpg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 34.036343,
+      "lng": 114.392683
+    },
+    "address": "周口市扶沟县洧水路扶沟县高级中学北侧约90米",
+    "province": "河南省",
+    "city": "周口市",
+    "area": "扶沟县",
+    "detail": 1,
+    "uid": "86faacaf414cba0f2bb97ce7",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_6d8dc3a3449ddf3da259809d3f5162ff.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6d8dc3a3449ddf3da259809d3f5162ff.jpg"
+    ]
+  },
+  {
+    "name": "太康县速达道路救援有限公司",
+    "location": {
+      "lat": 34.027784,
+      "lng": 114.890011
+    },
+    "address": "河南省周口市太康县",
+    "province": "河南省",
+    "city": "周口市",
+    "area": "太康县",
+    "detail": 1,
+    "uid": "8d7d1dc7369a325b95ec84a8",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_e6184de7c51bc3e93322124521069bc7.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e6184de7c51bc3e93322124521069bc7.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_420067ea33cb28a1bfa067a3cd65bc73.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f83704d54339606761e2523305aca07b.jpeg"
+    ]
+  },
+  {
+    "name": "郸城义情道路救援",
+    "location": {
+      "lat": 33.668968,
+      "lng": 115.222461
+    },
+    "address": "周口市郸城县丹成大道北环石油(加油站)东南侧约190米",
+    "province": "河南省",
+    "city": "周口市",
+    "area": "郸城县",
+    "telephone": "13629897738",
+    "detail": 1,
+    "uid": "3ef751b8a0c3fa98a0acc45b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_955e7277ba2b544914c46af3cff71439.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_955e7277ba2b544914c46af3cff71439.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_aca6905db0b3cd8aed3a05d5d8bf1067.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_f1e49ca8282f6b01d8b9ea8ac52b0d34.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4f2d195b029662c1f658452f0d0aa6f0.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2fcd1f4b72fd162a82ffd531a21bae5c.jpeg"
+    ]
+  },
+  {
+    "name": "鹿邑县南环路消防救援站",
+    "location": {
+      "lat": 33.85204,
+      "lng": 115.482378
+    },
+    "address": "周口市鹿邑县鸣鹿路九安花园南侧约30米",
+    "province": "河南省",
+    "city": "周口市",
+    "area": "鹿邑县",
+    "detail": 1,
+    "uid": "803cdf746d0329b70c0a7070",
+    "cover": "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_237c261e2494fcf424c915eaee91cb0f.jpg",
+    "photo_list": [
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_237c261e2494fcf424c915eaee91cb0f.jpg"
+    ]
+  },
+  {
+    "name": "炫车坊汽修保养道路救援",
+    "location": {
+      "lat": 33.661645,
+      "lng": 114.715485
+    },
+    "address": "河南省周口市川汇区S206(建设大道)华耀城F1",
+    "province": "河南省",
+    "city": "周口市",
+    "area": "川汇区",
+    "telephone": "15294952606",
+    "detail": 1,
+    "uid": "f7998a456fd7e1308415417a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_29342357c8828b42f737e1801769a7aa.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_29342357c8828b42f737e1801769a7aa.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_da9cc5ed1154ec99b860566781604653.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_82c5355d4122df9062197b2ef1929084.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b7f1f176de9257daa984a34b94810f90.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1e7b84e5e9b8b7321719ce9b5b4f1723.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f182d8c1ea5b9f1c5fb4df3593429ce7.jpeg"
+    ]
+  },
+  {
+    "name": "周口市紧急救援中心",
+    "location": {
+      "lat": 33.626574,
+      "lng": 114.670179
+    },
+    "address": "周口市川汇区",
+    "province": "河南省",
+    "city": "周口市",
+    "area": "川汇区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "630baaeadacb89c04207c174",
+    "cover": "https://taojin-his.cdn.bcebos.com/d058ccbf6c81800a7de48428be3533fa828b4796.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/d058ccbf6c81800a7de48428be3533fa828b4796.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_47a8f820b7deae508f9d8ccafd48b809.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b3b05a7af77d2743ec543de5145a7138.jpeg"
+    ]
+  }
+]

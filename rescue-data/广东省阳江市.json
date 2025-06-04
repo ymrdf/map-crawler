@@ -1,0 +1,99 @@
+[
+  {
+    "name": "粤顺救援",
+    "location": {
+      "lat": 21.838693,
+      "lng": 111.991806
+    },
+    "address": "阳江市江城区南浦大道保利罗兰香谷",
+    "province": "广东省",
+    "city": "阳江市",
+    "area": "江城区",
+    "detail": 1,
+    "uid": "56807fd050cdeadc0782c2fa",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_7c7b444529d6683a8e90480f6c9c42bf.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7c7b444529d6683a8e90480f6c9c42bf.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_fc081f341ffd4dbf14a44bd31469b5dd.jpeg"
+    ]
+  },
+  {
+    "name": "阳春市神鹰救援协会",
+    "location": {
+      "lat": 22.167799,
+      "lng": 111.788441
+    },
+    "address": "广东省阳江市阳春市旗岭街41号",
+    "province": "广东省",
+    "city": "阳江市",
+    "area": "阳春市",
+    "detail": 1,
+    "uid": "810e59640396f0f7932ca363",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_91247d8dcd8cbb986c2dd52da187a744.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_91247d8dcd8cbb986c2dd52da187a744.jpeg"
+    ]
+  },
+  {
+    "name": "阳江市阳东区消防救援大队",
+    "location": {
+      "lat": 21.877251,
+      "lng": 112.029096
+    },
+    "address": "阳江市阳东区迎宾大道美丽花城北侧约150米",
+    "province": "广东省",
+    "city": "阳江市",
+    "area": "阳东区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "0d6a659feeb91182eb12e4e9",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_e7f57833866a7b33a5e9dd7817b7da74.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e7f57833866a7b33a5e9dd7817b7da74.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7eb0747643cfdb45bfacab356a8a112f.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_ff468fcc347846e620f86e0c02f0b909.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8ada789c87c45097e86514b2526bf689.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_81cd7b57343a456b1452335f9fdb877a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_68d2479210abee3aad4b3bc572aed08c.jpeg"
+    ]
+  },
+  {
+    "name": "阳春市消防救援大队",
+    "location": {
+      "lat": 22.179864,
+      "lng": 111.769472
+    },
+    "address": "阳江市阳春市G325中国石化(升平加油站)西北侧约140米",
+    "province": "广东省",
+    "city": "阳江市",
+    "area": "阳春市",
+    "detail": 1,
+    "uid": "a835f98ea11d044eb13c8123",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_9b38bdba453249237a5f36f1b763d70f.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9b38bdba453249237a5f36f1b763d70f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5861f976d274cb8fae361ed4684285a0.jpeg"
+    ]
+  },
+  {
+    "name": "阳江市江城区消防救援大队",
+    "location": {
+      "lat": 21.867041,
+      "lng": 112.00348
+    },
+    "address": "阳江市江城区环园路阳江市公安消防局",
+    "province": "广东省",
+    "city": "阳江市",
+    "area": "江城区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "0b6a5c4385e79769c61e51bf",
+    "cover": "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_c0fd8d248183604106cadba93645b0c3.jpg",
+    "photo_list": [
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_c0fd8d248183604106cadba93645b0c3.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d545d657ed8dc25fa3e9ac7d8f6f5658.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f983853539b6f5c7dcc40112e0686233.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_27198d22ca33b0ca6ee9fdf76ad5f6c9.jpeg"
+    ]
+  }
+]

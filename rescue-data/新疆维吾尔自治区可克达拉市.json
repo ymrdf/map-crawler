@@ -1,0 +1,77 @@
+[
+  {
+    "name": "新疆星特维工程技术服务有限公司",
+    "location": {
+      "lat": 43.950573,
+      "lng": 81.311186
+    },
+    "address": "伊犁哈萨克自治州伊宁市伊若线218商务宾馆西侧约100米",
+    "province": "新疆维吾尔自治区",
+    "city": "伊犁哈萨克自治州",
+    "area": "伊宁市",
+    "detail": 1,
+    "uid": "996146087bcce86b9f09f751",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_6c61409812acd2a59e997b3037bccb58.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6c61409812acd2a59e997b3037bccb58.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1cef54e89b15ed67567a329e48939955.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5b15bce76bd0a9acdc4ce5222d1528b5.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c88d6df8c03989a8540443781c5cbb85.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3e08c5ca3400e6ea52f622f9225e1cf9.jpeg"
+    ]
+  },
+  {
+    "name": "龙途汽车服务",
+    "location": {
+      "lat": 43.950689,
+      "lng": 81.356532
+    },
+    "address": "新疆维吾尔自治区伊犁哈萨克自治州伊宁市胜利北路伊宁市农牧机械局旁",
+    "province": "新疆维吾尔自治区",
+    "city": "伊犁哈萨克自治州",
+    "area": "伊宁市",
+    "detail": 1,
+    "uid": "9119c3643b5ba77363180992",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a6aff7e80bf1a57e21d971a9716930c7.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a6aff7e80bf1a57e21d971a9716930c7.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_09e645aa87f3c0263bdab1a06342d5e7.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B658d437a84c1933b8.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B658d43771391314071.jpeg"
+    ]
+  },
+  {
+    "name": "小脚丫补胎救援",
+    "location": {
+      "lat": 43.737983,
+      "lng": 81.941389
+    },
+    "address": "新疆伊犁哈萨克自治州伊宁县萨木于孜镇克其克布拉克村布拉克路14号",
+    "province": "新疆维吾尔自治区",
+    "city": "伊犁哈萨克自治州",
+    "area": "伊宁县",
+    "detail": 1,
+    "uid": "9bf90bdae03d5f5cd2ff239b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_6bde6b544be8899ac0a5baadf04c557f.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6bde6b544be8899ac0a5baadf04c557f.jpeg"
+    ]
+  },
+  {
+    "name": "特克斯韩泰轮胎机油道路救援",
+    "location": {
+      "lat": 43.222595,
+      "lng": 81.832887
+    },
+    "address": "爱车之家补胎换胎道路救援机油新疆维吾尔自治区伊犁哈萨克自治州特克斯县特克斯八卦城(S220南)",
+    "province": "新疆维吾尔自治区",
+    "city": "伊犁哈萨克自治州",
+    "area": "特克斯县",
+    "detail": 1,
+    "uid": "a86f4e6ccd6b5235ae31e585",
+    "cover": "https://photo-meituan.cdn.bcebos.com/photo/17364089283bef5b11de001d6ee7bf44e990aedc1e",
+    "photo_list": [
+      "https://photo-meituan.cdn.bcebos.com/photo/17364089283bef5b11de001d6ee7bf44e990aedc1e"
+    ]
+  }
+]

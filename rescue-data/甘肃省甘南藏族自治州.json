@@ -1,0 +1,96 @@
+[
+  {
+    "name": "锦浩汽修道路救援",
+    "location": {
+      "lat": 34.962182,
+      "lng": 102.899177
+    },
+    "address": "甘肃省甘南藏族自治州合作市G316(知合玛路)",
+    "province": "甘肃省",
+    "city": "甘南藏族自治州",
+    "area": "合作市",
+    "telephone": "18394117333",
+    "detail": 1,
+    "uid": "1113cc01181f6a8c09f5eb05",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B64e971546eda2151a7.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B64e971546eda2151a7.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B64e971544ac2115496.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_dc5b63f7c1da306a248ff16a0ea7f9e6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_39623320c3a01132d11dc8416b5fbc27.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/f1cc6c4a0332e91fd2ba27dc55c0674c_4862.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/2a735d3ca5edd944643e2660cf6965ef_2333.jpeg"
+    ]
+  },
+  {
+    "name": "合作市早子沟应急救援基地",
+    "location": {
+      "lat": 34.969767,
+      "lng": 102.832228
+    },
+    "address": "甘肃省甘南藏族自治州合作市Y615(粮萨段)",
+    "province": "甘肃省",
+    "city": "甘南藏族自治州",
+    "area": "合作市",
+    "detail": 1,
+    "uid": "820283e4f4044cd751e5c56a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_4aa50b4d9eea892c4d04a4e7ed75c835.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4aa50b4d9eea892c4d04a4e7ed75c835.jpeg"
+    ]
+  },
+  {
+    "name": "碌曲县消防救援大队",
+    "location": {
+      "lat": 34.59235,
+      "lng": 102.503054
+    },
+    "address": "甘肃省甘南藏族自治州碌曲县勒尔多东路夏泽巷14号",
+    "province": "甘肃省",
+    "city": "甘南藏族自治州",
+    "area": "碌曲县",
+    "detail": 1,
+    "uid": "e36efc8700616be585330483",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B62b6e2c9b237d125f0.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B62b6e2c9b237d125f0.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B62b6e285310bd11394.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_12af4963c36cb1f3c4b1ffd771cf826d.jpeg"
+    ]
+  },
+  {
+    "name": "舟曲县消防大队",
+    "location": {
+      "lat": 33.797095,
+      "lng": 104.259345
+    },
+    "address": "甘肃省甘南藏族自治州舟曲县S313",
+    "province": "甘肃省",
+    "city": "甘南藏族自治州",
+    "area": "舟曲县",
+    "detail": 1,
+    "uid": "b07a214cac51427ce6e965c3",
+    "cover": "https://pic-map.cdn.bcebos.com/img/b1dda50e49a73609f9ae550e9193fb9b",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/b1dda50e49a73609f9ae550e9193fb9b"
+    ]
+  },
+  {
+    "name": "甘南神通机械租赁有限公司",
+    "location": {
+      "lat": 34.994088,
+      "lng": 102.930854
+    },
+    "address": "甘肃省甘南藏族自治州合作市环城东路甘南驾校隔壁",
+    "province": "甘肃省",
+    "city": "甘南藏族自治州",
+    "area": "合作市",
+    "telephone": "13389415977,13893988819",
+    "detail": 1,
+    "uid": "5921fece84a795f8bea240fe",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_1bfbd9ee576a9d47d02c540f7aa53cd6.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1bfbd9ee576a9d47d02c540f7aa53cd6.jpeg"
+    ]
+  }
+]

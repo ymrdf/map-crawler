@@ -1,0 +1,82 @@
+[
+  {
+    "name": "救援中队",
+    "location": {
+      "lat": 47.340788,
+      "lng": 130.29884
+    },
+    "address": "鹤岗市向阳区天桥路胜利小学西北侧约120米",
+    "province": "黑龙江省",
+    "city": "鹤岗市",
+    "area": "向阳区",
+    "detail": 1,
+    "uid": "440b2baebd94086bbe4842b7",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_253926a47243380563bf6179415901cd.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_253926a47243380563bf6179415901cd.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cf57b7fbbd73186a076f6ed8494cfaa0.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0a27b467fc4a3099bcefc64e26d7475f.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B64cb539c55dd6d19b.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B64cb536f4c00d4df7.jpeg"
+    ]
+  },
+  {
+    "name": "风帆汽车救援",
+    "location": {
+      "lat": 47.322682,
+      "lng": 130.292077
+    },
+    "address": "黑龙江省鹤岗市工农区铁西街煤建处42号楼3单元105室",
+    "province": "黑龙江省",
+    "city": "鹤岗市",
+    "area": "工农区",
+    "telephone": "18945170000",
+    "detail": 1,
+    "uid": "7ad4ec9b26ff1ad8b6f42fca",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B6170d4a205a29136f4.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B6170d4a205a29136f4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5b620d83d859ae180958f6fd574cdd1e.jpeg"
+    ]
+  },
+  {
+    "name": "全国高山汽修救援",
+    "location": {
+      "lat": 47.259328,
+      "lng": 130.239513
+    },
+    "address": "鹤岗市兴安区兴长路兴安广场西侧约160米",
+    "province": "黑龙江省",
+    "city": "鹤岗市",
+    "area": "兴安区",
+    "telephone": "4000000215,4001120077",
+    "detail": 1,
+    "uid": "f47fc0a0ddcc964c86420e67",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_e43da5c84368cb810628ffaedba20f25.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e43da5c84368cb810628ffaedba20f25.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_fc18904eb5b98571ea5a2a3c5cb0f336.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_93e1c2d6baeae47f2e1a940eafcb8374.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_22c856082350fe4bae6325230b559123.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d68964206e2b76fadaa03af037440ec6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b2f3160cdbd9a298d4b3673caea6b563.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 47.342782,
+      "lng": 130.311749
+    },
+    "address": "鹤岗市南翼路南翼派出所西侧约70米",
+    "province": "黑龙江省",
+    "city": "鹤岗市",
+    "area": "向阳区",
+    "detail": 1,
+    "uid": "b1102e484b033ec1f503b865",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_55bafa4f2b5f3a289d79334ec2493a4a.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_55bafa4f2b5f3a289d79334ec2493a4a.jpg"
+    ]
+  }
+]

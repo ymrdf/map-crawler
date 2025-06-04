@@ -1,0 +1,163 @@
+[
+  {
+    "name": "宝航汽修(道路救援)",
+    "location": {
+      "lat": 33.651465,
+      "lng": 118.092021
+    },
+    "address": "安徽省-宿州市-泗县刘圩镇泗找路y011号",
+    "province": "安徽省",
+    "city": "宿州市",
+    "area": "泗县",
+    "telephone": "15556297333",
+    "detail": 1,
+    "uid": "7d256dd372893805f8dc852f",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_480f72ff5ed9719cc82b15601a82e9ac.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_480f72ff5ed9719cc82b15601a82e9ac.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_430eecc786e44a9557e9573218132e98.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a63014a6330788e22fb1e839ca647045.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3d946c96f94bdae3716369df03b82dae.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_235ddf6a06b7d39d9d77011aff00ef4c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a4aade33c549d26251b52fb3a75cd72d.jpeg"
+    ]
+  },
+  {
+    "name": "蓝天救援",
+    "location": {
+      "lat": 33.547712,
+      "lng": 117.565303
+    },
+    "address": "宿州市灵璧县建设中路华蕾幼儿园东侧约180米",
+    "province": "安徽省",
+    "city": "宿州市",
+    "area": "灵璧县",
+    "telephone": "(0557)6029958",
+    "detail": 1,
+    "uid": "84743a16a13e13c1db13187f",
+    "cover": "https://taojin-his.cdn.bcebos.com/f9198618367adab4f269660a85d4b31c8701e43a.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/f9198618367adab4f269660a85d4b31c8701e43a.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_09ec6a8d6d59de0f205414cdcc07630f.jpg",
+      "https://taojin-his.cdn.bcebos.com/f3d3572c11dfa9ec50de213e6fd0f703918fc123.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ee962dff5c3a630940fdcdfcecad15aa.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_14afb013ed62e8e3fab6c515ea117807.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0a2f6f60d7be38853b0ac29acb339b8e.jpeg"
+    ]
+  },
+  {
+    "name": "宿州市埇桥区汴河消防救援站",
+    "location": {
+      "lat": 33.688785,
+      "lng": 116.986242
+    },
+    "address": "宿州市埇桥区淮海北路唐河东路安置区西北侧约280米",
+    "province": "安徽省",
+    "city": "宿州市",
+    "area": "埇桥区",
+    "detail": 1,
+    "uid": "7cd6769daf1ceb72d618b767",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_74fee2e66a276980a4ca980dfe69481a.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_74fee2e66a276980a4ca980dfe69481a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_15d71b0d9b865c098fe6f9fb16bbfda8.jpeg"
+    ]
+  },
+  {
+    "name": "安徽省萧县天狼救援大队",
+    "location": {
+      "lat": 34.189586,
+      "lng": 116.943542
+    },
+    "address": "淮海西路134-9号附近",
+    "province": "安徽省",
+    "city": "宿州市",
+    "area": "萧县",
+    "street_id": "925abdd38bf51a644354d7e1",
+    "detail": 1,
+    "uid": "925abdd38bf51a644354d7e1",
+    "cover": "https://taojin-his.cdn.bcebos.com/0e2442a7d933c8950fb1525cdc1373f0830200ce.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=925abdd38bf51a644354d7e1&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c7544de6448ae5714d93b1004402fe4a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_39a857303915fc66fb28be6a533c4c5b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f0383bff2dcc80e726d4874a9e924943.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_df70707bbaa2b3c9f7d0a7f6503a30b4.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_d9dac438c604fdffb1006f64e46dfac6.jpg"
+    ]
+  },
+  {
+    "name": "远通汽车救援",
+    "location": {
+      "lat": 33.606472,
+      "lng": 117.020346
+    },
+    "address": "宿州市埇桥区南二环路龙河小区东南侧约80米",
+    "province": "安徽省",
+    "city": "宿州市",
+    "area": "埇桥区",
+    "telephone": "(0557)3044567,18855340000",
+    "detail": 1,
+    "uid": "9ff06e9a212cc11c2efaa724",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_bb133399b9e5a940c9f5762df2b4bff9.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bb133399b9e5a940c9f5762df2b4bff9.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2bff3052d8a0e96d1a01284307614a75.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2405d6f502409d6df193dd6e07c1177e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_491f0d39125dac6c22f73a7b2a4d004f.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6453af0f697c7fb7c8c0cfa8c4966cfd.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_d4fb858251aea868f0bbd6ef19f7417d.jpg"
+    ]
+  },
+  {
+    "name": "砀山县冲峰救援队",
+    "location": {
+      "lat": 34.422666,
+      "lng": 116.357243
+    },
+    "address": "宿州市砀山县芒砀南路砀山县民政局",
+    "province": "安徽省",
+    "city": "宿州市",
+    "area": "砀山县",
+    "detail": 1,
+    "uid": "d5dee72bf422a943d3ff23dd",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_497e2d7c8d6bb4bd8591891689c17004.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_497e2d7c8d6bb4bd8591891689c17004.jpg"
+    ]
+  },
+  {
+    "name": "宿州市埇桥区消防救援大队",
+    "location": {
+      "lat": 33.627894,
+      "lng": 116.977202
+    },
+    "address": "安徽省宿州市埇桥区淮河西路37号",
+    "province": "安徽省",
+    "city": "宿州市",
+    "area": "埇桥区",
+    "detail": 1,
+    "uid": "00deb685f807f11baecb66a1",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a5e26e54a5b108d21810a4f8cade1eed.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a5e26e54a5b108d21810a4f8cade1eed.jpeg"
+    ]
+  },
+  {
+    "name": "灵璧县消防救援大队",
+    "location": {
+      "lat": 33.565229,
+      "lng": 117.552366
+    },
+    "address": "安徽省宿州市灵璧县S201(迎宾大道)",
+    "province": "安徽省",
+    "city": "宿州市",
+    "area": "灵璧县",
+    "detail": 1,
+    "uid": "e0aa832708302f4f9868b4f9",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_11064b7d072c968b51623d921d981293.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_11064b7d072c968b51623d921d981293.jpeg"
+    ]
+  }
+]

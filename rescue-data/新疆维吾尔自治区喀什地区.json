@@ -1,0 +1,57 @@
+[
+  {
+    "name": "喀什途顺机动车检测服务有限公司",
+    "location": {
+      "lat": 39.550182,
+      "lng": 75.958616
+    },
+    "address": "新疆喀什地区喀什市中亚五路93号",
+    "province": "新疆维吾尔自治区",
+    "city": "喀什地区",
+    "area": "喀什市",
+    "telephone": "15999187390",
+    "detail": 1,
+    "uid": "260c6cc71836bff028d7abda",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/Hfaf2b2119313b07ea247945801d7912396dd8cec.jpg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/Hfaf2b2119313b07ea247945801d7912396dd8cec.jpg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 38.415981,
+      "lng": 77.254755
+    },
+    "address": "喀什地区莎车县团结路新盛嘉和园东北侧约30米",
+    "province": "新疆维吾尔自治区",
+    "city": "喀什地区",
+    "area": "莎车县",
+    "detail": 1,
+    "uid": "d888d8cb0c1065a7f942b2a1",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ba9e81bc3336e090b627462589626a38.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ba9e81bc3336e090b627462589626a38.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b2b0dedfe0e32367f609d8e4a462de32.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6aa1b31112425e9fabbb1c3897f4b152.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b9b40c5d01fd692673ea2593fc77e337.jpeg"
+    ]
+  },
+  {
+    "name": "泽普县消防救援大队",
+    "location": {
+      "lat": 38.180037,
+      "lng": 77.277374
+    },
+    "address": "喀什地区泽普县前程路泽普县第三幼儿园南侧约170米",
+    "province": "新疆维吾尔自治区",
+    "city": "喀什地区",
+    "area": "泽普县",
+    "detail": 1,
+    "uid": "e97ed642e797bf620f0e6b8d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_533c8f75919270e9b6d2cbd6fc39af27.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_533c8f75919270e9b6d2cbd6fc39af27.jpeg"
+    ]
+  }
+]

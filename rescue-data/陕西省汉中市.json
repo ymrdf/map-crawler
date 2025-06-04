@@ -1,0 +1,118 @@
+[
+  {
+    "name": "唐龙24小时救援中心",
+    "location": {
+      "lat": 33.086737,
+      "lng": 107.115861
+    },
+    "address": "陕西省汉中市汉台区汉中东连接线",
+    "province": "陕西省",
+    "city": "汉中市",
+    "area": "汉台区",
+    "telephone": "(0916)2571000",
+    "detail": 1,
+    "uid": "e623bc35588adf29932ca307",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_0bc18a3c3233338e0591d78810285887.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0bc18a3c3233338e0591d78810285887.jpg"
+    ]
+  },
+  {
+    "name": "洋县宝丰救援汽修厂",
+    "location": {
+      "lat": 33.229889,
+      "lng": 107.525259
+    },
+    "address": "汉中市洋县京昆线戚氏派出所东侧",
+    "province": "陕西省",
+    "city": "汉中市",
+    "area": "洋县",
+    "telephone": "13700262459,15399161616",
+    "detail": 1,
+    "uid": "f83933728062da4294031996",
+    "cover": "https://taojin-his.cdn.bcebos.com/0d338744ebf81a4c789bcc64d92a6059242da6f5.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/0d338744ebf81a4c789bcc64d92a6059242da6f5.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_dbd0523cbd1e3d3cc74d8707a167f32b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7209ceb32f4e8109b8cf0bf79db47f1f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ce7f4ac393c2bed103fe99ad715a2943.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_edb29bcfca2ad3df8a46942fc809e976.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_28f486e3332cc8b994bc1cf9faeca40e.jpeg"
+    ]
+  },
+  {
+    "name": "道路救援钣金喷漆",
+    "location": {
+      "lat": 33.21992,
+      "lng": 107.559059
+    },
+    "address": "汉中市洋县南环路万佳丽景花园南侧约110米",
+    "province": "陕西省",
+    "city": "汉中市",
+    "area": "洋县",
+    "detail": 1,
+    "uid": "5375f6a0aee9159f3913fd6b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_c793d1dd1aa7861cb3b726c0a5f3d93f.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c793d1dd1aa7861cb3b726c0a5f3d93f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_80a4acdb42e78247bf0e86e96e87436a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_38f731d1c80920bc13202e1b9f8675a7.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65e4417dcae6713331.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65e4417d38b903672.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B662b2ee965351183cc.jpeg"
+    ]
+  },
+  {
+    "name": "汉中市环境应急抢险救援队",
+    "location": {
+      "lat": 33.092081,
+      "lng": 107.121951
+    },
+    "address": "汉中市汉台区京昆线舒馨苑小区西侧约150米",
+    "province": "陕西省",
+    "city": "汉中市",
+    "area": "汉台区",
+    "detail": 1,
+    "uid": "58505e5fa007b1ef4051c09c",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_b9397f0e7006a144122e783e3e30d68a.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b9397f0e7006a144122e783e3e30d68a.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B677113f6930eee62e.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 33.165693,
+      "lng": 106.691506
+    },
+    "address": "汉中市勉县贾旗路兴馨苑小区东侧约180米",
+    "province": "陕西省",
+    "city": "汉中市",
+    "area": "勉县",
+    "detail": 1,
+    "uid": "2aa36dab35896a784c6d4665",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_1595e97c7a818afa09361c46dbe5405e.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1595e97c7a818afa09361c46dbe5405e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3ea3fb3caadb3220f23f5f39e5101391.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 32.812589,
+      "lng": 106.23242
+    },
+    "address": "汉中市宁强县京昆线陕西金盛石化(加油站)东侧约140米",
+    "province": "陕西省",
+    "city": "汉中市",
+    "area": "宁强县",
+    "detail": 1,
+    "uid": "ccfd0b86ede7103b077ce886",
+    "cover": "https://pic-map.cdn.bcebos.com/img/b02c609f2e6fe84725078e28732e20ed",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/b02c609f2e6fe84725078e28732e20ed"
+    ]
+  }
+]

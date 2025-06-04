@@ -1,0 +1,140 @@
+[
+  {
+    "name": "北京天马通达旅游有限公司",
+    "location": {
+      "lat": 40.062439,
+      "lng": 116.303628
+    },
+    "address": "北京市海淀区西北旺地区上地西路东大汽车救援中心",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "海淀区",
+    "street_id": "",
+    "telephone": "(010)82145650",
+    "detail": 1,
+    "uid": "5e6b4a0c19f7edcc100daa00",
+    "cover": "https://taojin-his.cdn.bcebos.com/0df431adcbef7609eead6d4220dda3cc7dd99e4d.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/0df431adcbef7609eead6d4220dda3cc7dd99e4d.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/H2cf5e0fe9925bc31001d047750df8db1ca137098.jpg"
+    ]
+  },
+  {
+    "name": "兴隆补胎送油搭电拖车救援",
+    "location": {
+      "lat": 39.866399,
+      "lng": 116.474375
+    },
+    "address": "北京市朝阳区大羊坊路东盈苑小区",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "朝阳区",
+    "telephone": "13275529017",
+    "detail": 1,
+    "uid": "2040b1b5b40afa3ac13644a9",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_8371947659e160d6c86d64b4d8cfb4be.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8371947659e160d6c86d64b4d8cfb4be.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6998a24009e8878ba4eb7ca7d7b3018a.jpeg"
+    ]
+  },
+  {
+    "name": "海淀区圆明园消防救援站",
+    "location": {
+      "lat": 40.027584,
+      "lng": 116.304006
+    },
+    "address": "北京市海淀区树村西路17号",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "海淀区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "70cea0eb2aafcf17d8d891f9",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_14d29e18390909c25bb9e4d676e7266e.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_14d29e18390909c25bb9e4d676e7266e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a18900609d13f99acce28a2f2f2a4ace.jpeg"
+    ]
+  },
+  {
+    "name": "国家地震紧急救援训练基地-南门",
+    "location": {
+      "lat": 40.116246,
+      "lng": 116.103979
+    },
+    "address": "北京市海淀区龙泉寺北路附近",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "海淀区",
+    "detail": 1,
+    "uid": "cf609a7fd130c6bc3ce231e0",
+    "cover": "https://poi-pic.cdn.bcebos.com/81ae8391e8a1c9d139abc9fd378a5277.jpg",
+    "photo_list": [
+      "https://poi-pic.cdn.bcebos.com/81ae8391e8a1c9d139abc9fd378a5277.jpg"
+    ]
+  },
+  {
+    "name": "轮胎专卖补胎救援",
+    "location": {
+      "lat": 40.218117,
+      "lng": 116.759516
+    },
+    "address": "北京市顺义区昌金路与李魏路交叉路口西南侧",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "顺义区",
+    "telephone": "15321838818",
+    "detail": 1,
+    "uid": "772de384690bed79353a715e",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/a4ecbdfb95827de7c5cfaf3f372c282e_2138.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/a4ecbdfb95827de7c5cfaf3f372c282e_2138.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/22cf74b2bcfa2bc2e8fecd9d30373962_3231.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/d2a7d2790cbba3faa92e8ad2a663d831_3832.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/a28df46eb0af32c8e515c703f6d8c0e5_4524.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/4a10182ab10b1bcfb9df5865e20ba73d_3485.jpeg",
+      "https://pic-map.cdn.bcebos.com/img/00efc73d9705a1e296e0416586cec3f6"
+    ]
+  },
+  {
+    "name": "海淀区永丰消防救援站",
+    "location": {
+      "lat": 40.054944,
+      "lng": 116.268344
+    },
+    "address": "北京市海淀区西北旺三街12号",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "海淀区",
+    "street_id": "641f698fdfcd70585a3ac813",
+    "detail": 1,
+    "uid": "641f698fdfcd70585a3ac813",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_548183cb1f88ffa48e737275be1dc4b6.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=641f698fdfcd70585a3ac813&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "海淀区双榆树消防救援站",
+    "location": {
+      "lat": 39.972191,
+      "lng": 116.338337
+    },
+    "address": "北京市海淀区北三环西路30号",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "海淀区",
+    "detail": 1,
+    "uid": "48b38c8319d1497859bbbcf2",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_059f4e8d39cdd5fed42f92268335fa94.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_059f4e8d39cdd5fed42f92268335fa94.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a17a561de0041a05d2597bfa7f2dd068.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0fa178d689c780b8a62e836f1aa1dfe4.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4b700d52fb0228327eb05c2853a80fdf.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4140de6b5c03d559d2d3e99efc14bff3.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9f28e01ccf7d446b347d86f0a260935c.jpeg"
+    ]
+  }
+]

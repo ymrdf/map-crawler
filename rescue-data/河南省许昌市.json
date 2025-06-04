@@ -1,0 +1,124 @@
+[
+  {
+    "name": "凯胜拖车救援",
+    "location": {
+      "lat": 33.99874,
+      "lng": 113.894251
+    },
+    "address": "河南省许昌市建安区107国道西",
+    "province": "河南省",
+    "city": "许昌市",
+    "area": "建安区",
+    "telephone": "13083744111",
+    "detail": 1,
+    "uid": "7d07c04ea816855426e0a0ef",
+    "cover": "https://poi-pic.cdn.bcebos.com/6681109ed30b0e6afd9f13ec0777c167.jpg",
+    "photo_list": [
+      "https://poi-pic.cdn.bcebos.com/6681109ed30b0e6afd9f13ec0777c167.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B662242b28d81d591c.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B66224296c20b551b2.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B661e21f451c5b1310d.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B613aeb6bed0344f64.jpeg"
+    ]
+  },
+  {
+    "name": "顺达汽车救援",
+    "location": {
+      "lat": 34.173629,
+      "lng": 113.439604
+    },
+    "address": "许昌市禹州市滨河大道(西段)禹州市技工学校北侧约220米",
+    "province": "河南省",
+    "city": "许昌市",
+    "area": "禹州市",
+    "telephone": "15136870866",
+    "detail": 1,
+    "uid": "226a51f5ee7ce8881ef74ddf",
+    "cover": "https://taojin-his.cdn.bcebos.com/d31b0ef41bd5ad6ecef6e4498fcb39dbb6fd3c01.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/d31b0ef41bd5ad6ecef6e4498fcb39dbb6fd3c01.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bbbf358d344adac456a65ae4e6c2bd3d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4005bd1b746f01051b9bc4e4147a840d.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_76dfa2be5a93585c5aa7f1dc823276da.jpg",
+      "https://poi-pic.cdn.bcebos.com/90d87babdec072779db8de2db3f59917.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_1a17f0d7382979d6deca8bf5cad4d10d.jpg"
+    ]
+  },
+  {
+    "name": "襄城县紫云大道消防救援站",
+    "location": {
+      "lat": 33.871692,
+      "lng": 113.52603
+    },
+    "address": "许昌市襄城县紫云大道与建设路交叉路口往东北约180米",
+    "province": "河南省",
+    "city": "许昌市",
+    "area": "襄城县",
+    "street_id": "1b84fc1306e0186ec8213d38",
+    "detail": 1,
+    "uid": "1b84fc1306e0186ec8213d38",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a321d43012316934b7f21b7a33b9d175.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=1b84fc1306e0186ec8213d38&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic.cdn.bcebos.com/a321d43012316934b7f21b7a33b9d175.jpg"
+    ]
+  },
+  {
+    "name": "长葛蓝天救援队",
+    "location": {
+      "lat": 34.226938,
+      "lng": 113.791674
+    },
+    "address": "许昌市长葛市朝阳路锦绣年华北侧",
+    "province": "河南省",
+    "city": "许昌市",
+    "area": "长葛市",
+    "detail": 1,
+    "uid": "52bc01bbdfced46e88f15d3b",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B66b9e12d782765817.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B66b9e12d782765817.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1862c4e4d93a1e3f83181194e6992e92.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5d2d783212d5246e86b585ff7e40d22b.jpeg"
+    ]
+  },
+  {
+    "name": "许昌市消防救援支队",
+    "location": {
+      "lat": 34.04251,
+      "lng": 113.885812
+    },
+    "address": "河南省许昌市建安区建安大道与景福路交叉路口往西南约70米",
+    "province": "河南省",
+    "city": "许昌市",
+    "area": "建安区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "a71d02d4de58e5663913fdf6",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_0f0df0064941c386a8d655faf5bc2806.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0f0df0064941c386a8d655faf5bc2806.jpeg"
+    ]
+  },
+  {
+    "name": "长葛市消防救援大队",
+    "location": {
+      "lat": 34.206548,
+      "lng": 113.799102
+    },
+    "address": "河南省许昌市长葛市金英大道1888号",
+    "province": "河南省",
+    "city": "许昌市",
+    "area": "长葛市",
+    "detail": 1,
+    "uid": "2f9bbcf665b003aa2fb90876",
+    "cover": "https://taojin-his.cdn.bcebos.com/730e0cf3d7ca7bcb71a3480eb3096b63f624a833.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/730e0cf3d7ca7bcb71a3480eb3096b63f624a833.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8e4ff87fdf411aa5522112fa554e8b69.jpg",
+      "https://taojin-his.cdn.bcebos.com/0dd7912397dda14491007d1abeb7d0a20cf48608.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_30a443a429d931c2b5803da1c8e870ac.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_65102ef3e42dd36b954f313c43927d8a.jpeg"
+    ]
+  }
+]

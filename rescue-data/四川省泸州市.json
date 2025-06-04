@@ -1,0 +1,113 @@
+[
+  {
+    "name": "四川救援",
+    "location": {
+      "lat": 27.98031,
+      "lng": 105.971393
+    },
+    "address": "四川省泸州市古蔺县S309",
+    "province": "四川省",
+    "city": "泸州市",
+    "area": "古蔺县",
+    "detail": 1,
+    "uid": "9fdbe1912e7b09de7c29bdb8",
+    "cover": "https://pic-map.cdn.bcebos.com/img/0748557f7c2ae7a207758c8ae1b31f4f",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/0748557f7c2ae7a207758c8ae1b31f4f"
+    ]
+  },
+  {
+    "name": "泸州市消防救援支队培训基地",
+    "location": {
+      "lat": 28.864977,
+      "lng": 105.475132
+    },
+    "address": "四川省泸州市江阳区兴金沙建材东北侧约250米",
+    "province": "四川省",
+    "city": "泸州市",
+    "area": "江阳区",
+    "detail": 1,
+    "uid": "da41ce7036c8ea3479dbd2db",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B61a5d428177c14b56.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B61a5d428177c14b56.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B61a5d436e91031538a.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B61a5d4308ce71109ab.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0803bfc0cabeee0e5b2efea023937f6c.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 28.921314,
+      "lng": 105.445725
+    },
+    "address": "泸州市龙马潭区摇翔路芳草地东侧约30米",
+    "province": "四川省",
+    "city": "泸州市",
+    "area": "龙马潭区",
+    "detail": 1,
+    "uid": "4055232af35ebce0f60e774b",
+    "cover": "https://pic-map.cdn.bcebos.com/img/2d6307a48084f55fe0d4e575ebe96a12",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/2d6307a48084f55fe0d4e575ebe96a12"
+    ]
+  },
+  {
+    "name": "古蔺县消防救援大队",
+    "location": {
+      "lat": 28.06266,
+      "lng": 105.777603
+    },
+    "address": "四川省泸州市古蔺县蔺阳大道112号",
+    "province": "四川省",
+    "city": "泸州市",
+    "area": "古蔺县",
+    "detail": 1,
+    "uid": "a2a038853b6bcf58c9291573",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_13854fccc7bf22d379227192959f7981.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_13854fccc7bf22d379227192959f7981.jpeg"
+    ]
+  },
+  {
+    "name": "泸州市江阳区通滩镇消防救援站",
+    "location": {
+      "lat": 28.913989,
+      "lng": 105.310951
+    },
+    "address": "四川省泸州市江阳区S207",
+    "province": "四川省",
+    "city": "泸州市",
+    "area": "江阳区",
+    "detail": 1,
+    "uid": "54ca96ff7ca9dbfcb04c49a4",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_0398029eda63fd50622cb99c73b7e67f.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0398029eda63fd50622cb99c73b7e67f.jpeg"
+    ]
+  },
+  {
+    "name": "水尾郑勇汽修厂救援",
+    "location": {
+      "lat": 28.315051,
+      "lng": 105.534829
+    },
+    "address": "四川省泸州市叙永县水尾镇画稿溪路646号",
+    "province": "四川省",
+    "city": "泸州市",
+    "area": "叙永县",
+    "telephone": "18982401129",
+    "detail": 1,
+    "uid": "6f984821d998d95f4251c0eb",
+    "cover": "https://photo-meituan.cdn.bcebos.com/photo/1739868389c37323fa2dbea1e6db3e8f2c50380b67",
+    "photo_list": [
+      "https://photo-meituan.cdn.bcebos.com/photo/1739868389c37323fa2dbea1e6db3e8f2c50380b67",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_21ac6fcc6ec4260a8c974ef7fabd599c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5115405856aa1bc0eb76c8d584239ced.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f483cae6e1b5b965e143e06d33d72748.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B625e3178f031f161cb.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/2ff78460360cd77895b25f5789b277a4_2213.jpeg"
+    ]
+  }
+]

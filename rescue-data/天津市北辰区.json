@@ -1,0 +1,72 @@
+[
+  {
+    "name": "天津市救援拖运有限公司(北辰分队)",
+    "location": {
+      "lat": 39.247205,
+      "lng": 117.122362
+    },
+    "address": "天津市北辰区外环北路与京津公路桥交叉路口往西北约90米",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "北辰区",
+    "detail": 1,
+    "uid": "3eaf7c6dcae270afb21e36d0",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B60fa30424f3414f7f.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B60fa30424f3414f7f.jpeg"
+    ]
+  },
+  {
+    "name": "天津市救援拖运有限公司",
+    "location": {
+      "lat": 39.045352,
+      "lng": 117.639557
+    },
+    "address": "天津市滨海新区塘黄路翔鹤园西侧约50米",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "滨海新区",
+    "detail": 1,
+    "uid": "4dd8df6233fd0450ad31e553",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_488c0670056dbfb373c65169969440e9.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_488c0670056dbfb373c65169969440e9.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 39.258592,
+      "lng": 117.316963
+    },
+    "address": "天津市北辰区陆港四纬南路",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "北辰区",
+    "detail": 1,
+    "uid": "d044ef34d7c707e83786f448",
+    "cover": "https://pic-map.cdn.bcebos.com/img/2f573b7a8b59318a2e33099dd5aa3deb",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/2f573b7a8b59318a2e33099dd5aa3deb"
+    ]
+  },
+  {
+    "name": "北辰区消防救援支队",
+    "location": {
+      "lat": 39.223766,
+      "lng": 117.215788
+    },
+    "address": "天津市北辰区汾河南道2号",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "北辰区",
+    "street_id": "",
+    "telephone": "(022)26309119",
+    "detail": 1,
+    "uid": "1621b1fbc4bfa60ec16c1459",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_20c71b6a4a05fd8f9630ed0b7983812e.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_20c71b6a4a05fd8f9630ed0b7983812e.jpeg"
+    ]
+  }
+]

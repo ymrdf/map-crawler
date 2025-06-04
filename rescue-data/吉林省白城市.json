@@ -1,0 +1,146 @@
+[
+  {
+    "name": "冬的汽车修理拖车救援",
+    "location": {
+      "lat": 45.862438,
+      "lng": 123.214235
+    },
+    "address": "吉林省白城市镇赉县新兴北街522号",
+    "province": "吉林省",
+    "city": "白城市",
+    "area": "镇赉县",
+    "telephone": "15734369111",
+    "detail": 1,
+    "uid": "ea064f18739ee1cfa2a934b1",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_6ff98590678dbe7af45a8359e29f47af.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6ff98590678dbe7af45a8359e29f47af.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f5a690198fb2a50daa32b699d5be82ad.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3b28f36b1baab8e7518e221ad06bcef8.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_13ffd7180d92cf21566f12879e499037.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7121ca0a0e1a6a0db7c383a5b028f197.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B66e60b7394c0512649.jpeg"
+    ]
+  },
+  {
+    "name": "白城市路达汽车道路救援",
+    "location": {
+      "lat": 45.622497,
+      "lng": 122.798405
+    },
+    "address": "吉林省白城市洮北区三合路绿色家园",
+    "province": "吉林省",
+    "city": "白城市",
+    "area": "洮北区",
+    "telephone": "13843668815",
+    "detail": 1,
+    "uid": "214e4d526baa08a79ff7794e",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B647595f3807f8115fe.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B647595f3807f8115fe.jpeg"
+    ]
+  },
+  {
+    "name": "江苏宗申三轮车建设三轮车",
+    "location": {
+      "lat": 45.4171,
+      "lng": 122.825096
+    },
+    "address": "白城市洮北区洮白一级公路",
+    "province": "吉林省",
+    "city": "白城市",
+    "area": "洮北区",
+    "detail": 1,
+    "uid": "87eaab0dacc1831b6f3e1b29",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B666b7e47452d1136f1.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B666b7e47452d1136f1.jpeg"
+    ]
+  },
+  {
+    "name": "小尹车漆快补",
+    "location": {
+      "lat": 45.337089,
+      "lng": 122.789946
+    },
+    "address": "吉林省白城市洮南市民强西路233号",
+    "province": "吉林省",
+    "city": "白城市",
+    "area": "洮南市",
+    "street_id": "5848b90bfc80188c2bd7ab67",
+    "telephone": "18004361102",
+    "detail": 1,
+    "uid": "5848b90bfc80188c2bd7ab67",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_b99180868af994ec979021a2cb6e0da2.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=5848b90bfc80188c2bd7ab67&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6dd8ca924383868134f344b48d0a4ed9.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4ce298e81d5cee48565f095f09292949.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_aec60e9785a7814c54f4da9175ae72ce.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_232d78e62b8e847aac9f4c7194d2ba4c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_05739b6b4df4d24bb0622149dbcaea2f.jpeg"
+    ]
+  },
+  {
+    "name": "白城市顺途汽车拖车有限公司",
+    "location": {
+      "lat": 45.621775,
+      "lng": 122.848785
+    },
+    "address": "吉林省白城市洮北区巴黎商业街1F27-2号",
+    "province": "吉林省",
+    "city": "白城市",
+    "area": "洮北区",
+    "telephone": "(0436)3811111,19104364466",
+    "detail": 1,
+    "uid": "a3ed894899d60994ae045751",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ccfeb931b351fdc70e12a1d17afca15e.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ccfeb931b351fdc70e12a1d17afca15e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c856653d2cd338ab7124f8f226ceaf83.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_10edc99fd0ff7b874dfbf3702845d3ab.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_64c44ece5bb18ce317460bf832b3124e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7915e6814650cdbd6408cd3cf6265b6e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_27dd84a5557aa1c0c0bdc91ac096698f.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 45.595907,
+      "lng": 122.835195
+    },
+    "address": "白城市洮北区富裕路与开发大街交叉路口往东北约70米",
+    "province": "吉林省",
+    "city": "白城市",
+    "area": "洮北区",
+    "detail": 1,
+    "uid": "42d8011dadf14112c9213df4",
+    "cover": "https://pic-map.cdn.bcebos.com/img/b9d5b8f69552a862b8d1f901105d08e2",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/b9d5b8f69552a862b8d1f901105d08e2"
+    ]
+  },
+  {
+    "name": "小张拖车救援",
+    "location": {
+      "lat": 44.837916,
+      "lng": 123.096944
+    },
+    "address": "白城市通榆县敬业路东北鑫城",
+    "province": "吉林省",
+    "city": "白城市",
+    "area": "通榆县",
+    "detail": 1,
+    "uid": "281f4d98317147d00b1cc75f",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_884c316cef109c005b8be26728bbfd40.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_884c316cef109c005b8be26728bbfd40.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_99453274eb512879278c5d82023f1c28.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b6f5f0d1e3c824fd7e2c982a3993513d.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65eac723298e097a6.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6626ec9a22623eac4.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6626ec9a240e8c531.jpeg"
+    ]
+  }
+]

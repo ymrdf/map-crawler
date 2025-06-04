@@ -1,0 +1,78 @@
+[
+  {
+    "name": "万里钣金道路救援",
+    "location": {
+      "lat": 49.743784,
+      "lng": 124.636928
+    },
+    "address": "鄂伦春自治旗内蒙古呼伦贝尔鄂伦春旗大杨树镇",
+    "province": "内蒙古自治区",
+    "city": "呼伦贝尔市",
+    "area": "鄂伦春自治旗",
+    "telephone": "18447007000",
+    "detail": 1,
+    "uid": "f5a4517fe3132dc731f71d52",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_4d8d67d59c87b797fec5c8c396b95034.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4d8d67d59c87b797fec5c8c396b95034.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5c3f13e76b26f1876f3e1657007a5060.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B63219d2c85966b2d4.jpeg"
+    ]
+  },
+  {
+    "name": "室韦陆泰劳务救援",
+    "location": {
+      "lat": 51.340403,
+      "lng": 119.908586
+    },
+    "address": "内蒙古自治区呼伦贝尔市额尔古纳市蒙兀韦第三登记区",
+    "province": "内蒙古自治区",
+    "city": "呼伦贝尔市",
+    "area": "额尔古纳市",
+    "detail": 1,
+    "uid": "e783108815d45b338c1a8990",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B60deb878cffe65585.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B60deb878cffe65585.jpeg"
+    ]
+  },
+  {
+    "name": "领先汽修道路救援",
+    "location": {
+      "lat": 47.567238,
+      "lng": 121.314852
+    },
+    "address": "内蒙古自治区呼伦贝尔市扎兰屯市环月路",
+    "province": "内蒙古自治区",
+    "city": "呼伦贝尔市",
+    "area": "扎兰屯市",
+    "detail": 1,
+    "uid": "8cb6bded989c27f517948e69",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B66d98c65a0ff018586.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B66d98c65a0ff018586.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B66d98bb9232c7138a8.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B66d98c294951215c25.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B64c5e78f1e1e41282e.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B64c5e7c11f33b120e2.jpeg"
+    ]
+  },
+  {
+    "name": "心语汽车装饰道路救援拖车服务",
+    "location": {
+      "lat": 47.50337,
+      "lng": 122.389822
+    },
+    "address": "蘑菇气镇心语汽车装饰道路救援拖车服务",
+    "province": "内蒙古自治区",
+    "city": "呼伦贝尔市",
+    "area": "扎兰屯市",
+    "telephone": "15849056688",
+    "detail": 1,
+    "uid": "934d9e9a62bafca1940319d3",
+    "cover": "https://pic-map.cdn.bcebos.com/img/7487450fe7c7be2582991d6b2ee19d8e",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/7487450fe7c7be2582991d6b2ee19d8e"
+    ]
+  }
+]

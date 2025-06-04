@@ -1,0 +1,109 @@
+[
+  {
+    "name": "黄石市智达道路救援有限公司",
+    "location": {
+      "lat": 30.189779,
+      "lng": 115.05888
+    },
+    "address": "湖北省黄石市西塞山区沿湖路辅路",
+    "province": "湖北省",
+    "city": "黄石市",
+    "area": "西塞山区",
+    "detail": 1,
+    "uid": "97bf69925c83d1fc1f3894c2",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B5fc6eb2c31408a580.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B5fc6eb2c31408a580.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 30.145897,
+      "lng": 115.062883
+    },
+    "address": "黄石市大冶市百花路四棵小学东北侧约240米",
+    "province": "湖北省",
+    "city": "黄石市",
+    "area": "大冶市",
+    "detail": 1,
+    "uid": "479a82535452006c83a00c25",
+    "cover": "https://pic-map.cdn.bcebos.com/img/7112c137db355bd0652e9d51f8b546b2",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/7112c137db355bd0652e9d51f8b546b2"
+    ]
+  },
+  {
+    "name": "黄石市阳新县五一大道消防救援站",
+    "location": {
+      "lat": 29.772896,
+      "lng": 115.237678
+    },
+    "address": "湖北省黄石市阳新县G351",
+    "province": "湖北省",
+    "city": "黄石市",
+    "area": "阳新县",
+    "detail": 1,
+    "uid": "31dcb870c51838cdf423104a",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B62c76f3476720c680.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B62c76f3476720c680.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_170f2c21f3dd68edbe71864b2917853b.jpeg"
+    ]
+  },
+  {
+    "name": "黄石雄鹰应急救援队",
+    "location": {
+      "lat": 30.218804,
+      "lng": 115.093136
+    },
+    "address": "湖北省黄石市黄石港区武汉路138号",
+    "province": "湖北省",
+    "city": "黄石市",
+    "area": "黄石港区",
+    "detail": 1,
+    "uid": "8a34ad8792be8713b23c81c4",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B607784c333ab5f043.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B607784c333ab5f043.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ce5befdfe1f7b3c42602d4f6fffd977f.jpeg"
+    ]
+  },
+  {
+    "name": "滴滴货运(迎宾大道店)",
+    "location": {
+      "lat": 30.253775,
+      "lng": 115.049774
+    },
+    "address": "湖北省黄石市黄石港区迎宾大道6号-附30号",
+    "province": "湖北省",
+    "city": "黄石市",
+    "area": "黄石港区",
+    "detail": 1,
+    "uid": "6565fc5a8e1e3d21e0110373",
+    "cover": "https://pic-map.cdn.bcebos.com/img/4a8a8ad7d22f4b0c3ddf5a79814f95a9",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/4a8a8ad7d22f4b0c3ddf5a79814f95a9",
+      "https://lbsugc.cdn.bcebos.com/images/B676512ccbabe08556.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6e733a72ba360e39b85f5dbcac4e644c.jpeg"
+    ]
+  },
+  {
+    "name": "黄石港区消防队",
+    "location": {
+      "lat": 30.247876,
+      "lng": 115.060828
+    },
+    "address": "黄石市黄石港区湖滨大道都市村庄西侧约60米",
+    "province": "湖北省",
+    "city": "黄石市",
+    "area": "黄石港区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "ab791d02513748ab5cd4fec0",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_8f587c66e6f4ccd798f7e5fec63fa964.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8f587c66e6f4ccd798f7e5fec63fa964.jpg"
+    ]
+  }
+]

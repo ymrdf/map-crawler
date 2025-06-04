@@ -1,0 +1,142 @@
+[
+  {
+    "name": "达州市紧急救援中心",
+    "location": {
+      "lat": 31.215571,
+      "lng": 107.507278
+    },
+    "address": "四川省达州市通川区大东街45号",
+    "province": "四川省",
+    "city": "达州市",
+    "area": "通川区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "569363782f11d71114c8f646",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_89b49887f6d61c629d8dbe10e320453f.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_89b49887f6d61c629d8dbe10e320453f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1ac3129fd3e858ae7c7cc0f3d2779f48.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3355a17484837f3b6b7db7fb1e558ead.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a20b5e3aca2a1244d6b3f0c5bd5cb976.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6788bb340e9175b96.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6788bb4969ef4a036.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 30.748461,
+      "lng": 107.235858
+    },
+    "address": "达州市大竹县竹海路东段幸福里南侧",
+    "province": "四川省",
+    "city": "达州市",
+    "area": "大竹县",
+    "detail": 1,
+    "uid": "ab0d73f855c794bbf32d83e5",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_929a6854749a631a4ddc566a8046f252.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_929a6854749a631a4ddc566a8046f252.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cbe7680d3d98aa3d46441b448c7b92b5.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a781f3c7ac320b3f473f5102183ebf9c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_34c47e351a857cb8c8293edd2301f577.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6bcb410cc4ba738aac6b898f6830fd44.jpeg"
+    ]
+  },
+  {
+    "name": "达州市消防救援支队",
+    "location": {
+      "lat": 31.229216,
+      "lng": 107.472774
+    },
+    "address": "达州市金龙大道368号",
+    "province": "四川省",
+    "city": "达州市",
+    "area": "通川区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "959b4ce09c32f1bfa4c756e5",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_e8de16ac5fe2d4f24e0697fdaf3fb0d8.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e8de16ac5fe2d4f24e0697fdaf3fb0d8.jpeg"
+    ]
+  },
+  {
+    "name": "达州市通川区通川北路消防救援站",
+    "location": {
+      "lat": 31.225979,
+      "lng": 107.517028
+    },
+    "address": "四川省达州市通川区东城街道通川北路325号",
+    "province": "四川省",
+    "city": "达州市",
+    "area": "通川区",
+    "detail": 1,
+    "uid": "ab34ecb00b518a7e3904b189",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_bf701166e0a75ec78a6446cb21b1d28c.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bf701166e0a75ec78a6446cb21b1d28c.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1d05fc9b7aedd87d62112cd7d30f2a14.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_3243577d164bdb8c51db55a0ffae2cb2.jpg"
+    ]
+  },
+  {
+    "name": "达州市通川区消防救援大队",
+    "location": {
+      "lat": 31.226129,
+      "lng": 107.516935
+    },
+    "address": "达州市通川区通川北路325号",
+    "province": "四川省",
+    "city": "达州市",
+    "area": "通川区",
+    "street_id": "6dcf6147cc6767f880a00c85",
+    "detail": 1,
+    "uid": "6dcf6147cc6767f880a00c85",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_b4d9a78aac910ba4c45776cba242f39a.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b4d9a78aac910ba4c45776cba242f39a.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bf701166e0a75ec78a6446cb21b1d28c.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1d05fc9b7aedd87d62112cd7d30f2a14.jpg",
+      "https://taojin-his.cdn.bcebos.com/3801213fb80e7becc39aefea202eb9389b506b7d.jpg",
+      "https://taojin-his.cdn.bcebos.com/d53f8794a4c27d1e850c60be16d5ad6eddc438a5.jpg"
+    ]
+  },
+  {
+    "name": "达州市达川区消防救援大队",
+    "location": {
+      "lat": 31.194654,
+      "lng": 107.520025
+    },
+    "address": "四川省达州市达川区民乐街173号",
+    "province": "四川省",
+    "city": "达州市",
+    "area": "达川区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "f479b563bacbada34afd3fed",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_afb4d3bd010d83fcc076ad743d5f0ff8.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_afb4d3bd010d83fcc076ad743d5f0ff8.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b6d4bae4964dc912dc00fbfeb0f01b63.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_aec56b762d45bf597ba09f0dfe7c90b7.jpeg"
+    ]
+  },
+  {
+    "name": "渠县賨都大道消防救援站",
+    "location": {
+      "lat": 30.835861,
+      "lng": 106.996887
+    },
+    "address": "达州市渠县沪聂线蓝天幼儿园南侧约130米",
+    "province": "四川省",
+    "city": "达州市",
+    "area": "渠县",
+    "detail": 1,
+    "uid": "5f0e7fd0b87df53f3310af62",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_930802d6f4d3ff2b19cd3b2b61f617f6.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_930802d6f4d3ff2b19cd3b2b61f617f6.jpeg"
+    ]
+  }
+]

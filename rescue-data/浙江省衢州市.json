@@ -1,0 +1,119 @@
+[
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 29.023019,
+      "lng": 118.799006
+    },
+    "address": "衢州市柯城区苦狮线柯城区石梁镇中心卫生院东北侧约120米",
+    "province": "浙江省",
+    "city": "衢州市",
+    "area": "柯城区",
+    "detail": 1,
+    "uid": "e38149f08c6c24993913fd2a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_9ae2891e0e79053651f00f04b086c7fa.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9ae2891e0e79053651f00f04b086c7fa.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c5862e50ea58df0573512b1c1a231c4d.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f8af0e7d30257f3431923b2286483450.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_bfd04334a5770496f9b6d8c4ad91c962.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_59d9fc0b39638f0f9f740f45f9a02810.jpeg"
+    ]
+  },
+  {
+    "name": "柯城区消防救援大队",
+    "location": {
+      "lat": 28.941929,
+      "lng": 118.892881
+    },
+    "address": "浙江省衢州市柯城区衢化路272号",
+    "province": "浙江省",
+    "city": "衢州市",
+    "area": "柯城区",
+    "detail": 1,
+    "uid": "551a9ae09ec8a3bc35b06c31",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_c75d47e1d7a30be17f3e00721afb6c6e.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c75d47e1d7a30be17f3e00721afb6c6e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_168ffa7f988e169195965e77a090a01f.jpeg"
+    ]
+  },
+  {
+    "name": "江山市消防救援大队",
+    "location": {
+      "lat": 28.731406,
+      "lng": 118.627845
+    },
+    "address": "浙江省衢州市江山市虎山街道环城西路191号",
+    "province": "浙江省",
+    "city": "衢州市",
+    "area": "江山市",
+    "street_id": "",
+    "detail": 1,
+    "uid": "01d70211daa7ee7832870a8c",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d64b05e719ec4d40cf20c8dd71d672f2.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d64b05e719ec4d40cf20c8dd71d672f2.jpeg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_7454a6080d242a2a647eed499660b8ca.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f406e06b8f40d406b667cec2213d8bf0.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c83b6fe7b4db776c1d585c77a4efa0cc.jpeg"
+    ]
+  },
+  {
+    "name": "常山县消防救援大队",
+    "location": {
+      "lat": 28.902024,
+      "lng": 118.531663
+    },
+    "address": "浙江省衢州市常山县天马街道梅园路37号",
+    "province": "浙江省",
+    "city": "衢州市",
+    "area": "常山县",
+    "street_id": "c9b58f0a680b79fa72455b72",
+    "detail": 1,
+    "uid": "c9b58f0a680b79fa72455b72",
+    "cover": "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_9028f7618354678d65f6e25847afad22.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=c9b58f0a680b79fa72455b72&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bd6eda2ae3b30631264e7da4e6add0f9.jpeg"
+    ]
+  },
+  {
+    "name": "衢州市柯城区衢化路消防救援站",
+    "location": {
+      "lat": 28.94213,
+      "lng": 118.892325
+    },
+    "address": "浙江省衢州市柯城区巨化路272号",
+    "province": "浙江省",
+    "city": "衢州市",
+    "area": "柯城区",
+    "street_id": "047ce924a376cae7a8f729f0",
+    "telephone": "(0570)8567119",
+    "detail": 1,
+    "uid": "047ce924a376cae7a8f729f0",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_3c2ae7929d5ab9cba8d2fd858be74b6d.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3c2ae7929d5ab9cba8d2fd858be74b6d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_98898032c3608d444dd41bcfbaf95259.jpeg"
+    ]
+  },
+  {
+    "name": "江山市虎山消防救援站",
+    "location": {
+      "lat": 28.731393,
+      "lng": 118.627918
+    },
+    "address": "衢州市江山市环城西路永寿里西北侧约70米",
+    "province": "浙江省",
+    "city": "衢州市",
+    "area": "江山市",
+    "street_id": "",
+    "detail": 1,
+    "uid": "9eda70f3ef7305f7c4f0252f",
+    "cover": "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_f042da438535e1219e6b42f7afea2c23.jpg",
+    "photo_list": [
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_f042da438535e1219e6b42f7afea2c23.jpg"
+    ]
+  }
+]

@@ -1,0 +1,133 @@
+[
+  {
+    "name": "道路救援",
+    "location": {
+      "lat": 39.222434,
+      "lng": 106.777183
+    },
+    "address": "石嘴山市惠农区安乐桥街滨河一号西侧约110米",
+    "province": "宁夏回族自治区",
+    "city": "石嘴山市",
+    "area": "惠农区",
+    "detail": 1,
+    "uid": "1f13799c847d2f125b109346",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_bd4501c2f15d31fb6fb57aabbdaa58c5.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bd4501c2f15d31fb6fb57aabbdaa58c5.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B67a172c3e0bde10419.jpeg"
+    ]
+  },
+  {
+    "name": "张振补胎修理救援",
+    "location": {
+      "lat": 39.281569,
+      "lng": 106.735597
+    },
+    "address": "宁夏回族自治区石嘴山市惠农区中国石化石嘴山正谊关加油站南",
+    "province": "宁夏回族自治区",
+    "city": "石嘴山市",
+    "area": "惠农区",
+    "telephone": "15226266090",
+    "detail": 1,
+    "uid": "cdfc0538cccb3fb5704b87ab",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d47f19807c8d9d960092d10c3c8a4fd4.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d47f19807c8d9d960092d10c3c8a4fd4.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6347db3fcbe454d0d.jpeg"
+    ]
+  },
+  {
+    "name": "宁夏龙祥汽车服务有限公司",
+    "location": {
+      "lat": 38.99622,
+      "lng": 106.370788
+    },
+    "address": "石嘴山市大武口区永康南路塞上水乡",
+    "province": "宁夏回族自治区",
+    "city": "石嘴山市",
+    "area": "大武口区",
+    "street_id": "fb934481ffdd7e3b354aaed3",
+    "detail": 1,
+    "uid": "fb934481ffdd7e3b354aaed3",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_fcca29096841598cc76c0b1400311d09.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=fb934481ffdd7e3b354aaed3&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_838bffed2b1ea014246491c8f3ea5ad0.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_81bdddd13a4eea0f187f5864430586a0.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6e94c58ffc6d205200cf43cacccc50f7.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6e5bc26c3b3608475750f3c68b07a885.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bde8023a3114e1c95c006baf2f2a4443.jpeg"
+    ]
+  },
+  {
+    "name": "石嘴山市公安消防支队大武口区大队",
+    "location": {
+      "lat": 38.999753,
+      "lng": 106.369994
+    },
+    "address": "石嘴山市大武口区前进南路平安佳苑东南侧约40米",
+    "province": "宁夏回族自治区",
+    "city": "石嘴山市",
+    "area": "大武口区",
+    "detail": 1,
+    "uid": "0f35360e1843fd89cae33c6f",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_2a6bc07fdd68dec15493a9007c875032.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2a6bc07fdd68dec15493a9007c875032.jpg"
+    ]
+  },
+  {
+    "name": "平罗县蓝天救援队",
+    "location": {
+      "lat": 38.902407,
+      "lng": 106.551023
+    },
+    "address": "石嘴山市平罗县鼓楼南街平罗县第四中学南侧约140米",
+    "province": "宁夏回族自治区",
+    "city": "石嘴山市",
+    "area": "平罗县",
+    "detail": 1,
+    "uid": "4db33183ea7ae33e38221c07",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_471d292b6c8728624a7b71dda4b71512.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_471d292b6c8728624a7b71dda4b71512.jpeg"
+    ]
+  },
+  {
+    "name": "惠农区众安应急救援队",
+    "location": {
+      "lat": 39.244758,
+      "lng": 106.787097
+    },
+    "address": "石嘴山市惠农区兴融路兴融花园",
+    "province": "宁夏回族自治区",
+    "city": "石嘴山市",
+    "area": "惠农区",
+    "detail": 1,
+    "uid": "7c19407411f9ec2dabf0cd74",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_96b88e341fd5d24c6904855793311c3f.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_96b88e341fd5d24c6904855793311c3f.jpg"
+    ]
+  },
+  {
+    "name": "石嘴山市消防救援支队微型消防站",
+    "location": {
+      "lat": 39.015036,
+      "lng": 106.378045
+    },
+    "address": "宁夏回族自治区石嘴山市大武口区贺兰山路118号万达广场F3",
+    "province": "宁夏回族自治区",
+    "city": "石嘴山市",
+    "area": "大武口区",
+    "detail": 1,
+    "uid": "db12a67bff6533004afc8d69",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_f72bfd5c4741b2b0d9f61db46cac6056.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f72bfd5c4741b2b0d9f61db46cac6056.jpeg",
+      "https://taojin-pic-bj.cdn.bcebos.com/4f4173a9a3759f5f16235f31a1776ce4.jpeg",
+      "https://taojin-pic-bj.cdn.bcebos.com/49d046c3a89cce20f93055a965c2c1b0.jpeg",
+      "https://taojin-pic-bj.cdn.bcebos.com/625267758813cadd9241cb61ea4ceca3.jpeg"
+    ]
+  }
+]

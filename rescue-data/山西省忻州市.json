@@ -1,0 +1,113 @@
+[
+  {
+    "name": "轮胎总汇24小时流动救援",
+    "location": {
+      "lat": 38.388048,
+      "lng": 112.714359
+    },
+    "address": "山西省忻州市忻府区G108(京昆线)",
+    "province": "山西省",
+    "city": "忻州市",
+    "area": "忻府区",
+    "telephone": "13593206001",
+    "detail": 1,
+    "uid": "c86a515fe05b9b5d8e7727b1",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_60695b2bf7612eee9c07dce0c473ad26.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_60695b2bf7612eee9c07dce0c473ad26.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/cd725e9d302860cf227ff41ff78de9ee_0270.jpeg"
+    ]
+  },
+  {
+    "name": "忻州市忻府区蓝天救援队",
+    "location": {
+      "lat": 38.399127,
+      "lng": 112.7246
+    },
+    "address": "忻州市忻府区桥西街怡居苑-E区",
+    "province": "山西省",
+    "city": "忻州市",
+    "area": "忻府区",
+    "detail": 1,
+    "uid": "1077559e646573dfae0457c2",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_8522350e15ca943b2a4d659128c45664.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8522350e15ca943b2a4d659128c45664.jpeg"
+    ]
+  },
+  {
+    "name": "原平市消防救援大队",
+    "location": {
+      "lat": 38.749693,
+      "lng": 112.720214
+    },
+    "address": "忻州市原平市平安西大街怡景花苑东南侧约290米",
+    "province": "山西省",
+    "city": "忻州市",
+    "area": "原平市",
+    "detail": 1,
+    "uid": "930bd046f103307af82d616e",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B65b4b4253f3575f1d.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B65b4b4253f3575f1d.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65b4b4252bd2dd19b.jpeg"
+    ]
+  },
+  {
+    "name": "凯晟源汽修厂24小时道路救援",
+    "location": {
+      "lat": 38.501932,
+      "lng": 112.973384
+    },
+    "address": "忻州市定襄县定卫路北海小区",
+    "province": "山西省",
+    "city": "忻州市",
+    "area": "定襄县",
+    "telephone": "15392605136",
+    "detail": 1,
+    "uid": "de3f7c5bb5c259efb6f42f02",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a865ab48b35fe8e99813289bdd85c260.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a865ab48b35fe8e99813289bdd85c260.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/3e3b4844fcc2739e1095a4c01a396472_1880.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d8d050d309246c6d426353ace85b9581.jpeg"
+    ]
+  },
+  {
+    "name": "定襄县应急救援大队",
+    "location": {
+      "lat": 38.490985,
+      "lng": 112.977218
+    },
+    "address": "忻州市定襄县财邮巷定襄县人民医院东南侧约130米",
+    "province": "山西省",
+    "city": "忻州市",
+    "area": "定襄县",
+    "detail": 1,
+    "uid": "85f95d0e89c92524cc06a47d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_40fdbcf7136135d2d126c0632a091269.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_40fdbcf7136135d2d126c0632a091269.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_dbfcc639b7000151d32ff22504ece407.jpeg"
+    ]
+  },
+  {
+    "name": "忻府区光明街消防救援站",
+    "location": {
+      "lat": 38.407446,
+      "lng": 112.73154
+    },
+    "address": "忻州市忻府区龙岗街忻州三中西侧约180米",
+    "province": "山西省",
+    "city": "忻州市",
+    "area": "忻府区",
+    "detail": 1,
+    "uid": "ee204a39264c6dff01897289",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B65b4d1b2707a7f52f.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B65b4d1b2707a7f52f.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65b4d1b25518e1558b.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65b4d1b251d4213d9d.jpeg"
+    ]
+  }
+]

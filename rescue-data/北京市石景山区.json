@@ -1,0 +1,140 @@
+[
+  {
+    "name": "兴隆补胎送油搭电拖车救援",
+    "location": {
+      "lat": 39.866399,
+      "lng": 116.474375
+    },
+    "address": "北京市朝阳区大羊坊路东盈苑小区",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "朝阳区",
+    "telephone": "13275529017",
+    "detail": 1,
+    "uid": "2040b1b5b40afa3ac13644a9",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_8371947659e160d6c86d64b4d8cfb4be.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8371947659e160d6c86d64b4d8cfb4be.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6998a24009e8878ba4eb7ca7d7b3018a.jpeg"
+    ]
+  },
+  {
+    "name": "盛达搭电救援补胎维修",
+    "location": {
+      "lat": 39.898039,
+      "lng": 116.43546
+    },
+    "address": "北京市东城区龙潭街道黄杉木店东街193号",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "东城区",
+    "detail": 1,
+    "uid": "f64ac274825b57ee6fc02cb8",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_71647eff675da8f8c0d0a6a99556e8c5.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_71647eff675da8f8c0d0a6a99556e8c5.jpeg"
+    ]
+  },
+  {
+    "name": "轮胎专卖补胎救援",
+    "location": {
+      "lat": 40.218117,
+      "lng": 116.759516
+    },
+    "address": "北京市顺义区昌金路与李魏路交叉路口西南侧",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "顺义区",
+    "telephone": "15321838818",
+    "detail": 1,
+    "uid": "772de384690bed79353a715e",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/a4ecbdfb95827de7c5cfaf3f372c282e_2138.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/a4ecbdfb95827de7c5cfaf3f372c282e_2138.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/22cf74b2bcfa2bc2e8fecd9d30373962_3231.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/d2a7d2790cbba3faa92e8ad2a663d831_3832.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/a28df46eb0af32c8e515c703f6d8c0e5_4524.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/4a10182ab10b1bcfb9df5865e20ba73d_3485.jpeg",
+      "https://pic-map.cdn.bcebos.com/img/00efc73d9705a1e296e0416586cec3f6"
+    ]
+  },
+  {
+    "name": "德国马牌换轮胎道路救援",
+    "location": {
+      "lat": 39.905506,
+      "lng": 116.513455
+    },
+    "address": "北京市朝阳区南一路沿海赛洛城115-5号",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "朝阳区",
+    "street_id": "20c4f9325eaffaf4b320a839",
+    "telephone": "18601953205",
+    "detail": 1,
+    "uid": "20c4f9325eaffaf4b320a839",
+    "cover": "https://photo-meituan.cdn.bcebos.com/photo/1692610330f5785e740ecde053f424c7963bbbc4dd",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=20c4f9325eaffaf4b320a839&width=720&height=360&quality=80&fovx=120",
+      "https://photo-meituan.cdn.bcebos.com/photo/1698054070f5785e740ecde053f424c7963bbbc4dd",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_41a354a3accffdfa2372089521ab2128.jpg",
+      "https://taojin-his.cdn.bcebos.com/342ac65c10385343498c10649d13b07eca808830.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7defeeb04f812eeb38663fc6ecfb4571.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_dbb8b0cb06b1d7f203d85dbaeb91bc0c.jpg"
+    ]
+  },
+  {
+    "name": "北利汽车补胎搭电拖车修理厂",
+    "location": {
+      "lat": 39.959794,
+      "lng": 116.501832
+    },
+    "address": "北京市朝阳区东风南路东山公寓",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "朝阳区",
+    "detail": 1,
+    "uid": "ae4b5228b7ff72c9fda778ec",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_afd61b6a9c576db2484adaad5b32e531.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_afd61b6a9c576db2484adaad5b32e531.jpeg"
+    ]
+  },
+  {
+    "name": "北京市交通安全应急抢险救援大队",
+    "location": {
+      "lat": 39.945752,
+      "lng": 116.134049
+    },
+    "address": "北京市石景山区广宁街道双峪路17号",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "石景山区",
+    "street_id": "34285405c2db23a631621298",
+    "detail": 1,
+    "uid": "34285405c2db23a631621298",
+    "cover": "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_5cc888b304e392e9c8b0c7b2bcc92aad.jpg",
+    "photo_list": [
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_5cc888b304e392e9c8b0c7b2bcc92aad.jpg",
+      "https://taojin-his.cdn.bcebos.com/908fa0ec08fa513d9ec533cd326d55fbb2fbd9b2.jpg",
+      "https://taojin-his.cdn.bcebos.com/aec379310a55b319de1c00024ca98226cefc17db.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_24ba2d063e6b2f556888883b99fc9268.jpeg"
+    ]
+  },
+  {
+    "name": "修车补胎搭电救援",
+    "location": {
+      "lat": 39.83679,
+      "lng": 116.773445
+    },
+    "address": "北京市通州区Y719(里二泗东路)",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "通州区",
+    "detail": 1,
+    "uid": "d6f3bb7a5e71ddeb7adbd220",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B65519e2717deaf9ad.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B65519e2717deaf9ad.jpeg"
+    ]
+  }
+]

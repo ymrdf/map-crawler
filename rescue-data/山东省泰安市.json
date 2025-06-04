@@ -1,0 +1,180 @@
+[
+  {
+    "name": "银海道路救援",
+    "location": {
+      "lat": 36.152493,
+      "lng": 117.157667
+    },
+    "address": "山东省泰安市泰山区万官大街与温泉路交叉路口往东北约70米",
+    "province": "山东省",
+    "city": "泰安市",
+    "area": "泰山区",
+    "telephone": "18763822888",
+    "detail": 1,
+    "uid": "0b310282480005bedf1e52bc",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B641c1138b1b99144b8.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B641c1138b1b99144b8.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B641c1138c671b15069.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B641c1138bb8eb6d18.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B641c123984a65c5b4.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B641c123985d4d8275.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7b34ae55190c8434e4d98c4a3463751e.jpg"
+    ]
+  },
+  {
+    "name": "泰安市金山汽车救援有限公司",
+    "location": {
+      "lat": 36.148021,
+      "lng": 117.11401
+    },
+    "address": "山东省泰安市迎胜路与灵芝路交叉口往南100米路西",
+    "province": "山东省",
+    "city": "泰安市",
+    "area": "泰山区",
+    "street_id": "",
+    "telephone": "18605386807",
+    "detail": 1,
+    "uid": "13b4500d85c1852d4acc4a64",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_31d6da92253c88ad6fb498b41bdc2bcf.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_31d6da92253c88ad6fb498b41bdc2bcf.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_218f3e3361342f34cbf5a361015e817e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_024dc026c29b8fa0531306cf3851cc01.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_087ff9ae5f6875808d0833717c566cb1.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_45b9a5bb3543b507dd85e691a15bca1a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e0bd2b569b3ef001b0fedfec06153af9.jpeg"
+    ]
+  },
+  {
+    "name": "公路救援",
+    "location": {
+      "lat": 36.167207,
+      "lng": 116.856034
+    },
+    "address": "山东省泰安市肥城市G341(泰肥一级公路)",
+    "province": "山东省",
+    "city": "泰安市",
+    "area": "肥城市",
+    "telephone": "19105487836",
+    "detail": 1,
+    "uid": "2c9e612654658e240869d9db",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_4f4e8444adc49a8ee798c7c96b2a15ad.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4f4e8444adc49a8ee798c7c96b2a15ad.jpeg"
+    ]
+  },
+  {
+    "name": "东平县白佛山消防救援站",
+    "location": {
+      "lat": 35.952092,
+      "lng": 116.470578
+    },
+    "address": "泰安市东平县西山路708号文轩华庭(久盛置业)东北侧约50米",
+    "province": "山东省",
+    "city": "泰安市",
+    "area": "东平县",
+    "detail": 1,
+    "uid": "642cb3fbf088544980a00cee",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_715274da4f07aaad9a3bf02fc9f5fe78.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_715274da4f07aaad9a3bf02fc9f5fe78.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6d3935413690fa408287c63249e9f1b5.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_46e2ea1a56b37c57fd12edc3658090bf.jpeg"
+    ]
+  },
+  {
+    "name": "兵峰救援",
+    "location": {
+      "lat": 36.209943,
+      "lng": 116.780584
+    },
+    "address": "泰安市肥城市康王东路阿斯德化工公司小区南侧约40米",
+    "province": "山东省",
+    "city": "泰安市",
+    "area": "肥城市",
+    "detail": 1,
+    "uid": "3d149226290c062046572667",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_2d5ab805256ecbe93af103f579628b3d.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2d5ab805256ecbe93af103f579628b3d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3dd76d1901374c4b0105ce09a2477658.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4648a76ee64c1c4fa7cd8acb1d4541f9.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3a5ad49fa3342f7d0dca3b452429c72a.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65f954633247c91c6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_64ae44f4c9a7e47fc5505410959d87ed.jpeg"
+    ]
+  },
+  {
+    "name": "中国国际救援",
+    "location": {
+      "lat": 35.864698,
+      "lng": 117.79567
+    },
+    "address": "泰安市新泰市X023泰安市工商中等专业学校(南校区)东侧约50米",
+    "province": "山东省",
+    "city": "泰安市",
+    "area": "新泰市",
+    "detail": 1,
+    "uid": "d20edbd83c96918bb8bd6355",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_b3ca539942adb55d85d089eafb616772.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b3ca539942adb55d85d089eafb616772.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1eed38fca452732fdef8fb5345489a4b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_06fb80b8a8fa47e18ef14edc74d71935.jpeg"
+    ]
+  },
+  {
+    "name": "泰安市鲁宁道路救援有限公司",
+    "location": {
+      "lat": 35.900047,
+      "lng": 117.121231
+    },
+    "address": "泰安市宁阳县太平大街东村华东小区东南侧约190米",
+    "province": "山东省",
+    "city": "泰安市",
+    "area": "宁阳县",
+    "detail": 1,
+    "uid": "e7666c8bba34418a8405bf79",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B64500ead4749bc5f5.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B64500ead4749bc5f5.jpeg"
+    ]
+  },
+  {
+    "name": "山东应急救援总队泰安应急救援服务队",
+    "location": {
+      "lat": 36.17709,
+      "lng": 117.047118
+    },
+    "address": "泰安市岱岳区清华路华新·新干线",
+    "province": "山东省",
+    "city": "泰安市",
+    "area": "岱岳区",
+    "street_id": "4a00f60e2dbb13762b3a9f9b",
+    "detail": 1,
+    "uid": "4a00f60e2dbb13762b3a9f9b",
+    "cover": "https://taojin-his.cdn.bcebos.com/0824ab18972bd407741973e970899e510eb309c3.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/0824ab18972bd407741973e970899e510eb309c3.jpg"
+    ]
+  },
+  {
+    "name": "长城路消防救援站",
+    "location": {
+      "lat": 36.139611,
+      "lng": 117.108151
+    },
+    "address": "山东省泰安市岱岳区长城路泺亨国际南50米",
+    "province": "山东省",
+    "city": "泰安市",
+    "area": "岱岳区",
+    "detail": 1,
+    "uid": "a6aaa2a5adc1a5f97bdbd28e",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/001/146_13395925c7daa1deb42d285a0d783334.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/001/146_13395925c7daa1deb42d285a0d783334.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6012115e0b9d428f1.jpeg"
+    ]
+  }
+]

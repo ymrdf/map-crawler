@@ -1,0 +1,120 @@
+[
+  {
+    "name": "24小时车辆道路救援",
+    "location": {
+      "lat": 35.155058,
+      "lng": 113.130914
+    },
+    "address": "焦作市山阳区G327",
+    "province": "河南省",
+    "city": "焦作市",
+    "area": "山阳区",
+    "detail": 1,
+    "uid": "ea3837d43d8b913b1df74d2c",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_3d339e3cdd55fc15cfcd820caf4ef2bb.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3d339e3cdd55fc15cfcd820caf4ef2bb.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_78358fddff2703285041edff1254edc6.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B658d1ab8231a3a303.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6681ec3cbe228f948.jpeg"
+    ]
+  },
+  {
+    "name": "河南永安汽车救援有限公司",
+    "location": {
+      "lat": 35.240279,
+      "lng": 113.228488
+    },
+    "address": "河南省焦作市解放区果园路751号",
+    "province": "河南省",
+    "city": "焦作市",
+    "area": "解放区",
+    "street_id": "",
+    "telephone": "4000371491",
+    "detail": 1,
+    "uid": "b6afaa63474a7237d23ce3ff",
+    "cover": "https://taojin-his.cdn.bcebos.com/4b90f603738da9774c363635bd51f8198618e397.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/4b90f603738da9774c363635bd51f8198618e397.jpg",
+      "https://taojin-his.cdn.bcebos.com/e824b899a9014c08f709610c037b02087bf4f46d.jpg",
+      "https://taojin-his.cdn.bcebos.com/d833c895d143ad4bff35c0dc89025aafa40f0696.jpg",
+      "https://taojin-his.cdn.bcebos.com/8435e5dde71190ef73d4db76c71b9d16fdfa606f.jpg",
+      "https://taojin-his.cdn.bcebos.com/21a4462309f79052b98662c700f3d7ca7acbd5a9.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b5017a2db52cda0446c36f15eeb59716.jpeg"
+    ]
+  },
+  {
+    "name": "武陟户外救援分队",
+    "location": {
+      "lat": 35.103686,
+      "lng": 113.42001
+    },
+    "address": "焦作市武陟县朝阳一路紫荆公馆西南侧约90米",
+    "province": "河南省",
+    "city": "焦作市",
+    "area": "武陟县",
+    "street_id": "",
+    "detail": 1,
+    "uid": "45b3f184954e65d5c9e33c56",
+    "cover": "https://taojin-his.cdn.bcebos.com/aec379310a55b31927999ec045a98226cffc1726.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/aec379310a55b31927999ec045a98226cffc1726.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_bc2ece9e04d267d92e0adb9187243486.jpg"
+    ]
+  },
+  {
+    "name": "焦作市山阳区和平街道消防救援站",
+    "location": {
+      "lat": 35.247857,
+      "lng": 113.254882
+    },
+    "address": "焦作市山阳区和平街和平小区(和平街)东北侧约30米",
+    "province": "河南省",
+    "city": "焦作市",
+    "area": "山阳区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "db9bec3d8dd13bfdf5c59cb2",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_4f65673ff21c5708d537fdfe21a992b7.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4f65673ff21c5708d537fdfe21a992b7.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2cbec8ea3001b88476b4e6a72af91bd9.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_56a8c5c5aa7366aa21d9c77489e8dc3d.jpeg"
+    ]
+  },
+  {
+    "name": "焦作市山阳区消防救援大队",
+    "location": {
+      "lat": 35.247844,
+      "lng": 113.254774
+    },
+    "address": "河南省焦作市和平街1175号",
+    "province": "河南省",
+    "city": "焦作市",
+    "area": "山阳区",
+    "detail": 1,
+    "uid": "eb37ab4d3ebf3634bca8228d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_62aeda63e84a6bb5efc8cc83ca9d5d6b.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_62aeda63e84a6bb5efc8cc83ca9d5d6b.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3c3bf70383f1ae80cb42522b315bc443.jpeg"
+    ]
+  },
+  {
+    "name": "焦作市斑马应急救援队",
+    "location": {
+      "lat": 35.256408,
+      "lng": 113.292595
+    },
+    "address": "河南省焦作市山阳区解放东路449号",
+    "province": "河南省",
+    "city": "焦作市",
+    "area": "山阳区",
+    "detail": 1,
+    "uid": "d6e991e77a6781454054d7fa",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B6789af42141a46043.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B6789af42141a46043.jpeg"
+    ]
+  }
+]

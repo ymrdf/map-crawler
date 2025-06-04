@@ -1,0 +1,86 @@
+[
+  {
+    "name": "英德市鑫鹏汽车道路救援服务部",
+    "location": {
+      "lat": 24.214523,
+      "lng": 113.392215
+    },
+    "address": "广东省清远市英德市英城镇宝石洞新村8号",
+    "province": "广东省",
+    "city": "清远市",
+    "area": "英德市",
+    "telephone": "13432703040",
+    "detail": 1,
+    "uid": "e364d86d4d67f5fe018972e3",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B62642d655522445ec.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B62642d655522445ec.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/94aadfa281c0069e5d6e3cb1f7cadc4c_8058.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/7ec3531a61c35843cf6f3f93ae96ce7c_5818.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/8802292f0a4e420a0682c7e28f9d437f_2523.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/5bf9b23b7defc635cb46e216ead5c138_2423.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/b0a079b5e491a2ea205645f85c023ef8_0301.jpeg"
+    ]
+  },
+  {
+    "name": "英德市三菱拖车救援服务有限公司",
+    "location": {
+      "lat": 24.178655,
+      "lng": 113.446163
+    },
+    "address": "广东省清远市英德市浈阳东路北平行道西英德中汽南方汽车城1层展厅西区",
+    "province": "广东省",
+    "city": "清远市",
+    "area": "英德市",
+    "street_id": "60cdd638744627a22dfaa7e3",
+    "detail": 1,
+    "uid": "60cdd638744627a22dfaa7e3",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B5fc90feeacf3efa97.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B5fc90feeacf3efa97.jpeg"
+    ]
+  },
+  {
+    "name": "华锐汽车道路救援",
+    "location": {
+      "lat": 23.872415,
+      "lng": 113.571636
+    },
+    "address": "广东省清远市佛冈县G106(京广线)",
+    "province": "广东省",
+    "city": "清远市",
+    "area": "佛冈县",
+    "telephone": "13539500678,13926659225",
+    "detail": 1,
+    "uid": "491136c0d484104a22026240",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_8b31d9e824022e0a717fdfdca0f2f5b8.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8b31d9e824022e0a717fdfdca0f2f5b8.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_749dd532a0ea762afff6551d858b9120.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B61459372a1cac11a65.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B66432adbb6080109e9.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ffaae072ce8ec1d54b0f02f4d40c7c26.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B5f427f7799da84602.jpeg"
+    ]
+  },
+  {
+    "name": "佛冈县消防救援大队",
+    "location": {
+      "lat": 23.864474,
+      "lng": 113.529516
+    },
+    "address": "广东省清远市佛冈县石角镇环城西路119号",
+    "province": "广东省",
+    "city": "清远市",
+    "area": "佛冈县",
+    "detail": 1,
+    "uid": "6f4a4bf520f3bda031870aab",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_31ad0bc95ed10c4a2f4119e84ae102c9.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_31ad0bc95ed10c4a2f4119e84ae102c9.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B658382cd434e0e9cc.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_824a76c4a7b03fc5d77ae22d471e790e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0ea4784ccac8e4fe1968b8636f2ee1bc.jpeg"
+    ]
+  }
+]

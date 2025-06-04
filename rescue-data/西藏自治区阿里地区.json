@@ -1,0 +1,19 @@
+[
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 32.496801,
+      "lng": 80.115283
+    },
+    "address": "阿里地区噶尔县噶尔路与象泉路交叉路口往西约60米",
+    "province": "西藏自治区",
+    "city": "阿里地区",
+    "area": "噶尔县",
+    "detail": 1,
+    "uid": "ca1b9968c26b4139c909f0ab",
+    "cover": "https://pic-map.cdn.bcebos.com/img/279ecb9eaf0d47679ee524ba70d7df1e",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/279ecb9eaf0d47679ee524ba70d7df1e"
+    ]
+  }
+]

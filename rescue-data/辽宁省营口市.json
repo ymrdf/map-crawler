@@ -1,0 +1,146 @@
+[
+  {
+    "name": "营口市万兴救援有限公司",
+    "location": {
+      "lat": 40.671855,
+      "lng": 122.380436
+    },
+    "address": "辽宁省营口市老边区龙山大街与前江线交叉路口往东约50米",
+    "province": "辽宁省",
+    "city": "营口市",
+    "area": "老边区",
+    "detail": 1,
+    "uid": "dd3e8eaae722cd3d1e5800e4",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B61637271526173434.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B61637271526173434.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B615fbc034acc012d75.jpeg"
+    ]
+  },
+  {
+    "name": "营口通达汽车保修设备有限公司",
+    "location": {
+      "lat": 40.647094,
+      "lng": 122.190377
+    },
+    "address": "辽宁省营口市老边区东海大街140号",
+    "province": "辽宁省",
+    "city": "营口市",
+    "area": "老边区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "4978a53f685f0016901fc93f",
+    "cover": "https://poi-pic.cdn.bcebos.com/ef73879d7dda3fda5b52e474c752a932.jpg",
+    "photo_list": [
+      "https://poi-pic.cdn.bcebos.com/ef73879d7dda3fda5b52e474c752a932.jpg"
+    ]
+  },
+  {
+    "name": "营口市鲅鱼圈区闽江路消防救援站",
+    "location": {
+      "lat": 40.262635,
+      "lng": 122.148759
+    },
+    "address": "营口市鲅鱼圈区闽江路金伟御都-一期南侧约120米",
+    "province": "辽宁省",
+    "city": "营口市",
+    "area": "鲅鱼圈区",
+    "detail": 1,
+    "uid": "28dc244e9e6f6c8a3be4a6e0",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_9a7e2c1c61fcb25555cd3926a4cb53e6.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9a7e2c1c61fcb25555cd3926a4cb53e6.jpeg"
+    ]
+  },
+  {
+    "name": "营口市老边区龙山大街消防救援站",
+    "location": {
+      "lat": 40.6903,
+      "lng": 122.388457
+    },
+    "address": "营口市老边区龙山大街老边消防",
+    "province": "辽宁省",
+    "city": "营口市",
+    "area": "老边区",
+    "detail": 1,
+    "uid": "075c5d90896f969b1894c684",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_32f102f64f9f94533796b8a5314b1308.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_32f102f64f9f94533796b8a5314b1308.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65ded8cee15bd397e.jpeg"
+    ]
+  },
+  {
+    "name": "营口市紧急医疗救援中心",
+    "location": {
+      "lat": 40.698494,
+      "lng": 122.294607
+    },
+    "address": "辽宁省营口市站前区东风街道庄林路营口市第一专科医院",
+    "province": "辽宁省",
+    "city": "营口市",
+    "area": "站前区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "26ddbb305ee8c7e7d5b74e34",
+    "cover": "https://taojin-his.cdn.bcebos.com/023b5bb5c9ea15cec020827fbd003af33b87b2fe.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/023b5bb5c9ea15cec020827fbd003af33b87b2fe.jpg"
+    ]
+  },
+  {
+    "name": "营口24小时道路救援中心",
+    "location": {
+      "lat": 40.703119,
+      "lng": 122.288067
+    },
+    "address": "营口市站前区东庆街银珠新居西北侧约60米",
+    "province": "辽宁省",
+    "city": "营口市",
+    "area": "站前区",
+    "detail": 1,
+    "uid": "7af8a2d718ec79aa9e82ea48",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_e0fd39d0fceb4a9a2978712e0715fca6.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e0fd39d0fceb4a9a2978712e0715fca6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0e3ade4c52f9b99168c7cc550e3f00e4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c21a22f1e97f9b200fcf13d76a6c97c1.jpeg"
+    ]
+  },
+  {
+    "name": "营口市站前区消防救援大队",
+    "location": {
+      "lat": 40.689806,
+      "lng": 122.269371
+    },
+    "address": "辽宁省营口市港南街17号",
+    "province": "辽宁省",
+    "city": "营口市",
+    "area": "站前区",
+    "detail": 1,
+    "uid": "0477916b0d35a2eabd48424d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_eaa733141dad5edb3096b47ac6e96028.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_eaa733141dad5edb3096b47ac6e96028.jpeg"
+    ]
+  },
+  {
+    "name": "普利司通轮胎(营口总代理)",
+    "location": {
+      "lat": 40.677178,
+      "lng": 122.277327
+    },
+    "address": "辽宁省营口市站前区太和北街16-甲3",
+    "province": "辽宁省",
+    "city": "营口市",
+    "area": "站前区",
+    "telephone": "18241728084",
+    "detail": 1,
+    "uid": "f8d9e0ab282d983c451a32f5",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B64e5c0ee3e5a46263.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B64e5c0ee3e5a46263.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65be14ab7cd6a18437.jpeg"
+    ]
+  }
+]

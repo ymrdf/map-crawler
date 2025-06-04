@@ -1,0 +1,68 @@
+[
+  {
+    "name": "海伦市金诚道路救援服务有限公司",
+    "location": {
+      "lat": 47.462496,
+      "lng": 126.959789
+    },
+    "address": "黑龙江省绥化市海伦市光华路168号",
+    "province": "黑龙江省",
+    "city": "绥化市",
+    "area": "海伦市",
+    "detail": 1,
+    "uid": "1010a7b07c7538ec3010aff0",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_8794e1914943b91409ca0c273594b7ca.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8794e1914943b91409ca0c273594b7ca.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_478227f4924182f3698d0f7a042bf337.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d0ed590c507b2523bd49fb2d25ec2f75.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_af1d0587ab10e6024aca8c725d33dc75.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6629dc65406e9e08a.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6742873c1d5036c95.jpeg"
+    ]
+  },
+  {
+    "name": "徐子汽车救援",
+    "location": {
+      "lat": 46.706464,
+      "lng": 126.110692
+    },
+    "address": "绥化市青冈县人民大道青冈县人民医院东北侧约60米",
+    "province": "黑龙江省",
+    "city": "绥化市",
+    "area": "青冈县",
+    "detail": 1,
+    "uid": "06699e87ebc52b7acd04efca",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_9edef9028c7ee9e60a80dfc1dea4b07e.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9edef9028c7ee9e60a80dfc1dea4b07e.jpeg",
+      "https://pic-map.cdn.bcebos.com/img/43039c351111b5ce421816ec78e03c8e",
+      "https://lbsugc.cdn.bcebos.com/images/B66237a6e492ed10f6c.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B66237a6de566171d5.jpeg"
+    ]
+  },
+  {
+    "name": "大亮救援全国轿车托运",
+    "location": {
+      "lat": 46.070924,
+      "lng": 126.000369
+    },
+    "address": "黑龙江省绥化市肇东市八仙南路与朝阳街交叉口西50米",
+    "province": "黑龙江省",
+    "city": "绥化市",
+    "area": "肇东市",
+    "street_id": "07029a1bfe2af018afee7a9c",
+    "telephone": "13351307744",
+    "detail": 1,
+    "uid": "07029a1bfe2af018afee7a9c",
+    "cover": "https://taojin-his.cdn.bcebos.com/3b87e950352ac65c4e6da506f7f2b21193138a5f.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=07029a1bfe2af018afee7a9c&width=720&height=360&quality=80&fovx=120",
+      "https://taojin-his.cdn.bcebos.com/0dd7912397dda144e728453fb4b7d0a20cf4861d.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_02bb832bad815429a089d603d078f859.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0591df8c9b0ab58419846e52a8307321.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_73424d5c36c9794f4dff77caad75e3b8.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_916aeb644d390c27d52b6f8cab6fd37b.jpg"
+    ]
+  }
+]

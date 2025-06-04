@@ -1,0 +1,72 @@
+[
+  {
+    "name": "辽阳市消防指挥中心",
+    "location": {
+      "lat": 41.256439,
+      "lng": 123.211008
+    },
+    "address": "辽宁省辽阳市白塔区八一街1481号",
+    "province": "辽宁省",
+    "city": "辽阳市",
+    "area": "白塔区",
+    "street_id": "bc18c3bb18a49676081cc781",
+    "detail": 1,
+    "uid": "bc18c3bb18a49676081cc781",
+    "cover": "https://taojin-his.cdn.bcebos.com/cefc1e178a82b9010543598b768da9773812ef98.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/cefc1e178a82b9010543598b768da9773812ef98.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c45d8701b643f04a8d9997faa3d516c4.jpg"
+    ]
+  },
+  {
+    "name": "救援大队办公区",
+    "location": {
+      "lat": 41.254049,
+      "lng": 123.137342
+    },
+    "address": "辽阳市太子河区八一街辽阳市公安局交警支队车管所",
+    "province": "辽宁省",
+    "city": "辽阳市",
+    "area": "太子河区",
+    "detail": 1,
+    "uid": "a0c10c2421c8616088db737a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_61c189d9e7158b1a0d85bb2289adde36.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_61c189d9e7158b1a0d85bb2289adde36.jpeg"
+    ]
+  },
+  {
+    "name": "灯塔市消防救援大队",
+    "location": {
+      "lat": 41.43083,
+      "lng": 123.305229
+    },
+    "address": "辽阳市灯塔市古城子兆麟西路366号",
+    "province": "辽宁省",
+    "city": "辽阳市",
+    "area": "灯塔市",
+    "detail": 1,
+    "uid": "fb5066171f0c1e6cebf85353",
+    "cover": "https://pic-map.cdn.bcebos.com/img/16e08c79f6958788bde5c65d07d66a0b",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/16e08c79f6958788bde5c65d07d66a0b"
+    ]
+  },
+  {
+    "name": "盛旺佳途旅行社",
+    "location": {
+      "lat": 41.264297,
+      "lng": 123.177378
+    },
+    "address": "辽阳市白塔区民主路四处家园东南侧约80米",
+    "province": "辽宁省",
+    "city": "辽阳市",
+    "area": "白塔区",
+    "detail": 1,
+    "uid": "69b5adbab3ff11f8fb2d61d2",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_2a5fbd563439761575740defc5c1dcd5.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2a5fbd563439761575740defc5c1dcd5.jpeg"
+    ]
+  }
+]

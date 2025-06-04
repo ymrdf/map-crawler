@@ -1,0 +1,106 @@
+[
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 30.5329,
+      "lng": 106.650096
+    },
+    "address": "广安市广安区鸿锦大道与团堡街交叉路口往南约50米",
+    "province": "四川省",
+    "city": "广安市",
+    "area": "广安区",
+    "detail": 1,
+    "uid": "ef1da9c9f1e4aad20bf5ebba",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_7fb2405e90ead91316bc74b88beffe8a.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7fb2405e90ead91316bc74b88beffe8a.jpg"
+    ]
+  },
+  {
+    "name": "广安市消防救援支队",
+    "location": {
+      "lat": 30.453587,
+      "lng": 106.62008
+    },
+    "address": "广安市广安区枣山街道迎宾大道133号",
+    "province": "四川省",
+    "city": "广安市",
+    "area": "广安区",
+    "detail": 1,
+    "uid": "8a32bfa209a7baf188b98820",
+    "cover": "https://taojin-his.cdn.bcebos.com/cefc1e178a82b901234379a2788da9773812efb1.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/cefc1e178a82b901234379a2788da9773812efb1.jpg"
+    ]
+  },
+  {
+    "name": "华蓥市消防救援大队",
+    "location": {
+      "lat": 30.374559,
+      "lng": 106.770576
+    },
+    "address": "四川省广安市华蓥市广华大道1段-275号",
+    "province": "四川省",
+    "city": "广安市",
+    "area": "华蓥市",
+    "detail": 1,
+    "uid": "7ae4136eebde6ba90b69d918",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ada532e4171c63dc40b5b280bcac085a.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ada532e4171c63dc40b5b280bcac085a.jpeg"
+    ]
+  },
+  {
+    "name": "武胜县消防救援大队",
+    "location": {
+      "lat": 30.344951,
+      "lng": 106.290076
+    },
+    "address": "广安市武胜县富强路80号",
+    "province": "四川省",
+    "city": "广安市",
+    "area": "武胜县",
+    "street_id": "031e752aa374346ae812e48d",
+    "detail": 1,
+    "uid": "031e752aa374346ae812e48d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_7eff9756b4496669c540b4422cb5599f.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=031e752aa374346ae812e48d&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 30.409921,
+      "lng": 106.869842
+    },
+    "address": "广安市华蓥市天池派出所东北侧约230米",
+    "province": "四川省",
+    "city": "广安市",
+    "area": "华蓥市",
+    "detail": 1,
+    "uid": "6bac3d67914f5e26f32d83f5",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a240d9e5b2cb6fd7d484ea37404318e7.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a240d9e5b2cb6fd7d484ea37404318e7.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_665f0eea04122c1a87beafa56b66fc57.jpg"
+    ]
+  },
+  {
+    "name": "黔安消防·华蓝救援",
+    "location": {
+      "lat": 30.362094,
+      "lng": 106.938838
+    },
+    "address": "广安市邻水县满防线中国石油(人民路北段)东北侧约60米",
+    "province": "四川省",
+    "city": "广安市",
+    "area": "邻水县",
+    "detail": 1,
+    "uid": "ab710de55286ead9616858ba",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d408077f57b4d142cfd06cbb54798d4a.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d408077f57b4d142cfd06cbb54798d4a.jpeg"
+    ]
+  }
+]

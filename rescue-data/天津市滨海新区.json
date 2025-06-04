@@ -1,0 +1,96 @@
+[
+  {
+    "name": "天津市救援拖运有限公司",
+    "location": {
+      "lat": 39.045352,
+      "lng": 117.639557
+    },
+    "address": "天津市滨海新区塘黄路翔鹤园西侧约50米",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "滨海新区",
+    "detail": 1,
+    "uid": "4dd8df6233fd0450ad31e553",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_488c0670056dbfb373c65169969440e9.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_488c0670056dbfb373c65169969440e9.jpeg"
+    ]
+  },
+  {
+    "name": "灭火救援英雄中队",
+    "location": {
+      "lat": 39.05572,
+      "lng": 117.73253
+    },
+    "address": "天津市滨海新区第八大街与泰祥路交叉路口往东南约80米",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "滨海新区",
+    "detail": 1,
+    "uid": "34b4eaa0e84228605cbe86f4",
+    "cover": "https://pic-map.cdn.bcebos.com/img/bfb81359662c23c948fcc1f801fd69d9",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/bfb81359662c23c948fcc1f801fd69d9"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 39.167002,
+      "lng": 117.810383
+    },
+    "address": "天津市滨海新区",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "滨海新区",
+    "detail": 1,
+    "uid": "95ced4d1647826ce7369d356",
+    "cover": "https://pic-map.cdn.bcebos.com/img/f855765ff8c986fe843c977c97d6307e",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/f855765ff8c986fe843c977c97d6307e"
+    ]
+  },
+  {
+    "name": "交安拖车救援",
+    "location": {
+      "lat": 38.837994,
+      "lng": 117.486694
+    },
+    "address": "天津市滨海新区南环路古林商贸城",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "滨海新区",
+    "street_id": "7537289bf5f8e2aec2f1cfe5",
+    "telephone": "18802200000",
+    "detail": 1,
+    "uid": "7537289bf5f8e2aec2f1cfe5",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_bda4e2412bfed7610ded2be75d0f398e.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=7537289bf5f8e2aec2f1cfe5&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6caac17abcc43c2f95f0ed9bcf0dbd9e.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B616f87439ea4915651.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B616f873bb7521b7ca.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_dc391417afb8d4757d543b1bddde6b27.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cd39180daa6a374e1f7f19670edcc3c4.jpeg"
+    ]
+  },
+  {
+    "name": "滨海新区京山道消防救援站",
+    "location": {
+      "lat": 39.031333,
+      "lng": 117.663376
+    },
+    "address": "天津市滨海新区京山道496正东方向40米",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "滨海新区",
+    "detail": 1,
+    "uid": "dce16f15ca27e3b51e1d1140",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_cab2b237ba6dfd74581ce2281290a2fa.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cab2b237ba6dfd74581ce2281290a2fa.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c72a24d318e67508be52c1a894057229.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3dcb5df7a1b39cdf394a1b5f6a3c2e48.jpeg"
+    ]
+  }
+]

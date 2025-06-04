@@ -1,0 +1,110 @@
+[
+  {
+    "name": "舟山市普陀区香榭街消防救援站",
+    "location": {
+      "lat": 29.974946,
+      "lng": 122.322454
+    },
+    "address": "浙江省舟山市普陀区东港街道香榭街2号",
+    "province": "浙江省",
+    "city": "舟山市",
+    "area": "普陀区",
+    "detail": 1,
+    "uid": "c4a05a41fff336bf40afe6e4",
+    "cover": "https://pic-map.cdn.bcebos.com/img/3903846858ebac6f0916d7d82ca799a6",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/3903846858ebac6f0916d7d82ca799a6"
+    ]
+  },
+  {
+    "name": "舟山市消防救援支队",
+    "location": {
+      "lat": 29.99012,
+      "lng": 122.205352
+    },
+    "address": "浙江省舟山市临城新区海天大道560号",
+    "province": "浙江省",
+    "city": "舟山市",
+    "area": "定海区",
+    "street_id": "26bd03d0ab41567b0d3dda24",
+    "telephone": "(0580)2080119",
+    "detail": 1,
+    "uid": "26bd03d0ab41567b0d3dda24",
+    "cover": "https://taojin-his.cdn.bcebos.com/3bf33a87e950352aa057fa7c5c43fbf2b2118b94.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=26bd03d0ab41567b0d3dda24&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0d95c091e5896883b11415d0c0bceaf0.jpg"
+    ]
+  },
+  {
+    "name": "嵊泗县消防救援大队",
+    "location": {
+      "lat": 30.714633,
+      "lng": 122.456993
+    },
+    "address": "浙江省舟山市嵊泗县金港路3号",
+    "province": "浙江省",
+    "city": "舟山市",
+    "area": "嵊泗县",
+    "telephone": "(0580)5861615",
+    "detail": 1,
+    "uid": "638184780866f674631c67f8",
+    "cover": "https://pic-map.cdn.bcebos.com/img/ffe0f8da5bc12ba5bf9b8ee97f875518",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/ffe0f8da5bc12ba5bf9b8ee97f875518"
+    ]
+  },
+  {
+    "name": "舟山腾海救生筏检修有限公司",
+    "location": {
+      "lat": 30.15665,
+      "lng": 121.996344
+    },
+    "address": "浙江省舟山市定海区工业园区长丰1支路1号(车间三)",
+    "province": "浙江省",
+    "city": "舟山市",
+    "area": "定海区",
+    "telephone": "18268705408",
+    "detail": 1,
+    "uid": "71009a41a923e1ece956fa81",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_e3c6af4b36754b00c60afe5d062fac3b.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e3c6af4b36754b00c60afe5d062fac3b.jpeg"
+    ]
+  },
+  {
+    "name": "岱山县消防救援大队",
+    "location": {
+      "lat": 30.253308,
+      "lng": 122.227174
+    },
+    "address": "舟山市岱山县衢山大道蓬莱阳光西南侧约90米",
+    "province": "浙江省",
+    "city": "舟山市",
+    "area": "岱山县",
+    "street_id": "d3c095aa1ea1623e33f71d02",
+    "detail": 1,
+    "uid": "d3c095aa1ea1623e33f71d02",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_2610b2705e176a2729342590f7a74b1b.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=d3c095aa1ea1623e33f71d02&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "岱山县金海路消防救援站",
+    "location": {
+      "lat": 30.437781,
+      "lng": 122.301256
+    },
+    "address": "浙江省舟山市岱山县衢山镇金海路119号",
+    "province": "浙江省",
+    "city": "舟山市",
+    "area": "岱山县",
+    "detail": 1,
+    "uid": "f8cab79bfa8bd43c7d29bd9a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_173605001a1c7054d213548e862e572d.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_173605001a1c7054d213548e862e572d.jpeg"
+    ]
+  }
+]

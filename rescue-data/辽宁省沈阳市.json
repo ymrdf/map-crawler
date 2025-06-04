@@ -1,0 +1,192 @@
+[
+  {
+    "name": "中国救援辽宁机动专业支队",
+    "location": {
+      "lat": 41.903386,
+      "lng": 123.476037
+    },
+    "address": "辽宁省沈阳市皇姑区鸭绿江北街277号",
+    "province": "辽宁省",
+    "city": "沈阳市",
+    "area": "皇姑区",
+    "street_id": "bc5d7085446dcf8a28201aa8",
+    "detail": 1,
+    "uid": "bc5d7085446dcf8a28201aa8",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_05e6a7033a1c515e77c04542575a55b3.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=bc5d7085446dcf8a28201aa8&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_dccbfdb3d9264fbf75235950fd9d5dee.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_2cda879cec042d4ebce55f5e66271323.jpg",
+      "https://poi-pic.cdn.bcebos.com/dccbfdb3d9264fbf75235950fd9d5dee.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ee74be0bd7a5f808cbf7745391a66be2.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_72323b12e6824df7f59e2437e4927228.jpeg"
+    ]
+  },
+  {
+    "name": "沈阳隆胜道路救援服务有限公司",
+    "location": {
+      "lat": 41.849829,
+      "lng": 123.464132
+    },
+    "address": "辽宁省沈阳市皇姑区鸭绿江街43-甲1号",
+    "province": "辽宁省",
+    "city": "沈阳市",
+    "area": "皇姑区",
+    "telephone": "13940450313,15804096199",
+    "detail": 1,
+    "uid": "d669b43e3a180ae24d55472c",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_3354dc567a9180142c35127deaa143c7.png",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B6391610111c2413bab.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B638ee0ea85ae810c80.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1d6fb63f88bf0a08624d01ea8b6e3356.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 41.79757,
+      "lng": 123.413711
+    },
+    "address": "沈阳市和平区北一马路东方香榭里",
+    "province": "辽宁省",
+    "city": "沈阳市",
+    "area": "和平区",
+    "street_id": "efd482f6927538c42b201a8e",
+    "detail": 1,
+    "uid": "efd482f6927538c42b201a8e",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_e63f966b27347c327f4943944dba2333.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=efd482f6927538c42b201a8e&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d6fa0299788fc7169c01bb9d61b934cc.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_38ed7de05584ecba01c9cf3294d3635a.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f156c04dd6d8f870c773337ceee23685.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a053e569ffda0b2677555bdde5616732.jpeg"
+    ]
+  },
+  {
+    "name": "盛凯达汽车救援",
+    "location": {
+      "lat": 41.812906,
+      "lng": 123.482862
+    },
+    "address": "辽宁省沈阳市大东区小津桥路98号-3门",
+    "province": "辽宁省",
+    "city": "沈阳市",
+    "area": "大东区",
+    "telephone": "13514262021",
+    "detail": 1,
+    "uid": "4adbde7ffb8f0ef87ab55c63",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_8aa7eace5c18194e2b86a0890e607743.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8aa7eace5c18194e2b86a0890e607743.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B658a86557f0bf13cb7.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65cc4c3ac013d4359.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65cc4c3b3c7ae4a41.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B662378c3bcf5c1642c.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B662378c3b8fcf1225a.jpeg"
+    ]
+  },
+  {
+    "name": "极速达汽车救援",
+    "location": {
+      "lat": 41.775591,
+      "lng": 123.461096
+    },
+    "address": "南塔街23-1号",
+    "province": "辽宁省",
+    "city": "沈阳市",
+    "area": "沈河区",
+    "telephone": "15712418200",
+    "detail": 1,
+    "uid": "e56fcb1f1030241971210b76",
+    "cover": "https://photo-meituan.cdn.bcebos.com/photo/17363234850251d981a9a8dc0bf2ffde8e35ce603a",
+    "photo_list": [
+      "https://photo-meituan.cdn.bcebos.com/photo/17363234850251d981a9a8dc0bf2ffde8e35ce603a",
+      "https://lbsugc.cdn.bcebos.com/images/B61830d9d979116f57.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B61830d976fe46d23a.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B620ca2747d8bc5dde.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6208816c7baadb151.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3a10f019306c9e5d976393fa5bfffcfa.jpeg"
+    ]
+  },
+  {
+    "name": "赤山路消防救援站",
+    "location": {
+      "lat": 41.872644,
+      "lng": 123.364519
+    },
+    "address": "沈阳市于洪区赤山路中铁·丁香水岸西北门西南侧约80米",
+    "province": "辽宁省",
+    "city": "沈阳市",
+    "area": "于洪区",
+    "detail": 1,
+    "uid": "1d2b4696bf6e21090869d993",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_652f03aab76448f2ba333c99a8d36a2b.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_652f03aab76448f2ba333c99a8d36a2b.jpeg"
+    ]
+  },
+  {
+    "name": "沈阳市应急救援支队",
+    "location": {
+      "lat": 41.899423,
+      "lng": 123.471661
+    },
+    "address": "辽宁省沈阳市皇姑区文储路(沈阳市消防教育训练基地)",
+    "province": "辽宁省",
+    "city": "沈阳市",
+    "area": "皇姑区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "e4ae5749f32bd569c51e510d",
+    "cover": "https://taojin-his.cdn.bcebos.com/37d3d539b6003af36f8210cb3b2ac65c1038b665.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/37d3d539b6003af36f8210cb3b2ac65c1038b665.jpg",
+      "https://taojin-his.cdn.bcebos.com/d50735fae6cd7b892d792d8a002442a7d9330ea5.jpg"
+    ]
+  },
+  {
+    "name": "汽车租赁客运救援",
+    "location": {
+      "lat": 41.801056,
+      "lng": 123.49924
+    },
+    "address": "沈阳市大东区凯翔三街长安10号西北侧约50米",
+    "province": "辽宁省",
+    "city": "沈阳市",
+    "area": "大东区",
+    "street_id": "048638bfbfa9e6e281288ad9",
+    "detail": 1,
+    "uid": "048638bfbfa9e6e281288ad9",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ef2a40fae6194fa3f25dfe0213c81de4.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=048638bfbfa9e6e281288ad9&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4abcc2bf3ff8435d983d4bb72b0be8d5.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_aa2e1ac3529473996a83e9cef7253f99.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_67baa5658a9b877434767ca172b5466c.jpg",
+      "https://poi-pic.cdn.bcebos.com/aa2e1ac3529473996a83e9cef7253f99.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9a877834b6d5ae5a2650cce94b29884c.jpeg"
+    ]
+  },
+  {
+    "name": "流动救援红星修理",
+    "location": {
+      "lat": 41.957043,
+      "lng": 122.875066
+    },
+    "address": "辽宁省沈阳市新民市京哈公路",
+    "province": "辽宁省",
+    "city": "沈阳市",
+    "area": "新民市",
+    "street_id": "e65132195cfdda909f09f71b",
+    "detail": 1,
+    "uid": "e65132195cfdda909f09f71b",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B6613a3612050f12c87.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=e65132195cfdda909f09f71b&width=720&height=360&quality=80&fovx=120",
+      "https://lbsugc.cdn.bcebos.com/images/B6770d0b942a941757c.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6770d0b961a6410fe4.jpeg"
+    ]
+  }
+]

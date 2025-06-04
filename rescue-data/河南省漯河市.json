@@ -1,0 +1,77 @@
+[
+  {
+    "name": "漯河道路施救拖车救援有限公司",
+    "location": {
+      "lat": 33.575073,
+      "lng": 114.042697
+    },
+    "address": "河南省漯河市源汇区人民西路62号",
+    "province": "河南省",
+    "city": "漯河市",
+    "area": "源汇区",
+    "detail": 1,
+    "uid": "aab294eb801941950869d96e",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_95d60506bf895b18f075378498a0f7e5.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_95d60506bf895b18f075378498a0f7e5.jpeg"
+    ]
+  },
+  {
+    "name": "金宝汽车救援有限公司",
+    "location": {
+      "lat": 33.805427,
+      "lng": 113.957113
+    },
+    "address": "漯河市临颍县京港线南街村景区",
+    "province": "河南省",
+    "city": "漯河市",
+    "area": "临颍县",
+    "street_id": "17ae5ed805a8fa3ef82d612b",
+    "telephone": "13939528938",
+    "detail": 1,
+    "uid": "9336b51976109edaa7c7567b",
+    "cover": "https://poi-pic.cdn.bcebos.com/a287ad7c6b0786ea2200e277ca6b41ab.jpg",
+    "photo_list": [
+      "https://poi-pic.cdn.bcebos.com/a287ad7c6b0786ea2200e277ca6b41ab.jpg"
+    ]
+  },
+  {
+    "name": "滴滴货运",
+    "location": {
+      "lat": 33.555634,
+      "lng": 114.075415
+    },
+    "address": "漯河市召陵区衡山路凤凰城小区",
+    "province": "河南省",
+    "city": "漯河市",
+    "area": "召陵区",
+    "detail": 1,
+    "uid": "380b88c72608d63c100daa1c",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B65af6de5d3ea7ba82.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B65af6de5d3ea7ba82.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65af6dbbddf2a14e29.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65af6daf29e5a11f47.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65bdf215496eb3ed5.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B66222eaa8c45812b6d.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B66222eaa9431c49f5.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 33.538259,
+      "lng": 113.97628
+    },
+    "address": "漯河市源汇区S330空冢郭镇政府西南侧约70米",
+    "province": "河南省",
+    "city": "漯河市",
+    "area": "源汇区",
+    "detail": 1,
+    "uid": "3765278ab34fbabb9222e062",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_941e319184b1ad2d3712848a7e588843.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_941e319184b1ad2d3712848a7e588843.jpeg"
+    ]
+  }
+]

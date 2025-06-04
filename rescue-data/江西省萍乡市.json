@@ -1,0 +1,99 @@
+[
+  {
+    "name": "阳光救援",
+    "location": {
+      "lat": 27.641507,
+      "lng": 113.90669
+    },
+    "address": "江西省萍乡市安源区021乡道原东壁管理处",
+    "province": "江西省",
+    "city": "萍乡市",
+    "area": "安源区",
+    "detail": 1,
+    "uid": "69ee868e6356f88d32f71d2f",
+    "cover": "https://pic-map.cdn.bcebos.com/img/d57a012d23b8a145be16f039d7639bee",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/d57a012d23b8a145be16f039d7639bee"
+    ]
+  },
+  {
+    "name": "萍乡硬派越野救援营",
+    "location": {
+      "lat": 27.645909,
+      "lng": 113.860226
+    },
+    "address": "萍乡市安源区山下路金典城",
+    "province": "江西省",
+    "city": "萍乡市",
+    "area": "安源区",
+    "telephone": "13879900658",
+    "detail": 1,
+    "uid": "35a8e088842852ce6f3e1b40",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_e7a7d349663441aef5df0aa5a4c36922.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e7a7d349663441aef5df0aa5a4c36922.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_55a41d4c57dd09ef54ce9caa3fabc228.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6620a39d0639c8c5f.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6620a14f264f55070.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B66dbf60e5b836f0b0.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B66dbf6292dc2fa83a.jpeg"
+    ]
+  },
+  {
+    "name": "萍乡市曙光救援队",
+    "location": {
+      "lat": 27.631192,
+      "lng": 113.874244
+    },
+    "address": "萍乡市安源区南环路龙华云锦西南侧约230米",
+    "province": "江西省",
+    "city": "萍乡市",
+    "area": "安源区",
+    "telephone": "15679919938",
+    "detail": 1,
+    "uid": "bb556f6463143992ab0dd888",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_f2445f2aa382cd924dffd86c51f6d217.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f2445f2aa382cd924dffd86c51f6d217.jpeg"
+    ]
+  },
+  {
+    "name": "湘东区消防救援大队",
+    "location": {
+      "lat": 27.63803,
+      "lng": 113.773406
+    },
+    "address": "江西省萍乡市湘东区湘东镇新垅小学东北侧300米",
+    "province": "江西省",
+    "city": "萍乡市",
+    "area": "湘东区",
+    "detail": 1,
+    "uid": "7fa25a9e291a382e06fef5bc",
+    "cover": "https://pic-map.cdn.bcebos.com/img/c786f8fc693167611881394d4db9fa4c",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/c786f8fc693167611881394d4db9fa4c"
+    ]
+  },
+  {
+    "name": "东莞市企迪人力资源公司鸡冠山分公司",
+    "location": {
+      "lat": 27.888001,
+      "lng": 113.860186
+    },
+    "address": "萍乡市上栗县通城大道中国国际能源鸡冠山加油站西北侧约180米",
+    "province": "江西省",
+    "city": "萍乡市",
+    "area": "上栗县",
+    "detail": 1,
+    "uid": "c42dab326686ba189022e0d8",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_fc6f4fd630124b53ad11684b4a119041.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_fc6f4fd630124b53ad11684b4a119041.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_54281e7cfa24537cec90d3734754539d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e4f130fb27ace956a0ac2b84dc5e786d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3d69838b9ed1af324c7689ad2b1e11fd.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c55b6463c7241df07d14473dc67bcfbd.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_07ae88fe618183bdb453478dc86c3c65.jpeg"
+    ]
+  }
+]

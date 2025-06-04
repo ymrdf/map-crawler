@@ -1,0 +1,126 @@
+[
+  {
+    "name": "兴隆补胎送油搭电拖车救援",
+    "location": {
+      "lat": 39.866399,
+      "lng": 116.474375
+    },
+    "address": "北京市朝阳区大羊坊路东盈苑小区",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "朝阳区",
+    "telephone": "13275529017",
+    "detail": 1,
+    "uid": "2040b1b5b40afa3ac13644a9",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_8371947659e160d6c86d64b4d8cfb4be.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8371947659e160d6c86d64b4d8cfb4be.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6998a24009e8878ba4eb7ca7d7b3018a.jpeg"
+    ]
+  },
+  {
+    "name": "轮胎专卖补胎救援",
+    "location": {
+      "lat": 40.218117,
+      "lng": 116.759516
+    },
+    "address": "北京市顺义区昌金路与李魏路交叉路口西南侧",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "顺义区",
+    "telephone": "15321838818",
+    "detail": 1,
+    "uid": "772de384690bed79353a715e",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/a4ecbdfb95827de7c5cfaf3f372c282e_2138.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/a4ecbdfb95827de7c5cfaf3f372c282e_2138.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/22cf74b2bcfa2bc2e8fecd9d30373962_3231.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/d2a7d2790cbba3faa92e8ad2a663d831_3832.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/a28df46eb0af32c8e515c703f6d8c0e5_4524.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/4a10182ab10b1bcfb9df5865e20ba73d_3485.jpeg",
+      "https://pic-map.cdn.bcebos.com/img/00efc73d9705a1e296e0416586cec3f6"
+    ]
+  },
+  {
+    "name": "德国马牌换轮胎道路救援",
+    "location": {
+      "lat": 39.905506,
+      "lng": 116.513455
+    },
+    "address": "北京市朝阳区南一路沿海赛洛城115-5号",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "朝阳区",
+    "street_id": "20c4f9325eaffaf4b320a839",
+    "telephone": "18601953205",
+    "detail": 1,
+    "uid": "20c4f9325eaffaf4b320a839",
+    "cover": "https://photo-meituan.cdn.bcebos.com/photo/1692610330f5785e740ecde053f424c7963bbbc4dd",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=20c4f9325eaffaf4b320a839&width=720&height=360&quality=80&fovx=120",
+      "https://photo-meituan.cdn.bcebos.com/photo/1698054070f5785e740ecde053f424c7963bbbc4dd",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_41a354a3accffdfa2372089521ab2128.jpg",
+      "https://taojin-his.cdn.bcebos.com/342ac65c10385343498c10649d13b07eca808830.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7defeeb04f812eeb38663fc6ecfb4571.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_dbb8b0cb06b1d7f203d85dbaeb91bc0c.jpg"
+    ]
+  },
+  {
+    "name": "东城区花市消防救援站-北门",
+    "location": {
+      "lat": 39.90327,
+      "lng": 116.427199
+    },
+    "address": "北京市东城区西花市大街114号",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "东城区",
+    "detail": 1,
+    "uid": "65448f3c8d5bddec077ce895",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_6ab4afe3f30fc95108c5f5998393fbbd.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6ab4afe3f30fc95108c5f5998393fbbd.jpg"
+    ]
+  },
+  {
+    "name": "东城区北新桥消防救援站",
+    "location": {
+      "lat": 39.94466,
+      "lng": 116.422617
+    },
+    "address": "北京市东城区东四北大街科林大厦东侧",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "东城区",
+    "detail": 1,
+    "uid": "0693feae2979cc0181288af6",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_be13a481ce3edcdd19a2b672eec4d8a0.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_be13a481ce3edcdd19a2b672eec4d8a0.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4c3fcce741aa475f008571069372d14c.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B66651a436b3a417187.jpeg"
+    ]
+  },
+  {
+    "name": "东城区金宝街消防救援站",
+    "location": {
+      "lat": 39.918683,
+      "lng": 116.432879
+    },
+    "address": "北京市东城区外交部街2号",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "东城区",
+    "detail": 1,
+    "uid": "a1e225812ec0a569b42655b8",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_41b0acfee0bcbc649d71a412a9e36778.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_41b0acfee0bcbc649d71a412a9e36778.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3be14f478e591ef2e6ede07a1c258796.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ec94ba385f3fd63100cc601528b48445.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_73810f19ea31a40a231e8676d39daf9e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9f1efa5594d2f4247e5bf5b6acfbb633.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c206776074181ce615fbcb4583da9494.jpeg"
+    ]
+  }
+]

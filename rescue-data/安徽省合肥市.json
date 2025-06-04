@@ -1,0 +1,100 @@
+[
+  {
+    "name": "肥东县迅速拖车救援服务部",
+    "location": {
+      "lat": 31.862206,
+      "lng": 117.485168
+    },
+    "address": "安徽省合肥市肥东县城南新村二期29栋203室",
+    "province": "安徽省",
+    "city": "合肥市",
+    "area": "肥东县",
+    "telephone": "18788870541",
+    "detail": 1,
+    "uid": "4da337fa82fceba350e5c55c",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B65a2057ca80e29d23.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B65a2057ca80e29d23.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a6bdc15d8b027fc3a63401e0e045e520.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cf938595e67f5ac32a0bd1863d4d7eae.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a5dee199bc05f2e73b4cadf1ae7abad1.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f7baa965d3f8f34f71fdb8116ae0eef4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0575b97c20053d86dd85908773901c95.jpeg"
+    ]
+  },
+  {
+    "name": "搭电救援电瓶批发",
+    "location": {
+      "lat": 31.930747,
+      "lng": 117.344353
+    },
+    "address": "淮海大道1188号京商商贸城",
+    "province": "安徽省",
+    "city": "合肥市",
+    "area": "瑶海区",
+    "telephone": "13856983011",
+    "detail": 1,
+    "uid": "f60f79af290d81664002450c",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_34b69176dff20f7852df6be5db669f4a.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_34b69176dff20f7852df6be5db669f4a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a1f1648f5f1ba9c6bd539367e6331175.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65f2ac9bf15759909.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65f2ac9b70fbd18677.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cc98bd3e2d995480197c7f5839d2dcee.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B666e99bc4e7f0133d3.jpeg"
+    ]
+  },
+  {
+    "name": "合肥市消防救援支队特勤大队三站",
+    "location": {
+      "lat": 31.744183,
+      "lng": 117.322804
+    },
+    "address": "合肥市包河区长沙路名门湖语东南侧约110米",
+    "province": "安徽省",
+    "city": "合肥市",
+    "area": "包河区",
+    "detail": 1,
+    "uid": "00da270a600c351981a12e1d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_83c81b007dcbb9b941a4b84c46a7476d.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_83c81b007dcbb9b941a4b84c46a7476d.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 31.798429,
+      "lng": 117.340348
+    },
+    "address": "安徽省合肥市包河区内蒙路与沈阳路交叉口北220米",
+    "province": "安徽省",
+    "city": "合肥市",
+    "area": "包河区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "2c3fdf958c288f2c167643e0",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_bfc8f1dbc7e5cc5b4ae4c78da20e4b01.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bfc8f1dbc7e5cc5b4ae4c78da20e4b01.jpg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 31.933766,
+      "lng": 117.347578
+    },
+    "address": "合肥市瑶海区翠柏路平安幼儿园分园东南侧约210米",
+    "province": "安徽省",
+    "city": "合肥市",
+    "area": "瑶海区",
+    "detail": 1,
+    "uid": "fb5ec522d8235442b45f1e28",
+    "cover": "https://pic-map.cdn.bcebos.com/img/d727970c1769489ee5217e4c3766dda5",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/d727970c1769489ee5217e4c3766dda5"
+    ]
+  }
+]

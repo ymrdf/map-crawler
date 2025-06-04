@@ -1,0 +1,161 @@
+[
+  {
+    "name": "连平县消防救援大队",
+    "location": {
+      "lat": 24.352627,
+      "lng": 114.513507
+    },
+    "address": "广东省河源市连平县元善镇石龙工业园",
+    "province": "广东省",
+    "city": "河源市",
+    "area": "连平县",
+    "telephone": "(0762)4320119",
+    "detail": 1,
+    "uid": "8316e5031cf21b9b28b97c6a",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B61e8d8194002311c02.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B61e8d8194002311c02.jpeg",
+      "https://pic-map.cdn.bcebos.com/img/12addaaf2b3ba43bb07c85e25a3829ea"
+    ]
+  },
+  {
+    "name": "河源市源城区河紫路消防救援站",
+    "location": {
+      "lat": 23.735884,
+      "lng": 114.702457
+    },
+    "address": "河源市源城区河紫路皇御苑东南侧约100米",
+    "province": "广东省",
+    "city": "河源市",
+    "area": "源城区",
+    "detail": 1,
+    "uid": "10f56d141347435d8c55ec4a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_4de4c87eec3dac2af10c65555574f7ed.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4de4c87eec3dac2af10c65555574f7ed.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e48f6fb1cf4f095ce9c18520099b814a.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_258f3ff24530390e1d04f01a50e25189.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_cbf4e8372e6dcce4aeb45aa41f124301.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d874f5ab8dea078fd49ea80df565db3c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1e7bf79f756de02963d0c0858dc25ab7.jpeg"
+    ]
+  },
+  {
+    "name": "源通拖车救援服务中心",
+    "location": {
+      "lat": 23.532977,
+      "lng": 114.716546
+    },
+    "address": "河源市紫金县古竹镇60米街新智中学东北侧290米",
+    "province": "广东省",
+    "city": "河源市",
+    "area": "紫金县",
+    "telephone": "14715589922",
+    "detail": 1,
+    "uid": "45bfac58504526ec0482c2cd",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_04d08e2aed8c75b0022b728a8e480cf1.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_04d08e2aed8c75b0022b728a8e480cf1.jpeg"
+    ]
+  },
+  {
+    "name": "粤通救援",
+    "location": {
+      "lat": 23.71345,
+      "lng": 114.685343
+    },
+    "address": "广东省河源市源城区迎客大道",
+    "province": "广东省",
+    "city": "河源市",
+    "area": "源城区",
+    "detail": 1,
+    "uid": "1351b36b899cf57bdbecedd1",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_db60deaa316e7a1fbe4c3a24cf076008.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_db60deaa316e7a1fbe4c3a24cf076008.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_86b7e5d58204e88bdb5c722db52c3285.jpeg"
+    ]
+  },
+  {
+    "name": "庆华汽修厂搭电救援",
+    "location": {
+      "lat": 23.527361,
+      "lng": 114.716012
+    },
+    "address": "古竹镇紫古大道中",
+    "province": "广东省",
+    "city": "河源市",
+    "area": "紫金县",
+    "telephone": "13829396558",
+    "detail": 1,
+    "uid": "4e96ab9e7c952a06e60738d1",
+    "cover": "https://taojin-his.cdn.bcebos.com/c83d70cf3bc79f3d357237a1b4a1cd11738b2994.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/c83d70cf3bc79f3d357237a1b4a1cd11738b2994.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3330211c871a29309cf530393e4c4d41.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4ff491a1240e637af99d2f96d956696b.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B616527619f8ca61ec.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B616503ab0b003aece.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a1f4e2cd797945661335871519ec35b8.jpeg"
+    ]
+  },
+  {
+    "name": "龙川县消防救援大队",
+    "location": {
+      "lat": 24.106657,
+      "lng": 115.24383
+    },
+    "address": "河源市龙川县一环路怡和苑西南侧约200米",
+    "province": "广东省",
+    "city": "河源市",
+    "area": "龙川县",
+    "street_id": "",
+    "telephone": "(0762)6662119",
+    "detail": 1,
+    "uid": "a55a26230999c437fb2d6133",
+    "cover": "https://taojin-his.cdn.bcebos.com/8601a18b87d6277f21b256a42e381f30e824fc8e.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/8601a18b87d6277f21b256a42e381f30e824fc8e.jpg"
+    ]
+  },
+  {
+    "name": "河源市源城区文昌路消防救援站",
+    "location": {
+      "lat": 23.762029,
+      "lng": 114.716217
+    },
+    "address": "广东省河源市源城区文昌路223号",
+    "province": "广东省",
+    "city": "河源市",
+    "area": "源城区",
+    "detail": 1,
+    "uid": "5938080bbf59e86e14948e92",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_4c2d9ccd221c25426a080368e2f1c69d.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4c2d9ccd221c25426a080368e2f1c69d.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B615d199362aa710c90.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_32e55b91ce97f438f0a50559a7c81225.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0eaa4bf7d4952f3b862d126da0558264.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B678f442189d0f2e60.jpeg"
+    ]
+  },
+  {
+    "name": "东源县消防救援大队",
+    "location": {
+      "lat": 23.800029,
+      "lng": 114.742969
+    },
+    "address": "广东省河源市东源县新河大道与丽江路交叉口北60米",
+    "province": "广东省",
+    "city": "河源市",
+    "area": "东源县",
+    "detail": 1,
+    "uid": "0f2491bfba17b1d502294f6f",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_7841a8bb5ee3f7d4ad8feaea711311f0.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7841a8bb5ee3f7d4ad8feaea711311f0.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8580ace4058eb39527e2c4614adbb2b3.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_52841b8cb64ef9e99fe3e0a2871db7c4.jpeg"
+    ]
+  }
+]

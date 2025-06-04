@@ -1,0 +1,146 @@
+[
+  {
+    "name": "徐汇区漕河泾消防救援站",
+    "location": {
+      "lat": 31.173453,
+      "lng": 121.417081
+    },
+    "address": "上海市徐汇区虹漕路27号",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "徐汇区",
+    "street_id": "e867f784dd0540fcb54f543b",
+    "detail": 1,
+    "uid": "e867f784dd0540fcb54f543b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_55f2b4268de62ad8b435bf76e579ebbf.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=e867f784dd0540fcb54f543b&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a91731b647d0468b0a3c43d2c84e7406.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_93fc2f906d675d6f243ee9cf61158401.jpg"
+    ]
+  },
+  {
+    "name": "贝信道路救援搭电公司",
+    "location": {
+      "lat": 31.214915,
+      "lng": 121.444563
+    },
+    "address": "上海市徐汇区湖南路318号",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "徐汇区",
+    "detail": 1,
+    "uid": "66269b52ff5084694afd3fb1",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_9a893cc58a7e33b06ea9f2f79bb4f79c.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9a893cc58a7e33b06ea9f2f79bb4f79c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bb285d66c69a7f51147be4919c0961e8.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_beaddc314dc228e17b1ba303d7e9468b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_96eb96ce431ada4e181c975f43646ef7.jpeg"
+    ]
+  },
+  {
+    "name": "徐汇区徐家汇消防救援站",
+    "location": {
+      "lat": 31.198563,
+      "lng": 121.433372
+    },
+    "address": "上海市徐汇区徐家汇街道南丹路391号",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "徐汇区",
+    "street_id": "db891b10d6d94adeb11e3632",
+    "detail": 1,
+    "uid": "db891b10d6d94adeb11e3632",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_8639e375ff8b900388adc9eee9426b4a.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=db891b10d6d94adeb11e3632&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_729bec59f94af39de90b5274f095dc47.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a74539d36832b2ffe31a96da750170d8.jpeg"
+    ]
+  },
+  {
+    "name": "徐汇区消防救援支队",
+    "location": {
+      "lat": 31.167961,
+      "lng": 121.452588
+    },
+    "address": "上海市徐汇区武宣路150号",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "徐汇区",
+    "detail": 1,
+    "uid": "81c78ab5515c190bfd0eb0b4",
+    "cover": "https://pic-map.cdn.bcebos.com/img/b3547cad3c66e363fcd669c3d1a57a18",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/b3547cad3c66e363fcd669c3d1a57a18"
+    ]
+  },
+  {
+    "name": "徐汇区吴兴消防救援站",
+    "location": {
+      "lat": 31.207571,
+      "lng": 121.451446
+    },
+    "address": "上海市徐汇区吴兴路吴兴公寓西北侧",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "徐汇区",
+    "street_id": "54680f1c35bb50b222f017c7",
+    "detail": 1,
+    "uid": "54680f1c35bb50b222f017c7",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_cc2e5f3d6b096cdc97607694b7d905cf.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=54680f1c35bb50b222f017c7&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3bac65f344ac2a17076ede1dabfa6628.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_44c93f6d14b6bc9da054b0b339c76e03.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8850286b041cd05a946226ae96cbec63.jpeg"
+    ]
+  },
+  {
+    "name": "梦缘补胎搭电拖车道路救援",
+    "location": {
+      "lat": 31.270346,
+      "lng": 121.48607
+    },
+    "address": "上海市虹口区宝山路858号",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "虹口区",
+    "telephone": "13215522769",
+    "detail": 1,
+    "uid": "1307137b865dce5bc9c3db98",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_eb8d0e3851e31ab565b39b02c48cab6c.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_eb8d0e3851e31ab565b39b02c48cab6c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0d30a9bfe30032010f917978e1a7213e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ed89735914766d8d980ae2f80691c9f4.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_672b1cf6a1ab93d032c67b2321fabae8.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_69cd4cec3d1fd9c41d71c9ebf92a80aa.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a10aa8295718151c6fa865d7a3bbd327.jpeg"
+    ]
+  },
+  {
+    "name": "徐汇区梅陇消防救援站",
+    "location": {
+      "lat": 31.147942,
+      "lng": 121.435539
+    },
+    "address": "上海市徐汇区老沪闵路上海市消防总队徐汇支队梅陇中队",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "徐汇区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "32adbfb33a6fc0036849f31a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_cfb34088a6caa7f5ed166a636098a6bc.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cfb34088a6caa7f5ed166a636098a6bc.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b4fdc0066ff18ee82bd451a0c466f258.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2197a56f4b884addb688232674524416.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a63ca525981a5cd7eba1d5380bd60858.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_298373bd488cbf8068db0a2056be8c69.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e4bf2b7ccc6d12e907aa511ba7c2585d.jpeg"
+    ]
+  }
+]

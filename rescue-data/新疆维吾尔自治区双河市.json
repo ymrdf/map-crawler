@@ -1,0 +1,19 @@
+[
+  {
+    "name": "博乐市健康路消防救援站",
+    "location": {
+      "lat": 44.898565,
+      "lng": 82.075857
+    },
+    "address": "博尔塔拉蒙古自治州博乐市健康路红星宾馆(红星路店)西南侧约190米",
+    "province": "新疆维吾尔自治区",
+    "city": "博尔塔拉蒙古自治州",
+    "area": "博乐市",
+    "detail": 1,
+    "uid": "ece2ca7ad4380f6ed8d891de",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_0dc36b5b0d334f146680b13e86b807e2.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0dc36b5b0d334f146680b13e86b807e2.jpeg"
+    ]
+  }
+]

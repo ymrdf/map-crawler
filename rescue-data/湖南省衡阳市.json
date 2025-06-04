@@ -1,0 +1,166 @@
+[
+  {
+    "name": "补胎救援",
+    "location": {
+      "lat": 26.741731,
+      "lng": 112.686243
+    },
+    "address": "衡阳市衡南县雅园南路云集花苑",
+    "province": "湖南省",
+    "city": "衡阳市",
+    "area": "衡南县",
+    "street_id": "c3e2d1d30a7f4d550f0a7079",
+    "detail": 1,
+    "uid": "c3e2d1d30a7f4d550f0a7079",
+    "cover": "https://taojin-his.cdn.bcebos.com/48540923dd54564ec4379097bfde9c82d0584fc9.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=c3e2d1d30a7f4d550f0a7079&width=720&height=360&quality=80&fovx=120",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_a658f1aa6a0326f69ce9c5f338945deb.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_094525f8bb678cd162718b6b968993e5.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65e0773d8cbf0c014.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B664f1d12dc46a70fe.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1868095ac25dcd41d79f07294345e0cd.jpeg"
+    ]
+  },
+  {
+    "name": "衡阳市铭胜道路救援服务有限公司",
+    "location": {
+      "lat": 26.947895,
+      "lng": 112.613798
+    },
+    "address": "衡阳市石鼓区松木南路中亿汽贸城",
+    "province": "湖南省",
+    "city": "衡阳市",
+    "area": "石鼓区",
+    "detail": 1,
+    "uid": "c224da7b2cb6123e118824cc",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_441d812e4c230df69df33c3d118382f6.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_441d812e4c230df69df33c3d118382f6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0844add6121bc53b5b497450bb09ec5f.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B67512903342408c13.jpeg"
+    ]
+  },
+  {
+    "name": "衡阳市顺驰道路救援服务有限公司",
+    "location": {
+      "lat": 26.883622,
+      "lng": 112.581917
+    },
+    "address": "衡阳市蒸湘区蔡伦大道湖南省有色地质勘查局二一七队衡州大道小区东南侧约250米",
+    "province": "湖南省",
+    "city": "衡阳市",
+    "area": "蒸湘区",
+    "detail": 1,
+    "uid": "a5215f4daa83b6fbb8bd634d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_61598052ca27edaf20e3b3c0761f3b62.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_61598052ca27edaf20e3b3c0761f3b62.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f1344944703c61d920e263b755543603.jpeg"
+    ]
+  },
+  {
+    "name": "衡阳市消防救援支队",
+    "location": {
+      "lat": 26.89383,
+      "lng": 112.570307
+    },
+    "address": "湖南省衡阳市蒸湘区芙蓉路与光辉街17号",
+    "province": "湖南省",
+    "city": "衡阳市",
+    "area": "蒸湘区",
+    "street_id": "8df505f1f3798c82ca1b9503",
+    "detail": 1,
+    "uid": "8df505f1f3798c82ca1b9503",
+    "cover": "https://poi-pic.cdn.bcebos.com/0e7a15b86ca01a3efc8231644b1c947a.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=8df505f1f3798c82ca1b9503&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "永安救援公司",
+    "location": {
+      "lat": 26.436731,
+      "lng": 112.875104
+    },
+    "address": "衡阳市耒阳市德泰隆路芳丽花苑北侧约220米",
+    "province": "湖南省",
+    "city": "衡阳市",
+    "area": "耒阳市",
+    "detail": 1,
+    "uid": "ddccdf43a6fb83a272455b7a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_96fbb139e610ad2ecf12a2ccae2e1e0b.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_96fbb139e610ad2ecf12a2ccae2e1e0b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3017ba89e7ca961d76c61784a32be9e4.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B675cfc8d550b2da1e.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B675cfb2adbc5fef0a.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B675cfb8f6ac483a96.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B675cfb2ae46b7ca9f.jpeg"
+    ]
+  },
+  {
+    "name": "常宁市消防救援大队",
+    "location": {
+      "lat": 26.39709,
+      "lng": 112.404581
+    },
+    "address": "湖南省衡阳市常宁市青阳南路242号",
+    "province": "湖南省",
+    "city": "衡阳市",
+    "area": "常宁市",
+    "street_id": "a46d9d0e43e32a79cae33cb4",
+    "telephone": "(0734)7222194",
+    "detail": 1,
+    "uid": "a46d9d0e43e32a79cae33cb4",
+    "cover": "https://taojin-his.cdn.bcebos.com/38dbb6fd5266d016e62948509c2bd40735fa3592.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=a46d9d0e43e32a79cae33cb4&width=720&height=360&quality=80&fovx=120",
+      "https://taojin-his.cdn.bcebos.com/5243fbf2b2119313c89728c86e380cd790238df6.jpg",
+      "https://taojin-his.cdn.bcebos.com/b999a9014c086e06fba326410f087bf40ad1cbb5.jpg",
+      "https://taojin-his.cdn.bcebos.com/7c1ed21b0ef41bd57ab92cd45cda81cb39db3d2c.jpg",
+      "https://taojin-his.cdn.bcebos.com/562c11dfa9ec8a137f7e6040fb03918fa0ecc02d.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a7dd40c0634da7db45100db73cf8f067.jpg"
+    ]
+  },
+  {
+    "name": "衡阳市蒸湘区船山大道消防救援站",
+    "location": {
+      "lat": 26.909097,
+      "lng": 112.601132
+    },
+    "address": "湖南省衡阳市蒸湘区船山大道蒸湘区实验小学北侧约70米",
+    "province": "湖南省",
+    "city": "衡阳市",
+    "area": "蒸湘区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "4cc2e8e905d696792b06ce3a",
+    "cover": "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_e81be1869eb0ca2be76f6005d79035ee.jpg",
+    "photo_list": [
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_e81be1869eb0ca2be76f6005d79035ee.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c40c4f918bc7d39ea72360c39d836cef.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65d3152b19ceac9f0.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B66de44ec3695ca81c.jpeg"
+    ]
+  },
+  {
+    "name": "正新轮胎(南三环路店)",
+    "location": {
+      "lat": 26.830264,
+      "lng": 112.625303
+    },
+    "address": "湖南省衡阳市雁峰区白沙洲工业园南三环正新轮胎经营部售胎补胎24小时道路救援",
+    "province": "湖南省",
+    "city": "衡阳市",
+    "area": "雁峰区",
+    "street_id": "c81133f8a4bf1df942d63e1a",
+    "telephone": "13875739303,15197462348",
+    "detail": 1,
+    "uid": "c81133f8a4bf1df942d63e1a",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B67c055814fda7e8c9.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=c81133f8a4bf1df942d63e1a&width=720&height=360&quality=80&fovx=120"
+    ]
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "name": "超越汽车救援",
+    "location": {
+      "lat": 30.808019,
+      "lng": 111.82797
+    },
+    "address": "湖北省宜昌市当阳市S311",
+    "province": "湖北省",
+    "city": "宜昌市",
+    "area": "当阳市",
+    "telephone": "(0717)3330038,13886733786",
+    "detail": 1,
+    "uid": "c5f4b87f2d287af82fb17e5a",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/547c0d7035092c514529737d77cc0afe_8203.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/547c0d7035092c514529737d77cc0afe_8203.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/d0e6a52fa70b94fcde7ad51b3970dc02_5819.jpeg"
+    ]
+  },
+  {
+    "name": "宜昌市文达汽车救援服务有限公司",
+    "location": {
+      "lat": 30.831937,
+      "lng": 110.968638
+    },
+    "address": "湖北省宜昌市秭归县茅坪镇明珠二路216号",
+    "province": "湖北省",
+    "city": "宜昌市",
+    "area": "秭归县",
+    "telephone": "15871595431",
+    "detail": 1,
+    "uid": "f12a62e8113f730df219379a",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B63830672794f71432f.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B63830672794f71432f.jpeg"
+    ]
+  },
+  {
+    "name": "119消防救援大队",
+    "location": {
+      "lat": 30.641129,
+      "lng": 111.364262
+    },
+    "address": "宜昌市伍家岗区沈家店路宜昌市李家湖小学西南侧约220米",
+    "province": "湖北省",
+    "city": "宜昌市",
+    "area": "伍家岗区",
+    "detail": 1,
+    "uid": "18058701985652c8a0acc4bd",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_0dc773dd4ec0fcd355a157dd91bb51d7.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0dc773dd4ec0fcd355a157dd91bb51d7.jpeg"
+    ]
+  },
+  {
+    "name": "宜昌鑫辉汽车救援服务有限公司",
+    "location": {
+      "lat": 30.720534,
+      "lng": 111.279848
+    },
+    "address": "宜昌市西陵区和平路与西坝四路交叉路口往西约210米",
+    "province": "湖北省",
+    "city": "宜昌市",
+    "area": "西陵区",
+    "detail": 1,
+    "uid": "af143243b48b569a22026260",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_b36aceb6d3ef4bb67fbb51c21fa017ad.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b36aceb6d3ef4bb67fbb51c21fa017ad.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 30.692409,
+      "lng": 111.313932
+    },
+    "address": "宜昌市伍家岗区东山大道西陵区东山小学西南侧约50米",
+    "province": "湖北省",
+    "city": "宜昌市",
+    "area": "伍家岗区",
+    "street_id": "4bc3c1710c41aebb2a02e163",
+    "detail": 1,
+    "uid": "4bc3c1710c41aebb2a02e163",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_879b92a3f8a725e394e0b3786e8078fa.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=4bc3c1710c41aebb2a02e163&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "宜昌市消防救援局",
+    "location": {
+      "lat": 30.691812,
+      "lng": 111.315269
+    },
+    "address": "湖北省宜昌市伍家岗区东山大道187号",
+    "province": "湖北省",
+    "city": "宜昌市",
+    "area": "伍家岗区",
+    "street_id": "98df51315bc5a4442a02e167",
+    "detail": 1,
+    "uid": "98df51315bc5a4442a02e167",
+    "cover": "https://taojin-his.cdn.bcebos.com/80cb39dbb6fd526668591e1da618972bd407364c.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=98df51315bc5a4442a02e167&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "瓦尔塔电瓶超市+搭电救援",
+    "location": {
+      "lat": 30.661845,
+      "lng": 111.386889
+    },
+    "address": "湖北省宜昌市伍家岗区花艳路7号附近推荐专业快捷好的电瓶批发零售瓦尔塔电瓶天能电池骆驼蓄电瓶汽车电瓶电动车电瓶摩托车电瓶汽车电路风帆电瓶电动车原厂配件电瓶回收电瓶检测电瓶换新电动车修理",
+    "province": "湖北省",
+    "city": "宜昌市",
+    "area": "伍家岗区",
+    "telephone": "13094185062",
+    "detail": 1,
+    "uid": "a46150303a97590d40024524",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B64d5f475c17e816f50.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B64d5f475c17e816f50.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B64d0ab043493ad6ec.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B64d0ab0a9b2ae9a6e.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B64d0ab0a16f99b7cc.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B64d0ab0a5db0612791.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B64d0ab0a1fb5113e5a.jpeg"
+    ]
+  }
+]

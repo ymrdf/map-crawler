@@ -1,0 +1,101 @@
+[
+  {
+    "name": "兴隆补胎送油搭电拖车救援",
+    "location": {
+      "lat": 39.866399,
+      "lng": 116.474375
+    },
+    "address": "北京市朝阳区大羊坊路东盈苑小区",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "朝阳区",
+    "telephone": "13275529017",
+    "detail": 1,
+    "uid": "2040b1b5b40afa3ac13644a9",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_8371947659e160d6c86d64b4d8cfb4be.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8371947659e160d6c86d64b4d8cfb4be.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6998a24009e8878ba4eb7ca7d7b3018a.jpeg"
+    ]
+  },
+  {
+    "name": "盛达搭电救援补胎维修",
+    "location": {
+      "lat": 39.898039,
+      "lng": 116.43546
+    },
+    "address": "北京市东城区龙潭街道黄杉木店东街193号",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "东城区",
+    "detail": 1,
+    "uid": "f64ac274825b57ee6fc02cb8",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_71647eff675da8f8c0d0a6a99556e8c5.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_71647eff675da8f8c0d0a6a99556e8c5.jpeg"
+    ]
+  },
+  {
+    "name": "汽车救援",
+    "location": {
+      "lat": 39.72667,
+      "lng": 116.088809
+    },
+    "address": "北京市房山区阎村镇紫草坞村商业街71号",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "房山区",
+    "telephone": "13718130320",
+    "detail": 1,
+    "uid": "08618046b3f5cc2ae5073847",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_9031ec082b4dd4d80bf4e6601b44fd2e.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9031ec082b4dd4d80bf4e6601b44fd2e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e260783c91b790327209b97e1e85afd2.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7093c66f83485d437e26d01b87d3051a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2a2904782d4c1355aa2e4ec09bc6e97a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4646aaf3d5982f909b783be157dbc2b6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_051fd85c70631c8247a62eefd24cfe62.jpeg"
+    ]
+  },
+  {
+    "name": "轮胎专卖补胎救援",
+    "location": {
+      "lat": 40.218117,
+      "lng": 116.759516
+    },
+    "address": "北京市顺义区昌金路与李魏路交叉路口西南侧",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "顺义区",
+    "telephone": "15321838818",
+    "detail": 1,
+    "uid": "772de384690bed79353a715e",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/a4ecbdfb95827de7c5cfaf3f372c282e_2138.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/a4ecbdfb95827de7c5cfaf3f372c282e_2138.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/22cf74b2bcfa2bc2e8fecd9d30373962_3231.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/d2a7d2790cbba3faa92e8ad2a663d831_3832.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/a28df46eb0af32c8e515c703f6d8c0e5_4524.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/4a10182ab10b1bcfb9df5865e20ba73d_3485.jpeg",
+      "https://pic-map.cdn.bcebos.com/img/00efc73d9705a1e296e0416586cec3f6"
+    ]
+  },
+  {
+    "name": "鹏达汽车维修救援",
+    "location": {
+      "lat": 39.962323,
+      "lng": 116.454251
+    },
+    "address": "北京市北三环左家庄路甲2号143号",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "朝阳区",
+    "detail": 1,
+    "uid": "a212b03ac9ff7852ebe5828d",
+    "cover": "https://photo-meituan.cdn.bcebos.com/photo/1737788873ac5825d7986d7fee3620ff09dba78f69",
+    "photo_list": [
+      "https://photo-meituan.cdn.bcebos.com/photo/1737788873ac5825d7986d7fee3620ff09dba78f69"
+    ]
+  }
+]

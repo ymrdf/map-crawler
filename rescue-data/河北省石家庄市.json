@@ -1,0 +1,117 @@
+[
+  {
+    "name": "119消防救援",
+    "location": {
+      "lat": 38.033536,
+      "lng": 114.483268
+    },
+    "address": "石家庄市桥西区中华南大街河北省公安厅中华南大街生活区东南侧约100米",
+    "province": "河北省",
+    "city": "石家庄市",
+    "area": "桥西区",
+    "detail": 1,
+    "uid": "dbfee395d27b726c901fc920",
+    "cover": "https://pic-map.cdn.bcebos.com/img/687e0e20eec877a0c712fc80a4c42066",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/687e0e20eec877a0c712fc80a4c42066"
+    ]
+  },
+  {
+    "name": "运通汽修救援",
+    "location": {
+      "lat": 38.338475,
+      "lng": 114.734409
+    },
+    "address": "石家庄市新乐市机场路红星印刷厂北门",
+    "province": "河北省",
+    "city": "石家庄市",
+    "area": "新乐市",
+    "telephone": "13582187432",
+    "detail": 1,
+    "uid": "135a34ae61981342b020a876",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ead0dc5f7f0c841a4ddcfd4bb9593544.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ead0dc5f7f0c841a4ddcfd4bb9593544.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6839bbc4e7989141dd247abe295c3120.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_b438cf690084dc9b0a962813e2103783.jpg",
+      "https://taojin-his.cdn.bcebos.com/5bafa40f4bfbfbed11d8297c77f0f736afc31f2b.jpg"
+    ]
+  },
+  {
+    "name": "石家庄市栾城区消防救援大队",
+    "location": {
+      "lat": 37.9078,
+      "lng": 114.669347
+    },
+    "address": "河北省石家庄市栾城区栾武路55号",
+    "province": "河北省",
+    "city": "石家庄市",
+    "area": "栾城区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "1f20a63131d667ce246e9893",
+    "cover": "https://taojin-his.cdn.bcebos.com/574e9258d109b3de3f2824c7c2bf6c81810a4c8e.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/574e9258d109b3de3f2824c7c2bf6c81810a4c8e.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_fdcb11ac1f949e9c1477a56868bf9b13.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_3eb33aa905026d2d29eaa36b99ffe853.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2fb510941b8ebec555d9a5ae80979dbc.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7e58017f1d8ae46dd03e9435c9d95365.jpeg"
+    ]
+  },
+  {
+    "name": "无极县消防救援大队",
+    "location": {
+      "lat": 38.134941,
+      "lng": 114.963938
+    },
+    "address": "石家庄市无极县G515御景国际北侧约220米",
+    "province": "河北省",
+    "city": "石家庄市",
+    "area": "无极县",
+    "street_id": "",
+    "detail": 1,
+    "uid": "f1ad9df815e24d5a0bccdd12",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_eb375c8008fd8376f1c77d4f96d291b4.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=f1ad9df815e24d5a0bccdd12&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0018f8efa1edfa5e54d1c03ce5fcbbda.jpg"
+    ]
+  },
+  {
+    "name": "高山汽修救援",
+    "location": {
+      "lat": 38.254085,
+      "lng": 114.463845
+    },
+    "address": "石家庄市正定县S201艾贝尔幼儿园西北侧约190米",
+    "province": "河北省",
+    "city": "石家庄市",
+    "area": "正定县",
+    "detail": 1,
+    "uid": "82f413a7dbf1fedf363a7191",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_da5c1eb9236ec71e7d5bcdc1cc85639c.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_da5c1eb9236ec71e7d5bcdc1cc85639c.jpeg"
+    ]
+  },
+  {
+    "name": "元氏县消防救援大队",
+    "location": {
+      "lat": 37.781086,
+      "lng": 114.544528
+    },
+    "address": "河北省石家庄市元氏县盛元路16号",
+    "province": "河北省",
+    "city": "石家庄市",
+    "area": "元氏县",
+    "street_id": "",
+    "detail": 1,
+    "uid": "82bc0d496e01b40ab020a834",
+    "cover": "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_350d52a9835756d3bab1450095ecd692.jpg",
+    "photo_list": [
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_350d52a9835756d3bab1450095ecd692.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5fe44bde0bcb46937ac49fc2b8a62303.jpeg"
+    ]
+  }
+]

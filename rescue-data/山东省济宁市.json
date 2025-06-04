@@ -1,0 +1,173 @@
+[
+  {
+    "name": "枣菏三江道路救援有限公司",
+    "location": {
+      "lat": 35.130084,
+      "lng": 116.782726
+    },
+    "address": "山东省济宁市微山县S104",
+    "province": "山东省",
+    "city": "济宁市",
+    "area": "微山县",
+    "street_id": "",
+    "detail": 1,
+    "uid": "26a08f5c37236a70ab0dd8ff",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B5fe00e71a1a17d83a.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B5fe00e71a1a17d83a.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B663d924ab122613d9d.jpeg"
+    ]
+  },
+  {
+    "name": "济宁市消防救援支队",
+    "location": {
+      "lat": 35.435184,
+      "lng": 116.612902
+    },
+    "address": "山东省济宁市任城区金宇路56号",
+    "province": "山东省",
+    "city": "济宁市",
+    "area": "任城区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "4d43aa293a79d47f17b54b8a",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B6698836c4615a114e1.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B6698836c4615a114e1.jpeg"
+    ]
+  },
+  {
+    "name": "邹城无名救援队",
+    "location": {
+      "lat": 35.38288,
+      "lng": 117.24039
+    },
+    "address": "济宁市邹城市S319",
+    "province": "山东省",
+    "city": "济宁市",
+    "area": "邹城市",
+    "detail": 1,
+    "uid": "ce74ab83fd30ad96aeb22a6e",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d9708424aad077ea53bcfb2b7842dee3.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d9708424aad077ea53bcfb2b7842dee3.jpeg"
+    ]
+  },
+  {
+    "name": "金乡安泰道路救援中心",
+    "location": {
+      "lat": 35.030673,
+      "lng": 116.318327
+    },
+    "address": "济宁市金乡县金司路",
+    "province": "山东省",
+    "city": "济宁市",
+    "area": "金乡县",
+    "detail": 1,
+    "uid": "f119ed634b2f1ba079dbd2e3",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_1b0581769f505aeb8d5a8629bc1b9da8.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1b0581769f505aeb8d5a8629bc1b9da8.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 35.412607,
+      "lng": 116.571224
+    },
+    "address": "山东省济宁市任城区古槐街道济安桥北路169号",
+    "province": "山东省",
+    "city": "济宁市",
+    "area": "任城区",
+    "street_id": "68cf95fb2918584a343a71fd",
+    "detail": 1,
+    "uid": "68cf95fb2918584a343a71fd",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a46cc4ba8651b3ee5fb6561ddca95fcb.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=68cf95fb2918584a343a71fd&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8ae799660851e9a5e391829f5d001e0e.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b553f6d7b6cb93a21d8fcfe0f0cd1ca7.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_79b2d350524241690c57b85a6dbece33.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_56181491da3a987abeb9a5021aaa71f3.jpeg"
+    ]
+  },
+  {
+    "name": "济宁市应急救援支队",
+    "location": {
+      "lat": 35.435924,
+      "lng": 116.612641
+    },
+    "address": "济宁市任城区金宇路34号",
+    "province": "山东省",
+    "city": "济宁市",
+    "area": "任城区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "8c69d2e8b5f63662a8f0cdaf",
+    "cover": "https://taojin-his.cdn.bcebos.com/6a600c338744ebf8a62adba3dcf9d72a6159a7d7.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/6a600c338744ebf8a62adba3dcf9d72a6159a7d7.jpg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 35.446677,
+      "lng": 116.607337
+    },
+    "address": "济宁市任城区任城大道翠都国际1期",
+    "province": "山东省",
+    "city": "济宁市",
+    "area": "任城区",
+    "detail": 1,
+    "uid": "969e76704a3d93e428d7abe4",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_8f6268f2a9fc95144f1f21a45b1a4d0f.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8f6268f2a9fc95144f1f21a45b1a4d0f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b2042a82d5f624711400376ea0687145.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8a70ef55e81c1297edf7480ae96cc69b.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a6d8c5c93309077a67ab7cd265208da8.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_dbcbab7bfdca0214841ede6f72b490a4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f9f1fd0dab7f43e651062dc12a8b3616.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 35.435355,
+      "lng": 116.5747
+    },
+    "address": "济宁市任城区连菏线兆丰雅苑西侧约30米",
+    "province": "山东省",
+    "city": "济宁市",
+    "area": "任城区",
+    "detail": 1,
+    "uid": "c57b92da33f20fc6a3a9344b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_8f4066c65738292df9a0abbe3684d8c7.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8f4066c65738292df9a0abbe3684d8c7.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3896e67c0000d0bc87439af5c866489e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_90aa48a7359caf4431f400d101987a4a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b41b76f9e980f020b39751aece9fd6c5.jpeg"
+    ]
+  },
+  {
+    "name": "张庄镇应急救援站",
+    "location": {
+      "lat": 35.38073,
+      "lng": 117.246672
+    },
+    "address": "济宁市邹城市S319与顺河路交叉路口往东约210米",
+    "province": "山东省",
+    "city": "济宁市",
+    "area": "邹城市",
+    "telephone": "(0537)5710001",
+    "detail": 1,
+    "uid": "510ce2001bf53a4f82a12ee1",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d4786846ba419a8e83ec5a6477fe92a3.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d4786846ba419a8e83ec5a6477fe92a3.jpeg"
+    ]
+  }
+]

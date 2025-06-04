@@ -1,0 +1,136 @@
+[
+  {
+    "name": "华顺救援",
+    "location": {
+      "lat": 23.060316,
+      "lng": 113.09639
+    },
+    "address": "广东省佛山市禅城区兴旺大道14号",
+    "province": "广东省",
+    "city": "佛山市",
+    "area": "禅城区",
+    "street_id": "04e5eb69b7f587d41de999aa",
+    "telephone": "13413295551,13542558666",
+    "detail": 1,
+    "uid": "04e5eb69b7f587d41de999aa",
+    "cover": "https://taojin-his.cdn.bcebos.com/54fbb2fb43166d225f4c3a3b482309f79052d261.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=04e5eb69b7f587d41de999aa&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0d559d0eeaf47a272c952fef755d425b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d67a90b1308c85604385c77cc43f906f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9b530236e722552f986f2d64ddf3f12e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1c93d4e973316d7f7b1b101dab006577.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ca62370a63d6040bc0ac6681d1f324fa.jpg"
+    ]
+  },
+  {
+    "name": "菠萝救援",
+    "location": {
+      "lat": 23.134267,
+      "lng": 113.010984
+    },
+    "address": "佛山市南海区狮山镇红星路口东区3号楼",
+    "province": "广东省",
+    "city": "佛山市",
+    "area": "南海区",
+    "detail": 1,
+    "uid": "ae910c4089f1465b9d82ea62",
+    "cover": "https://taojin-his.cdn.bcebos.com/b812c8fcc3cec3fd143947ddd888d43f87942717.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/b812c8fcc3cec3fd143947ddd888d43f87942717.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B65b5ee13807931345c.jpeg"
+    ]
+  },
+  {
+    "name": "顺德区保城汽车救援服务有限公司",
+    "location": {
+      "lat": 22.895247,
+      "lng": 113.242438
+    },
+    "address": "佛山市顺德区新熹北二横路与新熹二路北交叉路口往东北约120米",
+    "province": "广东省",
+    "city": "佛山市",
+    "area": "顺德区",
+    "telephone": "(0757)23620738",
+    "detail": 1,
+    "uid": "735f779d54811498223bf22e",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B645f3eb19e5c6166cb.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B645f3eb19e5c6166cb.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B645f3eb19e4c2119c7.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cf4787ffaffb15674c552c2793c09404.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 22.852571,
+      "lng": 113.016671
+    },
+    "address": "佛山市南海区九江大道荣基嘉园北侧约80米",
+    "province": "广东省",
+    "city": "佛山市",
+    "area": "南海区",
+    "detail": 1,
+    "uid": "57dd06e3d503da11bb17e7a9",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_092455e952995a94dbb63effbe2be455.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_092455e952995a94dbb63effbe2be455.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6e20d79a5c6ca4cb2caa540c2be562d0.jpeg"
+    ]
+  },
+  {
+    "name": "佛山市禅城区祖庙消防救援站",
+    "location": {
+      "lat": 23.032858,
+      "lng": 113.109899
+    },
+    "address": "广东省佛山市禅城区城门头西路14号",
+    "province": "广东省",
+    "city": "佛山市",
+    "area": "禅城区",
+    "detail": 1,
+    "uid": "d68c3b0f13d1ca3c75e5b6f8",
+    "cover": "https://pic-map.cdn.bcebos.com/img/7b4a05313895e1907f6f2569969fa2dd",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/7b4a05313895e1907f6f2569969fa2dd"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 22.995652,
+      "lng": 113.124371
+    },
+    "address": "佛山市禅城区金澜南路广龙商厦东北侧约230米",
+    "province": "广东省",
+    "city": "佛山市",
+    "area": "禅城区",
+    "detail": 1,
+    "uid": "7e36b474fc36069123f017ca",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_49990b6d90c7af51f6674c467f15fde8.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_49990b6d90c7af51f6674c467f15fde8.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_efc3ef144ce6b5defd01878a6e710e63.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B67500774bdf3d16dd8.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 22.745926,
+      "lng": 113.266197
+    },
+    "address": "佛山市顺德区西堤路中国石化(佛山顺德桂洲供销加油站)北侧约270米",
+    "province": "广东省",
+    "city": "佛山市",
+    "area": "顺德区",
+    "street_id": "7c6e9dd410aefcd788fc0639",
+    "detail": 1,
+    "uid": "7c6e9dd410aefcd788fc0639",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_949151843c8b3a47000b0e426b805100.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=7c6e9dd410aefcd788fc0639&width=720&height=360&quality=80&fovx=120"
+    ]
+  }
+]

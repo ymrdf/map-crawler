@@ -1,0 +1,134 @@
+[
+  {
+    "name": "蓝天救援",
+    "location": {
+      "lat": 33.325598,
+      "lng": 117.329752
+    },
+    "address": "蚌埠市固镇县谷阳路谷阳花园西南侧约40米",
+    "province": "安徽省",
+    "city": "蚌埠市",
+    "area": "固镇县",
+    "detail": 1,
+    "uid": "8def3ded4cc173f62102203f",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_1f03ace02f827cd42eb7537cedf6ae8d.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1f03ace02f827cd42eb7537cedf6ae8d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ed47566e0faab67013dfa47d7d8602f9.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a0c86389b9d55cf600fce3f680e8db19.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B67b921e7ccf2e92f5.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b1a86afdd9e6ade67da5d019e418e535.jpeg"
+    ]
+  },
+  {
+    "name": "安徽捷奥汽车救援服务有限公司",
+    "location": {
+      "lat": 33.287596,
+      "lng": 117.338812
+    },
+    "address": "蚌埠市固镇县灵均路与新马桥路交叉路口往西北约160米",
+    "province": "安徽省",
+    "city": "蚌埠市",
+    "area": "固镇县",
+    "detail": 1,
+    "uid": "0d05595e12fe58223617dcd7",
+    "cover": "https://pic-map.cdn.bcebos.com/img/1efa2c9d9eed82e7355178e6fbd6adb9",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/1efa2c9d9eed82e7355178e6fbd6adb9"
+    ]
+  },
+  {
+    "name": "蚌埠市蚌山区南山消防救援站",
+    "location": {
+      "lat": 32.949627,
+      "lng": 117.371003
+    },
+    "address": "安徽省蚌埠市蚌山区青年街道南山路138号",
+    "province": "安徽省",
+    "city": "蚌埠市",
+    "area": "蚌山区",
+    "detail": 1,
+    "uid": "1a2dd6af9698eb566b49f3b2",
+    "cover": "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_3f1bd1ae02c34a7996e18b48eae4d45c.jpg",
+    "photo_list": [
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_3f1bd1ae02c34a7996e18b48eae4d45c.jpg"
+    ]
+  },
+  {
+    "name": "蚌埠市环球物流有限公司道路救援服务中心",
+    "location": {
+      "lat": 32.9476,
+      "lng": 117.328237
+    },
+    "address": "安徽省蚌埠市禹会区胜利西路999号",
+    "province": "安徽省",
+    "city": "蚌埠市",
+    "area": "禹会区",
+    "telephone": "18009653267",
+    "detail": 1,
+    "uid": "3a30afbb590d5dad5dd4feb0",
+    "cover": "https://pic-map.cdn.bcebos.com/img/c4baec8df55784f6ed288f1533877a8d",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/c4baec8df55784f6ed288f1533877a8d"
+    ]
+  },
+  {
+    "name": "畅通救援",
+    "location": {
+      "lat": 32.869104,
+      "lng": 117.316826
+    },
+    "address": "蚌埠市禹会区繁荣路蚌埠国际汽车城",
+    "province": "安徽省",
+    "city": "蚌埠市",
+    "area": "禹会区",
+    "telephone": "18255297729,18375519222",
+    "detail": 1,
+    "uid": "52ffa59f3dc4ea912fb17e31",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_efa5c9b3ec2eda00ebcb6221020b4c8b.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_efa5c9b3ec2eda00ebcb6221020b4c8b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3063778a96302a2f6d0df299b8fadf43.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_97094031435162f0070fd860ac0456ea.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6a49980b2f44360d1ea978ef6e6cd840.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65a4ae0c0d4bc867e.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65a4ae0bd215e339b.jpeg"
+    ]
+  },
+  {
+    "name": "淮上区沫河口消防救援站",
+    "location": {
+      "lat": 33.001706,
+      "lng": 117.577378
+    },
+    "address": "蚌埠市淮上区金漴路与开源大道交叉路口往北约250米",
+    "province": "安徽省",
+    "city": "蚌埠市",
+    "area": "淮上区",
+    "detail": 1,
+    "uid": "ac2f1d2fc78df712e6073884",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_61b2133d4602952c244bf99ed3e0d30d.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_61b2133d4602952c244bf99ed3e0d30d.jpeg"
+    ]
+  },
+  {
+    "name": "五河蓝天救援队",
+    "location": {
+      "lat": 33.133802,
+      "lng": 117.870501
+    },
+    "address": "蚌埠市五河县惠民路与龙岗路交叉路口往北约170米",
+    "province": "安徽省",
+    "city": "蚌埠市",
+    "area": "五河县",
+    "detail": 1,
+    "uid": "1be8696269014a7716c90598",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_8aa4866480381ae015ac06a7709d84c4.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8aa4866480381ae015ac06a7709d84c4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ba471edbb3473b46967166eca464a61e.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9a8fa615e6cb0a1570397eb4a61de0d8.jpg"
+    ]
+  }
+]

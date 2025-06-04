@@ -1,0 +1,74 @@
+[
+  {
+    "name": "元盛拖车送油救援中心",
+    "location": {
+      "lat": 26.876353,
+      "lng": 100.225161
+    },
+    "address": "云南省丽江市古城区西安街道裕安路433",
+    "province": "云南省",
+    "city": "丽江市",
+    "area": "古城区",
+    "detail": 1,
+    "uid": "640a191e344b201c43e1920f",
+    "cover": "https://pic-map.cdn.bcebos.com/img/229edeee44221323a89401606fa5fcfd",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/229edeee44221323a89401606fa5fcfd"
+    ]
+  },
+  {
+    "name": "永胜保通道路救援服务有限公司",
+    "location": {
+      "lat": 26.634958,
+      "lng": 100.753036
+    },
+    "address": "云南省丽江市永胜县G353",
+    "province": "云南省",
+    "city": "丽江市",
+    "area": "永胜县",
+    "detail": 1,
+    "uid": "5dc25e58aa7bdeeb6240a9ba",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_7cfde99bc8b61b140a3f90ec967272e5.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7cfde99bc8b61b140a3f90ec967272e5.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6666c25315fc5ae59.jpeg"
+    ]
+  },
+  {
+    "name": "丽江直升机空中游览基地",
+    "location": {
+      "lat": 26.969015,
+      "lng": 100.246444
+    },
+    "address": "丽江市玉龙纳西族自治县白沙乡白沙机场航空护林站",
+    "province": "云南省",
+    "city": "丽江市",
+    "area": "玉龙纳西族自治县",
+    "detail": 1,
+    "uid": "9307d4f2dcad55834207c16f",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_85e1bfca21463cd86e91bdd476e2f003.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_85e1bfca21463cd86e91bdd476e2f003.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5d5531781d40ebdbd915d9f64edf400e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_dcab84fe22e722ea0525a99ddcae68ba.jpeg",
+      "https://pic-map.cdn.bcebos.com/img/1bd593c370e183f6161970aa99e6dbbf"
+    ]
+  },
+  {
+    "name": "云南众安应急救援服务有限公司",
+    "location": {
+      "lat": 26.907747,
+      "lng": 100.220678
+    },
+    "address": "丽江市古城区清溪路锦上坊小区(2)南侧约260米",
+    "province": "云南省",
+    "city": "丽江市",
+    "area": "古城区",
+    "detail": 1,
+    "uid": "d5254febfbbb5ef9c03644e7",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_54ae5848a7732beda002787ccbdc919c.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_54ae5848a7732beda002787ccbdc919c.jpeg"
+    ]
+  }
+]

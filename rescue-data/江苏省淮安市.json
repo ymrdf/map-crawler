@@ -1,0 +1,64 @@
+[
+  {
+    "name": "淮安小杨道路救援有限公司",
+    "location": {
+      "lat": 33.591199,
+      "lng": 119.132378
+    },
+    "address": "江苏省淮安市清江浦区飞耀路与红豆路交叉路口往南约200米",
+    "province": "江苏省",
+    "city": "淮安市",
+    "area": "清江浦区",
+    "detail": 1,
+    "uid": "035892cfba45a1798bb988f6",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_617bf59371eb9deecf81547ac509ed58.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c46d3e8665ce788063a50cb502a89530.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65b73c5cd507517a36.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65b721201e01e5331.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b4cb6eeae1278ca0ac186739a97b3e30.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_248df75b1974cac44aec44677c71b62c.png",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5c25d02f92a35d20076c9d77c4a2e83b.jpeg"
+    ]
+  },
+  {
+    "name": "流均镇应急救援大队",
+    "location": {
+      "lat": 33.446924,
+      "lng": 119.517265
+    },
+    "address": "淮安市淮安区Y494流均镇人民政府西南侧",
+    "province": "江苏省",
+    "city": "淮安市",
+    "area": "淮安区",
+    "detail": 1,
+    "uid": "1d07062b6c1bccd0acee7a7b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_025e6fd378ad880daf7b3c70d90fbf26.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_025e6fd378ad880daf7b3c70d90fbf26.jpeg"
+    ]
+  },
+  {
+    "name": "淮安市淮畅道路救援有限公司",
+    "location": {
+      "lat": 33.692582,
+      "lng": 119.03784
+    },
+    "address": "淮高路棉花鑫园小区",
+    "province": "江苏省",
+    "city": "淮安市",
+    "area": "淮阴区",
+    "telephone": "13952342222",
+    "detail": 1,
+    "uid": "c4ff8f7f8f3f266bf603b876",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B62ce318593bf911292.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B62ce318593bf911292.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/f845fe24000a3b0cd6f96b0e1e08931e_7243.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/7f7fc86e0a0564807c61ca8ae3abbb08_9561.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/0d8e94b57a1af18d750d9ea35505dcbe_1757.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/6fc3b8e05d287bc651c66bb2539f5278_2336.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/055658dbc70cfd7548932702a7981f7a_3576.jpeg"
+    ]
+  }
+]

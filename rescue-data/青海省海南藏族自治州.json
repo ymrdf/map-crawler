@@ -1,0 +1,74 @@
+[
+  {
+    "name": "道路救援华顺汽修",
+    "location": {
+      "lat": 36.283294,
+      "lng": 100.615297
+    },
+    "address": "海南藏族自治州共和县切吉西路海南州人民医院西侧约230米",
+    "province": "青海省",
+    "city": "海南藏族自治州",
+    "area": "共和县",
+    "detail": 1,
+    "uid": "b8e09b55a34980f43a13fdad",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_be61344936c7aedf4b1fc25a5f247090.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_be61344936c7aedf4b1fc25a5f247090.jpeg"
+    ]
+  },
+  {
+    "name": "宏源小汽车配件修理中心24小时救援",
+    "location": {
+      "lat": 36.403476,
+      "lng": 100.972781
+    },
+    "address": "青海省海南藏族自治州共和县G214(西景线)",
+    "province": "青海省",
+    "city": "海南藏族自治州",
+    "area": "共和县",
+    "telephone": "15297161171",
+    "detail": 1,
+    "uid": "683ef17f252bda642902e1c1",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B64a3fc6b43952882a.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B64a3fc6b43952882a.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B64a3fc6b417a9f460.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B64a3fc6b42e37fdde.jpeg"
+    ]
+  },
+  {
+    "name": "小谢汽摩维修补胎救援",
+    "location": {
+      "lat": 36.58195,
+      "lng": 100.495207
+    },
+    "address": "海南藏族自治州共和县唐蕃路瑞祥智能酒店东侧约80米",
+    "province": "青海省",
+    "city": "海南藏族自治州",
+    "area": "共和县",
+    "telephone": "18194779168",
+    "detail": 1,
+    "uid": "0684bbe9d4a983f6c5effb97",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B6602bbe7109959401.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B6602bbe7109959401.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 36.296669,
+      "lng": 100.626727
+    },
+    "address": "海南藏族自治州共和县青海湖北大街共和县中学北侧约90米",
+    "province": "青海省",
+    "city": "海南藏族自治州",
+    "area": "共和县",
+    "detail": 1,
+    "uid": "df3c5e42de41eaf15c17c34c",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_11a77731f5ec33130099a3f2ffe7e40d.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_11a77731f5ec33130099a3f2ffe7e40d.jpg"
+    ]
+  }
+]

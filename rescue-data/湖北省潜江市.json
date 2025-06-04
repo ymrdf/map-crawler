@@ -1,0 +1,19 @@
+[
+  {
+    "name": "领航换油中心(升华名车维修)",
+    "location": {
+      "lat": 30.419184,
+      "lng": 112.912374
+    },
+    "address": "湖北省潜江市潜阳东路26号",
+    "province": "湖北省",
+    "city": "潜江市",
+    "area": "",
+    "detail": 1,
+    "uid": "6657b1f6cb5e0f8ba3acc4f1",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B65d09b8b6c9469b17.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B65d09b8b6c9469b17.jpeg"
+    ]
+  }
+]

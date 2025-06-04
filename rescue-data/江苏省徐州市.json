@@ -1,0 +1,67 @@
+[
+  {
+    "name": "救援指挥中心",
+    "location": {
+      "lat": 33.903367,
+      "lng": 117.954497
+    },
+    "address": "徐州市睢宁县元府中路锦绣华庭东侧约70米",
+    "province": "江苏省",
+    "city": "徐州市",
+    "area": "睢宁县",
+    "street_id": "5e8f0d910855cc3ecb213d18",
+    "detail": 1,
+    "uid": "5e8f0d910855cc3ecb213d18",
+    "cover": "https://poi-pic.cdn.bcebos.com/313918392f1ac8867ccbb32c78946aa6.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=5e8f0d910855cc3ecb213d18&width=720&height=360&quality=80&fovx=120",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_bdf3b783837577473ad39b14ce230368.jpg",
+      "https://taojin-his.cdn.bcebos.com/6f061d950a7b0208a48b3ee86dd9f2d3572cc87d.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_5f3ede87d397f4fd1228c2605825b533.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cfde676076c243f6e9f6abc5bccbd350.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2702f6f729b0f6cdfbb0a74455519bf6.jpg"
+    ]
+  },
+  {
+    "name": "徐州市泉山区矿山路消防救援站",
+    "location": {
+      "lat": 34.273346,
+      "lng": 117.152977
+    },
+    "address": "江苏省徐州市泉山区和平街道西苑中路10号",
+    "province": "江苏省",
+    "city": "徐州市",
+    "area": "泉山区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "8a33e6eb6f7feb860e3dda6f",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_20d4ad7aa8a78e8c33844d6df8cf984f.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_20d4ad7aa8a78e8c33844d6df8cf984f.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2d1cec31423144c0cee8d319456cd997.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7a6fb484ca7499ac9cb87522d6d01d0e.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_20798fd47d877602f91d23e9100eca43.jpg"
+    ]
+  },
+  {
+    "name": "徐州苏畅道路救援服务有限公司",
+    "location": {
+      "lat": 33.910114,
+      "lng": 117.901898
+    },
+    "address": "徐州市睢宁县幸福路幸福家园",
+    "province": "江苏省",
+    "city": "徐州市",
+    "area": "睢宁县",
+    "telephone": "15312661265,18805221699",
+    "detail": 1,
+    "uid": "982ce0f40a4d89d04151c095",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_8cccdcd8bb67cda39da42d6096e21ce2.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8cccdcd8bb67cda39da42d6096e21ce2.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B643c3f5eed38840a3.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B643c3d46d2788ffe5.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B64367b2b473a218003.jpeg"
+    ]
+  }
+]

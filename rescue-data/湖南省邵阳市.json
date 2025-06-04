@@ -1,0 +1,171 @@
+[
+  {
+    "name": "邵阳市联安道路救援服务有限公司",
+    "location": {
+      "lat": 27.259505,
+      "lng": 111.497544
+    },
+    "address": "邵阳市双清区下河线金罗湾国际商贸城西侧约150米",
+    "province": "湖南省",
+    "city": "邵阳市",
+    "area": "双清区",
+    "detail": 1,
+    "uid": "267c8e055ea85cc682a12ee8",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_e05a5771f5be032dbb16f105f34a9bac.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e05a5771f5be032dbb16f105f34a9bac.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 26.455339,
+      "lng": 110.856109
+    },
+    "address": "邵阳市新宁县大兴路新宁德康医院东南侧约30米",
+    "province": "湖南省",
+    "city": "邵阳市",
+    "area": "新宁县",
+    "street_id": "7bf38a4ab36c612bfb42b258",
+    "detail": 1,
+    "uid": "7bf38a4ab36c612bfb42b258",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a3c28c990a536fafb0719df1d9d4d140.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=7bf38a4ab36c612bfb42b258&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "八方救援",
+    "location": {
+      "lat": 26.441015,
+      "lng": 110.842943
+    },
+    "address": "湖南省邵阳市新宁县金石镇下马石村",
+    "province": "湖南省",
+    "city": "邵阳市",
+    "area": "新宁县",
+    "detail": 1,
+    "uid": "700f461c079d5a717c29bd87",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_51d08f34006e5a1efcb268005f843958.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_51d08f34006e5a1efcb268005f843958.jpeg"
+    ]
+  },
+  {
+    "name": "洞口县消防救援大队",
+    "location": {
+      "lat": 27.074575,
+      "lng": 110.599427
+    },
+    "address": "湖南省邵阳市洞口县蔡锷北路(思源学校对面)",
+    "province": "湖南省",
+    "city": "邵阳市",
+    "area": "洞口县",
+    "detail": 1,
+    "uid": "33b20a0f940d317f0c3ddafc",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B632479bc5b4ab6ad7.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B632479bc5b4ab6ad7.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B632479cd7839b6a64.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B632479abb1d796295.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2ebd1ebb0407d3e2960ed3d65ac8c03b.jpeg"
+    ]
+  },
+  {
+    "name": "武冈市东升路消防救援站",
+    "location": {
+      "lat": 26.746862,
+      "lng": 110.648875
+    },
+    "address": "湖南省邵阳市武冈市东升北路38号",
+    "province": "湖南省",
+    "city": "邵阳市",
+    "area": "武冈市",
+    "street_id": "42826486da26d022b13c8123",
+    "detail": 1,
+    "uid": "42826486da26d022b13c8123",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_6b3b95f4de7298f0d1145b006a4142b2.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=42826486da26d022b13c8123&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2dc1090548b29eb68d00f9014cd37ffe.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_633ccb04c49fad6d316675fe0f111fc3.jpeg"
+    ]
+  },
+  {
+    "name": "邵东市产业园消防救援站",
+    "location": {
+      "lat": 27.23499,
+      "lng": 111.775574
+    },
+    "address": "湖南省邵阳市邵东市X020(衡宝路)",
+    "province": "湖南省",
+    "city": "邵阳市",
+    "area": "邵东市",
+    "detail": 1,
+    "uid": "b16315617a7bb24a94ec84ec",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_df00bd93e621b566c0c609170ea67d36.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_df00bd93e621b566c0c609170ea67d36.jpeg"
+    ]
+  },
+  {
+    "name": "大祥区消防救援大队",
+    "location": {
+      "lat": 27.22473,
+      "lng": 111.455167
+    },
+    "address": "邵阳市大祥区双园路城南卫生院东南侧约30米",
+    "province": "湖南省",
+    "city": "邵阳市",
+    "area": "大祥区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "3fef1afd19f39d47d72ce2e0",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_cf8a04f75b074f531238cfdf289772e1.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cf8a04f75b074f531238cfdf289772e1.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65f537ad3ece495f9.jpeg"
+    ]
+  },
+  {
+    "name": "洞口县雪峰消防救援站",
+    "location": {
+      "lat": 27.075355,
+      "lng": 110.599499
+    },
+    "address": "邵阳市洞口县蔡锷北路湖南省洞口思源实验学校南侧约80米",
+    "province": "湖南省",
+    "city": "邵阳市",
+    "area": "洞口县",
+    "detail": 1,
+    "uid": "87f9b0ecf47eb556343a7171",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_4c883a3197b0b34758d01ecb86c1d8c4.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4c883a3197b0b34758d01ecb86c1d8c4.jpg"
+    ]
+  },
+  {
+    "name": "邵东市消防救援大队",
+    "location": {
+      "lat": 27.26186,
+      "lng": 111.741861
+    },
+    "address": "湖南省邵阳市邵东市衡宝路800号",
+    "province": "湖南省",
+    "city": "邵阳市",
+    "area": "邵东市",
+    "street_id": "",
+    "telephone": "(0739)2715590",
+    "detail": 1,
+    "uid": "025acf8a214dbaad9868b454",
+    "cover": "https://taojin-his.cdn.bcebos.com/cefc1e178a82b901a66bfc147e8da9773812efd7.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/cefc1e178a82b901a66bfc147e8da9773812efd7.jpg",
+      "https://taojin-his.cdn.bcebos.com/f603918fa0ec08fa4591361955ee3d6d54fbdafe.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4e0a282285d62ff65cd52693cf5a86db.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e0b2708eba7d77d03ed4e9c26b9a046e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cabc8f4524490bc98b42a183d7615774.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_06cc2a3dcc020127a0f5889706a22398.jpeg"
+    ]
+  }
+]

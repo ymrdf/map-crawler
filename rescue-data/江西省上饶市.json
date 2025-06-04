@@ -1,0 +1,104 @@
+[
+  {
+    "name": "上饶市消防救援支队搜救犬分队",
+    "location": {
+      "lat": 28.406022,
+      "lng": 118.122084
+    },
+    "address": "上饶市广丰区苗兴路丽祥瑞门窗东侧约120米",
+    "province": "江西省",
+    "city": "上饶市",
+    "area": "广丰区",
+    "detail": 1,
+    "uid": "9c4e3fbb7e3bfddd631809ef",
+    "cover": "https://pic-map.cdn.bcebos.com/img/d8e3d096f789552145dad2d223f3d4d2",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/d8e3d096f789552145dad2d223f3d4d2"
+    ]
+  },
+  {
+    "name": "广信蓝天救援队",
+    "location": {
+      "lat": 28.438444,
+      "lng": 117.935646
+    },
+    "address": "上饶市广信区惟义路天湖府邸南侧约100米",
+    "province": "江西省",
+    "city": "上饶市",
+    "area": "广信区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "166885ce6ab66b78343a7107",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_c5cecc51fdfbb632baec5b30ce3a66f2.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c5cecc51fdfbb632baec5b30ce3a66f2.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_04a81ad6c8c02ad43c0b65e147561c6f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2b909d1c011432c97b08848302cdb921.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_25ab92e427ac7a8b8be265bada5a6203.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0b7da29201285aaa6e035ea744a1890d.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5415a29586644882de633c15f615411a.jpg"
+    ]
+  },
+  {
+    "name": "上饶市紧急救援中心",
+    "location": {
+      "lat": 28.449461,
+      "lng": 117.980778
+    },
+    "address": "江西省上饶市信州区金龙岗路28号",
+    "province": "江西省",
+    "city": "上饶市",
+    "area": "信州区",
+    "detail": 1,
+    "uid": "4608cd399ba4484c3a13fde3",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_88a4f4438b35186ba1205d6828004df6.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_88a4f4438b35186ba1205d6828004df6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_87045a8c355be6ac374e537f31d67523.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a4d9c6e95f3b2849011dcbe60f546078.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_902d2d60a9711d4c6cfcf74b2c83467f.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B662665a21b08a2da4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_02f85fbdf6f99f3e09125465dd22a3de.jpeg"
+    ]
+  },
+  {
+    "name": "上饶市信州区解放路消防救援站",
+    "location": {
+      "lat": 28.452457,
+      "lng": 117.967917
+    },
+    "address": "江西省上饶市信州区解放路229号",
+    "province": "江西省",
+    "city": "上饶市",
+    "area": "信州区",
+    "street_id": "dd2042e27aa44f1a42ab9ac8",
+    "detail": 1,
+    "uid": "dd2042e27aa44f1a42ab9ac8",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_bae5334a01b99c58df66a1d606be477e.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=dd2042e27aa44f1a42ab9ac8&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bf520292ed0d6461bf322a5ae288a9f7.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_28b17c7d5cdb3bfd67f4a7f1ed709a53.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B659a00068b8f1dd6e.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65d1569d2725314789.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65d1569d96fcec6e1.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 28.98994,
+      "lng": 116.680523
+    },
+    "address": "上饶市鄱阳县新民路新民小区南侧约80米",
+    "province": "江西省",
+    "city": "上饶市",
+    "area": "鄱阳县",
+    "detail": 1,
+    "uid": "8e3dab1244ed36620b69d908",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d581a43d0dab0ffdb729858ff0b34255.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d581a43d0dab0ffdb729858ff0b34255.jpg"
+    ]
+  }
+]

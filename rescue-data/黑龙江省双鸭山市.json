@@ -1,0 +1,82 @@
+[
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 46.586726,
+      "lng": 131.156872
+    },
+    "address": "双鸭山市岭东区兴东大道博爱园",
+    "province": "黑龙江省",
+    "city": "双鸭山市",
+    "area": "岭东区",
+    "detail": 1,
+    "uid": "8c7cb2ec0013f2a09ee321ed",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a38b707541856160c880174714a28cce.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a38b707541856160c880174714a28cce.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_080295b4779bb451651f7c38212f9351.jpeg"
+    ]
+  },
+  {
+    "name": "龙双高新汽车拖车困境救援公司",
+    "location": {
+      "lat": 46.64127,
+      "lng": 131.162621
+    },
+    "address": "双鸭山市尖山区新兴大街黑龙江煤炭职业技术学院(尖山学区)西南侧约70米",
+    "province": "黑龙江省",
+    "city": "双鸭山市",
+    "area": "尖山区",
+    "detail": 1,
+    "uid": "43261249e465788228b97cbd",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_65fd3c89c48303ad665efe514c03b3f9.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_65fd3c89c48303ad665efe514c03b3f9.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_765632cfe3a219a0ef6ea0364c22e158.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_7d88695b7aee3426a2c2e5c7b81d2ee0.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e6dd9b96233c9cadaa2a90a3db35c401.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cfce11994379849f54061fc207029c9c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_617bfaeb927ca9a3964e16860b4444b3.jpeg"
+    ]
+  },
+  {
+    "name": "宝清县消防救援大队",
+    "location": {
+      "lat": 46.335003,
+      "lng": 132.192038
+    },
+    "address": "双鸭山市宝清县永发路县第二高中西北侧约80米",
+    "province": "黑龙江省",
+    "city": "双鸭山市",
+    "area": "宝清县",
+    "detail": 1,
+    "uid": "a4692ff52d235221cc06a481",
+    "cover": "https://pic-map.cdn.bcebos.com/img/ce63ba4ff981871b0109c66131c5b963",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/ce63ba4ff981871b0109c66131c5b963"
+    ]
+  },
+  {
+    "name": "路安救援",
+    "location": {
+      "lat": 46.731996,
+      "lng": 131.139511
+    },
+    "address": "双鸭山市集贤县友谊街淞翔铭座",
+    "province": "黑龙江省",
+    "city": "双鸭山市",
+    "area": "集贤县",
+    "telephone": "13946694123,18403828777",
+    "detail": 1,
+    "uid": "a802a611c6e2c7b8c3364435",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_3db5fc751032943aea3ce9c9dc954650.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3db5fc751032943aea3ce9c9dc954650.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_073d3068eb9ab05639b33a0464902ceb.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6b49ca61cf6ae3356a9aee16e8570220.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6213a0c9221caf04a78c7bb2dfdaa646.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f8b0c4d77fc3900168a38581d84d23aa.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1b8f8924d5d063d8ca5f5af47287d559.jpeg"
+    ]
+  }
+]

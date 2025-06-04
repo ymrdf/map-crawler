@@ -1,0 +1,124 @@
+[
+  {
+    "name": "上海市消防总队杨浦支队翔殷中队",
+    "location": {
+      "lat": 31.313497,
+      "lng": 121.544488
+    },
+    "address": "上海市杨浦区翔殷路354号上海市消防总队杨浦支队",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "杨浦区",
+    "street_id": "",
+    "telephone": "(021)55234119",
+    "detail": 1,
+    "uid": "0758a60d1e7847da9de32149",
+    "cover": "https://taojin-his.cdn.bcebos.com/b21c8701a18b87d6ad5c1fbf0d0828381f30fd70.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/b21c8701a18b87d6ad5c1fbf0d0828381f30fd70.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6216cc0c36405292c72e5202a8994bbd.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4e682a436ed1575ae25d9e23039a4171.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a6a19866831cc6bd9083a50031f2a2a8.jpeg"
+    ]
+  },
+  {
+    "name": "上海市杨浦区应急救援支队",
+    "location": {
+      "lat": 31.281979,
+      "lng": 121.537236
+    },
+    "address": "上海市杨浦区周家嘴路3097号",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "杨浦区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "7721d06d079685fe04026f33",
+    "cover": "https://taojin-his.cdn.bcebos.com/c8177f3e6709c93d5606b668943df8dcd00054bc.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/c8177f3e6709c93d5606b668943df8dcd00054bc.jpg",
+      "https://taojin-his.cdn.bcebos.com/b219ebc4b74543a9a6b303ce10178a82b9011403.jpg",
+      "https://taojin-his.cdn.bcebos.com/adaf2edda3cc7cd9c7d723973401213fb90e9181.jpg",
+      "https://taojin-his.cdn.bcebos.com/64380cd7912397ddf986a7885082b2b7d1a287ba.jpg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 31.281981,
+      "lng": 121.537268
+    },
+    "address": "上海市杨浦区周家嘴路六达苑西南侧",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "杨浦区",
+    "street_id": "d24b9e8fd91ef2ae6cc02c57",
+    "detail": 1,
+    "uid": "d24b9e8fd91ef2ae6cc02c57",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_1bd5efb7633b1239ef5f775f4ee1f623.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=d24b9e8fd91ef2ae6cc02c57&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "胜喆汽修补胎搭电拖车救援",
+    "location": {
+      "lat": 31.362209,
+      "lng": 121.459579
+    },
+    "address": "上海市宝山区江一西路江杨水产品批发市场",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "宝山区",
+    "telephone": "13170020151",
+    "detail": 1,
+    "uid": "726a1d2df7ed852f9b005024",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_45a1a0aacbb8be3bd80f6ef6a3557934.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_45a1a0aacbb8be3bd80f6ef6a3557934.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B662c78b7a97ed528a.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B662c78b7f08cae717.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_31c0823f46addd996354deb6bad62a80.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 31.269355,
+      "lng": 121.528956
+    },
+    "address": "上海市杨浦区怀德路明园村小区东北侧",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "杨浦区",
+    "detail": 1,
+    "uid": "636acc22d43e6523364aae9d",
+    "cover": "https://pic-map.cdn.bcebos.com/img/b1d89b21a67efe39754bfb07f246a104",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/b1d89b21a67efe39754bfb07f246a104"
+    ]
+  },
+  {
+    "name": "梦缘补胎搭电拖车道路救援",
+    "location": {
+      "lat": 31.270346,
+      "lng": 121.48607
+    },
+    "address": "上海市虹口区宝山路858号",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "虹口区",
+    "telephone": "13215522769",
+    "detail": 1,
+    "uid": "1307137b865dce5bc9c3db98",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_eb8d0e3851e31ab565b39b02c48cab6c.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_eb8d0e3851e31ab565b39b02c48cab6c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0d30a9bfe30032010f917978e1a7213e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ed89735914766d8d980ae2f80691c9f4.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_672b1cf6a1ab93d032c67b2321fabae8.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_69cd4cec3d1fd9c41d71c9ebf92a80aa.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a10aa8295718151c6fa865d7a3bbd327.jpeg"
+    ]
+  }
+]

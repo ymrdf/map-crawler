@@ -1,0 +1,140 @@
+[
+  {
+    "name": "中国平安救援集团",
+    "location": {
+      "lat": 47.336478,
+      "lng": 123.969393
+    },
+    "address": "齐齐哈尔市龙沙区兴顺路南市场小区东南侧约130米",
+    "province": "黑龙江省",
+    "city": "齐齐哈尔市",
+    "area": "龙沙区",
+    "detail": 1,
+    "uid": "5eb770cfd08af74b704b876b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_5b912d18b2fd44bc7b76207d6a551567.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5b912d18b2fd44bc7b76207d6a551567.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6680eb3f85056be6b.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B67befecc1758c107ed.jpeg"
+    ]
+  },
+  {
+    "name": "大鹏轮胎修理救援",
+    "location": {
+      "lat": 48.467485,
+      "lng": 124.84767
+    },
+    "address": "黑龙江省齐齐哈尔市讷河市途安物流院内",
+    "province": "黑龙江省",
+    "city": "齐齐哈尔市",
+    "area": "讷河市",
+    "detail": 1,
+    "uid": "9fb0fc0cfaa59b8c4207c124",
+    "cover": "https://pic-map.cdn.bcebos.com/img/e80a58909f1459051016489ba9a97664",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/e80a58909f1459051016489ba9a97664"
+    ]
+  },
+  {
+    "name": "齐齐哈尔消防队",
+    "location": {
+      "lat": 47.338255,
+      "lng": 123.936079
+    },
+    "address": "黑龙江省齐齐哈尔市龙沙区安顺路93号",
+    "province": "黑龙江省",
+    "city": "齐齐哈尔市",
+    "area": "龙沙区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "988f418422cc0a6da1046429",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_e31408de8a759bc149fb9f8d3efa2253.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e31408de8a759bc149fb9f8d3efa2253.jpeg"
+    ]
+  },
+  {
+    "name": "中国平安救援集团",
+    "location": {
+      "lat": 48.048735,
+      "lng": 125.882437
+    },
+    "address": "齐齐哈尔市克山县北环东路置泰·美莱湾三期东北侧约120米",
+    "province": "黑龙江省",
+    "city": "齐齐哈尔市",
+    "area": "克山县",
+    "detail": 1,
+    "uid": "c671b6d0cbb39035f03cba81",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_335364705c616b9c34d3facdf767a5c8.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_335364705c616b9c34d3facdf767a5c8.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ccd95a7f921c39b922b2fe38ede50f3c.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B662b0ee81217c182ab.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B66889a5701f8d44a6.jpeg"
+    ]
+  },
+  {
+    "name": "齐齐哈尔市铁锋区红旗路消防救援站",
+    "location": {
+      "lat": 47.346255,
+      "lng": 124.015652
+    },
+    "address": "齐齐哈尔市铁锋区警卫街警卫小区西南侧约40米",
+    "province": "黑龙江省",
+    "city": "齐齐哈尔市",
+    "area": "铁锋区",
+    "detail": 1,
+    "uid": "93ec09e2141bdaa688f15df9",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_832817c7e62065c6e04f64fc4049921c.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_832817c7e62065c6e04f64fc4049921c.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_444dc691a61c3c29ea295d450c670097.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2b9a1c11b63475f0eb6d6e2051a190c5.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bbbf1f1e41c2ec066a109baedd099780.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7e31454b67189120918b4747379e0cce.jpeg"
+    ]
+  },
+  {
+    "name": "小徐汽车修理道路救援",
+    "location": {
+      "lat": 47.381996,
+      "lng": 124.017783
+    },
+    "address": "黑龙江省齐齐哈尔市建华区明海公路凤凰汽配城32号楼123室",
+    "province": "黑龙江省",
+    "city": "齐齐哈尔市",
+    "area": "建华区",
+    "telephone": "15663330773,18249284883",
+    "detail": 1,
+    "uid": "9b9797520b848408d3ff239a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_b4154957de01eccce5d6b2a24a3fa7c4.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b4154957de01eccce5d6b2a24a3fa7c4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_74bfad6dc34ae3922a04b3478a5ff56d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_be46c127261b9d1e0d9dddf3a3ccc458.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ac7fa0f0f2a73a9613ccab0c3fe0b87e.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B667b47e48e9de698b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_dcbc7e8a0718575830816e1ee5d07da1.jpeg"
+    ]
+  },
+  {
+    "name": "锦鸿汽车电器修理救援",
+    "location": {
+      "lat": 47.331345,
+      "lng": 123.202591
+    },
+    "address": "齐齐哈尔市龙江县庆华巷与通齐街交叉路口往东南约170米",
+    "province": "黑龙江省",
+    "city": "齐齐哈尔市",
+    "area": "龙江县",
+    "telephone": "13100925050",
+    "detail": 1,
+    "uid": "92b38fb73d5f6839f623108f",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_61683a504d675927f43d59bbd66b90f0.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_61683a504d675927f43d59bbd66b90f0.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6a0903d5130adb253ac65efa06976dca.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8a4665a9c6602d962642185ff139f9fc.jpeg"
+    ]
+  }
+]

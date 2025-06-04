@@ -1,0 +1,94 @@
+[
+  {
+    "name": "珠海斗门区蓝天救援",
+    "location": {
+      "lat": 22.192582,
+      "lng": 113.332055
+    },
+    "address": "珠海市斗门区湖滨二路珠海市公安局西区森林派出所",
+    "province": "广东省",
+    "city": "珠海市",
+    "area": "斗门区",
+    "detail": 1,
+    "uid": "d2b7d3e40871282815c905dd",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_534f1c8a9e552a19ef0b6ce6779ee91c.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_534f1c8a9e552a19ef0b6ce6779ee91c.jpeg"
+    ]
+  },
+  {
+    "name": "珠海市香洲区拱北消防救援站",
+    "location": {
+      "lat": 22.224136,
+      "lng": 113.555439
+    },
+    "address": "广东省珠海市香洲区桂花南路珠海帝澜思酒店",
+    "province": "广东省",
+    "city": "珠海市",
+    "area": "香洲区",
+    "detail": 1,
+    "uid": "694dace93da9d3d67369d363",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_1810572d5255ade5c2ecfe84f2b8391b.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1810572d5255ade5c2ecfe84f2b8391b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0b3265c3397d1df8829e4ecdc33f1a34.jpeg"
+    ]
+  },
+  {
+    "name": "兴利汽修配件救援",
+    "location": {
+      "lat": 22.236291,
+      "lng": 113.285813
+    },
+    "address": "广东省珠海市斗门区井岸镇濠门工业大道麦芽厂桥头西14号(西湾市场对面)",
+    "province": "广东省",
+    "city": "珠海市",
+    "area": "斗门区",
+    "street_id": "",
+    "telephone": "13697708122",
+    "detail": 1,
+    "uid": "5513b69ea0bfa22b51e5c586",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B5f4e1bc3ee443da84.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B5f4e1bc3ee443da84.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/2a75f648e3aa94012319024d84f15d64_4701.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 22.225757,
+      "lng": 113.199609
+    },
+    "address": "广东省珠海市斗门区斗门大道博乐幼儿园西北侧约120米",
+    "province": "广东省",
+    "city": "珠海市",
+    "area": "斗门区",
+    "detail": 1,
+    "uid": "b64bf9594be8aff3c9fa5fc7",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_8412caf01643013c468587eeef84c230.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8412caf01643013c468587eeef84c230.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B62fa0ede3e4afdb30.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_24f1ee8aa6b3b665bd7d42fc99633ed6.jpeg"
+    ]
+  },
+  {
+    "name": "珠海市斗门区斗门专职消防救援站",
+    "location": {
+      "lat": 22.229401,
+      "lng": 113.203185
+    },
+    "address": "广东省珠海市斗门区X582(斗门大道)",
+    "province": "广东省",
+    "city": "珠海市",
+    "area": "斗门区",
+    "detail": 1,
+    "uid": "f0d3cef109657c3d2bd7ab49",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B615d04a24f0c48b41.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B615d04a24f0c48b41.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f39be0934707fe8f52587543e107d226.jpeg"
+    ]
+  }
+]

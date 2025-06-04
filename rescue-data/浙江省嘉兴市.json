@@ -1,0 +1,136 @@
+[
+  {
+    "name": "嘉兴市嘉顺道路救援服务有限公司",
+    "location": {
+      "lat": 30.694581,
+      "lng": 120.687309
+    },
+    "address": "浙江省嘉兴市秀洲区嘉洪大道758号",
+    "province": "浙江省",
+    "city": "嘉兴市",
+    "area": "秀洲区",
+    "telephone": "(0573)83348803,13705738971,18705737868",
+    "detail": 1,
+    "uid": "de1d66d4ad444fa1343a71b5",
+    "cover": "https://taojin-his.cdn.bcebos.com/8326cffc1e178a82237e2a27fe03738da877e8f3.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/8326cffc1e178a82237e2a27fe03738da877e8f3.jpg"
+    ]
+  },
+  {
+    "name": "海宁海豹救援队",
+    "location": {
+      "lat": 30.549364,
+      "lng": 120.704276
+    },
+    "address": "嘉兴市海宁市由拳路与西山路交叉口往北500米左右中心路2号",
+    "province": "浙江省",
+    "city": "嘉兴市",
+    "area": "海宁市",
+    "detail": 1,
+    "uid": "db3e6b9d654e3af93686f4a0",
+    "cover": "https://pic-map.cdn.bcebos.com/img/2c2c11d735edfdd5887a7e9d8118257a",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/2c2c11d735edfdd5887a7e9d8118257a"
+    ]
+  },
+  {
+    "name": "利刃救援",
+    "location": {
+      "lat": 30.517576,
+      "lng": 120.923878
+    },
+    "address": "嘉兴市海盐县曲秀路上城·春天里",
+    "province": "浙江省",
+    "city": "嘉兴市",
+    "area": "海盐县",
+    "detail": 1,
+    "uid": "2969051018a08cdf5a3ac8dd",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_94b451db3c5c9bbbf71a2c1998e43f25.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_94b451db3c5c9bbbf71a2c1998e43f25.jpeg",
+      "https://taojin-his.cdn.bcebos.com/dcc451da81cb39dbebd63dd0de160924ab183025.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2ed11e7f24ddee9697266d814ddd6f63.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6cbe6b427989e3345a25523acc9c27c5.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c5c3b99cba5dc89ef925b05e47e39aad.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B653120f712d891617d.jpeg"
+    ]
+  },
+  {
+    "name": "滴滴出行租买车官方授权店(橙澈秀园路店)",
+    "location": {
+      "lat": 30.763855,
+      "lng": 120.691813
+    },
+    "address": "浙江省嘉兴市秀洲区秀园路620号",
+    "province": "浙江省",
+    "city": "嘉兴市",
+    "area": "秀洲区",
+    "telephone": "13136220333",
+    "detail": 1,
+    "uid": "91dae25d3e61af1b770269d5",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B667e523eb57706890.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B667e523eb57706890.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B667e522913841f0e6.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B66793b5063079139cf.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B66793b4fc0152185e4.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B66793b4fb3092eedb.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B66751062d149a1563f.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 30.818208,
+      "lng": 120.756142
+    },
+    "address": "浙江省嘉兴市秀洲区秀水大道与东方北路交叉口西320米",
+    "province": "浙江省",
+    "city": "嘉兴市",
+    "area": "秀洲区",
+    "detail": 1,
+    "uid": "fbc8b84b107611d53c9a5e0a",
+    "cover": "https://pic-map.cdn.bcebos.com/img/7ac022fc6f4843a8272ed6c948856e81",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/7ac022fc6f4843a8272ed6c948856e81"
+    ]
+  },
+  {
+    "name": "洪合消防救援站",
+    "location": {
+      "lat": 30.692371,
+      "lng": 120.654482
+    },
+    "address": "浙江省嘉兴市秀洲区塘濮路",
+    "province": "浙江省",
+    "city": "嘉兴市",
+    "area": "秀洲区",
+    "detail": 1,
+    "uid": "3a1334b6e6857e4d9c09f78c",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B6321475b22bc0161f9.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B6321475b22bc0161f9.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6321474686d96b961.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6321475547a059df7.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8054edd37dec23a0c6be335be4f1549b.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 30.708998,
+      "lng": 120.63711
+    },
+    "address": "嘉兴市秀洲区嘉桐线与寺浜路交叉路口往东南约120米",
+    "province": "浙江省",
+    "city": "嘉兴市",
+    "area": "秀洲区",
+    "detail": 1,
+    "uid": "89f7e546ad60a63f90114c36",
+    "cover": "https://pic-map.cdn.bcebos.com/img/26fb606f6b07b4d31fae0d59883d8ec4",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/26fb606f6b07b4d31fae0d59883d8ec4"
+    ]
+  }
+]

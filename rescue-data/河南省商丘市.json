@@ -1,0 +1,190 @@
+[
+  {
+    "name": "流动补胎道路救援",
+    "location": {
+      "lat": 34.369525,
+      "lng": 115.90062
+    },
+    "address": "河南省商丘市虞城县343国道与林庄路口",
+    "province": "河南省",
+    "city": "商丘市",
+    "area": "虞城县",
+    "detail": 1,
+    "uid": "4a3a1eef3ffbde6671455bd8",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B66e831ad1e8f917ec3.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B66e831ad1e8f917ec3.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65a07947a38394605.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B64f7cdb497ea052b2.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B647344743b2a058d3.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B64733a177959a10a24.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a9bcb34d57d38f24bd97e23e6a6332ef.jpeg"
+    ]
+  },
+  {
+    "name": "24小时汽车救援",
+    "location": {
+      "lat": 34.401271,
+      "lng": 115.665423
+    },
+    "address": "商丘市睢阳区香君路阳光水榭花都",
+    "province": "河南省",
+    "city": "商丘市",
+    "area": "睢阳区",
+    "street_id": "042fce9e8515d6efd22dd689",
+    "telephone": "4000166996",
+    "detail": 1,
+    "uid": "042fce9e8515d6efd22dd689",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_da3bf9512959110bd1461fe8b68bdf83.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=042fce9e8515d6efd22dd689&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e32e07aa148ea6659d47f302ddf23e8b.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_4ebd7dac5e0cbdb0fd92a911daffcb9b.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6bc286b80cdb5da755714d82a2e5c0e8.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a93a3c6b4cf553fa9c3c1df133b9264c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d5d9b0be4b6aa597953033d77e8eab5a.jpeg"
+    ]
+  },
+  {
+    "name": "汽车救援",
+    "location": {
+      "lat": 34.463202,
+      "lng": 115.597776
+    },
+    "address": "商丘市梁园区金桥北路商丘市宸羽幼儿园北侧约210米",
+    "province": "河南省",
+    "city": "商丘市",
+    "area": "梁园区",
+    "telephone": "15839007546,15896930789",
+    "detail": 1,
+    "uid": "a58cd085349a6048cafa5f3d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_720f337b6eb5d6ba6b668e5fae716efc.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_720f337b6eb5d6ba6b668e5fae716efc.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_90e934d1646dbd750bb0066b370ab2de.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9a51c4fdf767534d0eaeef43206b781e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3035ca6db3fc077cc6ffa45d2d2db4ae.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5cd63125d19f367eed9a3a4ff5f1c15b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a33eb0b55d72d236a1466f1de6027d5e.jpeg"
+    ]
+  },
+  {
+    "name": "柘城蓝天救援队",
+    "location": {
+      "lat": 34.104296,
+      "lng": 115.292484
+    },
+    "address": "商丘市柘城县学苑路南丁格尔公园西南侧约80米",
+    "province": "河南省",
+    "city": "商丘市",
+    "area": "柘城县",
+    "detail": 1,
+    "uid": "ee9078b0de785f6438221cf0",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_b27a34fe335cc8516a13b78657765458.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b27a34fe335cc8516a13b78657765458.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3df20921c4df9e566ebe6cd152cf92a6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1397fcc7d78d2c060fd881aa200b0636.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 34.442335,
+      "lng": 115.322551
+    },
+    "address": "商丘市宁陵县金山路城郊客运站西南侧约40米",
+    "province": "河南省",
+    "city": "商丘市",
+    "area": "宁陵县",
+    "detail": 1,
+    "uid": "2212473ae1a6d6ed26d2bb0b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d5dfb4bd0ac3dc80dd3f8c4449f4e6d0.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d5dfb4bd0ac3dc80dd3f8c4449f4e6d0.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c6ce25304106a63dd9f5fe238f21953d.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c400f1113df8fc55e7dd9352c5e50576.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_839563e9eec4f9392baefd5123726716.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0319b0050cbd3a3ff332239b41b2c15e.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B667b78a83b1374e77.jpeg"
+    ]
+  },
+  {
+    "name": "协友道路救援有限公司",
+    "location": {
+      "lat": 34.412033,
+      "lng": 115.819018
+    },
+    "address": "商丘市虞城县仓颉大道虞城豫东商业广场",
+    "province": "河南省",
+    "city": "商丘市",
+    "area": "虞城县",
+    "telephone": "13083701100,13781420067,18737053768",
+    "detail": 1,
+    "uid": "521e8a9083ac4c7c6240a9a5",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B6676473016b0fe834.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B6676473016b0fe834.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B664f5428bdcc0140eb.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/5af82f747bc5fb5acfa4cd9015bcce35_9230.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/ea65d116389e4ccadda1c0a84139c2f4_8567.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/7a4008287dd5428bc45cf405db824360_5854.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/9681abd3cc9232d8ed506707882e5c3a_8428.jpeg"
+    ]
+  },
+  {
+    "name": "永城市蓝天救援队",
+    "location": {
+      "lat": 33.928689,
+      "lng": 116.451477
+    },
+    "address": "河南省商丘市永城市百花路98号",
+    "province": "河南省",
+    "city": "商丘市",
+    "area": "永城市",
+    "detail": 1,
+    "uid": "6fcf277e4717fd2cbfa82224",
+    "cover": "https://pic-map.cdn.bcebos.com/img/2c4f61b8e1f95ddb95d8f37d04da7eaa",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/2c4f61b8e1f95ddb95d8f37d04da7eaa"
+    ]
+  },
+  {
+    "name": "海底救援队",
+    "location": {
+      "lat": 34.462051,
+      "lng": 115.671772
+    },
+    "address": "光复路商丘人民公园天隆游乐园",
+    "province": "河南省",
+    "city": "商丘市",
+    "area": "梁园区",
+    "detail": 1,
+    "uid": "0036bc9ac1bc9764c5effbf1",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a3537b5971d175e433347992e9064795.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a3537b5971d175e433347992e9064795.jpeg"
+    ]
+  },
+  {
+    "name": "全通汽车救援",
+    "location": {
+      "lat": 34.428843,
+      "lng": 115.603205
+    },
+    "address": "商丘市睢阳区金桥南路与红星路交叉路口往东约60米",
+    "province": "河南省",
+    "city": "商丘市",
+    "area": "睢阳区",
+    "telephone": "13140549999",
+    "detail": 1,
+    "uid": "f825ac572935b7cf4354d74e",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_2801cba16fd588755086442358eb62b6.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2801cba16fd588755086442358eb62b6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0bbc8ae3bf4e36230cddac95c315530c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a20a1798757ca2dcf23f6a8508c4d0fe.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_912ba5fe4ffea3d812195b0d378533bd.jpeg"
+    ]
+  }
+]

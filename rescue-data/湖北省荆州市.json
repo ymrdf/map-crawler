@@ -1,0 +1,134 @@
+[
+  {
+    "name": "交通救援",
+    "location": {
+      "lat": 30.159572,
+      "lng": 111.797682
+    },
+    "address": "荆州市松滋市同心路与荆松一级路交叉路口往西南约210米",
+    "province": "湖北省",
+    "city": "荆州市",
+    "area": "松滋市",
+    "detail": 1,
+    "uid": "2e3679f048448c983686f410",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_18e326e76b5801e950239d3a6602f93f.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_18e326e76b5801e950239d3a6602f93f.jpg"
+    ]
+  },
+  {
+    "name": "湖北安迅道路救援有限公司",
+    "location": {
+      "lat": 30.358985,
+      "lng": 112.241448
+    },
+    "address": "湖北省荆州市荆州区草郊路36号",
+    "province": "湖北省",
+    "city": "荆州市",
+    "area": "荆州区",
+    "detail": 1,
+    "uid": "9f4ecd7195b45974b54f54e4",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B6438261e514cb139ce.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B6438261e514cb139ce.jpeg"
+    ]
+  },
+  {
+    "name": "荆州市红十字应急救援中心",
+    "location": {
+      "lat": 30.366578,
+      "lng": 112.308919
+    },
+    "address": "湖北省荆州市沙市区青藜路128号",
+    "province": "湖北省",
+    "city": "荆州市",
+    "area": "沙市区",
+    "detail": 1,
+    "uid": "b2c0f11854e5a823acee7a36",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B6257c20a60a8e17aa4.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B6257c20a60a8e17aa4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_be221305897911f144360cca12a1ee38.jpeg"
+    ]
+  },
+  {
+    "name": "荆州市消防救援支队中山中队",
+    "location": {
+      "lat": 30.337855,
+      "lng": 112.255723
+    },
+    "address": "荆州市沙市区塔桥路荆州新天地西南侧约40米",
+    "province": "湖北省",
+    "city": "荆州市",
+    "area": "沙市区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "643d0eb6f3e120b02cb9089f",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_354592e23cd4aa4e69689ee73c507084.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_354592e23cd4aa4e69689ee73c507084.jpeg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_b7c067d667cb725786233d9da1244a6c.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_fe7db36d93db0572fbc728eb11efa41c.jpeg"
+    ]
+  },
+  {
+    "name": "松滋市应急救援大队",
+    "location": {
+      "lat": 30.17044,
+      "lng": 111.776194
+    },
+    "address": "湖北省荆州市松滋市高成大道94号",
+    "province": "湖北省",
+    "city": "荆州市",
+    "area": "松滋市",
+    "street_id": "",
+    "detail": 1,
+    "uid": "5d57a417f5cbb09426d2bb59",
+    "cover": "https://taojin-his.cdn.bcebos.com/b7fd5266d0160924b53b2effd30735fae6cd3433.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/b7fd5266d0160924b53b2effd30735fae6cd3433.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_dcb949937207bd0816c95d2ff45d51b6.jpeg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_3c2a16ea9f35e9881910c745f04c523e.jpg",
+      "https://taojin-his.cdn.bcebos.com/d833c895d143ad4b14056bb48d025aafa40f069e.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_34ffef9613a7f0799d66613f4547ee6c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c126e032bbf910b03f929227809bdde7.jpeg"
+    ]
+  },
+  {
+    "name": "湖北省铁骑应急救援公安大队",
+    "location": {
+      "lat": 30.100639,
+      "lng": 112.205913
+    },
+    "address": "荆州市公安县乌海线中国石化(新区加油站)西北侧约70米",
+    "province": "湖北省",
+    "city": "荆州市",
+    "area": "公安县",
+    "detail": 1,
+    "uid": "dcb19b1ca06f59979de32198",
+    "cover": "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_691232d374edb1fc96e433fe242f3e4f.jpg",
+    "photo_list": [
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_691232d374edb1fc96e433fe242f3e4f.jpg"
+    ]
+  },
+  {
+    "name": "荆州市荆州区关帝庙消防救援站",
+    "location": {
+      "lat": 30.355093,
+      "lng": 112.205697
+    },
+    "address": "荆州市荆州区迎宾路荆州市东方红中学(南校区)西北侧",
+    "province": "湖北省",
+    "city": "荆州市",
+    "area": "荆州区",
+    "detail": 1,
+    "uid": "dc731b82c4469a952fb9084e",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_9052c2ea8c4c6d5490d8c0cb76db65e4.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9052c2ea8c4c6d5490d8c0cb76db65e4.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B624d85a64274832d0.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_73fd52325186b769dfe7128ef075a3a0.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7cd472b2303dc74ab959e3f2ae907f36.jpeg"
+    ]
+  }
+]

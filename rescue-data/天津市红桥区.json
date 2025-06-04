@@ -1,0 +1,103 @@
+[
+  {
+    "name": "天津市救援拖运有限公司",
+    "location": {
+      "lat": 39.045352,
+      "lng": 117.639557
+    },
+    "address": "天津市滨海新区塘黄路翔鹤园西侧约50米",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "滨海新区",
+    "detail": 1,
+    "uid": "4dd8df6233fd0450ad31e553",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_488c0670056dbfb373c65169969440e9.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_488c0670056dbfb373c65169969440e9.jpeg"
+    ]
+  },
+  {
+    "name": "苹果救援",
+    "location": {
+      "lat": 39.151913,
+      "lng": 117.174974
+    },
+    "address": "豪维通讯城西门楼梯上二楼直走到头A288",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "红桥区",
+    "telephone": "18522233777",
+    "detail": 1,
+    "uid": "b3273c201aa75b4bb9df8fe1",
+    "cover": "https://photo-meituan.cdn.bcebos.com/photo/1737018714b17f161af6da53ade9c98232e06895a8",
+    "photo_list": [
+      "https://photo-meituan.cdn.bcebos.com/photo/1737018714b17f161af6da53ade9c98232e06895a8",
+      "https://lbsugc.cdn.bcebos.com/images/B65b3325b428b980d5.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65b3325b48390169fb.jpeg"
+    ]
+  },
+  {
+    "name": "益车坊维修救援",
+    "location": {
+      "lat": 39.167904,
+      "lng": 117.131129
+    },
+    "address": "营雅路营和园东南侧约40米",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "红桥区",
+    "street_id": "1f65bd9e5f51f8f6c7f50d9c",
+    "telephone": "18522071862",
+    "detail": 1,
+    "uid": "1f65bd9e5f51f8f6c7f50d9c",
+    "cover": "https://photo-meituan.cdn.bcebos.com/photo/17337986914f4b446b6866217f5646ad0b2a853c9d",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=1f65bd9e5f51f8f6c7f50d9c&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0f8108cb8ac2958aa4d78f49599d8c6d.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65f537c91d3cee42c.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B663c596f51df84fc7.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 39.155322,
+      "lng": 117.190029
+    },
+    "address": "天津市红桥区南运河南路估衣街",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "红桥区",
+    "detail": 1,
+    "uid": "9ecc0c41e30d6a6d85420efa",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_de09abad4acc1e93d6e50f6f3bfd8411.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_de09abad4acc1e93d6e50f6f3bfd8411.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2744cf0cb34aa979f572d2c1814cf4e4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ac6f5db6d937d9258cfd94736769b92e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_57d65e54d30aa9cc401b1d6b53e9cb77.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c255845dd26f7ec25208c9f3e0c0332d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_92329070092a05351c534d36764bbfae.jpeg"
+    ]
+  },
+  {
+    "name": "红桥区丁字沽消防救援站",
+    "location": {
+      "lat": 39.190513,
+      "lng": 117.158877
+    },
+    "address": "天津市红桥区丁字沽一号路七〇七所社区北侧约70米",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "红桥区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "b0692c32d26c616a57bffff9",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_b5c48386d4de0543d4d2e8b67f57f1eb.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b5c48386d4de0543d4d2e8b67f57f1eb.jpg",
+      "https://poi-pic.cdn.bcebos.com/b5c48386d4de0543d4d2e8b67f57f1eb.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_de014ae020e1b813fe7c17e9e85f9abf.jpeg"
+    ]
+  }
+]

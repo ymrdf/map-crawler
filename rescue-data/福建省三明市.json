@@ -1,0 +1,128 @@
+[
+  {
+    "name": "永安市蓝天救援服务中心",
+    "location": {
+      "lat": 25.976293,
+      "lng": 117.37316
+    },
+    "address": "三明市永安市燕南街道和平路魁星阁79号",
+    "province": "福建省",
+    "city": "三明市",
+    "area": "永安市",
+    "detail": 1,
+    "uid": "1e4a9127818f845900ff2dea",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_c01b2d5477bd31c35451fc6d8b1a04b1.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c01b2d5477bd31c35451fc6d8b1a04b1.jpeg"
+    ]
+  },
+  {
+    "name": "吉诺救援",
+    "location": {
+      "lat": 26.3082,
+      "lng": 117.653655
+    },
+    "address": "福建省三明市三元区陈大镇",
+    "province": "福建省",
+    "city": "三明市",
+    "area": "三元区",
+    "detail": 1,
+    "uid": "5e8c3ef10b2cca8c2b11d1d8",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B65a2336c06a5512f07.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B65a2336c06a5512f07.jpeg"
+    ]
+  },
+  {
+    "name": "119消防救援",
+    "location": {
+      "lat": 25.96494,
+      "lng": 117.369778
+    },
+    "address": "三明市永安市燕江南路城投幼儿园东侧约40米",
+    "province": "福建省",
+    "city": "三明市",
+    "area": "永安市",
+    "detail": 1,
+    "uid": "c221b12e8ea673d9223bf2f4",
+    "cover": "https://pic-map.cdn.bcebos.com/img/a6bdf167001d2bd942fe5ab21c008fd1",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/a6bdf167001d2bd942fe5ab21c008fd1"
+    ]
+  },
+  {
+    "name": "建兴救援有限公司",
+    "location": {
+      "lat": 26.827087,
+      "lng": 116.848894
+    },
+    "address": "三明市建宁县荷花西路建宁县智华中学北侧约30米",
+    "province": "福建省",
+    "city": "三明市",
+    "area": "建宁县",
+    "telephone": "17306989367,18459810668",
+    "detail": 1,
+    "uid": "52ede7206fce5dfc0782c2f2",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_513307cac30da4eff1d558683b03af8f.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_513307cac30da4eff1d558683b03af8f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ed8097ecaea5e97a1f87012349f4e607.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_644ef3278418fd3f268c12c11d892793.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6bba91b4a9be4ed2555e28110f5a036d.jpeg"
+    ]
+  },
+  {
+    "name": "三明市三元区消防救援大队",
+    "location": {
+      "lat": 26.237646,
+      "lng": 117.60595
+    },
+    "address": "福建省三明市三元区江滨南路176号",
+    "province": "福建省",
+    "city": "三明市",
+    "area": "三元区",
+    "detail": 1,
+    "uid": "0c5e7a64e5065248631c6781",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_f2cb7a8111926a4b8bbe62a270b1566e.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f2cb7a8111926a4b8bbe62a270b1566e.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_fcfad8d62fdb9067c1e46f6c33eb1a9a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d55a9ca04919097983d93808108dc348.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 26.279648,
+      "lng": 117.652483
+    },
+    "address": "三明市三元区东新五路三明闽旭大酒店(三明店)东侧约80米",
+    "province": "福建省",
+    "city": "三明市",
+    "area": "三元区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "48e3804f7941edcde9f853cb",
+    "cover": "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_f7949e4e00082c022fdaba476c4f1d27.jpg",
+    "photo_list": [
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_f7949e4e00082c022fdaba476c4f1d27.jpg"
+    ]
+  },
+  {
+    "name": "三明市消防支队重型机械工程救援大队",
+    "location": {
+      "lat": 26.247474,
+      "lng": 117.624639
+    },
+    "address": "三明市三元区白沙路一建·西江悦东南侧约110米",
+    "province": "福建省",
+    "city": "三明市",
+    "area": "三元区",
+    "detail": 1,
+    "uid": "948989732a4d38152811d18c",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_cf14277061417b267e10e7f381a84852.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cf14277061417b267e10e7f381a84852.jpeg"
+    ]
+  }
+]

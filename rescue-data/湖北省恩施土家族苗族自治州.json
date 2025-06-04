@@ -1,0 +1,98 @@
+[
+  {
+    "name": "恩施市润辉商贸有限公司",
+    "location": {
+      "lat": 30.309465,
+      "lng": 109.490589
+    },
+    "address": "湖北省恩施土家族苗族自治州恩施市学院路255号",
+    "province": "湖北省",
+    "city": "恩施土家族苗族自治州",
+    "area": "恩施市",
+    "telephone": "(0718)8259866,15871445140,17720429315",
+    "detail": 1,
+    "uid": "ad508276df69d50ffb22137a",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B60a6356395100f7cf.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B60a6356395100f7cf.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bc7b9e375deeda0cdb2af1beefa555e3.jpeg"
+    ]
+  },
+  {
+    "name": "鹤峰县消防救援大队",
+    "location": {
+      "lat": 29.894695,
+      "lng": 110.047629
+    },
+    "address": "湖北省恩施土家族苗族自治州鹤峰县容美镇九峰大道101",
+    "province": "湖北省",
+    "city": "恩施土家族苗族自治州",
+    "area": "鹤峰县",
+    "detail": 1,
+    "uid": "5bb49b66a34a0560f8f0cb15",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_f46fb42e640039c5d07ccd4382319852.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f46fb42e640039c5d07ccd4382319852.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f3a5a26108d59330ea2a36aa5b058b82.jpeg"
+    ]
+  },
+  {
+    "name": "建始县烟墩大道消防救援站",
+    "location": {
+      "lat": 30.627146,
+      "lng": 109.734483
+    },
+    "address": "湖北省恩施土家族苗族自治州建始县业州镇烟墩大道481号",
+    "province": "湖北省",
+    "city": "恩施土家族苗族自治州",
+    "area": "建始县",
+    "detail": 1,
+    "uid": "78101e1242636205c6effb42",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_04301332e1faf701693f26f591a7db23.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_04301332e1faf701693f26f591a7db23.jpeg"
+    ]
+  },
+  {
+    "name": "鑫荣轮胎行",
+    "location": {
+      "lat": 30.29736,
+      "lng": 109.496288
+    },
+    "address": "恩施土家族苗族自治州恩施市东风大道279号轮胎批发轮胎零售车辆保养四轮定位市内救援汽车补胎换胎电瓶更换",
+    "province": "湖北省",
+    "city": "恩施土家族苗族自治州",
+    "area": "恩施市",
+    "street_id": "",
+    "telephone": "(0718)8467511,13098479255",
+    "detail": 1,
+    "uid": "b89ab100cd827d251f389499",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_53ee43b4e74807c92b4c26ef94af91ec.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_53ee43b4e74807c92b4c26ef94af91ec.jpg",
+      "https://taojin-his.cdn.bcebos.com/caef76094b36acafa13479df71d98d1001e99c39.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_65021a6e11b66d01f67b4d429592d5a8.jpg",
+      "https://poi-pic.cdn.bcebos.com/40bfb165b47bbf1ef862c95f83752630.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/Hf11f3a292df5e0fe318550fe586034a85fdf72b4.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7175b59fa310f215297498cd5b73d871.jpeg"
+    ]
+  },
+  {
+    "name": "恩施市施州大道消防救援站",
+    "location": {
+      "lat": 30.305539,
+      "lng": 109.488387
+    },
+    "address": "恩施土家族苗族自治州恩施市施州大道清江中央国际东侧",
+    "province": "湖北省",
+    "city": "恩施土家族苗族自治州",
+    "area": "恩施市",
+    "detail": 1,
+    "uid": "43a881150a32005fcf06a404",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_e66a687cb58e474f1f1215a9c4653c3b.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e66a687cb58e474f1f1215a9c4653c3b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_eadb0c5bbc401b822bf1b6af8d199606.jpeg"
+    ]
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "name": "鄂州市发深汽车拖车有限公司",
+    "location": {
+      "lat": 30.404236,
+      "lng": 114.905791
+    },
+    "address": "鄂州市鄂城区凤凰路鄂州市新民街小学(凤凰校区)北侧约160米",
+    "province": "湖北省",
+    "city": "鄂州市",
+    "area": "鄂城区",
+    "detail": 1,
+    "uid": "253e23992220b7c2a1d230c3",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_beeef1fc8bd28c6dcf8e577ccf1a2c04.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_beeef1fc8bd28c6dcf8e577ccf1a2c04.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8c6e1ed45a46d5980ead4bdfce32a332.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a88d319242735d9c42d95806ab582483.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_dd49564b6f95df7572abfbda61c793c3.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ff9e57fbb86b374c648cbd2c118f0583.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_eb5dcf925acf293219af333bd8119cae.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 30.371336,
+      "lng": 114.884183
+    },
+    "address": "鄂州市鄂城区寿昌大道星光小区东北侧约40米",
+    "province": "湖北省",
+    "city": "鄂州市",
+    "area": "鄂城区",
+    "detail": 1,
+    "uid": "b65bcad4f6c5296732870a53",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_233604c1542f9124847fd13c2845f8b6.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_233604c1542f9124847fd13c2845f8b6.jpeg"
+    ]
+  },
+  {
+    "name": "鄂州消防支队",
+    "location": {
+      "lat": 30.371289,
+      "lng": 114.884244
+    },
+    "address": "湖北省鄂州市鄂城区寿昌大道18号",
+    "province": "湖北省",
+    "city": "鄂州市",
+    "area": "鄂城区",
+    "street_id": "30c52ebc67656495b4265507",
+    "detail": 1,
+    "uid": "30c52ebc67656495b4265507",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_233604c1542f9124847fd13c2845f8b6.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=30c52ebc67656495b4265507&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3a60cffc171891b4fbb8526ec3ab96d6.jpg"
+    ]
+  },
+  {
+    "name": "葛店消防救援",
+    "location": {
+      "lat": 30.543866,
+      "lng": 114.684451
+    },
+    "address": "鄂州市华容区聚贤路灵苗幼儿园西南侧约90米",
+    "province": "湖北省",
+    "city": "鄂州市",
+    "area": "华容区",
+    "detail": 1,
+    "uid": "8344cda27695bedddf1e5220",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_c3c877b314cba6b5fd1b0e1ce47081a1.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c3c877b314cba6b5fd1b0e1ce47081a1.jpg"
+    ]
+  },
+  {
+    "name": "鄂州市梁子湖区消防救援大队",
+    "location": {
+      "lat": 30.121949,
+      "lng": 114.678148
+    },
+    "address": "鄂州市梁子湖区鄂咸高速小太阳幼儿园东侧约160米",
+    "province": "湖北省",
+    "city": "鄂州市",
+    "area": "梁子湖区",
+    "detail": 1,
+    "uid": "d9fcbd89514b466b38221c43",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_1c8252a9c47811930ed88b69bf7c585f.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1c8252a9c47811930ed88b69bf7c585f.jpg"
+    ]
+  },
+  {
+    "name": "鄂州市鄂城区消防救援大队",
+    "location": {
+      "lat": 30.401076,
+      "lng": 114.897874
+    },
+    "address": "湖北省鄂州市鄂城区古城路46号(艾伦酒店旁)",
+    "province": "湖北省",
+    "city": "鄂州市",
+    "area": "鄂城区",
+    "detail": 1,
+    "uid": "1655d9ab024952bd04026fc6",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_385e01c31cf400f794a7d797e63df009.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_385e01c31cf400f794a7d797e63df009.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8386921b666e7555ea2adafd14740d4b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c6c7debb52bcf3e406e2c93b554bbf17.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_496e4d79d92f3f8a8f6f8598af1f82e6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_905677fc4d312829e9da4559cd37f288.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_41ae2ec6fa33c6ba655d760bb43864c4.jpeg"
+    ]
+  },
+  {
+    "name": "美利达自行车(鄂州专卖店)",
+    "location": {
+      "lat": 30.398366,
+      "lng": 114.895527
+    },
+    "address": "滨湖北路11-2号",
+    "province": "湖北省",
+    "city": "鄂州市",
+    "area": "鄂城区",
+    "street_id": "",
+    "telephone": "15871504652",
+    "detail": 1,
+    "uid": "09a539e71f16778ecac3db05",
+    "cover": "https://taojin-his.cdn.bcebos.com/f9198618367adab4875e16f282d4b31c8601e4f1.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/f9198618367adab4875e16f282d4b31c8601e4f1.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/H72f082025aafa40f218f7b73ac64034f79f019d6.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/Hd439b6003af33a87cbd000a2c05c10385243b5cc.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/H4a36acaf2edda3cc8811f08e06e93901203f92a3.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/Hdbb44aed2e738bd43efffa9fa68b87d6267ff946.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/H0b46f21fbe096b63a5bf9bf70f338744eaf8acf7.jpg"
+    ]
+  },
+  {
+    "name": "鑫盛达一站式汽车服务中心",
+    "location": {
+      "lat": 30.267889,
+      "lng": 115.050508
+    },
+    "address": "湖北省鄂州市鄂城区滨港路9号恒升数控大院内1号",
+    "province": "湖北省",
+    "city": "鄂州市",
+    "area": "鄂城区",
+    "telephone": "18607236999",
+    "detail": 1,
+    "uid": "4afc2b2777804683b2077da4",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a8422f8ad89ecd0e9fad03c44445d384.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a8422f8ad89ecd0e9fad03c44445d384.jpg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 30.54394,
+      "lng": 114.684363
+    },
+    "address": "鄂州市华容区聚贤路灵苗幼儿园西南侧约90米",
+    "province": "湖北省",
+    "city": "鄂州市",
+    "area": "华容区",
+    "detail": 1,
+    "uid": "addbc2ea82737705f7eafcb9",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_4d7256c0db31c1f41be411a307232ef0.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4d7256c0db31c1f41be411a307232ef0.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B664c359de477814e4d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_11e65ceca802817c0e4bae09845ae880.jpeg"
+    ]
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "name": "洛阳市神鹰救援队",
+    "location": {
+      "lat": 34.667326,
+      "lng": 112.418017
+    },
+    "address": "河南省洛阳市涧西区中州西路30号",
+    "province": "河南省",
+    "city": "洛阳市",
+    "area": "涧西区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "9002113a7411ca5b2911d163",
+    "cover": "https://taojin-his.cdn.bcebos.com/bba1cd11728b4710ad9162f9cacec3fdfc03234c.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/bba1cd11728b4710ad9162f9cacec3fdfc03234c.jpg",
+      "https://taojin-his.cdn.bcebos.com/cc11728b4710b912a819a366cbfdfc0393452249.jpg",
+      "https://taojin-his.cdn.bcebos.com/b21c8701a18b87d6ef1cdb870f0828381e30fdc8.jpg",
+      "https://taojin-his.cdn.bcebos.com/024f78f0f736afc37e46e34dbb19ebc4b745124b.jpg",
+      "https://taojin-his.cdn.bcebos.com/c995d143ad4bd113164300e55cafa40f4afb055e.jpg"
+    ]
+  },
+  {
+    "name": "24小时救援",
+    "location": {
+      "lat": 34.609215,
+      "lng": 112.465644
+    },
+    "address": "洛阳市洛龙区长兴街隆安富阳花园",
+    "province": "河南省",
+    "city": "洛阳市",
+    "area": "洛龙区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "c4af3f59a11bb0848605bfc0",
+    "cover": "https://taojin-his.cdn.bcebos.com/37d3d539b6003af33f79a6de3d2ac65c1138b648.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/37d3d539b6003af33f79a6de3d2ac65c1138b648.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7d33e9e40bc48be0646e3739b5c11fc8.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B60a21c3d1a7653b17.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 34.589887,
+      "lng": 112.396631
+    },
+    "address": "洛阳市洛龙区乐天街与牡丹大道交叉路口往东南约130米",
+    "province": "河南省",
+    "city": "洛阳市",
+    "area": "洛龙区",
+    "detail": 1,
+    "uid": "6655a3ab4c3efa8a1b94c64a",
+    "cover": "https://pic-map.cdn.bcebos.com/img/e07be9273ba9220dfb75e2ca23fddb86",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/e07be9273ba9220dfb75e2ca23fddb86"
+    ]
+  },
+  {
+    "name": "安虎路消防救援站",
+    "location": {
+      "lat": 34.535873,
+      "lng": 112.244922
+    },
+    "address": "洛阳市宜阳县同力大道与祥安路交叉路口往东北约120米",
+    "province": "河南省",
+    "city": "洛阳市",
+    "area": "宜阳县",
+    "detail": 1,
+    "uid": "f473fa81ecd439b65cd4fe87",
+    "cover": "https://pic-map.cdn.bcebos.com/img/0fbb9c1653ebe6d113c03d98c7cdba77",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/0fbb9c1653ebe6d113c03d98c7cdba77"
+    ]
+  },
+  {
+    "name": "救援接待处",
+    "location": {
+      "lat": 34.688056,
+      "lng": 112.40195
+    },
+    "address": "洛阳市涧西区芳华路与符家屯北后街交叉路口往北约60米",
+    "province": "河南省",
+    "city": "洛阳市",
+    "area": "涧西区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "53fe3979aef86fcee856fafa",
+    "cover": "https://taojin-his.cdn.bcebos.com/c9fcc3cec3fdfc033c4bd9cbdb3f8794a4c22695.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/c9fcc3cec3fdfc033c4bd9cbdb3f8794a4c22695.jpg"
+    ]
+  },
+  {
+    "name": "神鹰救援嵩县大队",
+    "location": {
+      "lat": 34.144474,
+      "lng": 112.100734
+    },
+    "address": "洛阳市嵩县金城北路竹林湖畔北侧约120米",
+    "province": "河南省",
+    "city": "洛阳市",
+    "area": "嵩县",
+    "street_id": "0eb4db89e96e8d951ef74df9",
+    "detail": 1,
+    "uid": "0eb4db89e96e8d951ef74df9",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_bf249b6cb7a02e465ec870ebdce3e7c0.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=0eb4db89e96e8d951ef74df9&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2942eda67d606c3883196bbedc6a76cd.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_da43dc411e6f6a34be118d35e151c172.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_415b29a86b5f9dcfadee7eed979f4d74.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_17f292afbfa7d53823ff69f9f7f5d6b6.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b467beebc4d3aa01c00321d138a70c4b.jpeg"
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "天顺汽车救援维修中心",
+    "location": {
+      "lat": 31.463115,
+      "lng": 113.4446
+    },
+    "address": "湖北省随州市曾都区银杏大道162号",
+    "province": "湖北省",
+    "city": "随州市",
+    "area": "曾都区",
+    "detail": 1,
+    "uid": "a34515723bd11e394251c048",
+    "cover": "https://pic-map.cdn.bcebos.com/img/7ccdef299053f8fac9199035ebb4f33c",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/7ccdef299053f8fac9199035ebb4f33c"
+    ]
+  },
+  {
+    "name": "随州市消防救援支队",
+    "location": {
+      "lat": 31.700915,
+      "lng": 113.407828
+    },
+    "address": "湖北省随州市曾都区交通大道K010号",
+    "province": "湖北省",
+    "city": "随州市",
+    "area": "曾都区",
+    "detail": 1,
+    "uid": "6d423b78d5fc030835b06c71",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_9254e25fc1f0b61cab36948b3d861baf.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9254e25fc1f0b61cab36948b3d861baf.jpeg"
+    ]
+  },
+  {
+    "name": "程力救护车生产厂",
+    "location": {
+      "lat": 31.777674,
+      "lng": 113.402307
+    },
+    "address": "湖北省随州市曾都区G316(随州大道)",
+    "province": "湖北省",
+    "city": "随州市",
+    "area": "曾都区",
+    "telephone": "15342793888",
+    "detail": 1,
+    "uid": "8d25d9bd71f65ae7f8221346",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/H4e4a20a4462309f776b9df1f7d0e0cf3d6cad6ed.jpg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/H4e4a20a4462309f776b9df1f7d0e0cf3d6cad6ed.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/Hb3b7d0a20cf431ad94ed72344436acaf2edd98fb.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/H9825bc315c6034a818b6ca8cc413495409237662.jpg"
+    ]
+  },
+  {
+    "name": "随州市神力吊运安装有限公司",
+    "location": {
+      "lat": 31.713211,
+      "lng": 113.359711
+    },
+    "address": "湖北省随州市曾都区G346(解放路)",
+    "province": "湖北省",
+    "city": "随州市",
+    "area": "曾都区",
+    "telephone": "13886884580",
+    "detail": 1,
+    "uid": "592870a9246b3f3ff50e7723",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_aaa6c87b64448369a6d5ee1d50dd3c19.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_aaa6c87b64448369a6d5ee1d50dd3c19.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_264a7c788ec712e5f52105fb84e06bc8.jpeg"
+    ]
+  },
+  {
+    "name": "随县消防救援大队",
+    "location": {
+      "lat": 31.865382,
+      "lng": 113.321395
+    },
+    "address": "随州市随县福兰线随县人民医院南侧约220米",
+    "province": "湖北省",
+    "city": "随州市",
+    "area": "随县",
+    "detail": 1,
+    "uid": "a4c89ebb819df607aecb6672",
+    "cover": "https://pic-map.cdn.bcebos.com/img/1170367310f8ea87f4dfaf5328c8bd5a",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/1170367310f8ea87f4dfaf5328c8bd5a"
+    ]
+  }
+]

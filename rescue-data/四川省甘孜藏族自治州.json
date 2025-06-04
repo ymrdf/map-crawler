@@ -1,0 +1,42 @@
+[
+  {
+    "name": "志成汽修厂道路救援",
+    "location": {
+      "lat": 30.025211,
+      "lng": 99.133503
+    },
+    "address": "巴塘县夏邛镇独角龙村119号",
+    "province": "四川省",
+    "city": "甘孜藏族自治州",
+    "area": "巴塘县",
+    "telephone": "13698141075",
+    "detail": 1,
+    "uid": "beb4e5ff028300287c29bd43",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_62d5cc59b67aff77a8d1c094f34ab097.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_62d5cc59b67aff77a8d1c094f34ab097.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/H79f0f736afc37931f8564903e6c4b74543a911da.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/H5882b2b7d0a20cf45bec31f57b094b36acaf9998.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/H0bd162d9f2d3572c318853f68713632762d0c3b6.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_834f565d5d3efe1fdd93d24a5e2b1408.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/Hf636afc379310a55401a11deba4543a9822610da.jpg"
+    ]
+  },
+  {
+    "name": "稻城县消防救援大队",
+    "location": {
+      "lat": 29.041557,
+      "lng": 100.300278
+    },
+    "address": "四川省甘孜藏族自治州稻城县金珠路一段24号",
+    "province": "四川省",
+    "city": "甘孜藏族自治州",
+    "area": "稻城县",
+    "detail": 1,
+    "uid": "a2923acd1a6f93e60f0e6baa",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ecaacce8aa7ec5eb2d6a70b98ff8a171.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ecaacce8aa7ec5eb2d6a70b98ff8a171.jpeg"
+    ]
+  }
+]

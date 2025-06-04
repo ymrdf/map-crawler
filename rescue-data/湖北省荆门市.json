@@ -1,0 +1,121 @@
+[
+  {
+    "name": "荆门强安汽车救援服务有限公司",
+    "location": {
+      "lat": 31.036251,
+      "lng": 113.132659
+    },
+    "address": "荆门市京山市人民大道大龙京都花园西北侧约50米",
+    "province": "湖北省",
+    "city": "荆门市",
+    "area": "京山市",
+    "telephone": "15827878230",
+    "detail": 1,
+    "uid": "3c7be3b1ff9da081f8f0cb55",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/bb8e2c1e7e0b533c337d862c54923f67_3438.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/bb8e2c1e7e0b533c337d862c54923f67_3438.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/b246d4e335a1f39d29b78aad9e2151aa_5723.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/9d835609c150e925b6c574e6226657cf_9005.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/6b136d4652996f1d432d89e3d38343a4_3531.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/39a9ed2bfabd5b4c836d421489c8720a_9948.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/2d48537a1d27dc5424b62c6279b6bb03_7655.jpeg"
+    ]
+  },
+  {
+    "name": "京山飞鹰救援队",
+    "location": {
+      "lat": 31.029923,
+      "lng": 113.122081
+    },
+    "address": "荆门市京山市京源大道中央广场中央公馆",
+    "province": "湖北省",
+    "city": "荆门市",
+    "area": "京山市",
+    "detail": 1,
+    "uid": "9892bb6ecf513f566849f32c",
+    "cover": "https://taojin-his.cdn.bcebos.com/5ab5c9ea15ce36d3d405fc9634f33a87e950b116.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/5ab5c9ea15ce36d3d405fc9634f33a87e950b116.jpg"
+    ]
+  },
+  {
+    "name": "读书台消防救援站",
+    "location": {
+      "lat": 31.033696,
+      "lng": 112.214143
+    },
+    "address": "荆门市东宝区白云大道白云小区西侧约60米",
+    "province": "湖北省",
+    "city": "荆门市",
+    "area": "东宝区",
+    "detail": 1,
+    "uid": "ba7c4b1129026af6283a9f8d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d4452f372fc6da3a1b67c49d15243c0a.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d4452f372fc6da3a1b67c49d15243c0a.jpg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 31.048182,
+      "lng": 112.208655
+    },
+    "address": "荆门市东宝区金虾路荆门市康复医院西北侧约40米",
+    "province": "湖北省",
+    "city": "荆门市",
+    "area": "东宝区",
+    "detail": 1,
+    "uid": "92b1ce2a6a693be88f1a89b7",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_5ddb2aa4692c3d27d5c10abe72e738ff.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5ddb2aa4692c3d27d5c10abe72e738ff.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5277ab7fb7c35ff110add102f0afb153.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6583ecda948df574c.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65c8769da4c8f92e6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4333d525765a76ab8e9dfef479de0e5f.jpeg"
+    ]
+  },
+  {
+    "name": "钟祥市双河消防救援站",
+    "location": {
+      "lat": 31.277908,
+      "lng": 112.341125
+    },
+    "address": "湖北省荆门市钟祥市S331",
+    "province": "湖北省",
+    "city": "荆门市",
+    "area": "钟祥市",
+    "detail": 1,
+    "uid": "9f66e1592619b23db23c81fa",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B613ad8a4ca606738e.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B613ad8a4ca606738e.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B613ad8a4d1457dbda.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_609154099c587a5fb073424493f4a6a5.jpeg"
+    ]
+  },
+  {
+    "name": "中志协救援",
+    "location": {
+      "lat": 31.039487,
+      "lng": 113.135751
+    },
+    "address": "荆门市京山市新阳大道京山汽车中心客运站西侧约50米",
+    "province": "湖北省",
+    "city": "荆门市",
+    "area": "京山市",
+    "detail": 1,
+    "uid": "0a10916cd18addf5cb213d1b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_680b6a253ce6aa4f30365c58d1fb4515.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_680b6a253ce6aa4f30365c58d1fb4515.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a0ee4844a487c8656fcef299aa21dfde.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c5a384892f92780f95e33ed2eb225f37.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a50584c7bbcf905e5933fdd5be387fd6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_559fdfa06f8f652e05c6212f26915097.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c899c77f2b57b2385acff8d64b151b53.jpeg"
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "name": "应急救援",
+    "location": {
+      "lat": 29.844001,
+      "lng": 103.843921
+    },
+    "address": "眉山市青神县眉青公路中国石油青神新城西加油站(眉青公路)东北侧约40米",
+    "province": "四川省",
+    "city": "眉山市",
+    "area": "青神县",
+    "detail": 1,
+    "uid": "2d55b5c7985d79f03686f4bd",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_f7309e2eb833ece128e557b62b87c9a3.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f7309e2eb833ece128e557b62b87c9a3.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8420e54f995688c9be41be094407f86a.jpeg"
+    ]
+  },
+  {
+    "name": "洪雅县综合应急救援队",
+    "location": {
+      "lat": 29.907577,
+      "lng": 103.397809
+    },
+    "address": "眉山市洪雅县林场封河坝小区东南侧约30米",
+    "province": "四川省",
+    "city": "眉山市",
+    "area": "洪雅县",
+    "detail": 1,
+    "uid": "0658a78e5ddbdb31d8d891b6",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_3dc29fe0cce60d96ea178a728f184df2.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3dc29fe0cce60d96ea178a728f184df2.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a2d7af0b375a448a0742233a58aa30f0.jpeg"
+    ]
+  },
+  {
+    "name": "三一挖掘机",
+    "location": {
+      "lat": 30.055169,
+      "lng": 103.627977
+    },
+    "address": "眉山市东坡区S106三苏派出所东侧",
+    "province": "四川省",
+    "city": "眉山市",
+    "area": "东坡区",
+    "detail": 1,
+    "uid": "9f1b8bf7eb306da797ec8453",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_15c9eabc630ec5eb651fc323a166746b.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_15c9eabc630ec5eb651fc323a166746b.jpeg"
+    ]
+  }
+]

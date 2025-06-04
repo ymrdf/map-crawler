@@ -1,0 +1,43 @@
+[
+  {
+    "name": "昌宁县消防救援大队",
+    "location": {
+      "lat": 24.839679,
+      "lng": 99.635102
+    },
+    "address": "云南省保山市昌宁县S228",
+    "province": "云南省",
+    "city": "保山市",
+    "area": "昌宁县",
+    "detail": 1,
+    "uid": "7447544b4eb6e0aac7f0258a",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B617ba94e95cf966e5.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B617ba94e95cf966e5.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5a7b9698f49eca7f6265134c26cc7d53.jpeg"
+    ]
+  },
+  {
+    "name": "ADM集团动物营养保山隆阳区运营中心",
+    "location": {
+      "lat": 25.031425,
+      "lng": 99.190327
+    },
+    "address": "保山市隆阳区G357",
+    "province": "云南省",
+    "city": "保山市",
+    "area": "隆阳区",
+    "telephone": "15969519724",
+    "detail": 1,
+    "uid": "cfd876905c538315213bf2c2",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_e0b96fdfc32b02e978056b6f87a3ec43.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e0b96fdfc32b02e978056b6f87a3ec43.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b8b5d9100a418b8ca4f5eb72e97952a9.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B677626298cd3c1726f.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B677626296754a4907.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B677626296a5327e96.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B677626298bbb1772c.jpeg"
+    ]
+  }
+]

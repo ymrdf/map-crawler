@@ -1,0 +1,54 @@
+[
+  {
+    "name": "云县消防救援大队",
+    "location": {
+      "lat": 24.460803,
+      "lng": 100.149396
+    },
+    "address": "临沧市云县云茂线新苑小区(云茂线)西南侧约200米",
+    "province": "云南省",
+    "city": "临沧市",
+    "area": "云县",
+    "detail": 1,
+    "uid": "5eb229e4ba531653c356ac1f",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_0f97a3781683f5e8342fc2504a500697.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0f97a3781683f5e8342fc2504a500697.jpeg"
+    ]
+  },
+  {
+    "name": "林生摩托车检测有限责任公司",
+    "location": {
+      "lat": 24.239552,
+      "lng": 100.46153
+    },
+    "address": "云南省临沧市云县栗树乡岩子头村委会良子组",
+    "province": "云南省",
+    "city": "临沧市",
+    "area": "云县",
+    "detail": 1,
+    "uid": "accfbbba2860ea41e812e450",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_bc63c47ba9a2c6eabdabc9a6f090a80f.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bc63c47ba9a2c6eabdabc9a6f090a80f.jpeg"
+    ]
+  },
+  {
+    "name": "凤庆县消防救援大队",
+    "location": {
+      "lat": 24.58985,
+      "lng": 99.930367
+    },
+    "address": "临沧市凤庆县福广路绿茗花园西侧约190米",
+    "province": "云南省",
+    "city": "临沧市",
+    "area": "凤庆县",
+    "detail": 1,
+    "uid": "c819c15aaa5a8b511288242a",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B6059590690e251054f.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B6059590690e251054f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f9176eafbfb65b80b1c1b609543cd7fa.jpeg"
+    ]
+  }
+]

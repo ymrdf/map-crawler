@@ -1,0 +1,150 @@
+[
+  {
+    "name": "轮胎大全补胎救援打黄油",
+    "location": {
+      "lat": 40.218462,
+      "lng": 116.75917
+    },
+    "address": "北京市顺义区昌金路与李巍路交叉口西北方向20米",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "顺义区",
+    "street_id": "9d6f8836a8d07624ab175a3a",
+    "telephone": "15801094217",
+    "detail": 1,
+    "uid": "9d6f8836a8d07624ab175a3a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_75fb3341331a70a8c84b1d5990f5b60e.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=9d6f8836a8d07624ab175a3a&width=720&height=360&quality=80&fovx=120",
+      "https://lbsugc.cdn.bcebos.com/images/Hfc1f4134970a304ec77050fbdec8a786c9175c65.jpg"
+    ]
+  },
+  {
+    "name": "开拓者轮胎补胎救援",
+    "location": {
+      "lat": 40.195352,
+      "lng": 116.64834
+    },
+    "address": "北京市顺义区Y113与兵营路交叉口东北方向110米",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "顺义区",
+    "street_id": "95713fdf1aa5399004026fbe",
+    "telephone": "13522805508",
+    "detail": 1,
+    "uid": "95713fdf1aa5399004026fbe",
+    "cover": "https://taojin-his.cdn.bcebos.com/f7246b600c3387440d2e4ca75f0fd9f9d62aa006.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/f7246b600c3387440d2e4ca75f0fd9f9d62aa006.jpg",
+      "https://taojin-his.cdn.bcebos.com/d1a20cf431adcbef2afb430ea3af2edda2cc9fee.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a5fbdeef87b98cf7615266be975d1ed6.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7042f76c8ed2a4dd0399d5630bcd53ab.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d9134ddc5ba1d602c5a02abe343f49b5.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c48ad7e54f06ad725565d66f5f2dad59.jpg"
+    ]
+  },
+  {
+    "name": "顺义区南法信消防救援站",
+    "location": {
+      "lat": 40.139476,
+      "lng": 116.603249
+    },
+    "address": "北京市顺义区顺畅大道",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "顺义区",
+    "detail": 1,
+    "uid": "610bb4dcc44cf491f5c59c73",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_3e34a7fa4719b9bdfe4f66c3960f8f08.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3e34a7fa4719b9bdfe4f66c3960f8f08.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7a5c63dda8b9fc4dc3c41b0cec12ea29.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_960898855eb34b023260d33e3c581c6e.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d84a31233ae7d067ea26fb75382fafd8.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_71e792fc6b210e043ec0d0a8b88f7d5d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ea0e451a992b6e0c2b49200f25d3c520.jpeg"
+    ]
+  },
+  {
+    "name": "顺义区杨镇消防救援站",
+    "location": {
+      "lat": 40.167925,
+      "lng": 116.845146
+    },
+    "address": "杨镇恒通街9号院",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "顺义区",
+    "detail": 1,
+    "uid": "3d3bf19449356a34a21de956",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_25c2cc82844e57bc4ffeb696b0f58ad9.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_25c2cc82844e57bc4ffeb696b0f58ad9.jpeg"
+    ]
+  },
+  {
+    "name": "顺义区后沙峪消防救援站",
+    "location": {
+      "lat": 40.119927,
+      "lng": 116.562601
+    },
+    "address": "北京市顺义区X014(火寺路)",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "顺义区",
+    "detail": 1,
+    "uid": "622253309c25f40d93114c23",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_19a3586f6ea647c2dc52907170262105.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_19a3586f6ea647c2dc52907170262105.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a0b8ed761a181c8da27edd30048acb34.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e6396b89d14807797be3608f1936f2ab.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_be3fbd2b1efd2497445177b5c32a0697.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_211dde3d0d3014b4c03d50445eeceda5.jpeg"
+    ]
+  },
+  {
+    "name": "顺义区天竺消防救援站",
+    "location": {
+      "lat": 40.069723,
+      "lng": 116.585097
+    },
+    "address": "北京市顺义区府前二街布丁酒店(北京首都机场店)东侧约80米",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "顺义区",
+    "detail": 1,
+    "uid": "5d145afa49ab845976e5b629",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d4e10befb44fe062e6178b7fec12baba.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d4e10befb44fe062e6178b7fec12baba.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b0b03b1eee9da9070ab1de36e7db9598.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7bba32c8edebc328401daf119e3c5d73.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_735b7fbacf03d19dad6858ab14de8827.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_eecb336e0b366229bfe42c8c863f722a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9a479a14a33accafd70ace452e0ad5f4.jpeg"
+    ]
+  },
+  {
+    "name": "顺义区马坡消防救援站",
+    "location": {
+      "lat": 40.177629,
+      "lng": 116.654541
+    },
+    "address": "北京市南小街1号",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "顺义区",
+    "detail": 1,
+    "uid": "d1647c86d076651149fd3f55",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_26cf41caa563585e47bd6745320643cd.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_26cf41caa563585e47bd6745320643cd.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7aed9079b5a8fd2244a544efc9f94a0d.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5d4f898c776aa530df68a88ebbc1489e.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0dc098367d5808514282c24446b4b7c8.jpg",
+      "https://poi-pic.cdn.bcebos.com/7aed9079b5a8fd2244a544efc9f94a0d.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6b59c174d10eb1fe5f70d0f7b017e088.jpeg"
+    ]
+  }
+]

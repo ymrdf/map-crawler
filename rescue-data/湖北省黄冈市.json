@@ -1,0 +1,113 @@
+[
+  {
+    "name": "黄梅县消防救援大队",
+    "location": {
+      "lat": 30.092148,
+      "lng": 115.939843
+    },
+    "address": "黄冈市黄梅县站前大道惠民小区北侧约130米",
+    "province": "湖北省",
+    "city": "黄冈市",
+    "area": "黄梅县",
+    "street_id": "bb09f6da60763119c9e33c9b",
+    "detail": 1,
+    "uid": "bb09f6da60763119c9e33c9b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_0ded01271055b79fddc0aa5533eaf97d.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=bb09f6da60763119c9e33c9b&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "蕲春县消防救援大队",
+    "location": {
+      "lat": 30.259328,
+      "lng": 115.435453
+    },
+    "address": "湖北省黄冈市蕲春县漕河镇蕲春大道78号",
+    "province": "湖北省",
+    "city": "黄冈市",
+    "area": "蕲春县",
+    "detail": 1,
+    "uid": "7ccb7ba128487e9930169b36",
+    "cover": "https://pic-map.cdn.bcebos.com/img/24ff8db00cd7a62a083c59713542e945",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/24ff8db00cd7a62a083c59713542e945"
+    ]
+  },
+  {
+    "name": "体育路消防救援站",
+    "location": {
+      "lat": 30.473701,
+      "lng": 114.880916
+    },
+    "address": "黄冈市黄州区体育路黄州理工中等专业学校西北侧约230米",
+    "province": "湖北省",
+    "city": "黄冈市",
+    "area": "黄州区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "5131d1de3c2e432b2102201f",
+    "cover": "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_007be4f228928a87f2228744ad711792.jpg",
+    "photo_list": [
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_007be4f228928a87f2228744ad711792.jpg"
+    ]
+  },
+  {
+    "name": "麻城市消防救援大队",
+    "location": {
+      "lat": 31.167286,
+      "lng": 114.986991
+    },
+    "address": "湖北省黄冈市麻城市金桥大道与移民路交叉口西南180米",
+    "province": "湖北省",
+    "city": "黄冈市",
+    "area": "麻城市",
+    "detail": 1,
+    "uid": "26082ef5f36cd10084330409",
+    "cover": "https://pic-map.cdn.bcebos.com/img/7ec5196639dc34936d1a4cab0385d700",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/7ec5196639dc34936d1a4cab0385d700"
+    ]
+  },
+  {
+    "name": "武穴市消防救援大队",
+    "location": {
+      "lat": 29.857921,
+      "lng": 115.55943
+    },
+    "address": "湖北省黄冈市武穴市窝陂塘路28号",
+    "province": "湖北省",
+    "city": "黄冈市",
+    "area": "武穴市",
+    "street_id": "d68588c8f270aadea8f729fb",
+    "detail": 1,
+    "uid": "d68588c8f270aadea8f729fb",
+    "cover": "https://taojin-his.cdn.bcebos.com/730e0cf3d7ca7bcb89504b88b8096b63f624a86a.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=d68588c8f270aadea8f729fb&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0f19904c5d5f22faa118bf8e6be51d7f.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_261db22e1cf8e7f122ab449999636673.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_be12bb53f9cdf53b3fd7435a5791377a.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e58a62dea0a76386a875f6eb279abbf8.jpeg"
+    ]
+  },
+  {
+    "name": "黄冈市消防救援支队",
+    "location": {
+      "lat": 30.464723,
+      "lng": 114.918361
+    },
+    "address": "湖北省黄冈市黄州区经济开发区新港大道35号",
+    "province": "湖北省",
+    "city": "黄冈市",
+    "area": "黄州区",
+    "street_id": "c1eb21bb194a6e1de115f965",
+    "telephone": "(0713)8692958",
+    "detail": 1,
+    "uid": "c1eb21bb194a6e1de115f965",
+    "cover": "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_17737ba28a9528852e72d560415ac399.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=c1eb21bb194a6e1de115f965&width=720&height=360&quality=80&fovx=120"
+    ]
+  }
+]

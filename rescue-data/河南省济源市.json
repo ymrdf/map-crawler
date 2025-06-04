@@ -1,0 +1,94 @@
+[
+  {
+    "name": "滴滴出行(济源市授权代理商)",
+    "location": {
+      "lat": 35.086134,
+      "lng": 112.681917
+    },
+    "address": "河南省济源市G327(连固线)",
+    "province": "河南省",
+    "city": "济源市",
+    "area": "",
+    "detail": 1,
+    "uid": "2fee4145d1faa85cb05c6a04",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B66b6d2c3babb31003b.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B66b6d2c3babb31003b.jpeg"
+    ]
+  },
+  {
+    "name": "济源市消防支队济水大队济水中队",
+    "location": {
+      "lat": 35.069872,
+      "lng": 112.615578
+    },
+    "address": "济源市永兴街尚熙酒店东南侧约40米",
+    "province": "河南省",
+    "city": "济源市",
+    "area": "",
+    "detail": 1,
+    "uid": "5dad2344aace9c18147643ab",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_32aaf0efee4984c226659dbdaa70602a.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_32aaf0efee4984c226659dbdaa70602a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_13b7244ef18f1cc064a4953c78fced4c.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d5c9a312da314b076dbd2da8ffe5e798.jpeg"
+    ]
+  },
+  {
+    "name": "济源蓝天救援队",
+    "location": {
+      "lat": 35.105925,
+      "lng": 112.553764
+    },
+    "address": "济源市西环路天坛工业区轻工园",
+    "province": "河南省",
+    "city": "济源市",
+    "area": "",
+    "telephone": "(0391)6669958",
+    "detail": 1,
+    "uid": "6bcbe144c46fada9ae31e551",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_709361d3815a5fc1ce03a1a452fb1147.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_709361d3815a5fc1ce03a1a452fb1147.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 35.099588,
+      "lng": 112.5778
+    },
+    "address": "济源市济水大街未来大厦",
+    "province": "河南省",
+    "city": "济源市",
+    "area": "",
+    "detail": 1,
+    "uid": "5f5ad4a572cc7030ac31e569",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_81f535fdb3c59d6a20e7c0f6551bc076.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_81f535fdb3c59d6a20e7c0f6551bc076.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f7b8ba4dd1a51af4e4effb236b8b4e68.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B65a35d076e2da1751f.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B668365e532d734d60.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 35.069907,
+      "lng": 112.615353
+    },
+    "address": "济源市永兴街尚熙酒店南侧",
+    "province": "河南省",
+    "city": "济源市",
+    "area": "",
+    "detail": 1,
+    "uid": "a399375cac9fd4542cb17efe",
+    "cover": "https://pic-map.cdn.bcebos.com/img/dbb50806114d67da91f7a79ec23f02e5",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/dbb50806114d67da91f7a79ec23f02e5",
+      "https://lbsugc.cdn.bcebos.com/images/B668e106ab2390db1e.jpeg"
+    ]
+  }
+]

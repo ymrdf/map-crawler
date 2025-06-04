@@ -1,0 +1,94 @@
+[
+  {
+    "name": "119消防救援",
+    "location": {
+      "lat": 31.554591,
+      "lng": 105.009209
+    },
+    "address": "绵阳市游仙区绵梓公路",
+    "province": "四川省",
+    "city": "绵阳市",
+    "area": "游仙区",
+    "detail": 1,
+    "uid": "76d1659d436a14079f09f71f",
+    "cover": "https://pic-map.cdn.bcebos.com/img/4e0861946cfc1240c032ef23a5b18c77",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/4e0861946cfc1240c032ef23a5b18c77"
+    ]
+  },
+  {
+    "name": "绵阳TNT越野救援队",
+    "location": {
+      "lat": 31.480119,
+      "lng": 104.714724
+    },
+    "address": "绵阳市涪城区创业大道元通社区第三居民小组",
+    "province": "四川省",
+    "city": "绵阳市",
+    "area": "涪城区",
+    "detail": 1,
+    "uid": "ff0e5ea578ee11dda80dd853",
+    "cover": "https://poi-pic.cdn.bcebos.com/bea4e9d8295c011b1204c3c2dc14fd12.jpg",
+    "photo_list": [
+      "https://poi-pic.cdn.bcebos.com/bea4e9d8295c011b1204c3c2dc14fd12.jpg",
+      "https://poi-pic.cdn.bcebos.com/555482272a5cc04d9de9de8912ec9c53.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1583628045f36e4ec1423526e0268d32.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_63b8e637799b1646eda8f668bb2f800f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f4476925a4564e226eea24800c84ec1a.jpeg"
+    ]
+  },
+  {
+    "name": "江油神鹰救援大队",
+    "location": {
+      "lat": 31.773796,
+      "lng": 104.722124
+    },
+    "address": "绵阳市江油市西山路中段公园1号",
+    "province": "四川省",
+    "city": "绵阳市",
+    "area": "江油市",
+    "detail": 1,
+    "uid": "8326e23d22ea652ddeee8bd6",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_5346654df7bbb0fe74a63f9ac97f4c1a.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5346654df7bbb0fe74a63f9ac97f4c1a.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 31.462001,
+      "lng": 104.745748
+    },
+    "address": "四川省绵阳市涪城区长虹大道北段289号",
+    "province": "四川省",
+    "city": "绵阳市",
+    "area": "涪城区",
+    "street_id": "960311bf8884d76d0d3dda16",
+    "detail": 1,
+    "uid": "960311bf8884d76d0d3dda16",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_328a36496eaff3f403428265612471c6.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=960311bf8884d76d0d3dda16&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4de81a6ff97297735cba8a9d3134c60c.jpeg"
+    ]
+  },
+  {
+    "name": "四川华亮救援科技有限公司",
+    "location": {
+      "lat": 31.457031,
+      "lng": 104.666958
+    },
+    "address": "四川省绵阳市涪城区飞云大道中段139号2栋1号",
+    "province": "四川省",
+    "city": "绵阳市",
+    "area": "涪城区",
+    "telephone": "13808118229",
+    "detail": 1,
+    "uid": "970b6698e95df70b3362120d",
+    "cover": "https://pic-map.cdn.bcebos.com/img/ef9e64a1fc1d1c73fc40c046565fbd4e",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/ef9e64a1fc1d1c73fc40c046565fbd4e"
+    ]
+  }
+]

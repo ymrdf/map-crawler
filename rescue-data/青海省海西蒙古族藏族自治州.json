@@ -1,0 +1,95 @@
+[
+  {
+    "name": "补胎换胎救援",
+    "location": {
+      "lat": 33.22677,
+      "lng": 91.864722
+    },
+    "address": "青海省海西蒙古族藏族自治州格尔木市G109(京拉线)",
+    "province": "青海省",
+    "city": "海西蒙古族藏族自治州",
+    "area": "格尔木市",
+    "telephone": "18297299000",
+    "detail": 1,
+    "uid": "50d9fab3f1004073e6073893",
+    "cover": "https://pic-map.cdn.bcebos.com/img/2e1078a2a54106342726c575a2ada426",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/2e1078a2a54106342726c575a2ada426"
+    ]
+  },
+  {
+    "name": "鸿涂汽车维修服务道路救援",
+    "location": {
+      "lat": 36.396272,
+      "lng": 94.886712
+    },
+    "address": "海西蒙古族藏族自治州格尔木市盐桥南路海马商务宾馆西侧约200米",
+    "province": "青海省",
+    "city": "海西蒙古族藏族自治州",
+    "area": "格尔木市",
+    "detail": 1,
+    "uid": "e6aec8ce1afdcfe299005048",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B6576e83e261fe111ad.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B6576e83e261fe111ad.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6576e83e2c5bc15aa7.jpeg"
+    ]
+  },
+  {
+    "name": "老男孩机车",
+    "location": {
+      "lat": 37.357808,
+      "lng": 97.370482
+    },
+    "address": "青海省海西蒙古族藏族自治州德令哈市G315(都兰西路)",
+    "province": "青海省",
+    "city": "海西蒙古族藏族自治州",
+    "area": "德令哈市",
+    "telephone": "15597697877",
+    "detail": 1,
+    "uid": "31f6e133ef9c5e5ec056acb3",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_846d4adec4ccaaab9d9555e4e1c5a8e3.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_846d4adec4ccaaab9d9555e4e1c5a8e3.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B66beb10ddb31c171a5.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B63427b72948f7b684.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B63427b6512f7436b8.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4acc870d655e892ffffc782b9a8ba9f8.jpeg"
+    ]
+  },
+  {
+    "name": "乌兰县消防救援大队",
+    "location": {
+      "lat": 36.948296,
+      "lng": 98.483716
+    },
+    "address": "青海省海西蒙古族藏族自治州乌兰县铜普路2号",
+    "province": "青海省",
+    "city": "海西蒙古族藏族自治州",
+    "area": "乌兰县",
+    "detail": 1,
+    "uid": "08369aefc56af98aede4a501",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ff35e3ad3a9c78d4e0cb43d0c734f24c.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ff35e3ad3a9c78d4e0cb43d0c734f24c.jpeg"
+    ]
+  },
+  {
+    "name": "德令哈市消防救援大队",
+    "location": {
+      "lat": 37.371015,
+      "lng": 97.360863
+    },
+    "address": "青海省海西蒙古族藏族自治州德令哈市柴达木西路23号",
+    "province": "青海省",
+    "city": "海西蒙古族藏族自治州",
+    "area": "德令哈市",
+    "detail": 1,
+    "uid": "25f792016c9f4cb272455b60",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B621c62305914510449.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B621c62305914510449.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d324eae8eeb04cacaaba34ad70f2a08e.jpeg"
+    ]
+  }
+]

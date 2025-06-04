@@ -1,0 +1,75 @@
+[
+  {
+    "name": "黔南州永杰汽车拖车有限公司",
+    "location": {
+      "lat": 26.306093,
+      "lng": 107.52114
+    },
+    "address": "黔南布依族苗族自治州都匀市沙坝红叶路(复烤厂旁)长江通信实业有限公司大门口",
+    "province": "贵州省",
+    "city": "黔南布依族苗族自治州",
+    "area": "都匀市",
+    "detail": 1,
+    "uid": "d7dba1f7ac7bea369c09f788",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_14e3c9261960ba4cfb519f87a86fbdc4.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_14e3c9261960ba4cfb519f87a86fbdc4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6709da458035445553de7b031c7b86b1.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a475b7d5ac8c933fe7a606e1ecad6790.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_76e1b720713d588b70d33c612a5ed6a1.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5f978c1b611a410f1c43f2f1536ae01e.jpeg"
+    ]
+  },
+  {
+    "name": "黔安消防华蓝救援",
+    "location": {
+      "lat": 25.835966,
+      "lng": 107.335725
+    },
+    "address": "黔南布依族苗族自治州平塘县人民路平湖二小北侧约70米",
+    "province": "贵州省",
+    "city": "黔南布依族苗族自治州",
+    "area": "平塘县",
+    "telephone": "13765767137",
+    "detail": 1,
+    "uid": "621cd50ba4e4c3623ce2315a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ed5d70a1269ccef0b3f4207c0905ba54.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ed5d70a1269ccef0b3f4207c0905ba54.jpeg"
+    ]
+  },
+  {
+    "name": "贵州通达救援公司",
+    "location": {
+      "lat": 25.817866,
+      "lng": 107.539336
+    },
+    "address": "黔南布依族苗族自治州独山县南通南路安置小区南侧约150米",
+    "province": "贵州省",
+    "city": "黔南布依族苗族自治州",
+    "area": "独山县",
+    "detail": 1,
+    "uid": "cb88b315bad93540b72655c2",
+    "cover": "https://pic-map.cdn.bcebos.com/img/d5a1339b9989f433faf8b1a8d9f638cd",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/d5a1339b9989f433faf8b1a8d9f638cd"
+    ]
+  },
+  {
+    "name": "独山县综合应急救援",
+    "location": {
+      "lat": 25.836747,
+      "lng": 107.556652
+    },
+    "address": "黔南布依族苗族自治州独山县东环北路独山县第二小学东侧约240米",
+    "province": "贵州省",
+    "city": "黔南布依族苗族自治州",
+    "area": "独山县",
+    "detail": 1,
+    "uid": "3bd256b80388ee1245572635",
+    "cover": "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_74ed5750ca3670dff5f47bbde539c874.jpg",
+    "photo_list": [
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_74ed5750ca3670dff5f47bbde539c874.jpg"
+    ]
+  }
+]

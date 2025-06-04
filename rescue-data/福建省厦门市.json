@@ -1,0 +1,102 @@
+[
+  {
+    "name": "丰圣汽车道路救援",
+    "location": {
+      "lat": 24.702701,
+      "lng": 118.151947
+    },
+    "address": "福建省厦门市同安区同集北路718号",
+    "province": "福建省",
+    "city": "厦门市",
+    "area": "同安区",
+    "street_id": "c54b590ab710338471210ba0",
+    "detail": 1,
+    "uid": "c54b590ab710338471210ba0",
+    "cover": "https://taojin-his.cdn.bcebos.com/4b90f603738da9779023e3e3be51f8198718e3ee.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=c54b590ab710338471210ba0&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_78dd04a0092a2ca707470b5555751b80.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bc5e78abe9411af6c015a3202f400217.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3e5c895bec54a99f0a5aedb3d58954d4.jpg",
+      "https://taojin-his.cdn.bcebos.com/b64543a98226cffcb47dcdb5b6014a90f603ea66.jpg",
+      "https://taojin-his.cdn.bcebos.com/2f738bd4b31c870193765464297f9e2f0608ff74.jpg"
+    ]
+  },
+  {
+    "name": "厦门市思明区厦禾消防救援站",
+    "location": {
+      "lat": 24.470967,
+      "lng": 118.107267
+    },
+    "address": "福建省厦门市思明区厦禾路776号",
+    "province": "福建省",
+    "city": "厦门市",
+    "area": "思明区",
+    "street_id": "45d6af0d363b4dc45fd4fe5f",
+    "detail": 1,
+    "uid": "45d6af0d363b4dc45fd4fe5f",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_3d0ffa7025fd4ed5462a33a56a1d1b46.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=45d6af0d363b4dc45fd4fe5f&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_913c8e5fe34aff07d2998519230a1ed3.jpeg"
+    ]
+  },
+  {
+    "name": "厦门飞鹰救援队",
+    "location": {
+      "lat": 24.618437,
+      "lng": 118.107385
+    },
+    "address": "厦门市集美区华陵路与华陵一路交叉路口往东约110米",
+    "province": "福建省",
+    "city": "厦门市",
+    "area": "集美区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "c10d770950f6fdbeeb12e4e5",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_7a770846525e1d90b724ae397ab82682.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7a770846525e1d90b724ae397ab82682.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_da9f95cb661998a5ec94bff6425e2d01.jpg"
+    ]
+  },
+  {
+    "name": "万嘉清水救援队",
+    "location": {
+      "lat": 24.562832,
+      "lng": 118.02606
+    },
+    "address": "福建省厦门市集美区滨海花园34号",
+    "province": "福建省",
+    "city": "厦门市",
+    "area": "集美区",
+    "detail": 1,
+    "uid": "68e2e44dd56d1fd7077ce82a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_818cf1bf004e1f4397fbb5d17372dcf3.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_818cf1bf004e1f4397fbb5d17372dcf3.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0f77cd95e4ae0ec3e6e5f151805dff96.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7254871ec3f3a0fa7cce9c7e868faf0d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_905b9f86507eb82dea67971666ec4b8c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a2518f3466838049ebacdb294b544301.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 24.431223,
+      "lng": 118.133329
+    },
+    "address": "厦门市思明区朝海路曾厝垵",
+    "province": "福建省",
+    "city": "厦门市",
+    "area": "思明区",
+    "street_id": "a7c2c538a5f2728b86420e29",
+    "detail": 1,
+    "uid": "a7c2c538a5f2728b86420e29",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_5b6e6993b816a112bb6712ec52798f87.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=a7c2c538a5f2728b86420e29&width=720&height=360&quality=80&fovx=120"
+    ]
+  }
+]

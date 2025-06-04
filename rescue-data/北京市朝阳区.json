@@ -1,0 +1,112 @@
+[
+  {
+    "name": "应急救援站",
+    "location": {
+      "lat": 39.977515,
+      "lng": 116.496597
+    },
+    "address": "北京市朝阳区酒仙桥路星泰中心",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "朝阳区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "1497ec0707276f7a96ec8452",
+    "cover": "https://taojin-his.cdn.bcebos.com/023b5bb5c9ea15ce5852084fbb003af33a87b23c.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/023b5bb5c9ea15ce5852084fbb003af33a87b23c.jpg",
+      "https://taojin-his.cdn.bcebos.com/a8773912b31bb051bf2331533a7adab44aede042.jpg",
+      "https://taojin-his.cdn.bcebos.com/e824b899a9014c08962504a1077b02087bf4f49c.jpg",
+      "https://taojin-his.cdn.bcebos.com/810a19d8bc3eb135083aeb9fac1ea8d3fd1f4410.jpg",
+      "https://taojin-his.cdn.bcebos.com/2cf5e0fe9925bc310576009c53df8db1cb13708e.jpg",
+      "https://taojin-his.cdn.bcebos.com/aa18972bd40735fabacd013592510fb30f240878.jpg"
+    ]
+  },
+  {
+    "name": "高杨树洗车补胎救援",
+    "location": {
+      "lat": 39.956181,
+      "lng": 116.55844
+    },
+    "address": "驹子房路（朝新嘉园东里7区东南侧约50米)",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "朝阳区",
+    "street_id": "",
+    "telephone": "18211185717",
+    "detail": 1,
+    "uid": "02de4d1a4d6814a09868b47d",
+    "cover": "https://photo-meituan.cdn.bcebos.com/photo/1740121962dbcb9d3bc43d3b6ed459fae06fe0335f",
+    "photo_list": [
+      "https://photo-meituan.cdn.bcebos.com/photo/1740121962dbcb9d3bc43d3b6ed459fae06fe0335f",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1a9f80fd60f7e97a161624ea6df5e6bf.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4d1968350437392ce88d8225d7d2ba90.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_75c087ea8b85234b4fb21992435d2ba1.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c44472f2f3843847eb27dfd5bad3b453.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_11a98ae1e1417a775640700c29a4c88b.jpg"
+    ]
+  },
+  {
+    "name": "朝阳区建国门消防救援站",
+    "location": {
+      "lat": 39.909736,
+      "lng": 116.449676
+    },
+    "address": "北京市朝阳区砖厂胡同成远大厦",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "朝阳区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "1aa542bb74c0c8282cb17e59",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_1c36e1c4501a7cb6313cb8928f3dc275.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1c36e1c4501a7cb6313cb8928f3dc275.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1db56c9fc764ed4301d94522c9a7d1d0.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a55d14908f9e43102cfbb4342ec29847.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_16a2ea26b5ad4a0de0be7ee5e8587d82.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65f38ef8eb122b35f.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65f38ef8ee1bf8ac2.jpeg"
+    ]
+  },
+  {
+    "name": "朝阳区横街子消防救援站",
+    "location": {
+      "lat": 39.829675,
+      "lng": 116.510332
+    },
+    "address": "北京市朝阳区横街子15号",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "朝阳区",
+    "detail": 1,
+    "uid": "901073c32b6734ae77026954",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a0a3d3623884f7ff500500d699354e43.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a0a3d3623884f7ff500500d699354e43.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_215e5bf75cfad0d79382c29f10a534b8.jpeg"
+    ]
+  },
+  {
+    "name": "朝阳区驹子房消防救援站",
+    "location": {
+      "lat": 39.973186,
+      "lng": 116.535394
+    },
+    "address": "北京市朝阳区西坝街丽湾家园西北侧约30米",
+    "province": "北京市",
+    "city": "北京市",
+    "area": "朝阳区",
+    "detail": 1,
+    "uid": "c190975b330e8e6421022092",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_75cb96f41c15cd0796a885c1e0b566b1.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_75cb96f41c15cd0796a885c1e0b566b1.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6731e25c5c0d7672475ac6e767fd8dd3.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4c96e8d36ee4f0413d4b19cf250290bd.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_24e617cf7ca2d28419b64bdcc693fe8e.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3fb5e6135c64675c7bf1d7089986ccc8.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e9a44a2181cbcc107a7c311c1a74d5ba.jpeg"
+    ]
+  }
+]

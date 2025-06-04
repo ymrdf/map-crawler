@@ -1,0 +1,183 @@
+[
+  {
+    "name": "车辆救援",
+    "location": {
+      "lat": 27.797168,
+      "lng": 113.10463
+    },
+    "address": "湖南省株洲市天元区王家坪立交桥与008县道交叉口北20米",
+    "province": "湖南省",
+    "city": "株洲市",
+    "area": "天元区",
+    "street_id": "40ff3a63c1dc9632d5851f78",
+    "detail": 1,
+    "uid": "40ff3a63c1dc9632d5851f78",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_f103deacc557161aec5714efce3e0a05.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=40ff3a63c1dc9632d5851f78&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9371112a80a7a2dead2ccfa0c2422137.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_994ef31823ee946dc9e46d96854c2ce0.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B66bac6f2023b2138d0.jpeg"
+    ]
+  },
+  {
+    "name": "株洲市救援指挥中心",
+    "location": {
+      "lat": 27.851098,
+      "lng": 113.171299
+    },
+    "address": "株洲市荷塘区新华西路鑫农小区南侧",
+    "province": "湖南省",
+    "city": "株洲市",
+    "area": "荷塘区",
+    "street_id": "55a9d3398c5c6b91a6da3912",
+    "detail": 1,
+    "uid": "55a9d3398c5c6b91a6da3912",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_b640af41388ccd6f4a26220714db0c69.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=55a9d3398c5c6b91a6da3912&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7f9ca9afad39eb073f18ab4958bf3103.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B67b52075c5b25d4b6.jpeg"
+    ]
+  },
+  {
+    "name": "醴陵市阳三石消防救援站",
+    "location": {
+      "lat": 27.650106,
+      "lng": 113.528665
+    },
+    "address": "湖南省株洲市醴陵市兴商路湘运醴陵汽车中心站北侧约100米",
+    "province": "湖南省",
+    "city": "株洲市",
+    "area": "醴陵市",
+    "street_id": "a9c6b542005b38932a02e141",
+    "detail": 1,
+    "uid": "a9c6b542005b38932a02e141",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_eca6b733635af2ca71a4a486a723f049.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=a9c6b542005b38932a02e141&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "株洲市芦淞区鑫盛路消防救援站",
+    "location": {
+      "lat": 27.821558,
+      "lng": 113.176685
+    },
+    "address": "株洲市芦淞区鑫盛路香竹园小区西侧约100米",
+    "province": "湖南省",
+    "city": "株洲市",
+    "area": "芦淞区",
+    "street_id": "d8a13fbcedf7e02c4054d7fc",
+    "detail": 1,
+    "uid": "d8a13fbcedf7e02c4054d7fc",
+    "cover": "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_e91541612ca37e56f96db2dbe4471932.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=d8a13fbcedf7e02c4054d7fc&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "栗雨消防救援站",
+    "location": {
+      "lat": 27.848441,
+      "lng": 113.090677
+    },
+    "address": "株洲市天元区新东路兴湖家园西南侧约270米",
+    "province": "湖南省",
+    "city": "株洲市",
+    "area": "天元区",
+    "street_id": "e44754a6323e697646e27430",
+    "detail": 1,
+    "uid": "e44754a6323e697646e27430",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_81a0749f4dc7864ecb17a22827fdb3f4.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=e44754a6323e697646e27430&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "天明救援",
+    "location": {
+      "lat": 27.02986,
+      "lng": 113.360984
+    },
+    "address": "株洲市攸县攸州大道中央花园北侧约120米",
+    "province": "湖南省",
+    "city": "株洲市",
+    "area": "攸县",
+    "telephone": "18474889888,19973383666",
+    "detail": 1,
+    "uid": "f00ba39f46c7b458c26c14a0",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_f59dd18761a3f4c0adcab6beb9a287b8.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f59dd18761a3f4c0adcab6beb9a287b8.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/f43f8d437184d7b86bff34555be61e45_5661.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/b6e8cadb3b2a8ea0aa7a7657c29a2bfc_5518.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/2197e0a355de86c6ae76cf2909a96df0_1957.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/1930a0f65e76fb608dc3da9220dffbb5_0054.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B649ef86e0bac713324.jpeg"
+    ]
+  },
+  {
+    "name": "醴陵市江源消防救援站",
+    "location": {
+      "lat": 27.667976,
+      "lng": 113.497215
+    },
+    "address": "株洲市醴陵市左权北路蔚蓝国际小区东侧约220米",
+    "province": "湖南省",
+    "city": "株洲市",
+    "area": "醴陵市",
+    "detail": 1,
+    "uid": "d2cfb61f93295b9cbea24086",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_f86af805962e67feb07a654ac5621a10.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f86af805962e67feb07a654ac5621a10.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_73336c77ad430de10a0e359d6c32205c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_140830716b39d43c56bf51be6e43213b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6526f51c24c3a9a16547284d79820cc0.jpeg"
+    ]
+  },
+  {
+    "name": "株洲市芦淞区体育路消防救援站",
+    "location": {
+      "lat": 27.852269,
+      "lng": 113.158677
+    },
+    "address": "湖南省株洲市芦淞区体育路18号",
+    "province": "湖南省",
+    "city": "株洲市",
+    "area": "芦淞区",
+    "street_id": "fc82a3ec6b21e4693913fdf5",
+    "detail": 1,
+    "uid": "fc82a3ec6b21e4693913fdf5",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_7b4ac94d7067e885aae8501978799d6e.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=fc82a3ec6b21e4693913fdf5&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_24305468215ef0e60e5d2d29700fb8df.jpeg"
+    ]
+  },
+  {
+    "name": "路驰汽车养护馆24小时救援",
+    "location": {
+      "lat": 27.682578,
+      "lng": 113.518214
+    },
+    "address": "株洲市醴陵市丁家坊路瓷都世纪花园北侧约130米",
+    "province": "湖南省",
+    "city": "株洲市",
+    "area": "醴陵市",
+    "street_id": "0cda8d73094d1c7303ec01f6",
+    "telephone": "15673345188",
+    "detail": 1,
+    "uid": "0cda8d73094d1c7303ec01f6",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a6965dfe244c8e289f01eee4410192e3.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=0cda8d73094d1c7303ec01f6&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_84d11a19268ae34b87683c6eb98ab92e.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cca0403fbc5a0c52e7e100035c9d8798.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_49b25865d76ffa5f4729e274675e5030.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_30aa1c32c23f6747a6cee5410bfedb3f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_05e1d6852c2b0af87c32f74b94295f07.jpeg"
+    ]
+  }
+]

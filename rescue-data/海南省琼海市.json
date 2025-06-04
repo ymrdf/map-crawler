@@ -1,0 +1,22 @@
+[
+  {
+    "name": "海南博赢自驾车租赁有限公司",
+    "location": {
+      "lat": 19.166003,
+      "lng": 110.594112
+    },
+    "address": "海南省琼海市鳌贤街28号",
+    "province": "海南省",
+    "city": "琼海市",
+    "area": "",
+    "telephone": "18389640020",
+    "detail": 1,
+    "uid": "32ca70de12f5c7615fd4fe14",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_1d4f8c69b936f004f9e3367789bdb121.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1d4f8c69b936f004f9e3367789bdb121.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_eb2f73fcd83eab6b6ee39829d84cab1c.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65712bf81099de5c3.jpeg"
+    ]
+  }
+]

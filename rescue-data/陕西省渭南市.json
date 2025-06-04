@@ -1,0 +1,135 @@
+[
+  {
+    "name": "鹏程汽车救援",
+    "location": {
+      "lat": 35.23759,
+      "lng": 110.177292
+    },
+    "address": "渭南市合阳县X305德贤庄东南侧约90米",
+    "province": "陕西省",
+    "city": "渭南市",
+    "area": "合阳县",
+    "street_id": "",
+    "telephone": "13379331999",
+    "detail": 1,
+    "uid": "f9c692d2766ef9b025d2bbcd",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d30c60e70ab3576e4c81a22b0106300f.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d30c60e70ab3576e4c81a22b0106300f.jpeg"
+    ]
+  },
+  {
+    "name": "渭南市消防救援支队",
+    "location": {
+      "lat": 34.513391,
+      "lng": 109.510199
+    },
+    "address": "渭南市临渭区解放路胜利小学南侧约30米",
+    "province": "陕西省",
+    "city": "渭南市",
+    "area": "临渭区",
+    "street_id": "2380dcfb9e4db0c61f38941a",
+    "detail": 1,
+    "uid": "2380dcfb9e4db0c61f38941a",
+    "cover": "https://taojin-his.cdn.bcebos.com/b3b7d0a20cf431ad17d8fe704536acaf2edd9875.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=2380dcfb9e4db0c61f38941a&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 34.492374,
+      "lng": 109.762709
+    },
+    "address": "渭南市华州区连共线延长壳牌加油站(渭南华县西潼公路北加油站)东侧约80米",
+    "province": "陕西省",
+    "city": "渭南市",
+    "area": "华州区",
+    "detail": 1,
+    "uid": "762a0c0796dbca494354d765",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_76f73b2307152aeb229cf44a9172859b.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_76f73b2307152aeb229cf44a9172859b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a448341e8d50a8bb164ad1ee7f5625d5.jpeg"
+    ]
+  },
+  {
+    "name": "渭南消防救援",
+    "location": {
+      "lat": 34.577081,
+      "lng": 110.095822
+    },
+    "address": "渭南市华阴市太华路城市印象(太华路北段)",
+    "province": "陕西省",
+    "city": "渭南市",
+    "area": "华阴市",
+    "street_id": "cdf0c6ed3315c20eca2915ec",
+    "detail": 1,
+    "uid": "cdf0c6ed3315c20eca2915ec",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a3fd2a3d1bb4dfd52e7bd416b3f571b9.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=cdf0c6ed3315c20eca2915ec&width=720&height=360&quality=80&fovx=120",
+      "https://taojin-his.cdn.bcebos.com/0eb30f2442a7d933c0aa036aa24bd11373f001ac.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c59ac2932fea2a08ea95b448a4e96114.jpg"
+    ]
+  },
+  {
+    "name": "渭南消防救援",
+    "location": {
+      "lat": 34.79978,
+      "lng": 109.926304
+    },
+    "address": "渭南市大荔县万象城市广场",
+    "province": "陕西省",
+    "city": "渭南市",
+    "area": "大荔县",
+    "detail": 1,
+    "uid": "20ffd650ac35934a9222e0e5",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_43ba93b1e765feb8f119fbda6503aa49.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_43ba93b1e765feb8f119fbda6503aa49.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ee595c76acba43d0ce45554535fac0a6.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f30b7b88015a7858b037569dc0254a55.jpg"
+    ]
+  },
+  {
+    "name": "合阳县消防救援大队",
+    "location": {
+      "lat": 35.247375,
+      "lng": 110.16044
+    },
+    "address": "陕西省渭南市解放北路121号",
+    "province": "陕西省",
+    "city": "渭南市",
+    "area": "合阳县",
+    "street_id": "",
+    "detail": 1,
+    "uid": "1669a57e0526281cf4eafccd",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_b2851be33d63447789312876f66b6fae.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b2851be33d63447789312876f66b6fae.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_495ee03a3f4c21849908eaa3704e86d8.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_432026f385fa1f79dffbc6511fc50891.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_71700f9bfcd407af20a2310fecc52bd1.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1b63b6541f2b32de8be144421c43cee7.jpeg"
+    ]
+  },
+  {
+    "name": "渭南市消防救援支队特勤站",
+    "location": {
+      "lat": 34.498989,
+      "lng": 109.446323
+    },
+    "address": "渭南市临渭区朝阳大街快乐风车幼儿园东北侧约120米",
+    "province": "陕西省",
+    "city": "渭南市",
+    "area": "临渭区",
+    "detail": 1,
+    "uid": "14ebd6e0c81c151daecb6611",
+    "cover": "https://pic-map.cdn.bcebos.com/img/7b77d46d662757273139d0eff1fe0284",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/7b77d46d662757273139d0eff1fe0284"
+    ]
+  }
+]

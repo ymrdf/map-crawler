@@ -1,0 +1,141 @@
+[
+  {
+    "name": "富强路消防救援站",
+    "location": {
+      "lat": 37.04897,
+      "lng": 114.557245
+    },
+    "address": "邢台市襄都区富强路春蕾花园东北侧",
+    "province": "河北省",
+    "city": "邢台市",
+    "area": "襄都区",
+    "detail": 1,
+    "uid": "7b85eddfbb5862f928b97ced",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d319fd1c21952e98534e08ca8b944997.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d319fd1c21952e98534e08ca8b944997.jpeg"
+    ]
+  },
+  {
+    "name": "润泰救援装备科技河北有限公司",
+    "location": {
+      "lat": 37.001957,
+      "lng": 114.539195
+    },
+    "address": "河北省邢台市沙河市建业路2996号",
+    "province": "河北省",
+    "city": "邢台市",
+    "area": "沙河市",
+    "street_id": "68174349ce61b27ec27da2dc",
+    "detail": 1,
+    "uid": "68174349ce61b27ec27da2dc",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_22f40dacd6effa4d49e91a5fa3029828.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=68174349ce61b27ec27da2dc&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_336581f664a7194dfa2aaa782bc17dd1.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e9cba18a41a1763a5bc71c5e942caec6.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/Hd439b6003af33a8786edea4dc95c10385243b5e1.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/H3bf33a87e950352ab7e1cf5f5c43fbf2b3118be1.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/Hd833c895d143ad4b2fafac978d025aafa50f06e0.jpg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 37.081274,
+      "lng": 115.035353
+    },
+    "address": "邢台市平乡县育才路振兴家园东北侧约70米",
+    "province": "河北省",
+    "city": "邢台市",
+    "area": "平乡县",
+    "detail": 1,
+    "uid": "d495aa2a1c660339ad080ff2",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B64d1183b8d332a382.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B64d1183b8d332a382.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B64d1183b70d4911faa.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B64d11863113c51655e.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B64d11862e8eb42f52.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c6b551d44a6d4def2a79bd1262d94769.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_298b5811bc6a92b5a3a9bf914de27eef.jpeg"
+    ]
+  },
+  {
+    "name": "河北广宗县三木车辆救援服务公司",
+    "location": {
+      "lat": 36.985397,
+      "lng": 115.200168
+    },
+    "address": "S326与新农村路交叉路口东北侧",
+    "province": "河北省",
+    "city": "邢台市",
+    "area": "广宗县",
+    "street_id": "f7c37c29dbe32e41fb2d61b0",
+    "telephone": "13273658938",
+    "detail": 1,
+    "uid": "f7c37c29dbe32e41fb2d61b0",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_4fc83d4405ea6516895ef9a7853e82e2.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=f7c37c29dbe32e41fb2d61b0&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f50ec924ddc3510786bc948ad929e5bc.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4eb09eabaf80a5a7751226c29898c79b.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0efee961cc9d8a2104be91ac1fdb5abc.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_98c343569d3cf94dc8afd97833bf78c7.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5e1fad6f7b149bc31fc46e7c66ea1a02.jpeg"
+    ]
+  },
+  {
+    "name": "南和区邢临路消防救援站",
+    "location": {
+      "lat": 37.025207,
+      "lng": 114.62501
+    },
+    "address": "河北省邢台市南和区326省道与泉兴路交叉口东南180米",
+    "province": "河北省",
+    "city": "邢台市",
+    "area": "南和区",
+    "detail": 1,
+    "uid": "1402edf155e4c90cd02dd679",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B61f54bcc651526422.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B61f54bcc651526422.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_55cd359270ebdffca311cca009717ffb.jpeg"
+    ]
+  },
+  {
+    "name": "邢台市应急救援队",
+    "location": {
+      "lat": 37.216943,
+      "lng": 114.400649
+    },
+    "address": "河北省邢台市信都区石邢公路",
+    "province": "河北省",
+    "city": "邢台市",
+    "area": "信都区",
+    "detail": 1,
+    "uid": "d37426e702ed778ccc06a495",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B5fc5f0c2c143b4788.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B5fc5f0c2c143b4788.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_751d310ee738d47a1a2be115fcd2e7cf.jpeg"
+    ]
+  },
+  {
+    "name": "隆尧县纬三路消防救援站",
+    "location": {
+      "lat": 37.300492,
+      "lng": 114.885094
+    },
+    "address": "邢台市隆尧县纬三路",
+    "province": "河北省",
+    "city": "邢台市",
+    "area": "隆尧县",
+    "detail": 1,
+    "uid": "10d17e4d9c192e41eaf85328",
+    "cover": "https://pic-map.cdn.bcebos.com/img/a4f7a16b727755fdfe07014e67e67f32",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/a4f7a16b727755fdfe07014e67e67f32"
+    ]
+  }
+]

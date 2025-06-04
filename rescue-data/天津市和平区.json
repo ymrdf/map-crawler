@@ -1,0 +1,80 @@
+[
+  {
+    "name": "天津市救援拖运有限公司",
+    "location": {
+      "lat": 39.045352,
+      "lng": 117.639557
+    },
+    "address": "天津市滨海新区塘黄路翔鹤园西侧约50米",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "滨海新区",
+    "detail": 1,
+    "uid": "4dd8df6233fd0450ad31e553",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_488c0670056dbfb373c65169969440e9.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_488c0670056dbfb373c65169969440e9.jpeg"
+    ]
+  },
+  {
+    "name": "河北区民族路消防救援站",
+    "location": {
+      "lat": 39.138357,
+      "lng": 117.203924
+    },
+    "address": "天津市河北区民族路君临大厦",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "河北区",
+    "detail": 1,
+    "uid": "7e0ddde1fa6aa5edbfa822c5",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d6a1647e30819664363583ce5d0f167b.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d6a1647e30819664363583ce5d0f167b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7a314f462f6af27ea33a2fdfcf30536f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_32c2b37e692d388c88b3979789f5d08c.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B66f158a5a3e48d2e0.jpeg"
+    ]
+  },
+  {
+    "name": "和平区西安道消防救援站",
+    "location": {
+      "lat": 39.121768,
+      "lng": 117.207742
+    },
+    "address": "天津市和平区西安道怡和里西北侧30米",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "和平区",
+    "street_id": "7828720bbf2f9edd96ca07eb",
+    "detail": 1,
+    "uid": "7828720bbf2f9edd96ca07eb",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_513bcf591291c5dfdd9db4a1630ee013.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=7828720bbf2f9edd96ca07eb&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_848482ec15e630519b995540e3928d63.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_498a7182f3c1fe041ced1b8c32c37e43.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_17efdfb805bc5077f4084b06b18d03e4.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6749a32b4a72d181f9.jpeg"
+    ]
+  },
+  {
+    "name": "补胎换胎救援",
+    "location": {
+      "lat": 39.485325,
+      "lng": 116.981809
+    },
+    "address": "天津市武清区大东线",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "武清区",
+    "telephone": "18656256462",
+    "detail": 1,
+    "uid": "9757fc59b4739919f50e7705",
+    "cover": "https://taojin-his.cdn.bcebos.com/42166d224f4a20a499db44519e529822730ed05b.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/42166d224f4a20a499db44519e529822730ed05b.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B65d4531cadfdd12b91.jpeg"
+    ]
+  }
+]

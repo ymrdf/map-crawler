@@ -1,0 +1,80 @@
+[
+  {
+    "name": "跃光汽修救援轮胎部",
+    "location": {
+      "lat": 29.651772,
+      "lng": 91.02662
+    },
+    "address": "西藏拉萨市堆龙德庆区东嘎街道人和路人和鑫座a栋",
+    "province": "西藏自治区",
+    "city": "拉萨市",
+    "area": "堆龙德庆区",
+    "detail": 1,
+    "uid": "be29b4edabfd3b8382a12e3a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a1ab5dcfac92eb9d74a529d7f6bb165e.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a1ab5dcfac92eb9d74a529d7f6bb165e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_538adc73b555d52f6b71b24952387f4e.jpeg"
+    ]
+  },
+  {
+    "name": "川渝汽修救援厂",
+    "location": {
+      "lat": 30.468035,
+      "lng": 91.09231
+    },
+    "address": "友谊路109号国道特警大队斜对面",
+    "province": "西藏自治区",
+    "city": "拉萨市",
+    "area": "当雄县",
+    "street_id": "fce1bb3ced15cd2f2002623d",
+    "telephone": "13456367388",
+    "detail": 1,
+    "uid": "fce1bb3ced15cd2f2002623d",
+    "cover": "https://photo-meituan.cdn.bcebos.com/photo/1741075731a14a96cbbf58a07d1b9d1065856becb4",
+    "photo_list": [
+      "https://photo-meituan.cdn.bcebos.com/photo/1741075731a14a96cbbf58a07d1b9d1065856becb4",
+      "https://lbsugc.cdn.bcebos.com/images/B5ecca9840438f6853.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_54e6f658fd2bd3510b9446bef21505c3.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B5ecca9757af523f31.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d64d1d021487566c4d02d155a3b9b470.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B5ea567e43b9f0b656.jpeg"
+    ]
+  },
+  {
+    "name": "西藏自治区高山救援队",
+    "location": {
+      "lat": 29.680677,
+      "lng": 91.127436
+    },
+    "address": "拉萨市城关区扎基西路3号",
+    "province": "西藏自治区",
+    "city": "拉萨市",
+    "area": "城关区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "8bb1368acb9df3ba220220ee",
+    "cover": "https://taojin-his.cdn.bcebos.com/9d82d158ccbf6c8105700265b63eb13532fa40f3.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/9d82d158ccbf6c8105700265b63eb13532fa40f3.jpg"
+    ]
+  },
+  {
+    "name": "曲水县消防救援大队",
+    "location": {
+      "lat": 29.355524,
+      "lng": 90.746112
+    },
+    "address": "西藏自治区拉萨市曲水县沿河路27号",
+    "province": "西藏自治区",
+    "city": "拉萨市",
+    "area": "曲水县",
+    "detail": 1,
+    "uid": "4f3a1c23898381e987420e3b",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B62c92e2a10e86184d6.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B62c92e2a10e86184d6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_463012c1b413bd42a8949d11dc260c7b.jpeg"
+    ]
+  }
+]

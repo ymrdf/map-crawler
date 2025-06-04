@@ -1,0 +1,135 @@
+[
+  {
+    "name": "顺通钣金喷漆",
+    "location": {
+      "lat": 41.060239,
+      "lng": 121.658814
+    },
+    "address": "锦州市凌海市安屯新村",
+    "province": "辽宁省",
+    "city": "锦州市",
+    "area": "凌海市",
+    "telephone": "15940607010",
+    "detail": 1,
+    "uid": "2286dfc9d429d410aeb22af0",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_563af5f8a1c0e6ccb0130deea8c89e83.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_563af5f8a1c0e6ccb0130deea8c89e83.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B6155733ccc03d167da.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B61519a529f23b11831.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B61519ac7f359b5bf5.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1138bab17a255bf72c1ef534f4e74fa8.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B674a5e593e84b1368a.jpeg"
+    ]
+  },
+  {
+    "name": "一帆救援",
+    "location": {
+      "lat": 41.601678,
+      "lng": 121.797294
+    },
+    "address": "锦州市北镇市幸福胡同福盛馨城西北侧",
+    "province": "辽宁省",
+    "city": "锦州市",
+    "area": "北镇市",
+    "telephone": "(0416)6129999,15604969958",
+    "detail": 1,
+    "uid": "76c167f93cb47c3797031991",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_1b866a98f5aaf224abf94f2c24837f2b.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1b866a98f5aaf224abf94f2c24837f2b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d5b016d26eaf4e62975d0084580e35c8.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2b5a6d8c60d0a757459892c3d4754653.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_294356e4346970d193c5cbbdb1f70543.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65cee2485c86029c6.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B674ac84b5add66338.jpeg"
+    ]
+  },
+  {
+    "name": "泳安汽车救援中心",
+    "location": {
+      "lat": 41.17707,
+      "lng": 121.346787
+    },
+    "address": "辽宁省锦州市凌海市国庆路100-4号",
+    "province": "辽宁省",
+    "city": "锦州市",
+    "area": "凌海市",
+    "street_id": "69b75390d1978fec2a02e1b6",
+    "telephone": "(0416)8136288",
+    "detail": 1,
+    "uid": "69b75390d1978fec2a02e1b6",
+    "cover": "https://taojin-his.cdn.bcebos.com/11385343fbf2b211b65d84b4c18065380dd78edc.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=69b75390d1978fec2a02e1b6&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_469bb5ca5d0e40747b90b23e9697fa36.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_85dfa712045cf89e46cb40ab3937d118.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_91c48e80ac63fcf0d56c30ce3ead794b.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_41b888d2d8a66c5d69022f167db4cd6c.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/Hc2cec3fdfc0392458319b9068c94a4c27d1e250e.jpg"
+    ]
+  },
+  {
+    "name": "蓝天救援",
+    "location": {
+      "lat": 41.600495,
+      "lng": 121.786678
+    },
+    "address": "锦州市北镇市闾山路医闾江南",
+    "province": "辽宁省",
+    "city": "锦州市",
+    "area": "北镇市",
+    "detail": 1,
+    "uid": "295088e7e457523e90114cfb",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_9b208c64b48d4e01621136674013b6b0.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9b208c64b48d4e01621136674013b6b0.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c8a30fcbab71ebc1594424793aa55844.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b4f45bf20864a6c63cdf470cad3308ae.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_11b4138cb1612c46a6dc10efdaa0770d.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65f0e175e3ec117341.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65f0e1768a5c689ff.jpeg"
+    ]
+  },
+  {
+    "name": "宝哥柴油电喷维修救援",
+    "location": {
+      "lat": 41.152762,
+      "lng": 121.366079
+    },
+    "address": "锦州市凌海市环城路翰林馨语",
+    "province": "辽宁省",
+    "city": "锦州市",
+    "area": "凌海市",
+    "telephone": "15004202222",
+    "detail": 1,
+    "uid": "2624c8208f4da068d22dd6f9",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_1a2fef2fe83395690bb35e842865c392.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1a2fef2fe83395690bb35e842865c392.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f632c3e6c47c630398d7d0096a340ce2.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1aeb7f12e178052872f1f126b63d0db4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6017bde172fe3e60603e54be196e1fff.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e6e75a26df3d3b91bdb35925a398d75c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_28c62f07aea7de4db5b73ce75b8081a3.jpeg"
+    ]
+  },
+  {
+    "name": "凌海市消防救援大队",
+    "location": {
+      "lat": 41.169944,
+      "lng": 121.3591
+    },
+    "address": "辽宁省锦州市凌海市商业路53号",
+    "province": "辽宁省",
+    "city": "锦州市",
+    "area": "凌海市",
+    "street_id": "230c65315de197ba71210b61",
+    "detail": 1,
+    "uid": "230c65315de197ba71210b61",
+    "cover": "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_7c1d6104cbf5ea68e988dcf1d2069b16.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=230c65315de197ba71210b61&width=720&height=360&quality=80&fovx=120"
+    ]
+  }
+]

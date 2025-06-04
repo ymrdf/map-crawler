@@ -1,0 +1,100 @@
+[
+  {
+    "name": "轿车轮胎救援",
+    "location": {
+      "lat": 34.4184,
+      "lng": 114.161018
+    },
+    "address": "河南省开封市尉氏县人民西路与西环路交叉路口往西南约150米",
+    "province": "河南省",
+    "city": "开封市",
+    "area": "尉氏县",
+    "telephone": "13937896750",
+    "detail": 1,
+    "uid": "71e73f101d556a054bcc4ade",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ed4f0104b033fbd14a03aeb24607af12.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ed4f0104b033fbd14a03aeb24607af12.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_415509633389ea7a594e5a6ea78039ee.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_112da40a9488602ce7b4d794f05d168d.jpeg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_c02682cc41fbf5fd96e133d7763fd77e.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_917df24f9549f1fa08db35d2aa08a3b2.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_44a0c1b6285acdeafa7892ac1311d4a3.jpeg"
+    ]
+  },
+  {
+    "name": "兰考县兰考消防救援站",
+    "location": {
+      "lat": 34.855286,
+      "lng": 114.802308
+    },
+    "address": "河南省开封市兰考县X003",
+    "province": "河南省",
+    "city": "开封市",
+    "area": "兰考县",
+    "detail": 1,
+    "uid": "7b43237d5b54361595ca0795",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_325a222fb0c6efcb5e774f8f6162cc61.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_325a222fb0c6efcb5e774f8f6162cc61.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 34.398401,
+      "lng": 114.203155
+    },
+    "address": "开封市尉氏县工业路福星温泉花园南侧约110米",
+    "province": "河南省",
+    "city": "开封市",
+    "area": "尉氏县",
+    "detail": 1,
+    "uid": "c4a124fb7e2bd42e047ce8f6",
+    "cover": "https://pic-map.cdn.bcebos.com/img/89920e5f7c4dccd111f7159bee70f3c4",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/89920e5f7c4dccd111f7159bee70f3c4"
+    ]
+  },
+  {
+    "name": "人民路消防救援站",
+    "location": {
+      "lat": 34.475028,
+      "lng": 114.479395
+    },
+    "address": "开封市通许县人民路天赐粮苑小区西侧约50米",
+    "province": "河南省",
+    "city": "开封市",
+    "area": "通许县",
+    "detail": 1,
+    "uid": "20137976c7574312b6265559",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a0851f9133d81a9fa51425f75d9247d9.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a0851f9133d81a9fa51425f75d9247d9.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_83455222e1ebe8c7504ab7eb90f3c2e0.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ec1d8fedff3a8c2357d605ae7c7a602d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e6f27828c0e9f626742bdbdf380d96fd.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B66d424be1df92e272.jpeg"
+    ]
+  },
+  {
+    "name": "交通事故水上打捞抢险救援队",
+    "location": {
+      "lat": 34.782936,
+      "lng": 114.370241
+    },
+    "address": "开封市禹王台区演武厅东街演武厅小区西南侧",
+    "province": "河南省",
+    "city": "开封市",
+    "area": "禹王台区",
+    "street_id": "684f8dd4284a7cd02fb90850",
+    "detail": 1,
+    "uid": "684f8dd4284a7cd02fb90850",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_e5c2a698ce78d611d593a2c34981c2e6.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e5c2a698ce78d611d593a2c34981c2e6.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0be14d4b1bd7fa4073ea56bd1081158b.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65c7035fd063314fe3.jpeg"
+    ]
+  }
+]

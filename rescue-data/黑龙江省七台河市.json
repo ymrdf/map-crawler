@@ -1,0 +1,73 @@
+[
+  {
+    "name": "国家危险化学品应急救援七台河基地",
+    "location": {
+      "lat": 45.83472,
+      "lng": 130.9192
+    },
+    "address": "黑龙江省七台河市新兴区宝泰隆路2号",
+    "province": "黑龙江省",
+    "city": "七台河市",
+    "area": "新兴区",
+    "detail": 1,
+    "uid": "beb0b067d0c8d703704b8719",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B60e6aee728dd25a09.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B60e6aee728dd25a09.jpeg"
+    ]
+  },
+  {
+    "name": "人和运车拖车救援有限公司",
+    "location": {
+      "lat": 45.777499,
+      "lng": 130.975443
+    },
+    "address": "黑龙江省七台河市桃山区大明街178号",
+    "province": "黑龙江省",
+    "city": "七台河市",
+    "area": "桃山区",
+    "telephone": "16646418888,18346471555",
+    "detail": 1,
+    "uid": "d59cb592e8cb64dff7eafc33",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B61526b495a03612d85.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B61526b495a03612d85.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8271b76b33c425cdeb50dfa8fcf36b3f.jpeg"
+    ]
+  },
+  {
+    "name": "七台河市消防救援支队戍企大队",
+    "location": {
+      "lat": 45.775556,
+      "lng": 131.00326
+    },
+    "address": "七台河市桃山区大同街七台河市长江医院西侧约100米",
+    "province": "黑龙江省",
+    "city": "七台河市",
+    "area": "桃山区",
+    "detail": 1,
+    "uid": "ad6eeb6ccec1110a715e8051",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_3999c29a1557472bfbc84ddaf07d1cc1.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3999c29a1557472bfbc84ddaf07d1cc1.jpeg"
+    ]
+  },
+  {
+    "name": "中泽石油加油站",
+    "location": {
+      "lat": 45.787866,
+      "lng": 131.004499
+    },
+    "address": "黑龙江省七台河市桃山区沿河街七台河市消防救援指挥中心对面",
+    "province": "黑龙江省",
+    "city": "七台河市",
+    "area": "桃山区",
+    "telephone": "(0464)2904188",
+    "detail": 1,
+    "uid": "2416d30f6f84a45c3be4a68d",
+    "cover": "https://pic-map.cdn.bcebos.com/img/14c734462278ea9b6d8fa84a5baebfd6",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/14c734462278ea9b6d8fa84a5baebfd6"
+    ]
+  }
+]

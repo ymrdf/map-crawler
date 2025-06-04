@@ -1,0 +1,85 @@
+[
+  {
+    "name": "应急救援中心",
+    "location": {
+      "lat": 48.890757,
+      "lng": 126.070083
+    },
+    "address": "黑河市五大连池市S303格球山客运站东南侧",
+    "province": "黑龙江省",
+    "city": "黑河市",
+    "area": "五大连池市",
+    "detail": 1,
+    "uid": "9683a0c2519978d39222e0dd",
+    "cover": "https://pic-map.cdn.bcebos.com/img/60d77fced964cd0add7ae962b33caa91",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/60d77fced964cd0add7ae962b33caa91"
+    ]
+  },
+  {
+    "name": "黑龙江省吉速救援服务有限公司",
+    "location": {
+      "lat": 48.641015,
+      "lng": 126.620015
+    },
+    "address": "黑龙江省黑河市五大连池市X180",
+    "province": "黑龙江省",
+    "city": "黑河市",
+    "area": "五大连池市",
+    "telephone": "13704566663",
+    "detail": 1,
+    "uid": "68e4776f89c40fe3f02d837d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_c2b86bb9a103dd30245a87e64aa89a6d.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c2b86bb9a103dd30245a87e64aa89a6d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3999aceb7bdf47429efd8b3bf5ed6f36.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b4fd201014dc0d2cab6a091409354d56.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b8e511a9d8e38901dbd2057fc921fe36.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_84f7cdd9ba403875c0bc67fa2acbe07f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0291231215ef8152acfce9a45c679d45.jpeg"
+    ]
+  },
+  {
+    "name": "黑河市祥顺汽车拖车有限公司",
+    "location": {
+      "lat": 50.257382,
+      "lng": 127.494054
+    },
+    "address": "黑龙江黑河市爱辉区魁星路264号",
+    "province": "黑龙江省",
+    "city": "黑河市",
+    "area": "爱辉区",
+    "detail": 1,
+    "uid": "7a6d5f33c5ce615678f79692",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_296315d0fd1380de950c935fff1f2b97.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_296315d0fd1380de950c935fff1f2b97.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cd1e4b504b6d4d10b533db3e38c0ba48.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c31c76604dd11a66ae4ba7291f9577f5.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d1c303d6605bc081e98360c9a57cf1f7.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6662e249749cd5ed7.jpeg"
+    ]
+  },
+  {
+    "name": "三一挖掘机",
+    "location": {
+      "lat": 48.249424,
+      "lng": 126.528267
+    },
+    "address": "黑河市北安市友谊街锦天华苑",
+    "province": "黑龙江省",
+    "city": "黑河市",
+    "area": "北安市",
+    "detail": 1,
+    "uid": "e00ed03b7bd59c9e7f29bdfa",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_0d9a6591cf859b6184fc9799fc608241.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0d9a6591cf859b6184fc9799fc608241.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65f27e202d8ad10513.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65f27e202951332a8.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65f27edcd61dc8f0a.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B662a08fd25df3166fd.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B662a08fca70ffb028.jpeg"
+    ]
+  }
+]

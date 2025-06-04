@@ -1,0 +1,106 @@
+[
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 38.530847,
+      "lng": 102.197638
+    },
+    "address": "金昌市金川区延安路金昌市中医院东南侧约50米",
+    "province": "甘肃省",
+    "city": "金昌市",
+    "area": "金川区",
+    "detail": 1,
+    "uid": "1f3ec63cfdd6d5b514b54b49",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_451dfc2d94b7c1150e69ce393a8c6ad7.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_451dfc2d94b7c1150e69ce393a8c6ad7.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7dcb1d8e284c74c7ad33717e0abfef5b.jpeg"
+    ]
+  },
+  {
+    "name": "金昌三星三公司",
+    "location": {
+      "lat": 38.500139,
+      "lng": 102.186556
+    },
+    "address": "甘肃省金昌市金川区永昌路27号",
+    "province": "甘肃省",
+    "city": "金昌市",
+    "area": "金川区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "3658b312771b59e7accb66ed",
+    "cover": "https://taojin-his.cdn.bcebos.com/f3d3572c11dfa9ec2e3c1f5f6bd0f703918fc16c.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/f3d3572c11dfa9ec2e3c1f5f6bd0f703918fc16c.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b0adaf73b308aa9c66d1ffcc2ab36c99.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a03d2d490093f1a1d5218e655144a512.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_984d9bc6ea590eac822711e3f531c57e.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_eeb23a5b6ed738ac4d87a1fab6f0fbc9.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/He824b899a9014c082525cdfd097b02087bf4f448.jpg"
+    ]
+  },
+  {
+    "name": "龙首消防救援队",
+    "location": {
+      "lat": 38.554495,
+      "lng": 102.174438
+    },
+    "address": "金昌市金川区南京路与重庆路交叉路口往东约120米",
+    "province": "甘肃省",
+    "city": "金昌市",
+    "area": "金川区",
+    "detail": 1,
+    "uid": "c221d5cfcb22f839f82d612b",
+    "cover": "https://pic-map.cdn.bcebos.com/img/67e464c87f55069db190ed81d8c2ab7c",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/67e464c87f55069db190ed81d8c2ab7c"
+    ]
+  },
+  {
+    "name": "熤鑫汽车拖车有限公司",
+    "location": {
+      "lat": 38.540315,
+      "lng": 102.18481
+    },
+    "address": "甘肃金昌市金川区南昌路57号",
+    "province": "甘肃省",
+    "city": "金昌市",
+    "area": "金川区",
+    "detail": 1,
+    "uid": "6eead84b13bfc35c250bd09a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_73dd41a32dcfffd4264ecca339d86edb.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_73dd41a32dcfffd4264ecca339d86edb.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_917c5f31e9e3f4ca75e0275f49a3f133.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_99ebd51274ac01caa7af55b87a398491.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4b58156cc4beb59d1aed9411e1559f0f.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b057040e8bd77fda642e44abe425c8e7.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f747d0bafd86750b7d5481336c2697d2.jpeg"
+    ]
+  },
+  {
+    "name": "金昌市和顺鑫劳务输出服务有限责任公司",
+    "location": {
+      "lat": 38.527522,
+      "lng": 102.215018
+    },
+    "address": "金昌市金川区广州路街道新八栋第二栋对面",
+    "province": "甘肃省",
+    "city": "金昌市",
+    "area": "金川区",
+    "street_id": "6dfc0d905c7e5b0e90114c40",
+    "telephone": "15293522986",
+    "detail": 1,
+    "uid": "6dfc0d905c7e5b0e90114c40",
+    "cover": "https://taojin-his.cdn.bcebos.com/cf1b9d16fdfaaf513e3f0d3a865494eef11f7a53.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=6dfc0d905c7e5b0e90114c40&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4d0abf4aa6a7626f09fbce2a79af36f6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_04a214a064114b73f9e0a475e52a2c7f.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9623abfcf91988e904c1489bdd33a495.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_38a93b42c1b29eea53d71ccdb95793b3.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f27a3ff9868cf2eaf3732cee019a82d0.jpeg"
+    ]
+  }
+]

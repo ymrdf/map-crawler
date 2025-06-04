@@ -1,0 +1,102 @@
+[
+  {
+    "name": "强大救援拖车有限公司",
+    "location": {
+      "lat": 24.372385,
+      "lng": 114.123879
+    },
+    "address": "韶关市翁源县建设一路翁源体育馆西南侧约60米",
+    "province": "广东省",
+    "city": "韶关市",
+    "area": "翁源县",
+    "telephone": "13826312947",
+    "detail": 1,
+    "uid": "60ff3e2d91954c3f7c29bd1a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_c03bf138dcf1e6d0b4d532218cb98d47.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c03bf138dcf1e6d0b4d532218cb98d47.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B60198a7fa7af016c5f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f9451a00927f2031bfe975be936115c8.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1c0e51896b9f88cfb0f04d3ce8742796.jpg"
+    ]
+  },
+  {
+    "name": "广东中援道路救援有限公司",
+    "location": {
+      "lat": 24.833852,
+      "lng": 113.575793
+    },
+    "address": "韶关市浈江区Y142韶关学院医学院(十里亭校区)东侧约30米",
+    "province": "广东省",
+    "city": "韶关市",
+    "area": "浈江区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "845b0fe0fe96b538631809d2",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_05b0bdc555551bbcff5a4ba567133f90.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_05b0bdc555551bbcff5a4ba567133f90.jpeg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_4f960b68f058097134c2fd58871e0538.jpg",
+      "https://taojin-his.cdn.bcebos.com/eac4b74543a982269699892b8582b9014a90eb66.jpg",
+      "https://taojin-his.cdn.bcebos.com/6f061d950a7b02084e2eeab06fd9f2d3562cc8f8.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B6274e217d67508e3d.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6274e217dff5fdcaf.jpeg"
+    ]
+  },
+  {
+    "name": "乳源救援辅助",
+    "location": {
+      "lat": 24.788556,
+      "lng": 113.282389
+    },
+    "address": "韶关市乳源瑶族自治县北环西路德源居东北侧约100米",
+    "province": "广东省",
+    "city": "韶关市",
+    "area": "乳源瑶族自治县",
+    "detail": 1,
+    "uid": "430ec89fc73c3fa42afc4802",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_b8ad078cc6b055cb4c9647a16803993f.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b8ad078cc6b055cb4c9647a16803993f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b6bcde277363b7ebf8cf14ddfbc9dda7.jpeg"
+    ]
+  },
+  {
+    "name": "韶关市浈江区莲塘路消防救援站",
+    "location": {
+      "lat": 24.755545,
+      "lng": 113.592381
+    },
+    "address": "韶关市浈江区浈江大道中江畔逸景轩东南侧约40米",
+    "province": "广东省",
+    "city": "韶关市",
+    "area": "浈江区",
+    "detail": 1,
+    "uid": "86c62f20c21512629a00506a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d5cc297c12de27dd2e787e625fa91eaf.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d5cc297c12de27dd2e787e625fa91eaf.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5ca297a1756a8d28ec13f5d0e0839daf.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_15aafe6e317070b76c3dfc045c4bdc4c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7812046649007fe32c24055340771332.jpeg"
+    ]
+  },
+  {
+    "name": "南雄消防救援",
+    "location": {
+      "lat": 25.103978,
+      "lng": 114.288588
+    },
+    "address": "韶关市南雄市雄南路与发展一路交叉路口往东约80米",
+    "province": "广东省",
+    "city": "韶关市",
+    "area": "南雄市",
+    "detail": 1,
+    "uid": "96d826972b155c352cb96df6",
+    "cover": "https://pic-map.cdn.bcebos.com/img/18f1cd284a71f25d8cecf119f40f4308",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/18f1cd284a71f25d8cecf119f40f4308",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_fa15118e6349011c9fc5daf170707c15.jpeg"
+    ]
+  }
+]

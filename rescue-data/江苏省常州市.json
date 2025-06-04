@@ -1,0 +1,118 @@
+[
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 31.626387,
+      "lng": 120.037978
+    },
+    "address": "常州市武进区武进大道",
+    "province": "江苏省",
+    "city": "常州市",
+    "area": "武进区",
+    "detail": 1,
+    "uid": "866607f192334e105cd4fe9f",
+    "cover": "https://pic-map.cdn.bcebos.com/img/dcff34e7a80fbd68e6984a58ec950d36",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/dcff34e7a80fbd68e6984a58ec950d36"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 31.764809,
+      "lng": 119.957792
+    },
+    "address": "常州市天宁区光华路浦南新村-北区西北侧",
+    "province": "江苏省",
+    "city": "常州市",
+    "area": "天宁区",
+    "street_id": "9ab4fafdf770450a80a12ead",
+    "detail": 1,
+    "uid": "9ab4fafdf770450a80a12ead",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_22b1faef90f7252ff7e3ddf48fa537e2.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=9ab4fafdf770450a80a12ead&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "中庭烟补胎拖车搭电道路救援",
+    "location": {
+      "lat": 31.765864,
+      "lng": 119.949728
+    },
+    "address": "江苏省常州市天宁区迎宾路58号",
+    "province": "江苏省",
+    "city": "常州市",
+    "area": "天宁区",
+    "street_id": "957318c07fb61b8a2bb97c0c",
+    "detail": 1,
+    "uid": "957318c07fb61b8a2bb97c0c",
+    "cover": "https://taojin-his.cdn.bcebos.com/622762d0f703918ffc85ce4b5d3d269758eec4df.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=957318c07fb61b8a2bb97c0c&width=720&height=360&quality=80&fovx=120",
+      "https://taojin-his.cdn.bcebos.com/8ad4b31c8701a18bc351eefc992f07082938fecf.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bc49169def9187f4055f02accaf0a8f2.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_08147eea09db8bfa402e8ac439f4cbac.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6d298c939b71a763d6e33b96e6cca1d9.jpeg",
+      "https://taojin-his.cdn.bcebos.com/cdbf6c81800a19d8449014723cfa828ba61e4632.jpg"
+    ]
+  },
+  {
+    "name": "溧阳市永平路消防救援站",
+    "location": {
+      "lat": 31.408346,
+      "lng": 119.502238
+    },
+    "address": "常州市溧阳市燕河路万达广场(南大街店)东北侧约110米",
+    "province": "江苏省",
+    "city": "常州市",
+    "area": "溧阳市",
+    "street_id": "",
+    "detail": 1,
+    "uid": "f38ebdfa0a93c7d59ff7796c",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_6d2f9cec4f65f430f348a7c1d52ed226.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6d2f9cec4f65f430f348a7c1d52ed226.jpg"
+    ]
+  },
+  {
+    "name": "进哥救援",
+    "location": {
+      "lat": 31.7105,
+      "lng": 119.992963
+    },
+    "address": "常州市武进区澳门南路纺织城",
+    "province": "江苏省",
+    "city": "常州市",
+    "area": "武进区",
+    "telephone": "13155248702",
+    "detail": 1,
+    "uid": "ceb3836cc2d2f580c6effb60",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/c636a0594ebc0c4c4aa866ff6d887a73_2920.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/c636a0594ebc0c4c4aa866ff6d887a73_2920.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e7b05f17388f51e45dbad20e065f1846.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_654e2fe1fd6388d2733b68b818443498.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7ce00c2d6bdfac389b15c07e87e6404b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d6b34b667c31cc38ad40836e76fc1585.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_38bdd1c0c2445ce985b57e2a00644157.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 31.815212,
+      "lng": 119.828569
+    },
+    "address": "常州市钟楼区沪霍线鹤溪家俱城西侧约120米",
+    "province": "江苏省",
+    "city": "常州市",
+    "area": "钟楼区",
+    "detail": 1,
+    "uid": "bae38c031c6745f6990050c6",
+    "cover": "https://pic-map.cdn.bcebos.com/img/8e34f053a2b9b20ba6dc797467d9489a",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/8e34f053a2b9b20ba6dc797467d9489a"
+    ]
+  }
+]

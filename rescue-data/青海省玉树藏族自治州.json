@@ -1,0 +1,79 @@
+[
+  {
+    "name": "小包汽修补胎救援",
+    "location": {
+      "lat": 34.621234,
+      "lng": 92.804505
+    },
+    "address": "青海省玉树藏族自治州治多县109国道可可西里保护站旁边200米",
+    "province": "青海省",
+    "city": "玉树藏族自治州",
+    "area": "治多县",
+    "telephone": "18309409130",
+    "detail": 1,
+    "uid": "6ae594d4ffcef11c2fb17ee2",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_c97bed51ee42913d396a66d1e7178613.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c97bed51ee42913d396a66d1e7178613.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_22cf95aa22c27e9da6206395bcb1f5ef.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B60c97740128204919.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B60c977400d7de15dc9.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_29a10c0a156bb201feaa8c1aeddfd389.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e52e177b0cb46d7c45ce66d1a250267c.jpg"
+    ]
+  },
+  {
+    "name": "曲麻莱县消防救援大队",
+    "location": {
+      "lat": 34.14473,
+      "lng": 95.807241
+    },
+    "address": "青海省玉树藏族自治州曲麻莱县新一路",
+    "province": "青海省",
+    "city": "玉树藏族自治州",
+    "area": "曲麻莱县",
+    "detail": 1,
+    "uid": "11dd1033c21492b899005095",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_06ed6d19e49d0b47dc4df729ce4bf78f.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_06ed6d19e49d0b47dc4df729ce4bf78f.jpeg"
+    ]
+  },
+  {
+    "name": "风火山救援",
+    "location": {
+      "lat": 34.840024,
+      "lng": 92.945272
+    },
+    "address": "青海省玉树藏族自治州曲麻莱县G109(京拉线)",
+    "province": "青海省",
+    "city": "玉树藏族自治州",
+    "area": "曲麻莱县",
+    "telephone": "15809790400",
+    "detail": 1,
+    "uid": "c6a1ed01bba4a12f744ff15f",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B623b1cd83a0f1ae5b.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B623b1cd83a0f1ae5b.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B623b1cd7b05f415935.jpeg"
+    ]
+  },
+  {
+    "name": "玉树消防大队",
+    "location": {
+      "lat": 33.004998,
+      "lng": 96.98584
+    },
+    "address": "玉树藏族自治州玉树市龙庆路中国石油加油站(西同路)东北侧约130米",
+    "province": "青海省",
+    "city": "玉树藏族自治州",
+    "area": "玉树市",
+    "street_id": "668ae91eb96beed43617dc57",
+    "detail": 1,
+    "uid": "668ae91eb96beed43617dc57",
+    "cover": "https://pic-map.cdn.bcebos.com/img/6b739ffce2a23533ccdad2b8ef86ebb2",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/6b739ffce2a23533ccdad2b8ef86ebb2"
+    ]
+  }
+]

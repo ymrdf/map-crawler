@@ -1,0 +1,60 @@
+[
+  {
+    "name": "驰远道路救援",
+    "location": {
+      "lat": 34.10025,
+      "lng": 119.388132
+    },
+    "address": "连云港市灌南县东环路灌南县新东小学东侧约270米",
+    "province": "江苏省",
+    "city": "连云港市",
+    "area": "灌南县",
+    "telephone": "13961368555",
+    "detail": 1,
+    "uid": "dafebc3eedbdc6191e58007b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_b65032cfbf879d253b9538e05b539d5d.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b65032cfbf879d253b9538e05b539d5d.jpeg"
+    ]
+  },
+  {
+    "name": "互帮道路救援",
+    "location": {
+      "lat": 34.694279,
+      "lng": 119.347793
+    },
+    "address": "连云港市连云区芙蓉路瑞锦花园西北侧约40米",
+    "province": "江苏省",
+    "city": "连云港市",
+    "area": "连云区",
+    "telephone": "17511401222,19812323232",
+    "detail": 1,
+    "uid": "e966be667f0435ac40afe68e",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B6332cbd0f30187d6b.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B6332cbd0f30187d6b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ff453a33ae5d4798a2d7eb5ac4cc696c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d0982ac973f269d8bb02e594ef02871e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5f02ca6814ee8d5870666859f7fa2040.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d21594b0ac55d23151b51f61d1c1d2dd.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65b74f8aee588678b.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 34.833873,
+      "lng": 119.120828
+    },
+    "address": "连云港市赣榆区义塘南路首座府邸东侧约70米",
+    "province": "江苏省",
+    "city": "连云港市",
+    "area": "赣榆区",
+    "detail": 1,
+    "uid": "68ee2471c76bd694882fb570",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_b5f997cc40bf76040a33d2d6878806e3.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b5f997cc40bf76040a33d2d6878806e3.jpeg"
+    ]
+  }
+]

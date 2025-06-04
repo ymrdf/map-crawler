@@ -1,0 +1,61 @@
+[
+  {
+    "name": "张掖市消防救援支队",
+    "location": {
+      "lat": 38.937704,
+      "lng": 100.425396
+    },
+    "address": "张掖市甘州区玉关路明达·滨河丽城西侧约80米",
+    "province": "甘肃省",
+    "city": "张掖市",
+    "area": "甘州区",
+    "detail": 1,
+    "uid": "b70ab31da85672053904b1da",
+    "cover": "https://pic-map.cdn.bcebos.com/img/88ffdd5370c95fc7fedc49280029a4d2",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/88ffdd5370c95fc7fedc49280029a4d2"
+    ]
+  },
+  {
+    "name": "南阳赵氏校油泵",
+    "location": {
+      "lat": 38.468493,
+      "lng": 100.828505
+    },
+    "address": "甘肃省张掖市民乐县高铁大道南侧救援中心33号商铺",
+    "province": "甘肃省",
+    "city": "张掖市",
+    "area": "民乐县",
+    "telephone": "13993629594",
+    "detail": 1,
+    "uid": "246917e3a14f0c1bf4eafc5a",
+    "cover": "https://pic-map.cdn.bcebos.com/img/e8a87ee19ec6507ec9765a13106cd9f3",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/e8a87ee19ec6507ec9765a13106cd9f3"
+    ]
+  },
+  {
+    "name": "通达油品大全",
+    "location": {
+      "lat": 38.944117,
+      "lng": 100.491761
+    },
+    "address": "甘肃省张掖市甘州区下安村机动车救援中心73号",
+    "province": "甘肃省",
+    "city": "张掖市",
+    "area": "甘州区",
+    "street_id": "cb9a707906c3dded095cb3d2",
+    "telephone": "13309360391",
+    "detail": 1,
+    "uid": "cb9a707906c3dded095cb3d2",
+    "cover": "https://taojin-his.cdn.bcebos.com/0d338744ebf81a4cb43683aada2a6059252da649.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=cb9a707906c3dded095cb3d2&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2564d20107033184ee72b7ad013a2c6b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0a910e4c5b2b09a3aaa3569e1c2d29d7.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_83f7caf08b6285d8c7f27496aef3dc14.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f5a28d2750578743fd097a483889cbf8.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2743560493709e507af8d7db299ceb39.jpg"
+    ]
+  }
+]

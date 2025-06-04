@@ -1,0 +1,111 @@
+[
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 28.758146,
+      "lng": 104.655342
+    },
+    "address": "宜宾市叙州区航天路南段宜宾万达广场北侧约50米",
+    "province": "四川省",
+    "city": "宜宾市",
+    "area": "叙州区",
+    "detail": 1,
+    "uid": "b81e5c1f32301bec724b8781",
+    "cover": "https://pic-map.cdn.bcebos.com/img/ddceeccd7430fe2301edd6b0ea26b080",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/ddceeccd7430fe2301edd6b0ea26b080"
+    ]
+  },
+  {
+    "name": "珙县救援",
+    "location": {
+      "lat": 28.39844,
+      "lng": 104.786963
+    },
+    "address": "宜宾市珙县X023珙泉东村小区西北侧约150米",
+    "province": "四川省",
+    "city": "宜宾市",
+    "area": "珙县",
+    "detail": 1,
+    "uid": "1049c371f20acf882cb17e45",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_744aa9ac493c0f8c3f6bddb3f97f264b.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_744aa9ac493c0f8c3f6bddb3f97f264b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_034f565c62868096b88a152f77f1a722.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b736afe39a620190637fff13e1324f41.jpg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 28.836903,
+      "lng": 104.970356
+    },
+    "address": "宜宾市南溪区长顺街布拉格大酒店西侧约30米",
+    "province": "四川省",
+    "city": "宜宾市",
+    "area": "南溪区",
+    "detail": 1,
+    "uid": "1d6ec7e579418c35902ca3ef",
+    "cover": "https://pic-map.cdn.bcebos.com/img/2160b346b3001609097ad516787a1b7d",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/2160b346b3001609097ad516787a1b7d",
+      "https://lbsugc.cdn.bcebos.com/images/B67c02839bcc5f11ce5.jpeg"
+    ]
+  },
+  {
+    "name": "宜宾市综合应急救援队",
+    "location": {
+      "lat": 28.806384,
+      "lng": 104.606026
+    },
+    "address": "宜宾市翠屏区古塔路和苑小区东南侧约100米",
+    "province": "四川省",
+    "city": "宜宾市",
+    "area": "翠屏区",
+    "detail": 1,
+    "uid": "2ce53a2f8e69a9ab58109324",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_4295108ca9eb0923d89cc030c48e8e1b.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4295108ca9eb0923d89cc030c48e8e1b.jpg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 28.430251,
+      "lng": 105.045425
+    },
+    "address": "宜宾市江安县古高路帝景康城东侧约80米",
+    "province": "四川省",
+    "city": "宜宾市",
+    "area": "江安县",
+    "detail": 1,
+    "uid": "eee8934aca3a5640871541c6",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_3cdedbe5cdf36227e30021de9b6bd3bc.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3cdedbe5cdf36227e30021de9b6bd3bc.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 28.765101,
+      "lng": 104.642452
+    },
+    "address": "宜宾市叙州区大坪街宜宾戎州假日酒店(戎州大桥店)东侧约110米",
+    "province": "四川省",
+    "city": "宜宾市",
+    "area": "叙州区",
+    "detail": 1,
+    "uid": "fbc2f4e7972feef1df1e52a4",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_f7ac507e1dd2b456b3246f1d07dcdb5e.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f7ac507e1dd2b456b3246f1d07dcdb5e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_acb0e690876cf91aa9c8245c977e28d0.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0cc7aaa149a48e3e1fbc017f1a097331.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6689f139ee64783af.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7fcf0d50347d55ecab21b8db9a9e8baf.jpeg"
+    ]
+  }
+]

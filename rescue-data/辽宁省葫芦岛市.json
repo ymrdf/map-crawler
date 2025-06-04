@@ -1,0 +1,80 @@
+[
+  {
+    "name": "道路救援",
+    "location": {
+      "lat": 40.640254,
+      "lng": 120.741774
+    },
+    "address": "葫芦岛市兴城市河东路中国石油加油站东北侧约70米",
+    "province": "辽宁省",
+    "city": "葫芦岛市",
+    "area": "兴城市",
+    "detail": 1,
+    "uid": "34636048734deddd8b36ee01",
+    "cover": "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_12917f8fa32bd9a90474dec209673cf2.jpg",
+    "photo_list": [
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_12917f8fa32bd9a90474dec209673cf2.jpg"
+    ]
+  },
+  {
+    "name": "兴达汽车救援中心",
+    "location": {
+      "lat": 40.630456,
+      "lng": 120.732179
+    },
+    "address": "辽宁省葫芦岛市兴城市兴海北街7号",
+    "province": "辽宁省",
+    "city": "葫芦岛市",
+    "area": "兴城市",
+    "street_id": "fc4883d675bf1c6394ec8441",
+    "telephone": "18204253122",
+    "detail": 1,
+    "uid": "fc4883d675bf1c6394ec8441",
+    "cover": "https://taojin-his.cdn.bcebos.com/03087bf40ad162d9c3f6b1fb1fdfa9ec8a13cd39.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=fc4883d675bf1c6394ec8441&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_48fb3661e0f604d60f0828e438c8a0d4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_592ecf2b377a45822f706e1ffb2037cf.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c028920f67632fb56c43b07fbb33d8de.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3e221e550d2788eba56bd259bbcb5295.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_80f26e8f4e5674a8b087bffb8efc1ccc.jpg"
+    ]
+  },
+  {
+    "name": "小帅拖车救援",
+    "location": {
+      "lat": 40.775201,
+      "lng": 120.390904
+    },
+    "address": "辽宁省葫芦岛市兴城市S318",
+    "province": "辽宁省",
+    "city": "葫芦岛市",
+    "area": "兴城市",
+    "detail": 1,
+    "uid": "44699b56b5c1008b2a02e170",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B6413063f4186db7a7.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B6413063f4186db7a7.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6413063f47912adef.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B641304d3a0d6f16f79.jpeg"
+    ]
+  },
+  {
+    "name": "万达修理拖车救援",
+    "location": {
+      "lat": 40.101348,
+      "lng": 119.949572
+    },
+    "address": "葫芦岛市绥中县京抚线与前大线交叉路口往西北约210米",
+    "province": "辽宁省",
+    "city": "葫芦岛市",
+    "area": "绥中县",
+    "telephone": "13898956981,18342369456",
+    "detail": 1,
+    "uid": "55982dcfa616555d90114cba",
+    "cover": "https://pic-map.cdn.bcebos.com/img/60ebc338579b4b0346de94aeac3c9272",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/60ebc338579b4b0346de94aeac3c9272"
+    ]
+  }
+]

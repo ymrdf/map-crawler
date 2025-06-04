@@ -1,0 +1,119 @@
+[
+  {
+    "name": "九台小宇道路救援",
+    "location": {
+      "lat": 44.164032,
+      "lng": 125.842028
+    },
+    "address": "吉林省长春市九台区龙凤路佳隆花园西侧约220米",
+    "province": "吉林省",
+    "city": "长春市",
+    "area": "九台区",
+    "telephone": "13189939111,15948222232",
+    "detail": 1,
+    "uid": "6c051f4db04e0e6c28201a52",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_b81d8e1244edaa9c7275894549180551.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b81d8e1244edaa9c7275894549180551.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_f193b2d8efc582be29bbb1694a294e7a.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B63329d74cf196d076.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_42368931b66df6765f537df86f4a11d8.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_fca95e54397724df24ae4fd68eaaf6cf.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d2a70adb8c3a1602fc3c3551da03f8c1.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 44.426613,
+      "lng": 125.18944
+    },
+    "address": "吉林省长春市农安县农安镇古城街与宝安路交汇",
+    "province": "吉林省",
+    "city": "长春市",
+    "area": "农安县",
+    "street_id": "",
+    "detail": 1,
+    "uid": "59e39693b2cd9665ca1b95de",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_4cfbbeb935788567c8ced847a777e6f0.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4cfbbeb935788567c8ced847a777e6f0.jpeg"
+    ]
+  },
+  {
+    "name": "宽城区消防救援大队",
+    "location": {
+      "lat": 43.942977,
+      "lng": 125.348111
+    },
+    "address": "吉林省长春市宽城区庆丰路与铭台街交叉口西南50米",
+    "province": "吉林省",
+    "city": "长春市",
+    "area": "宽城区",
+    "street_id": "fa44c3abe7e0281a4e55474a",
+    "detail": 1,
+    "uid": "fa44c3abe7e0281a4e55474a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_135676d8b1c8c6213635c60b8b823f23.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=fa44c3abe7e0281a4e55474a&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "长春市南关区消防救援大队",
+    "location": {
+      "lat": 43.852446,
+      "lng": 125.34315
+    },
+    "address": "吉林省长春市南关区亚泰大街7063号",
+    "province": "吉林省",
+    "city": "长春市",
+    "area": "南关区",
+    "street_id": "a39ba2716fe789ff58f6beac",
+    "detail": 1,
+    "uid": "a39ba2716fe789ff58f6beac",
+    "cover": "https://taojin-his.cdn.bcebos.com/a71ea8d3fd1f413449cefaa8291f95cad0c85e6f.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=a39ba2716fe789ff58f6beac&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5f46b505489321a869f033ca1dedc545.jpg",
+      "https://taojin-his.cdn.bcebos.com/14ce36d3d539b600b8aaf77fe550352ac75cb796.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B66b55670c754e171be.jpeg"
+    ]
+  },
+  {
+    "name": "二道区消防救援大队",
+    "location": {
+      "lat": 43.937988,
+      "lng": 125.378919
+    },
+    "address": "长春市二道区长新东路远达小区南侧约40米",
+    "province": "吉林省",
+    "city": "长春市",
+    "area": "二道区",
+    "street_id": "9fd6c3fb7149a8b048fc8d60",
+    "detail": 1,
+    "uid": "9fd6c3fb7149a8b048fc8d60",
+    "cover": "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_45742611dd516f047f58f9a0511a0262.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=9fd6c3fb7149a8b048fc8d60&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ee21f960ce5c58659cd53a0185e8fbdd.jpeg"
+    ]
+  },
+  {
+    "name": "长春市绿园区双丰东路消防救援站",
+    "location": {
+      "lat": 43.870915,
+      "lng": 125.203385
+    },
+    "address": "吉林省长春市绿园区双丰东路1333号",
+    "province": "吉林省",
+    "city": "长春市",
+    "area": "绿园区",
+    "detail": 1,
+    "uid": "8f0e9df0d9bfa67b71455bdc",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B60d9b2584ef3218416.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B60d9b2584ef3218416.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0933cb15f3ddd7c2ffcfe5125c09ee40.jpeg"
+    ]
+  }
+]

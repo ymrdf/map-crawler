@@ -1,0 +1,44 @@
+[
+  {
+    "name": "芒市勐焕消防救援站",
+    "location": {
+      "lat": 24.428801,
+      "lng": 98.586338
+    },
+    "address": "云南省德宏傣族景颇族自治州芒市南蚌路德宏师范高等专科学校附属中学西北侧约100米",
+    "province": "云南省",
+    "city": "德宏傣族景颇族自治州",
+    "area": "芒市",
+    "detail": 1,
+    "uid": "4b7180e9e0b93de3f7eafc8d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_8d31309a1e15de7349da2240ff081d98.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8d31309a1e15de7349da2240ff081d98.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4821c4584940c57c8e3a261a12769711.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6dfbaedd721b02557c8bfbe331b833a8.jpeg"
+    ]
+  },
+  {
+    "name": "芒市公安消防大队",
+    "location": {
+      "lat": 24.428732,
+      "lng": 98.586803
+    },
+    "address": "德宏傣族景颇族自治州芒市南蚌路41号",
+    "province": "云南省",
+    "city": "德宏傣族景颇族自治州",
+    "area": "芒市",
+    "street_id": "",
+    "detail": 1,
+    "uid": "403662d8a2dc12bb25d2bb36",
+    "cover": "https://taojin-his.cdn.bcebos.com/1c950a7b02087bf46c56d6bbfbd3572c11dfcf2e.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/1c950a7b02087bf46c56d6bbfbd3572c11dfcf2e.jpg",
+      "https://taojin-his.cdn.bcebos.com/a50f4bfbfbedab64768d0c4dfc36afc378311ebb.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8d31309a1e15de7349da2240ff081d98.jpg",
+      "https://poi-pic.cdn.bcebos.com/8d31309a1e15de7349da2240ff081d98.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4821c4584940c57c8e3a261a12769711.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6dfbaedd721b02557c8bfbe331b833a8.jpeg"
+    ]
+  }
+]

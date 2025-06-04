@@ -1,0 +1,55 @@
+[
+  {
+    "name": "中国救援新疆机动专业支队",
+    "location": {
+      "lat": 43.761058,
+      "lng": 87.578462
+    },
+    "address": "新疆维吾尔自治区乌鲁木齐市沙依巴克区仓房沟中路555号",
+    "province": "新疆维吾尔自治区",
+    "city": "乌鲁木齐市",
+    "area": "沙依巴克区",
+    "detail": 1,
+    "uid": "9cc159f3fe03dbd90bb93a8f",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B654346ec1a14513234.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B654346ec1a14513234.jpeg"
+    ]
+  },
+  {
+    "name": "新疆众途易达运输有限公司",
+    "location": {
+      "lat": 43.874248,
+      "lng": 87.323842
+    },
+    "address": "新疆维吾尔自治区乌鲁木齐市头屯河区朝阳东街新疆兵团十二师头屯河农场c3区3栋8号",
+    "province": "新疆维吾尔自治区",
+    "city": "乌鲁木齐市",
+    "area": "头屯河区",
+    "telephone": "(0991)3105335",
+    "detail": 1,
+    "uid": "4909f48db15375c12806ce7b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_dbb49a5bb4d4cb4124d3548fa47dfe0c.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=4909f48db15375c12806ce7b&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "新疆维吾尔自治区消防救援总队",
+    "location": {
+      "lat": 43.838506,
+      "lng": 87.61195
+    },
+    "address": "新疆乌鲁木齐市水磨沟区安居北路119号",
+    "province": "新疆维吾尔自治区",
+    "city": "乌鲁木齐市",
+    "area": "水磨沟区",
+    "detail": 1,
+    "uid": "1405f1cad3382708d02dd649",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_9eae96137d1f7f6cc92de98802ca4de5.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9eae96137d1f7f6cc92de98802ca4de5.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_dda9fae650e52ec63a3a6e87797dad84.jpeg"
+    ]
+  }
+]

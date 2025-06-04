@@ -1,0 +1,62 @@
+[
+  {
+    "name": "天津市救援拖运有限公司",
+    "location": {
+      "lat": 39.045352,
+      "lng": 117.639557
+    },
+    "address": "天津市滨海新区塘黄路翔鹤园西侧约50米",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "滨海新区",
+    "detail": 1,
+    "uid": "4dd8df6233fd0450ad31e553",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_488c0670056dbfb373c65169969440e9.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_488c0670056dbfb373c65169969440e9.jpeg"
+    ]
+  },
+  {
+    "name": "河东区七纬路消防救援站",
+    "location": {
+      "lat": 39.131553,
+      "lng": 117.229028
+    },
+    "address": "天津市河东区七纬路荣芳里西南侧",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "河东区",
+    "street_id": "2cddb213b84c7b9e2dfaa7e0",
+    "detail": 1,
+    "uid": "2cddb213b84c7b9e2dfaa7e0",
+    "cover": "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_ccd5ce1a912df13edaebf3d538416d83.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=2cddb213b84c7b9e2dfaa7e0&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_db1874d30cd86408cddfb6c5c0362d4e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1d3c5712ce1e4b045acad4de38ddbd69.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a936902a5bda37aa8865ee2790c7f149.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_245807367accb4c106276d5d73983d32.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B67ba845c582c9120c7.jpeg"
+    ]
+  },
+  {
+    "name": "河东区消防救援支队",
+    "location": {
+      "lat": 39.136537,
+      "lng": 117.224762
+    },
+    "address": "天津市河东区六经路六号",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "河东区",
+    "street_id": "3242ce68c73320bbf4b91608",
+    "detail": 1,
+    "uid": "3242ce68c73320bbf4b91608",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_188e4e268de625bb652cbe6bda9cdf1f.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=3242ce68c73320bbf4b91608&width=720&height=360&quality=80&fovx=120",
+      "https://taojin-pic-bj.cdn.bcebos.com/f66153f6c4976188a1773af033d2f5f2.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_438e9541a465dfaca4465bc8ddfae3a1.jpeg"
+    ]
+  }
+]

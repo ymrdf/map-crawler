@@ -1,0 +1,144 @@
+[
+  {
+    "name": "广元市紧急救援中心",
+    "location": {
+      "lat": 32.433017,
+      "lng": 105.878896
+    },
+    "address": "滨河北路203号附近",
+    "province": "四川省",
+    "city": "广元市",
+    "area": "利州区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "b0f446dc5d55f85807026f15",
+    "cover": "https://taojin-his.cdn.bcebos.com/3b87e950352ac65c1db81b98f0f2b21192138a9f.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/3b87e950352ac65c1db81b98f0f2b21192138a9f.jpg",
+      "https://taojin-his.cdn.bcebos.com/f603918fa0ec08fac460b36b5fee3d6d54fbda9e.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_0d027199b954cce340307e3ed81cb1d2.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_20dbcd9bf0573433cb6bbe8f798417d6.jpg"
+    ]
+  },
+  {
+    "name": "苍溪救援",
+    "location": {
+      "lat": 31.739428,
+      "lng": 105.94748
+    },
+    "address": "广元市苍溪县人民东街苍溪县陵江镇第一小学校东北侧约90米",
+    "province": "四川省",
+    "city": "广元市",
+    "area": "苍溪县",
+    "detail": 1,
+    "uid": "f0d6ca14336a692a213bf2a7",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_7715e2921d177ad220cf3fc112547189.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7715e2921d177ad220cf3fc112547189.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_600459d97f686893417c436ef61b84c4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5c6e3c086f3e6115de0d6f113d0c2e3c.jpeg"
+    ]
+  },
+  {
+    "name": "广元市安全生产应急救援大队",
+    "location": {
+      "lat": 32.43638,
+      "lng": 105.790142
+    },
+    "address": "四川省广元市利州区河西街道利州西路320号",
+    "province": "四川省",
+    "city": "广元市",
+    "area": "利州区",
+    "detail": 1,
+    "uid": "e4108053dfec117b2b3a9fee",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_cbe0de8656a7ca8be94c8931edb956bb.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cbe0de8656a7ca8be94c8931edb956bb.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c6ab1e3d42d734d1427b616664b67379.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4537169180be3774d42f3807790a02e0.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d359fcefcbdf7bd51d1ad1fb8ca563ce.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e305788855454936927678adb085114f.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B66679e4a8274213620.jpeg"
+    ]
+  },
+  {
+    "name": "苍溪县解放路消防救援站",
+    "location": {
+      "lat": 31.740591,
+      "lng": 105.962556
+    },
+    "address": "广元市苍溪县解放路东段苍溪新友好医院西南侧约80米",
+    "province": "四川省",
+    "city": "广元市",
+    "area": "苍溪县",
+    "detail": 1,
+    "uid": "cc2f927b1004639d1fe99949",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_b67e4fe4e51107542add9650c2fabe2c.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b67e4fe4e51107542add9650c2fabe2c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_079b301eb621396fe9684b25f7ea7677.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_612045e3bc52833be58776f88f6f18bb.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1b8cd438090285f81d17bf725f9a87a7.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_29c3085a6c560c252a2c6eb288798964.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_692d089dcc85eaa0f724d5ead3e7bece.jpeg"
+    ]
+  },
+  {
+    "name": "广元市森林消防应急救援队",
+    "location": {
+      "lat": 32.436376,
+      "lng": 105.790084
+    },
+    "address": "广元市利州区利州西路回龙河酒店西北侧约80米",
+    "province": "四川省",
+    "city": "广元市",
+    "area": "利州区",
+    "detail": 1,
+    "uid": "762d5bfd261db56d9e9d6819",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_c6ab1e3d42d734d1427b616664b67379.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c6ab1e3d42d734d1427b616664b67379.jpeg"
+    ]
+  },
+  {
+    "name": "三一挖掘机广元市服务中心",
+    "location": {
+      "lat": 32.412718,
+      "lng": 105.779545
+    },
+    "address": "四川省广元市利州区广元万贯川陕甘五金机电建材城11栋1-23",
+    "province": "四川省",
+    "city": "广元市",
+    "area": "利州区",
+    "detail": 1,
+    "uid": "0c8a83505c3a9d54eedfcada",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_85b8c1cb51a9c5820fb686e786cc8a90.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_85b8c1cb51a9c5820fb686e786cc8a90.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7bb114c79adc57d3bec1eee4ad1356d6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_92f5308f9f689a317334c67bb9adfc5c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c44bac608d7b6381a641794c43450d97.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f19013643e75c2d582d07c8bfa65679c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_22b4615656dbf19396f5aa464235d467.jpeg"
+    ]
+  },
+  {
+    "name": "广元市蜀盾应急救援有限责任公司",
+    "location": {
+      "lat": 31.744492,
+      "lng": 105.976046
+    },
+    "address": "四川省广元市苍溪县武当路311号",
+    "province": "四川省",
+    "city": "广元市",
+    "area": "苍溪县",
+    "telephone": "18283969992",
+    "detail": 1,
+    "uid": "3b9decda243692f51329357b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_3d0a00478ec38deeea213cdc738d7304.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3d0a00478ec38deeea213cdc738d7304.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c34f4bae13ecb024e2073d2f9b0ab952.jpeg"
+    ]
+  }
+]

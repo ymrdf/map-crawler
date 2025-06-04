@@ -1,0 +1,156 @@
+[
+  {
+    "name": "斑马救援",
+    "location": {
+      "lat": 36.181801,
+      "lng": 120.44074
+    },
+    "address": "青岛市李沧区巨峰路金秋小区",
+    "province": "山东省",
+    "city": "青岛市",
+    "area": "李沧区",
+    "street_id": "8d591e63eba1d9c3a6da39ec",
+    "detail": 1,
+    "uid": "8d591e63eba1d9c3a6da39ec",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_9ab952bc33f710b2c863811a23e68da4.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=8d591e63eba1d9c3a6da39ec&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b9bfd79e9413d1bf13638999754073d6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_df85433bef70b36c6eb91d9a5ebba1c9.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1b6db12283f19c0b77162d9ee2344012.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_62d8de645a662ff1bb940c24d9771a17.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_352ef9224d7cc17a6bec4828ce83bdef.jpeg"
+    ]
+  },
+  {
+    "name": "救生救援办公室",
+    "location": {
+      "lat": 35.874405,
+      "lng": 120.064307
+    },
+    "address": "滨海大道1288号城市阳台景区",
+    "province": "山东省",
+    "city": "青岛市",
+    "area": "黄岛区",
+    "detail": 1,
+    "uid": "7c2fad5b6a9eb9c6c6effb79",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ece3791bf489aaf1df23eefbd8413c2c.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ece3791bf489aaf1df23eefbd8413c2c.jpeg"
+    ]
+  },
+  {
+    "name": "顺启补胎搭电拖车道路救援",
+    "location": {
+      "lat": 36.085325,
+      "lng": 120.346775
+    },
+    "address": "山东省青岛市市北区登州路24号1号楼一单元104户(松山医院斜对面)",
+    "province": "山东省",
+    "city": "青岛市",
+    "area": "市北区",
+    "street_id": "d86d84d647e196f3e215f9c5",
+    "detail": 1,
+    "uid": "d86d84d647e196f3e215f9c5",
+    "cover": "https://taojin-his.cdn.bcebos.com/50da81cb39dbb6fdfcfecf190724ab18972b3763.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=d86d84d647e196f3e215f9c5&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic.cdn.bcebos.com/23e59e9bb503c4ddaa627fe41d79ed9a.jpg",
+      "https://taojin-his.cdn.bcebos.com/dbb44aed2e738bd4fac83be3ad8b87d6267ff973.jpg",
+      "https://taojin-his.cdn.bcebos.com/aec379310a55b31971c1e3174ea98226cffc1793.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_22e9ae438d801bddf5c9df8f6d9dfa88.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c38f8299aede1f5ee6aecba790b7a882.jpg"
+    ]
+  },
+  {
+    "name": "大陆救援",
+    "location": {
+      "lat": 35.99221,
+      "lng": 120.189894
+    },
+    "address": "山东省青岛市黄岛区月湾路与太行山路交叉口东约180米",
+    "province": "山东省",
+    "city": "青岛市",
+    "area": "黄岛区",
+    "telephone": "(0532)66716999",
+    "detail": 1,
+    "uid": "2316f486a31656c5f8f0cb6a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_51ff554bbc5fa1e4f1bff71f00b0fd07.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_51ff554bbc5fa1e4f1bff71f00b0fd07.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_35dd3d95af3d0ce90857a6dd1ca47127.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ae3c81fcd027cd4fd9e26af04478f20a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_428650da2c84d80f704d277133d9305f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a6ce7908418807bc2db0bde85297f342.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_fcc954322b6bff03e82c497b66816cbf.jpeg"
+    ]
+  },
+  {
+    "name": "顺和佳补胎搭电拖车道路救援",
+    "location": {
+      "lat": 36.093221,
+      "lng": 120.357716
+    },
+    "address": "利津路47-2号",
+    "province": "山东省",
+    "city": "青岛市",
+    "area": "市北区",
+    "street_id": "ed40cfc2adff28ec2dfaa7dd",
+    "detail": 1,
+    "uid": "ed40cfc2adff28ec2dfaa7dd",
+    "cover": "https://taojin-his.cdn.bcebos.com/908fa0ec08fa513d48c9ec32336d55fbb3fbd9ff.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=ed40cfc2adff28ec2dfaa7dd&width=720&height=360&quality=80&fovx=120",
+      "https://lbsugc.cdn.bcebos.com/images/Hfd039245d688d43fc9c1df447b1ed21b0ef43b1f.jpg",
+      "https://taojin-his.cdn.bcebos.com/d788d43f8794a4c21543890800f41bd5ad6e39b4.jpg",
+      "https://taojin-his.cdn.bcebos.com/b17eca8065380cd7596c01cdaa44ad34598281a4.jpg",
+      "https://taojin-his.cdn.bcebos.com/4610b912c8fcc3ce95ff95219945d688d43f20e0.jpg",
+      "https://taojin-his.cdn.bcebos.com/5243fbf2b2119313ecb837b369380cd791238d3e.jpg"
+    ]
+  },
+  {
+    "name": "黄岛区车速援道路救援服务中心",
+    "location": {
+      "lat": 35.956984,
+      "lng": 120.186194
+    },
+    "address": "山东省青岛市黄岛区太行山路42号唐宁国际617号",
+    "province": "山东省",
+    "city": "青岛市",
+    "area": "黄岛区",
+    "detail": 1,
+    "uid": "dd0358a956e5d0e2fda77816",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d2afe2f61ca98165e27aa4634c412b36.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d2afe2f61ca98165e27aa4634c412b36.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e834f44d7f123bff129b8d678e957f54.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5ecf952bc70220f450efc73715934adb.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e555069588741584bf68cc0f432a4cc8.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/a4304f1bcb2524e780837c9f9ce64770_1632.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/c6dc3ff9edb2d04f6bfbd303fb97213d_6461.jpeg"
+    ]
+  },
+  {
+    "name": "聚力达救援",
+    "location": {
+      "lat": 36.39665,
+      "lng": 120.496612
+    },
+    "address": "青岛市即墨区蓝鳌路德馨花园南侧约60米",
+    "province": "山东省",
+    "city": "青岛市",
+    "area": "即墨区",
+    "street_id": "3f1dd05b1cb56da34307c1c1",
+    "detail": 1,
+    "uid": "3f1dd05b1cb56da34307c1c1",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d25ccd91c6c0f33d86accca86243dd4f.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=3f1dd05b1cb56da34307c1c1&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_45ca761714969788a97ed74320e858d6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f5c48d91f37199ba5b3dfdb2518de356.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6fa4916882879d7a99c91b0334cea3f6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c5a6e66bbb9381c2e75e56ef6f05c33d.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f7eb29b8440c26b8fff38febd467e15a.jpg"
+    ]
+  }
+]

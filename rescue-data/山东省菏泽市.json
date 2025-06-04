@@ -1,0 +1,191 @@
+[
+  {
+    "name": "定陶顺通救援公司",
+    "location": {
+      "lat": 35.063735,
+      "lng": 115.572223
+    },
+    "address": "山东省菏泽市定陶区S351(南环路)",
+    "province": "山东省",
+    "city": "菏泽市",
+    "area": "定陶区",
+    "telephone": "18653029155",
+    "detail": 1,
+    "uid": "d2b9403cd1ccd695c8213d6c",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_5deebdbb168495a3967c17c049624a60.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5deebdbb168495a3967c17c049624a60.jpeg"
+    ]
+  },
+  {
+    "name": "拖车救援",
+    "location": {
+      "lat": 34.818256,
+      "lng": 116.063665
+    },
+    "address": "山东省菏泽市单县北城街道G105(西环路)",
+    "province": "山东省",
+    "city": "菏泽市",
+    "area": "单县",
+    "telephone": "13195421813",
+    "detail": 1,
+    "uid": "44345f5eead8d70941d63ec0",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_af23ecc177f1d2609ee1a1f63d570293.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_af23ecc177f1d2609ee1a1f63d570293.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B656ee81d8de97441b.jpeg"
+    ]
+  },
+  {
+    "name": "路通救援拖车有限公司",
+    "location": {
+      "lat": 35.631471,
+      "lng": 115.95253
+    },
+    "address": "山东省菏泽市郓城县S242",
+    "province": "山东省",
+    "city": "菏泽市",
+    "area": "郓城县",
+    "detail": 1,
+    "uid": "4d3d776eab401555283a9f06",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B660f74f199db0102da.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B660f74f199db0102da.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6677fbabd1d896898.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B669dd9024970ce6c7.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6776394e1da76c9b7.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6776394e0a61c4c01.jpeg"
+    ]
+  },
+  {
+    "name": "菏泽市斑马志愿救援中心定陶区张湾救援队",
+    "location": {
+      "lat": 35.071085,
+      "lng": 115.414558
+    },
+    "address": "山东省菏泽市定陶区张湾救援队",
+    "province": "山东省",
+    "city": "菏泽市",
+    "area": "定陶区",
+    "detail": 1,
+    "uid": "d5da6e3dccb7ab57626858b5",
+    "cover": "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_a15e14c5388d015d44e8bf5d24bbed52.jpg",
+    "photo_list": [
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_a15e14c5388d015d44e8bf5d24bbed52.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_336b706acc24521dc9e534da0d66ca74.jpeg"
+    ]
+  },
+  {
+    "name": "应急救援",
+    "location": {
+      "lat": 35.42417,
+      "lng": 115.834348
+    },
+    "address": "菏泽市郓城县S327盛世家园温泉小区西南侧约80米",
+    "province": "山东省",
+    "city": "菏泽市",
+    "area": "郓城县",
+    "detail": 1,
+    "uid": "f9441b4fecd1ad84afee7a98",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_6e181b24050afa1030c223e5544be080.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6e181b24050afa1030c223e5544be080.jpg"
+    ]
+  },
+  {
+    "name": "菏泽市飞鹰救援东城分队",
+    "location": {
+      "lat": 35.262139,
+      "lng": 115.51597
+    },
+    "address": "菏泽市牡丹区黄河东路菏泽市第三中学(东校区)南侧约90米",
+    "province": "山东省",
+    "city": "菏泽市",
+    "area": "牡丹区",
+    "detail": 1,
+    "uid": "b4aca150dd15c1186fa3cc8b",
+    "cover": "https://pic-map.cdn.bcebos.com/img/02ae35dfafcce2185f687ae65d1500ad",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/02ae35dfafcce2185f687ae65d1500ad"
+    ]
+  },
+  {
+    "name": "广源汽车道路救援中心",
+    "location": {
+      "lat": 34.824277,
+      "lng": 115.551575
+    },
+    "address": "蒙泽湖商业街23号附近",
+    "province": "山东省",
+    "city": "菏泽市",
+    "area": "曹县",
+    "street_id": "",
+    "telephone": "(0530)3281666",
+    "detail": 1,
+    "uid": "8f652b1d4fdfd0540c0e6b6f",
+    "cover": "https://taojin-his.cdn.bcebos.com/024f78f0f736afc36b68d2c5bd19ebc4b745122d.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/024f78f0f736afc36b68d2c5bd19ebc4b745122d.jpg",
+      "https://taojin-his.cdn.bcebos.com/78310a55b319ebc464db63278b26cffc1f1716e8.jpg",
+      "https://taojin-his.cdn.bcebos.com/cb8065380cd79123ada784baa6345982b3b780bc.jpg",
+      "https://taojin-his.cdn.bcebos.com/21a4462309f79052a815723e01f3d7ca7bcbd5a3.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B63bb02148e4c769f6.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B63bb021482299155a3.jpeg"
+    ]
+  },
+  {
+    "name": "郓城县消防救援大队",
+    "location": {
+      "lat": 35.575938,
+      "lng": 115.946152
+    },
+    "address": "山东省菏泽市郓城县魁文路和馨嘉园东南侧约60米",
+    "province": "山东省",
+    "city": "菏泽市",
+    "area": "郓城县",
+    "street_id": "5cd8d4e2980b32d3c4f02560",
+    "detail": 1,
+    "uid": "5cd8d4e2980b32d3c4f02560",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_dbc19cb0c59115764154520f9cabb854.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=5cd8d4e2980b32d3c4f02560&width=720&height=360&quality=80&fovx=120",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_f1ebe0ae2d41b6fb1762cd18b7a15f18.jpg"
+    ]
+  },
+  {
+    "name": "巨野县消防救援大队",
+    "location": {
+      "lat": 35.399807,
+      "lng": 116.083742
+    },
+    "address": "山东省菏泽市巨野县光明路72号",
+    "province": "山东省",
+    "city": "菏泽市",
+    "area": "巨野县",
+    "street_id": "",
+    "detail": 1,
+    "uid": "149e7779a87681cacac3db9f",
+    "cover": "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_825044deed67d5ecc02e122dceb8e788.jpg",
+    "photo_list": [
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_825044deed67d5ecc02e122dceb8e788.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_0e25f1f3b2fab9a6dced8abffb5e6900.jpg"
+    ]
+  },
+  {
+    "name": "郓城县金河消防救援站",
+    "location": {
+      "lat": 35.597667,
+      "lng": 115.936316
+    },
+    "address": "山东省菏泽市郓城县郓州街道尚武路2号",
+    "province": "山东省",
+    "city": "菏泽市",
+    "area": "郓城县",
+    "detail": 1,
+    "uid": "d5e44fe81b41ce18882fb53f",
+    "cover": "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_fecee36913e9de1ec0a05b70dcbb914c.jpg",
+    "photo_list": [
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_fecee36913e9de1ec0a05b70dcbb914c.jpg"
+    ]
+  }
+]

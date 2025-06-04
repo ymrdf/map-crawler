@@ -1,0 +1,147 @@
+[
+  {
+    "name": "24h汽车道路救援汽车维修",
+    "location": {
+      "lat": 36.072413,
+      "lng": 103.865376
+    },
+    "address": "甘肃省兰州市城关区滩尖子373号",
+    "province": "甘肃省",
+    "city": "兰州市",
+    "area": "城关区",
+    "street_id": "cf99cde874612f04aecb665d",
+    "telephone": "18919193411,18919193422",
+    "detail": 1,
+    "uid": "cf99cde874612f04aecb665d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_3b68cfcab31ab4528a51beaf3a56645a.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=cf99cde874612f04aecb665d&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3d0c96323a1b0f550b6d86215f12ffc6.jpeg"
+    ]
+  },
+  {
+    "name": "兰州京民救援服务有限公司",
+    "location": {
+      "lat": 36.105007,
+      "lng": 103.753565
+    },
+    "address": "甘肃省兰州市安宁区安宁东路470号",
+    "province": "甘肃省",
+    "city": "兰州市",
+    "area": "安宁区",
+    "detail": 1,
+    "uid": "bbb59bdf5af2ee012f473347",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B6499d869cc5f3dd39.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B6499d869cc5f3dd39.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6277af4315d84b6ce.jpeg"
+    ]
+  },
+  {
+    "name": "快修救援",
+    "location": {
+      "lat": 36.342001,
+      "lng": 103.958089
+    },
+    "address": "兰州市皋兰县梨花中路皋兰县实验幼儿园北侧约200米",
+    "province": "甘肃省",
+    "city": "兰州市",
+    "area": "皋兰县",
+    "telephone": "17693173407",
+    "detail": 1,
+    "uid": "22ab634930d796d14251c066",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_c7d457fdb3ade3f7a46505727badfb48.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c7d457fdb3ade3f7a46505727badfb48.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c64044edf280d23230b5767f496bfc33.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e3e3f67741d5d98d18ca9320d1d14ef8.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_86aab0140e57b86e3f66c38fdcde769b.jpeg"
+    ]
+  },
+  {
+    "name": "兰州市七里河区建兰路消防救援站",
+    "location": {
+      "lat": 36.078611,
+      "lng": 103.777199
+    },
+    "address": "兰州市七里河区瓜州路兰石集团东三区家属院",
+    "province": "甘肃省",
+    "city": "兰州市",
+    "area": "七里河区",
+    "street_id": "2987f0dcc0a4a0f86fa3ccc9",
+    "detail": 1,
+    "uid": "2987f0dcc0a4a0f86fa3ccc9",
+    "cover": "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_44e3c0143a679f3ed8cebe06af555cda.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=2987f0dcc0a4a0f86fa3ccc9&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_96248e95edc67f353d137c49e58892df.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9562741473f24d0dc0482a43bc6e4ab6.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65d6c71e26a7410c5a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_998886d5ac5a2ad81ec54260a50b4d35.jpeg"
+    ]
+  },
+  {
+    "name": "兰州新区宇翔道路救援有限公司",
+    "location": {
+      "lat": 36.506962,
+      "lng": 103.658451
+    },
+    "address": "甘肃省兰州市皋兰县建材四路",
+    "province": "甘肃省",
+    "city": "兰州市",
+    "area": "皋兰县",
+    "detail": 1,
+    "uid": "325622004661e3708b2fb5dd",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B6190c264a688f6687.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B6190c264a688f6687.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6190c27febfd596cf.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6190c273f09c5ca42.jpeg"
+    ]
+  },
+  {
+    "name": "兰州消防救援",
+    "location": {
+      "lat": 36.062381,
+      "lng": 103.845789
+    },
+    "address": "兰州市城关区金昌北路兰州农行大厦北侧",
+    "province": "甘肃省",
+    "city": "兰州市",
+    "area": "城关区",
+    "street_id": "60710305f203de622efaa7ba",
+    "detail": 1,
+    "uid": "60710305f203de622efaa7ba",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_249c9597389c6fe43f89af56012d800c.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=60710305f203de622efaa7ba&width=720&height=360&quality=80&fovx=120",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_67b49b012d1f0673ba497e12e6bc1c2e.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bc78a22e435f25227313c35daa4260b3.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B659796e676f0215ee1.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d804eb7138fd09e0a46780c4019653d9.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B66683b8043a0a129f0.jpeg"
+    ]
+  },
+  {
+    "name": "甘肃方舟救援志愿服务队",
+    "location": {
+      "lat": 36.129305,
+      "lng": 103.660246
+    },
+    "address": "兰州市西固区南滨河西路兰州西汽车配件用品批发广场",
+    "province": "甘肃省",
+    "city": "兰州市",
+    "area": "西固区",
+    "detail": 1,
+    "uid": "7a7211c7e1dd2f34fe0eb0cb",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_4260850f97962f1865b67ba610ea4ddb.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4260850f97962f1865b67ba610ea4ddb.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0ea29f4de2b55795504e57c863c53b70.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ebd5d115997685b748178de70793b73d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_10f2f9dc7230bec2bc0b1d286f91f58a.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d0d2ae1cedc2785af166a1d505b35b49.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c530827b871f77e1d93c0907cfa099d4.jpeg"
+    ]
+  }
+]

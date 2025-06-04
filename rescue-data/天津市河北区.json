@@ -1,0 +1,56 @@
+[
+  {
+    "name": "天津市救援拖运有限公司",
+    "location": {
+      "lat": 39.045352,
+      "lng": 117.639557
+    },
+    "address": "天津市滨海新区塘黄路翔鹤园西侧约50米",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "滨海新区",
+    "detail": 1,
+    "uid": "4dd8df6233fd0450ad31e553",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_488c0670056dbfb373c65169969440e9.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_488c0670056dbfb373c65169969440e9.jpeg"
+    ]
+  },
+  {
+    "name": "河北区中山路消防救援站",
+    "location": {
+      "lat": 39.164842,
+      "lng": 117.208378
+    },
+    "address": "天津市河北区中山路月秋里南侧约30米",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "河北区",
+    "detail": 1,
+    "uid": "a601b2208b853b2e6c4760ec",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_da92f50c07865fc61d4fe08deb69b010.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_da92f50c07865fc61d4fe08deb69b010.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_df1477c2a71003f8462e570c9b363965.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a06e97110f62696e79603eb4e6ed70d1.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1692e3dcbd376728f78a6773684cbf35.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 39.161213,
+      "lng": 117.2418
+    },
+    "address": "天津市河北区红星路银山南里",
+    "province": "天津市",
+    "city": "天津市",
+    "area": "河北区",
+    "detail": 1,
+    "uid": "2cab2e1329e924aa57bfff5b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_e562c536d8ca66fee0db88eb57bc39c4.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e562c536d8ca66fee0db88eb57bc39c4.jpeg"
+    ]
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "name": "内黄枣乡救援",
+    "location": {
+      "lat": 35.948377,
+      "lng": 114.909585
+    },
+    "address": "安阳市内黄县振兴路内黄县第四高级中学西北侧约190米",
+    "province": "河南省",
+    "city": "安阳市",
+    "area": "内黄县",
+    "street_id": "2b00262494098f65213bf283",
+    "telephone": "13608620948",
+    "detail": 1,
+    "uid": "2b00262494098f65213bf283",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_bdabaaf7a02158d1916f9a254474e3fe.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=2b00262494098f65213bf283&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7e964c5c94381e5a46280c04b222e2bf.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ca9835c2720c31a921962be850be2e61.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5532472404049da63205472697289bd5.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1192e01f68a7248a67036024f4541c0b.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_51030bb3a56453db1211e74c4aba26db.jpeg"
+    ]
+  },
+  {
+    "name": "蓝天救援",
+    "location": {
+      "lat": 36.078369,
+      "lng": 113.835495
+    },
+    "address": "河南省安阳市林州市桂圆区太行路长春大道交叉口自来水公司北",
+    "province": "河南省",
+    "city": "安阳市",
+    "area": "林州市",
+    "street_id": "31ddfdab27143961c1f1cfaa",
+    "detail": 1,
+    "uid": "31ddfdab27143961c1f1cfaa",
+    "cover": "https://taojin-his.cdn.bcebos.com/38dbb6fd5266d016e1964d3b982bd40735fa3512.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=31ddfdab27143961c1f1cfaa&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_51b9beb28c2a696d97aee5a41e881e05.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_004088961eaecfb1d55889065fbda1b9.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_630fc214fb0ebb65361c663ccd898d15.jpg",
+      "https://taojin-his.cdn.bcebos.com/7c1ed21b0ef41bd548fc3f455fda81cb38db3dd0.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0426242d05ed0c828be052e910334208.jpg"
+    ]
+  },
+  {
+    "name": "霖阳全国托运救援",
+    "location": {
+      "lat": 36.060535,
+      "lng": 114.419184
+    },
+    "address": "安阳市安阳县弦歌大道豫北汽车市场",
+    "province": "河南省",
+    "city": "安阳市",
+    "area": "安阳县",
+    "detail": 1,
+    "uid": "45fbbc561d355af3f503b8d8",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_0af075a9a110f0e093c958dbfff818f1.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0af075a9a110f0e093c958dbfff818f1.jpeg"
+    ]
+  },
+  {
+    "name": "安阳市北关区自由路消防救援站",
+    "location": {
+      "lat": 36.121034,
+      "lng": 114.356813
+    },
+    "address": "河南省安阳市北关区自由路八号院北侧约30米",
+    "province": "河南省",
+    "city": "安阳市",
+    "area": "北关区",
+    "detail": 1,
+    "uid": "ae299c5e2098b07176e5b653",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_f6433697ee1c87b6cb589c0b39795401.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f6433697ee1c87b6cb589c0b39795401.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B657fe1fce798214861.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d5dc9e1b9c3a60bf37e89b9ffbbf41e0.jpeg"
+    ]
+  },
+  {
+    "name": "男神基地(巅峰店)",
+    "location": {
+      "lat": 35.958456,
+      "lng": 114.911354
+    },
+    "address": "内城关镇硝河大道朝阳小区",
+    "province": "河南省",
+    "city": "安阳市",
+    "area": "内黄县",
+    "street_id": "4643f16a91f883f2f7b91685",
+    "detail": 1,
+    "uid": "4643f16a91f883f2f7b91685",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_f5d4971eecd2df2154a5d621cf2ea3e7.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=4643f16a91f883f2f7b91685&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8a36a707071f73e67d1ba4bc6092c5ad.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a455bd380e361d955e5d054a5eef5e56.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_55e8036d63c1b9b0aaafd9bf8897c1cc.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7fcf79f02e51e0808319f892dbc07aa8.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_dc4feab109c6320a9076dc1220a14138.jpg"
+    ]
+  },
+  {
+    "name": "安阳市殷都区梅东路消防救援站",
+    "location": {
+      "lat": 36.103881,
+      "lng": 114.309428
+    },
+    "address": "安阳市殷都区梅东路安阳元泰园中园-1期西侧约40米",
+    "province": "河南省",
+    "city": "安阳市",
+    "area": "殷都区",
+    "street_id": "7f80d5ef084a7dfad7851f12",
+    "detail": 1,
+    "uid": "7f80d5ef084a7dfad7851f12",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ab5092795398da6ceee6cb7faa980676.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=7f80d5ef084a7dfad7851f12&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "滑县消防救援大队小型站",
+    "location": {
+      "lat": 35.591045,
+      "lng": 114.532364
+    },
+    "address": "河南省安阳市滑县解放路鹏鑫剑桥城西侧约30米",
+    "province": "河南省",
+    "city": "安阳市",
+    "area": "滑县",
+    "street_id": "6f1c023f359a632951e5c577",
+    "detail": 1,
+    "uid": "6f1c023f359a632951e5c577",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_25020d94e07e12c5a10de1325521aefe.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=6f1c023f359a632951e5c577&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_83b617a33511ffdc0dbf07af5ee71391.jpg"
+    ]
+  }
+]

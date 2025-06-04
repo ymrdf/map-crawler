@@ -1,0 +1,129 @@
+[
+  {
+    "name": "龙岩市曙光救援重型工程机械分队",
+    "location": {
+      "lat": 25.053736,
+      "lng": 117.016143
+    },
+    "address": "龙岩市新罗区兴业路龙岩中凯国际酒店西南侧约30米",
+    "province": "福建省",
+    "city": "龙岩市",
+    "area": "新罗区",
+    "detail": 1,
+    "uid": "3d188e32695c2155a8f0cdbc",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_0e4ca23f18358f066aee4f30fa7fb13b.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0e4ca23f18358f066aee4f30fa7fb13b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5ba1688a6553e5786706122340fbcec5.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 25.04743,
+      "lng": 116.430162
+    },
+    "address": "龙岩市上杭县琴岗路上杭二中东南侧约200米",
+    "province": "福建省",
+    "city": "龙岩市",
+    "area": "上杭县",
+    "detail": 1,
+    "uid": "c0ccfa848e541495ad0457bb",
+    "cover": "https://pic-map.cdn.bcebos.com/img/40254275c04808ab6266757836d52133",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/40254275c04808ab6266757836d52133"
+    ]
+  },
+  {
+    "name": "上杭县蛟洋消防救援站",
+    "location": {
+      "lat": 25.185904,
+      "lng": 116.739451
+    },
+    "address": "福建省龙岩市上杭县蛟洋镇坪埔村工业路3号",
+    "province": "福建省",
+    "city": "龙岩市",
+    "area": "上杭县",
+    "detail": 1,
+    "uid": "dd82a41904ba8e2507026ffa",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_7fef79b8b473d4c347b72106647681ee.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7fef79b8b473d4c347b72106647681ee.jpeg"
+    ]
+  },
+  {
+    "name": "长汀县罗坊消防救援站",
+    "location": {
+      "lat": 25.831682,
+      "lng": 116.355132
+    },
+    "address": "龙岩市长汀县宝珠路宝珠世纪花园南侧约40米",
+    "province": "福建省",
+    "city": "龙岩市",
+    "area": "长汀县",
+    "detail": 1,
+    "uid": "20ba8626675dd26d93114c69",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_f4da09910ba9e3a40fe613fc22fbddf9.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f4da09910ba9e3a40fe613fc22fbddf9.jpeg"
+    ]
+  },
+  {
+    "name": "路华救援",
+    "location": {
+      "lat": 25.833084,
+      "lng": 116.374197
+    },
+    "address": "龙岩市长汀县厦成线长汀汽车站东南侧约290米",
+    "province": "福建省",
+    "city": "龙岩市",
+    "area": "长汀县",
+    "telephone": "13600996996,13859526888",
+    "detail": 1,
+    "uid": "d1761dbe7293baffbfa8223a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_f6ceffe0a77ebe4a3ddb04addbc598c5.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f6ceffe0a77ebe4a3ddb04addbc598c5.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_13f1fcd0c6ba5ff9c53d5d8119b2cec7.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2a59563167e7451db8c0e92fb81ff9c4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_51e94128c43260f27230402de6da4405.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_70fe067a297daa69909b6e089fd79fab.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4dea03ed262f7781bc38b7286d6bb87c.jpg"
+    ]
+  },
+  {
+    "name": "龙岩市新罗区莲东消防救援站",
+    "location": {
+      "lat": 25.078188,
+      "lng": 117.053673
+    },
+    "address": "福建省龙岩市新罗区东环路厦鑫博世园二期对面",
+    "province": "福建省",
+    "city": "龙岩市",
+    "area": "新罗区",
+    "detail": 1,
+    "uid": "a6e4dc70598fbf0759bbbc47",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_65ad8a739d5883fc577ec2485906835a.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_65ad8a739d5883fc577ec2485906835a.jpg"
+    ]
+  },
+  {
+    "name": "上杭县古田消防救援站",
+    "location": {
+      "lat": 25.224006,
+      "lng": 116.833345
+    },
+    "address": "福建省龙岩市上杭县围屋路19号",
+    "province": "福建省",
+    "city": "龙岩市",
+    "area": "上杭县",
+    "detail": 1,
+    "uid": "0d6550c624498e8bad080f96",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B66c4442b599396866.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B66c4442b599396866.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B66c443fa61c668969.jpeg"
+    ]
+  }
+]

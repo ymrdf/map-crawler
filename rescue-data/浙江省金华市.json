@@ -1,0 +1,115 @@
+[
+  {
+    "name": "义乌市东洲路消防救援站",
+    "location": {
+      "lat": 29.325994,
+      "lng": 120.151941
+    },
+    "address": "金华市义乌市东洲路青口电商园对面",
+    "province": "浙江省",
+    "city": "金华市",
+    "area": "义乌市",
+    "telephone": "(0579)85978783",
+    "detail": 1,
+    "uid": "b3c2dd379bd53c7b0b69d980",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_be555a988ff552e827c3b948c4d5fb96.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_be555a988ff552e827c3b948c4d5fb96.jpg"
+    ]
+  },
+  {
+    "name": "义乌市稠江消防救援站",
+    "location": {
+      "lat": 29.304916,
+      "lng": 120.072597
+    },
+    "address": "金华市义乌市保联街香山路221巷",
+    "province": "浙江省",
+    "city": "金华市",
+    "area": "义乌市",
+    "street_id": "",
+    "telephone": "(0579)89059724",
+    "detail": 1,
+    "uid": "b07fd74e96951e8601294fd8",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ba6e4f4b89dda4d6d99876dc48f7ffca.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ba6e4f4b89dda4d6d99876dc48f7ffca.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_051f5d596c3dffa3d28f556788413460.jpg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 29.348853,
+      "lng": 120.125061
+    },
+    "address": "金华市义乌市商博路义乌国际商贸城",
+    "province": "浙江省",
+    "city": "金华市",
+    "area": "义乌市",
+    "street_id": "",
+    "detail": 1,
+    "uid": "441d188ec4f2956c2dfaa750",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_90977037b05a8e1bc5020fbbd7438788.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_90977037b05a8e1bc5020fbbd7438788.jpeg"
+    ]
+  },
+  {
+    "name": "援宝救援",
+    "location": {
+      "lat": 29.135724,
+      "lng": 119.660845
+    },
+    "address": "金华市婺城区流云路金华市环城小学教育集团第二小学西南侧约100米",
+    "province": "浙江省",
+    "city": "金华市",
+    "area": "婺城区",
+    "telephone": "13362989896",
+    "detail": 1,
+    "uid": "6214af5759f548c900ec01fb",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B674d5c164eca9cb20.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B674d5c164eca9cb20.jpeg"
+    ]
+  },
+  {
+    "name": "义乌市消防救援支队",
+    "location": {
+      "lat": 29.333969,
+      "lng": 120.070313
+    },
+    "address": "浙江省金华市义乌市机场路636号",
+    "province": "浙江省",
+    "city": "金华市",
+    "area": "义乌市",
+    "street_id": "dab0d1ad13a5217bf33cba53",
+    "telephone": "(0579)85420321,(0579)85420322",
+    "detail": 1,
+    "uid": "dab0d1ad13a5217bf33cba53",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_3bdc3613967aa2f32e226e0e938190de.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=dab0d1ad13a5217bf33cba53&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_fb72bb7729f77d0bed4a9a6f418d1115.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_219165d6748ec6b80a504af2b4f06051.jpeg"
+    ]
+  },
+  {
+    "name": "东阳市振兴路消防救援站",
+    "location": {
+      "lat": 29.262829,
+      "lng": 120.248733
+    },
+    "address": "浙江省金华市东阳市振兴路226号",
+    "province": "浙江省",
+    "city": "金华市",
+    "area": "东阳市",
+    "street_id": "",
+    "detail": 1,
+    "uid": "c6ad542ee6f212339f09f750",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_415f833aee4e661a0066b44a130b7935.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_415f833aee4e661a0066b44a130b7935.jpg"
+    ]
+  }
+]

@@ -1,0 +1,180 @@
+[
+  {
+    "name": "广西灵山明峰汽车救援服务有限公司",
+    "location": {
+      "lat": 22.401711,
+      "lng": 109.282136
+    },
+    "address": "钦州市灵山县江南路钦州江南商务酒店(江南路店)东侧约130米",
+    "province": "广西壮族自治区",
+    "city": "钦州市",
+    "area": "灵山县",
+    "detail": 1,
+    "uid": "168d219d5925c9a3cb213db9",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_b4f1d02f5b95aacaee362b1545439ff7.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b4f1d02f5b95aacaee362b1545439ff7.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B658950002310517f7b.jpeg"
+    ]
+  },
+  {
+    "name": "新南方汽车修理厂",
+    "location": {
+      "lat": 22.14209,
+      "lng": 108.456138
+    },
+    "address": "广西壮族自治区钦州市钦北区望海大道262号道路清障拖车救援高速拖车救援施救汽车维修",
+    "province": "广西壮族自治区",
+    "city": "钦州市",
+    "area": "钦北区",
+    "telephone": "13977796770",
+    "detail": 1,
+    "uid": "cdbd7bf7696b85611a11d5b3",
+    "cover": "https://taojin-his.cdn.bcebos.com/dbb44aed2e738bd4018dd541ac8b87d6277ff916.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/dbb44aed2e738bd4018dd541ac8b87d6277ff916.jpg",
+      "https://taojin-his.cdn.bcebos.com/838ba61ea8d3fd1fa53251b1394e251f95ca5f06.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9fef97aaaa32a81741452a3e0f7f5703.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_57eca4cbfd86cf7112966109f89a3226.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6505e682c7dc4fa45335cdf19cb8ee0f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e7d0702e92ee85619bcf2a580dee06c3.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 21.974642,
+      "lng": 108.638302
+    },
+    "address": "钦州市钦北区子材西大街电业新苑北侧约40米",
+    "province": "广西壮族自治区",
+    "city": "钦州市",
+    "area": "钦北区",
+    "detail": 1,
+    "uid": "0cf0564097f1e10a7adbd2aa",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_7e2cac1ec9eb4d53a356534ab0967eb1.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7e2cac1ec9eb4d53a356534ab0967eb1.jpeg"
+    ]
+  },
+  {
+    "name": "河东消防救援站",
+    "location": {
+      "lat": 21.960522,
+      "lng": 108.676816
+    },
+    "address": "钦州市钦南区绿州北路曙光园东侧约50米",
+    "province": "广西壮族自治区",
+    "city": "钦州市",
+    "area": "钦南区",
+    "detail": 1,
+    "uid": "b41d6b941080562e2bd7ab04",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a4aa21ebed811a5229838a826c3c898a.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a4aa21ebed811a5229838a826c3c898a.jpeg"
+    ]
+  },
+  {
+    "name": "广西消防救援",
+    "location": {
+      "lat": 21.958727,
+      "lng": 108.627136
+    },
+    "address": "钦州市钦南区一马路钦州市中山公园东侧约60米",
+    "province": "广西壮族自治区",
+    "city": "钦州市",
+    "area": "钦南区",
+    "detail": 1,
+    "uid": "071021db0c300b577dc876f8",
+    "cover": "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_b899c0bd81a2642e00f4b3fe09236886.jpg",
+    "photo_list": [
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_b899c0bd81a2642e00f4b3fe09236886.jpg"
+    ]
+  },
+  {
+    "name": "钦州市综合应急救援支队",
+    "location": {
+      "lat": 21.948517,
+      "lng": 108.666681
+    },
+    "address": "钦州市钦南区蓬莱南大道钦州市消防支队",
+    "province": "广西壮族自治区",
+    "city": "钦州市",
+    "area": "钦南区",
+    "detail": 1,
+    "uid": "c6f197ab2d31b938e812e467",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_c1e78260fbc9b00ea2cc1598703cb022.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c1e78260fbc9b00ea2cc1598703cb022.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_fa099491528c8c94c20ff0560ce6c8a2.jpeg"
+    ]
+  },
+  {
+    "name": "钦南区综合应急救援大队",
+    "location": {
+      "lat": 21.958723,
+      "lng": 108.627192
+    },
+    "address": "钦州市钦南区一马路与公园巷交叉口西北50米",
+    "province": "广西壮族自治区",
+    "city": "钦州市",
+    "area": "钦南区",
+    "street_id": "9bfa4ad0888a45953517dc58",
+    "detail": 1,
+    "uid": "9bfa4ad0888a45953517dc58",
+    "cover": "https://taojin-his.cdn.bcebos.com/10dfa9ec8a1363279da8d7ca9d8fa0ec09fac786.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/10dfa9ec8a1363279da8d7ca9d8fa0ec09fac786.jpg",
+      "https://taojin-his.cdn.bcebos.com/024f78f0f736afc300187b3bbd19ebc4b7451253.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_09456be47064cf25fbd6d6b053e19630.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d08a89623af71b4318debb35d5308fa8.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_9188b0c08082705805f1c86cd924087b.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3bfa819bee4dd5782b55aae824835de1.jpeg"
+    ]
+  },
+  {
+    "name": "广西驰航安全救援技术有限公司",
+    "location": {
+      "lat": 21.969091,
+      "lng": 108.638212
+    },
+    "address": "钦州市钦南区明阳中二巷钦州市第一人民医院北侧约70米",
+    "province": "广西壮族自治区",
+    "city": "钦州市",
+    "area": "钦南区",
+    "detail": 1,
+    "uid": "bd154830ed93b4918bb988a5",
+    "cover": "https://taojin-his.cdn.bcebos.com/ac345982b2b7d0a26ae7cdc2c5ef76094b369a47.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/ac345982b2b7d0a26ae7cdc2c5ef76094b369a47.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2bcb2ab8b1879f772b77fb869e77ec99.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_42a8beb18221893fc0dafa986dd106e4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_fd686e04e7950576a3308cae541a5c08.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c39e11889db29d1f08017d963f10bb59.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_19b4f4c2e4d0d2aea0b4e57fd054a0d9.jpeg"
+    ]
+  },
+  {
+    "name": "零距离国际旅行社(灵山营业部)",
+    "location": {
+      "lat": 22.422517,
+      "lng": 109.300903
+    },
+    "address": "广西壮族自治区钦州市灵山县S312(江南路)",
+    "province": "广西壮族自治区",
+    "city": "钦州市",
+    "area": "灵山县",
+    "telephone": "13788270052",
+    "detail": 1,
+    "uid": "7720e04c3a9d5e8186420ec0",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_e130df3f7d3b11dc42b3867406195d7f.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e130df3f7d3b11dc42b3867406195d7f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1988854c1210334c3f888dff9bd354ef.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_02a291924208405c7b58a68cd2157321.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5a02fcd1513aa24eba07d6a33dcd9de7.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b6a97390b3385ab05dc852551a550adc.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B6184842f39b4cad21.jpeg"
+    ]
+  }
+]

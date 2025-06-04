@@ -1,0 +1,183 @@
+[
+  {
+    "name": "佐芙道路救援搭电公司",
+    "location": {
+      "lat": 31.211703,
+      "lng": 121.413724
+    },
+    "address": "上海市长宁区仙霞路99号尚嘉中心30楼03单元3003室",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "长宁区",
+    "detail": 1,
+    "uid": "97168360fcb66a75fbdc85e4",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_9a15e522171f9c8419cadebb616b7710.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9a15e522171f9c8419cadebb616b7710.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6e1b365396ca9e4e6c27e470d38706b0.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1fe9f35c51aa30f613753d6a3b89b2ea.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_09efa6662308f86c9f56680782a2e39c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3577354b53231c2ad04d78213448fb1d.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 31.226699,
+      "lng": 121.360956
+    },
+    "address": "上海市长宁区金钟路SkyBridge HQ天会东南侧约40米",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "长宁区",
+    "detail": 1,
+    "uid": "825041e7601ffdc76d20b9c8",
+    "cover": "https://pic-map.cdn.bcebos.com/img/4f5c57d5562bf13af53c4bf6ebeb1514",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/4f5c57d5562bf13af53c4bf6ebeb1514"
+    ]
+  },
+  {
+    "name": "长宁区延安消防救援站",
+    "location": {
+      "lat": 31.216758,
+      "lng": 121.429696
+    },
+    "address": "上海市长宁区华阳路街道定西路999号",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "长宁区",
+    "street_id": "8b4be61192faa05d3686f400",
+    "detail": 1,
+    "uid": "8b4be61192faa05d3686f400",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_f7c5679df8555e892478f3762060f150.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=8b4be61192faa05d3686f400&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_45abf043983817168c64d15c5b605d72.jpeg"
+    ]
+  },
+  {
+    "name": "上海市消防救援总队",
+    "location": {
+      "lat": 31.224086,
+      "lng": 121.417867
+    },
+    "address": "上海市长宁区中山西路229号",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "长宁区",
+    "street_id": "",
+    "telephone": "(021)28955526",
+    "detail": 1,
+    "uid": "e31f1dd11d48e234102935d8",
+    "cover": "https://taojin-his.cdn.bcebos.com/f9198618367adab40ddf973085d4b31c8701e4b2.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/f9198618367adab40ddf973085d4b31c8701e4b2.jpg",
+      "https://taojin-his.cdn.bcebos.com/a8014c086e061d95b1145a6476f40ad162d9ca18.jpg"
+    ]
+  },
+  {
+    "name": "胜喆汽修补胎搭电拖车救援",
+    "location": {
+      "lat": 31.362209,
+      "lng": 121.459579
+    },
+    "address": "上海市宝山区江一西路江杨水产品批发市场",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "宝山区",
+    "telephone": "13170020151",
+    "detail": 1,
+    "uid": "726a1d2df7ed852f9b005024",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_45a1a0aacbb8be3bd80f6ef6a3557934.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_45a1a0aacbb8be3bd80f6ef6a3557934.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B662c78b7a97ed528a.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B662c78b7f08cae717.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_31c0823f46addd996354deb6bad62a80.jpeg"
+    ]
+  },
+  {
+    "name": "长宁区长宁消防救援站",
+    "location": {
+      "lat": 31.224851,
+      "lng": 121.417593
+    },
+    "address": "上海市长宁区中山西路207号",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "长宁区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "ab5f98550353c6dc40ab9a2c",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_9de397aae9f9b7ee59a64ddcacfd2047.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9de397aae9f9b7ee59a64ddcacfd2047.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_469257ec7be69b8d74580b6d1dc89d4b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e5ddecc2f80ce86f4e698c16601e551d.jpeg"
+    ]
+  },
+  {
+    "name": "梦缘补胎搭电拖车道路救援",
+    "location": {
+      "lat": 31.270346,
+      "lng": 121.48607
+    },
+    "address": "上海市虹口区宝山路858号",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "虹口区",
+    "telephone": "13215522769",
+    "detail": 1,
+    "uid": "1307137b865dce5bc9c3db98",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_eb8d0e3851e31ab565b39b02c48cab6c.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_eb8d0e3851e31ab565b39b02c48cab6c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0d30a9bfe30032010f917978e1a7213e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ed89735914766d8d980ae2f80691c9f4.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_672b1cf6a1ab93d032c67b2321fabae8.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_69cd4cec3d1fd9c41d71c9ebf92a80aa.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a10aa8295718151c6fa865d7a3bbd327.jpeg"
+    ]
+  },
+  {
+    "name": "基洵汽修补胎搭电拖车救援",
+    "location": {
+      "lat": 31.371306,
+      "lng": 121.47577
+    },
+    "address": "上海市宝山区泰和路森谷美食公园",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "宝山区",
+    "telephone": "13170020149",
+    "detail": 1,
+    "uid": "ec56ec102740a0b86140a93f",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_218bc61d580f21f4c52fd6ee17f8e92f.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_218bc61d580f21f4c52fd6ee17f8e92f.jpeg"
+    ]
+  },
+  {
+    "name": "神速救援公司",
+    "location": {
+      "lat": 31.051988,
+      "lng": 121.415282
+    },
+    "address": "上海市闵行区沪闵路2592号",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "闵行区",
+    "detail": 1,
+    "uid": "d810375ef3c9a5e7a5da396c",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B63626ac80140759f6.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B63626ac80140759f6.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B63626ac72e8c8e84b.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B63626ac7654ba1584f.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B63626ac8569f55ecf.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B63626ac7ca73e342f.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B63626ac74f10d13264.jpeg"
+    ]
+  }
+]

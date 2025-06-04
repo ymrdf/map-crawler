@@ -1,0 +1,84 @@
+[
+  {
+    "name": "鑫诺救援汽修",
+    "location": {
+      "lat": 30.329241,
+      "lng": 104.416765
+    },
+    "address": "四川省成都市简阳市G321(安顺街)",
+    "province": "四川省",
+    "city": "成都市",
+    "area": "简阳市",
+    "telephone": "13701889276,17790289416,18918041818",
+    "detail": 1,
+    "uid": "7d27852fce20d660b6147f64",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_43531ea08dd7eed90e984c47049640d3.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_43531ea08dd7eed90e984c47049640d3.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/756ed670b2177d5ed2974395f3beea4b_9694.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6570b88b1741de040.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6570b88aa41ee699c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5fac0f1c860750975faaa9fce321e84f.jpeg"
+    ]
+  },
+  {
+    "name": "吉辰道路救援",
+    "location": {
+      "lat": 31.01278,
+      "lng": 103.666369
+    },
+    "address": "四川省成都市都江堰市双林路178号",
+    "province": "四川省",
+    "city": "成都市",
+    "area": "都江堰市",
+    "street_id": "813157fecbad204e87154109",
+    "telephone": "17736812851",
+    "detail": 1,
+    "uid": "813157fecbad204e87154109",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_6e4c2ce3bb55271514cf8f203fc3bec3.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=813157fecbad204e87154109&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a1a265c75f857e3c5374c536109af309.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6655a3c4c4580a58d92df2cb86614077.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_47d088c518cc09b7c41796ed9ae04549.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d0e62b314b07fe5c973f20f6eba76965.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65a239c6c3bd7a8a3.jpeg"
+    ]
+  },
+  {
+    "name": "速援汽车救援",
+    "location": {
+      "lat": 30.625334,
+      "lng": 104.111461
+    },
+    "address": "成都市锦江区观音桥西路沙河上-2期",
+    "province": "四川省",
+    "city": "成都市",
+    "area": "锦江区",
+    "detail": 1,
+    "uid": "2136cdde8b024a8acb213daf",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B65af86096cd44c730.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B65af86096cd44c730.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3abc817ac05fdb6f209a8322ffdd4559.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_dde16d9d0cc65a2a6336b415aca03118.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 30.709428,
+      "lng": 103.923671
+    },
+    "address": "成都市温江区芙蓉路芙蓉古城芝田居西北侧约30米",
+    "province": "四川省",
+    "city": "成都市",
+    "area": "温江区",
+    "detail": 1,
+    "uid": "711d61bc84b0d74d4251c023",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a60b47fcd067b04ed253de6e518b10c4.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a60b47fcd067b04ed253de6e518b10c4.jpeg"
+    ]
+  }
+]

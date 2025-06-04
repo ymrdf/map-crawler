@@ -1,0 +1,116 @@
+[
+  {
+    "name": "补胎救援",
+    "location": {
+      "lat": 41.871366,
+      "lng": 123.784613
+    },
+    "address": "抚顺市望花区高阳路抚顺市技师学院",
+    "province": "辽宁省",
+    "city": "抚顺市",
+    "area": "望花区",
+    "telephone": "13942329699",
+    "detail": 1,
+    "uid": "e425b99b2515042408ccdd9e",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_4281f3456a581fca5462aaba2bb994cf.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4281f3456a581fca5462aaba2bb994cf.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8aec7334d982758c10783bde9ba59112.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bf51fccb9632fa99271cf1cf8fb14b0b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_802faff16194af93978b570743732405.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_37d8b3b22408e5adc6e02d386e02c1a0.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7d1d76428d54d8aa3603695cb149d358.jpeg"
+    ]
+  },
+  {
+    "name": "塞轮轮胎批发轮胎救援",
+    "location": {
+      "lat": 41.786309,
+      "lng": 123.798413
+    },
+    "address": "辽宁省抚顺市望花区S104(沈通线)",
+    "province": "辽宁省",
+    "city": "抚顺市",
+    "area": "望花区",
+    "telephone": "15668512227",
+    "detail": 1,
+    "uid": "a4da26a0825c21ffc72ba1ea",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B625fa7c59440710fe7.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B625fa7c59440710fe7.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/986421be9eb3d65d2aa2f73ed2a63b84_2340.jpeg"
+    ]
+  },
+  {
+    "name": "沈阳仕龙汽车救援",
+    "location": {
+      "lat": 41.874001,
+      "lng": 123.880458
+    },
+    "address": "抚顺市顺城区浑河北路抚顺石化总医院东南侧约250米",
+    "province": "辽宁省",
+    "city": "抚顺市",
+    "area": "顺城区",
+    "detail": 1,
+    "uid": "cb4cda85b4bb35565abbbc30",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B65bf44411a1102f75.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B65bf44411a1102f75.jpeg"
+    ]
+  },
+  {
+    "name": "抚顺市顺城区消防救援大队",
+    "location": {
+      "lat": 41.884777,
+      "lng": 123.908525
+    },
+    "address": "辽宁省抚顺市顺城区新城路西段3号",
+    "province": "辽宁省",
+    "city": "抚顺市",
+    "area": "顺城区",
+    "detail": 1,
+    "uid": "846154e9ddf7ce396b49f3a6",
+    "cover": "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_4a0c80f54069c2e98ca276009a85cdfc.jpg",
+    "photo_list": [
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_4a0c80f54069c2e98ca276009a85cdfc.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_dd069b6453c0653c72732f8492df63e8.jpg"
+    ]
+  },
+  {
+    "name": "望花区雷锋消防救援站",
+    "location": {
+      "lat": 41.852311,
+      "lng": 123.818623
+    },
+    "address": "辽宁省抚顺市望花区台安街43号",
+    "province": "辽宁省",
+    "city": "抚顺市",
+    "area": "望花区",
+    "detail": 1,
+    "uid": "f655c6dd1185182330169bba",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_94e14d68c48546fd565c5057070d2be9.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_94e14d68c48546fd565c5057070d2be9.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b3b416b6f9d71f0aaf1b19d079780327.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_054a19576ae5f9fcb3678cec94737588.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B666ec13cb99319b29.jpeg"
+    ]
+  },
+  {
+    "name": "抚顺市顺城区新城路消防救援站",
+    "location": {
+      "lat": 41.884709,
+      "lng": 123.908453
+    },
+    "address": "抚顺市顺城区新城路金凤春城",
+    "province": "辽宁省",
+    "city": "抚顺市",
+    "area": "顺城区",
+    "detail": 1,
+    "uid": "d2775c67abf4ca6f4e2fdf4c",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_f98a28b4a0eb7ee176fbcd8e6a541fd8.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f98a28b4a0eb7ee176fbcd8e6a541fd8.jpeg"
+    ]
+  }
+]

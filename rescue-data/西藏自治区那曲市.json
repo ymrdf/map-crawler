@@ -1,0 +1,19 @@
+[
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 31.888034,
+      "lng": 93.792747
+    },
+    "address": "那曲市索县成那线索县藏医院南侧约120米",
+    "province": "西藏自治区",
+    "city": "那曲市",
+    "area": "索县",
+    "detail": 1,
+    "uid": "d9c58373bc5d570639221ce4",
+    "cover": "https://pic-map.cdn.bcebos.com/img/821d554d564a40cbc14727369854c7b9",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/821d554d564a40cbc14727369854c7b9"
+    ]
+  }
+]

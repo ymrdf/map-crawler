@@ -1,0 +1,78 @@
+[
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 25.084386,
+      "lng": 104.935977
+    },
+    "address": "贵州省黔西南布依族苗族自治州兴义市机场大道008号",
+    "province": "贵州省",
+    "city": "黔西南布依族苗族自治州",
+    "area": "兴义市",
+    "detail": 1,
+    "uid": "64f0be336f2d564507026fd7",
+    "cover": "https://pic-map.cdn.bcebos.com/img/83a05f54bba585c15ff93d7c8652fb57",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/83a05f54bba585c15ff93d7c8652fb57"
+    ]
+  },
+  {
+    "name": "晴隆县紧急医学救援站",
+    "location": {
+      "lat": 25.839009,
+      "lng": 105.232357
+    },
+    "address": "黔西南布依族苗族自治州晴隆县育才路中山医院东南侧约210米",
+    "province": "贵州省",
+    "city": "黔西南布依族苗族自治州",
+    "area": "晴隆县",
+    "detail": 1,
+    "uid": "874621226d782c89d72ce2a7",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_185f145b07d7fda80145f03ca2166ace.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_185f145b07d7fda80145f03ca2166ace.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2fda014193ba177474253a9b4754a5e2.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ca72b0c6f925fdfcfbc4c680246cf2b4.jpeg"
+    ]
+  },
+  {
+    "name": "兴仁市紧急救援中心",
+    "location": {
+      "lat": 25.43523,
+      "lng": 105.214723
+    },
+    "address": "黔西南布依族苗族自治州兴仁市体育南路黔西南州兴仁市人民医院东北侧约30米",
+    "province": "贵州省",
+    "city": "黔西南布依族苗族自治州",
+    "area": "兴仁市",
+    "detail": 1,
+    "uid": "d56cab95897ac2298c55ec40",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ebcec59d2c032cc1de0a731921ea4a49.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ebcec59d2c032cc1de0a731921ea4a49.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_91bbaa8f1866873e6592f2dc2f1ad462.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_14c037c70e575694ac8bd3c2266f57df.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5d28f498322149ed03ff1bbff283a89c.jpeg"
+    ]
+  },
+  {
+    "name": "望谟县消防大队",
+    "location": {
+      "lat": 25.180506,
+      "lng": 106.098286
+    },
+    "address": "黔西南布依族苗族自治州望谟县华侨路妇幼保健院旁边",
+    "province": "贵州省",
+    "city": "黔西南布依族苗族自治州",
+    "area": "望谟县",
+    "detail": 1,
+    "uid": "1d93494f8d071ac3ab175a85",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_36aaad56eb47624536494f0896801cff.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_36aaad56eb47624536494f0896801cff.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1470a0f6f0647d6956da55704da3a5a0.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_eb0003a1e2fd94954c792bd309a9c061.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5ebd17be98a1a53747a2021d7ce1965e.jpeg"
+    ]
+  }
+]

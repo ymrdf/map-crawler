@@ -1,0 +1,157 @@
+[
+  {
+    "name": "明武救援公司",
+    "location": {
+      "lat": 46.616901,
+      "lng": 124.907848
+    },
+    "address": "大庆市让胡路区宏茂街希望宝贝亲子园龙庆抚幼总园东南侧约110米",
+    "province": "黑龙江省",
+    "city": "大庆市",
+    "area": "让胡路区",
+    "street_id": "d03d256bd73422f8f60e7766",
+    "detail": 1,
+    "uid": "d03d256bd73422f8f60e7766",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_3ed5584a31875812420b31359916b0b4.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=d03d256bd73422f8f60e7766&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_afdf8f613fe828953538caf6039a4179.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ca4b5291b53d31a00c24d4457ea6a098.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65f93cf369c67c297.jpeg"
+    ]
+  },
+  {
+    "name": "双庆钣金喷漆救援",
+    "location": {
+      "lat": 46.397308,
+      "lng": 124.895367
+    },
+    "address": "大庆市红岗区萨大中路长城酒店(红岗政府店)南侧约190米",
+    "province": "黑龙江省",
+    "city": "大庆市",
+    "area": "红岗区",
+    "detail": 1,
+    "uid": "37bab75c8f2a4799c9c3db6c",
+    "cover": "https://pic-map.cdn.bcebos.com/img/b27924e818e9ecef4290511be44cb1cc",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/b27924e818e9ecef4290511be44cb1cc",
+      "https://lbsugc.cdn.bcebos.com/images/B6677fc6e9bffb2795.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6677fc6ebf877141ae.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 46.53886,
+      "lng": 125.149561
+    },
+    "address": "大庆市龙凤区凤德街",
+    "province": "黑龙江省",
+    "city": "大庆市",
+    "area": "龙凤区",
+    "detail": 1,
+    "uid": "80a5c9db57538e9d843304d3",
+    "cover": "https://pic-map.cdn.bcebos.com/img/004e0a94798b0384de4f2aa17973320b",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/004e0a94798b0384de4f2aa17973320b"
+    ]
+  },
+  {
+    "name": "小李汽修电瓶救援",
+    "location": {
+      "lat": 46.635325,
+      "lng": 124.909686
+    },
+    "address": "家园路58号",
+    "province": "黑龙江省",
+    "city": "大庆市",
+    "area": "让胡路区",
+    "telephone": "(0459)4777888,15765988787,18345538787",
+    "detail": 1,
+    "uid": "49f7f4b9dc80093072210bf2",
+    "cover": "https://photo-meituan.cdn.bcebos.com/photo/17412478895f9d5bd9cd423a020e8e180380ba784b",
+    "photo_list": [
+      "https://photo-meituan.cdn.bcebos.com/photo/17412478895f9d5bd9cd423a020e8e180380ba784b",
+      "https://lbsugc.cdn.bcebos.com/images/f0934b78907ce9c0d70308ffec76a955_0795.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/b1465873f119f87161b7fe933c2fa378_4983.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/b61fe0405a29c9caa610ea55b59ad3b2_9765.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/0cc4e3763096f87d49eddce5d1448e83_4816.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/05814788ceb8de781a0b7ed6d4fbc32e_2027.jpeg"
+    ]
+  },
+  {
+    "name": "大庆市消防救援支队",
+    "location": {
+      "lat": 46.635016,
+      "lng": 125.117904
+    },
+    "address": "黑龙江省大庆市萨尔图区萨政路22号",
+    "province": "黑龙江省",
+    "city": "大庆市",
+    "area": "萨尔图区",
+    "street_id": "c59f4b21d8b8d899471a3202",
+    "detail": 1,
+    "uid": "c59f4b21d8b8d899471a3202",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_53453ed436c83370b68f696125e66f08.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_53453ed436c83370b68f696125e66f08.jpg"
+    ]
+  },
+  {
+    "name": "大庆市久发汽车拖车搭电困境救援",
+    "location": {
+      "lat": 46.573325,
+      "lng": 125.097788
+    },
+    "address": "大庆市龙凤区凤广街与龙泽路交叉路口往西约200米",
+    "province": "黑龙江省",
+    "city": "大庆市",
+    "area": "龙凤区",
+    "telephone": "13024099454",
+    "detail": 1,
+    "uid": "3a508ae5021e5a2ff7231032",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_91408755c71302c6305a15e9b90570df.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_91408755c71302c6305a15e9b90570df.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d4e1b47a0d4165db227eca6a80c1fefa.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_eea70a79714b173af94c4423045542f8.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6b5a01c8aa461334db3c6ba59a9821b0.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a4081ddc773d592e214a88e092df5370.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a5286a86a37a54dd8b275cd27ac90405.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 45.520414,
+      "lng": 125.102723
+    },
+    "address": "大庆市肇源县东山大街天泽官邸东南侧约160米",
+    "province": "黑龙江省",
+    "city": "大庆市",
+    "area": "肇源县",
+    "detail": 1,
+    "uid": "71ae80b03d0bc6cfc1f1cf02",
+    "cover": "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_f12b5af271b6326b58406300baa6c3c3.jpg",
+    "photo_list": [
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_f12b5af271b6326b58406300baa6c3c3.jpg"
+    ]
+  },
+  {
+    "name": "大庆市消防救援支队-东门",
+    "location": {
+      "lat": 46.635362,
+      "lng": 125.119999
+    },
+    "address": "黑龙江省大庆市萨尔图区萨政路22号",
+    "province": "黑龙江省",
+    "city": "大庆市",
+    "area": "萨尔图区",
+    "detail": 1,
+    "uid": "f199b2854ae051b14f6d46ad",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_53453ed436c83370b68f696125e66f08.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_53453ed436c83370b68f696125e66f08.jpg"
+    ]
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "name": "烟酒补胎拖车搭电道具救援",
+    "location": {
+      "lat": 37.837007,
+      "lng": 112.585956
+    },
+    "address": "太原市小店区狄村街山西电机制造有限公司-二小区东南侧约30米",
+    "province": "山西省",
+    "city": "太原市",
+    "area": "小店区",
+    "street_id": "59bc18cb229a7eef715e8093",
+    "detail": 1,
+    "uid": "59bc18cb229a7eef715e8093",
+    "cover": "https://poi-pic.cdn.bcebos.com/beb32c0ef418752908824ad5b395c676.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=59bc18cb229a7eef715e8093&width=720&height=360&quality=80&fovx=120",
+      "https://taojin-his.cdn.bcebos.com/d62a6059252dd42a18cd22690f3b5bb5c8eab82f.jpg",
+      "https://taojin-his.cdn.bcebos.com/8c1001e93901213fb8fd0ad958e736d12e2e95ec.jpg",
+      "https://taojin-his.cdn.bcebos.com/a50f4bfbfbedab64bfbe5616fd36afc378311e13.jpg",
+      "https://poi-pic.cdn.bcebos.com/fa14c0b3dfde24337b6837f28234722a.jpg",
+      "https://poi-pic.cdn.bcebos.com/7cc98effc8a1f7a69eae9256dc4fe3a4.jpg"
+    ]
+  },
+  {
+    "name": "山西陆航医疗救援股份有限公司",
+    "location": {
+      "lat": 37.874818,
+      "lng": 112.531864
+    },
+    "address": "山西省太原市万柏林区后北屯街11号",
+    "province": "山西省",
+    "city": "太原市",
+    "area": "万柏林区",
+    "telephone": "13754870338",
+    "detail": 1,
+    "uid": "5864e3b474eeb6bd90114ce6",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_42d1b97bddf488cf450ec6dfc410dbe6.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_42d1b97bddf488cf450ec6dfc410dbe6.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B64b9c49575d003dda.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/H8326cffc1e178a8204fb7cd5f903738da877e884.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/H5366d0160924ab180dd3e2423afae6cd7a890bf9.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/H0ff41bd5ad6eddc4c0d8b68e36dbb6fd52663383.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B65c59d9a180f316027.jpeg"
+    ]
+  },
+  {
+    "name": "太原市消防救援支队",
+    "location": {
+      "lat": 37.870061,
+      "lng": 112.533613
+    },
+    "address": "山西省太原市万柏林区前北屯路20号",
+    "province": "山西省",
+    "city": "太原市",
+    "area": "万柏林区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "3778d70424144487bda24002",
+    "cover": "https://taojin-his.cdn.bcebos.com/5366d0160924ab18e10d892f39fae6cd7b890b8a.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/5366d0160924ab18e10d892f39fae6cd7b890b8a.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_dcb35c1d0f61a2ba0b10d259446fb1c2.jpg",
+      "https://taojin-his.cdn.bcebos.com/c995d143ad4bd11332d720ca50afa40f4bfb052b.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_fb12f53c2e9519533a79b393c0c2ca67.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_e1dcb2d7e00b91487cd1c8029b4d5600.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3ffbf559c31d7ad2ee2b827b60c95c2a.jpeg"
+    ]
+  },
+  {
+    "name": "太原特战救援队",
+    "location": {
+      "lat": 37.596623,
+      "lng": 112.339293
+    },
+    "address": "太原市清徐县歧银线",
+    "province": "山西省",
+    "city": "太原市",
+    "area": "清徐县",
+    "detail": 1,
+    "uid": "691f2c60aa9b8e001c3894e0",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_50fafe7c25033a6292c8153aa960b273.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_50fafe7c25033a6292c8153aa960b273.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5227382a326a14bf9145bbf2d824a457.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6691ded2238255b0a.jpeg"
+    ]
+  },
+  {
+    "name": "太原市尖草坪区消防救援大队",
+    "location": {
+      "lat": 37.945405,
+      "lng": 112.512132
+    },
+    "address": "山西省太原市尖草坪区金桥西街1号",
+    "province": "山西省",
+    "city": "太原市",
+    "area": "尖草坪区",
+    "detail": 1,
+    "uid": "a0efddec360d09accf06a455",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_5ce6808bb466987e5b162a1c69b55d24.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5ce6808bb466987e5b162a1c69b55d24.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 37.908399,
+      "lng": 112.566287
+    },
+    "address": "太原市尖草坪区名都街恒大名都东侧约100米",
+    "province": "山西省",
+    "city": "太原市",
+    "area": "尖草坪区",
+    "detail": 1,
+    "uid": "8e6ba0183d410535d518b7cb",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_4a32a6845af99389aa2c2f2d0834573b.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4a32a6845af99389aa2c2f2d0834573b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_553d458287bf3cf9941c4e9f09825ef6.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 37.816384,
+      "lng": 112.543391
+    },
+    "address": "山西省太原市晋源区广经路6号东北方向110米",
+    "province": "山西省",
+    "city": "太原市",
+    "area": "晋源区",
+    "detail": 1,
+    "uid": "4eaaed9a7392139efea778fc",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_6266b0914331756f1ca94948088247ac.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6266b0914331756f1ca94948088247ac.jpeg"
+    ]
+  }
+]

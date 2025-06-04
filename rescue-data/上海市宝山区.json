@@ -1,0 +1,121 @@
+[
+  {
+    "name": "宝山区罗店消防救援站",
+    "location": {
+      "lat": 31.414584,
+      "lng": 121.354475
+    },
+    "address": "上海市宝山区罗店镇月罗公路2449号",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "宝山区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "16a10fc3d338849b9868b476",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_3e4c0d5ded8cf5e5ab786e577bb07048.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3e4c0d5ded8cf5e5ab786e577bb07048.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_914e6abedd6ab708f51ed1910f02b9ba.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e0641303a6179c3a188449e4fdaaf6e6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_350bf96cf10211aed4fa4b834e52534b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ea68158311846541c42ae0e4c5a27cdf.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ec86b5a97dd43f0dbe8860df7a815d71.jpeg"
+    ]
+  },
+  {
+    "name": "普莱德应急救援中心",
+    "location": {
+      "lat": 31.362729,
+      "lng": 121.445992
+    },
+    "address": "上海市宝山区-杨行镇泰联路2008号A座102室",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "宝山区",
+    "detail": 1,
+    "uid": "2b573c9f01d287235fd4fe6d",
+    "cover": "https://taojin-pic-gz.cdn.bcebos.com/a086384e1dadc7656eec794c931ecb29.jpg",
+    "photo_list": [
+      "https://taojin-pic-gz.cdn.bcebos.com/a086384e1dadc7656eec794c931ecb29.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6cee07ecf8e94984a40deadee0ff6119.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e3e96b5259747a36f2a764066cf1f857.jpeg"
+    ]
+  },
+  {
+    "name": "宝山区吴淞消防救援站",
+    "location": {
+      "lat": 31.381581,
+      "lng": 121.49797
+    },
+    "address": "上海市宝山区同济路西朱新村社区东北侧",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "宝山区",
+    "detail": 1,
+    "uid": "0a6afc0db18c0b25cc06a4ae",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_c9d9b533b574794c3beaf4e9895e28ae.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c9d9b533b574794c3beaf4e9895e28ae.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b98cd0356e9c301b7462f7fbfcd529e2.jpeg"
+    ]
+  },
+  {
+    "name": "宝山区大场消防救援站",
+    "location": {
+      "lat": 31.306203,
+      "lng": 121.419295
+    },
+    "address": "上海市宝山区南大路2弄1号(骏华苑东侧约30米)",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "宝山区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "58711e73228b7be37ab55cde",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_49ce7ee63469c0a3700b33ed889d78a6.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_49ce7ee63469c0a3700b33ed889d78a6.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_048dcff85eca2837c952e2fadc5493ba.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f4ed9508804a4b4528c994c789aa6d8e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c4078da18515d54df1018412b0815444.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7f8664899a9524a7e28ca4886127a095.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B674c112aa85074c9f.jpeg"
+    ]
+  },
+  {
+    "name": "宝山区月浦消防救援站",
+    "location": {
+      "lat": 31.427782,
+      "lng": 121.432663
+    },
+    "address": "上海市宝山区月罗公路102号",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "宝山区",
+    "telephone": "(021)56648150",
+    "detail": 1,
+    "uid": "6e6dce79b198bbd5badf8f0f",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_9ff4f2016b335feb4017fd455c6e457e.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9ff4f2016b335feb4017fd455c6e457e.jpeg"
+    ]
+  },
+  {
+    "name": "宝山区宝安消防救援站",
+    "location": {
+      "lat": 31.371609,
+      "lng": 121.422413
+    },
+    "address": "上海市宝山区宝安公路和家欣苑-B区西北侧约60米",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "宝山区",
+    "detail": 1,
+    "uid": "6553fa2e0f8c92defadc8547",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_6a5163d1be9f7ed05861624a00cc200c.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6a5163d1be9f7ed05861624a00cc200c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_54a335dc83b42ad9b1b8ad4d7cb4883b.jpg"
+    ]
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "name": "永顺达汽车救援",
+    "location": {
+      "lat": 32.089524,
+      "lng": 112.177678
+    },
+    "address": "湖北省襄阳市襄州区西湾一巷顺利物流院内",
+    "province": "湖北省",
+    "city": "襄阳市",
+    "area": "襄州区",
+    "street_id": "211d0f8ca4681755b34c49b2",
+    "telephone": "(0710)3332363,18908673129",
+    "detail": 1,
+    "uid": "211d0f8ca4681755b34c49b2",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B65e3dc986c4a1137fa.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=211d0f8ca4681755b34c49b2&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "高山汽修救援",
+    "location": {
+      "lat": 31.754975,
+      "lng": 110.928472
+    },
+    "address": "襄阳市保康县S307神农架国家级自然保护区",
+    "province": "湖北省",
+    "city": "襄阳市",
+    "area": "保康县",
+    "detail": 1,
+    "uid": "62411d83c2b09f39343a7135",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_043ec75a784b27a3bfc28ddf5ccb2a25.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_043ec75a784b27a3bfc28ddf5ccb2a25.jpeg"
+    ]
+  },
+  {
+    "name": "枣阳市消防救援大队南城中队",
+    "location": {
+      "lat": 32.099542,
+      "lng": 112.741279
+    },
+    "address": "襄阳市枣阳市发展大道与西环三路交叉路口往东南约110米",
+    "province": "湖北省",
+    "city": "襄阳市",
+    "area": "枣阳市",
+    "detail": 1,
+    "uid": "ffa23a13d3c2a568581093b0",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_24f78811cffff168895acd20eeca9be3.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_24f78811cffff168895acd20eeca9be3.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 32.047633,
+      "lng": 112.133629
+    },
+    "address": "襄阳市樊城区织工街湖北省技师学院(襄阳)东北侧约60米",
+    "province": "湖北省",
+    "city": "襄阳市",
+    "area": "樊城区",
+    "detail": 1,
+    "uid": "357709e3e93446193586f4f1",
+    "cover": "https://pic-map.cdn.bcebos.com/img/4cfbd3edf6d9eec1d6130a3b4dd9ca24",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/4cfbd3edf6d9eec1d6130a3b4dd9ca24"
+    ]
+  },
+  {
+    "name": "襄阳市襄城区消防救援大队",
+    "location": {
+      "lat": 32.028028,
+      "lng": 112.169584
+    },
+    "address": "襄阳市襄城区庞公路鑫地商业广场西北侧约30米",
+    "province": "湖北省",
+    "city": "襄阳市",
+    "area": "襄城区",
+    "street_id": "4d3c77eb8a8fa1cc58f6be8f",
+    "detail": 1,
+    "uid": "4d3c77eb8a8fa1cc58f6be8f",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d1547d10cfcd434bb7235c32299b4a44.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=4d3c77eb8a8fa1cc58f6be8f&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_003d0130e5814ccd0b9c01cad5762542.jpeg"
+    ]
+  }
+]

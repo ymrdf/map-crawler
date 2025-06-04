@@ -1,0 +1,59 @@
+[
+  {
+    "name": "铜陵顺亿达道路救援有限公司",
+    "location": {
+      "lat": 30.880213,
+      "lng": 117.841839
+    },
+    "address": "安徽省铜陵市郊区沿新大道",
+    "province": "安徽省",
+    "city": "铜陵市",
+    "area": "郊区",
+    "detail": 1,
+    "uid": "baaa022c108c95bcab059d4f",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_e73452666f3d08e5fc094a63dd0f764a.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e73452666f3d08e5fc094a63dd0f764a.jpeg"
+    ]
+  },
+  {
+    "name": "铜陵市铜官区车站消防救援站",
+    "location": {
+      "lat": 30.944384,
+      "lng": 117.821343
+    },
+    "address": "安徽省铜陵市铜官区义安大道北段171号",
+    "province": "安徽省",
+    "city": "铜陵市",
+    "area": "铜官区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "69afbfa380daaa954c6d465f",
+    "cover": "https://taojin-his.cdn.bcebos.com/4e4a20a4462309f732af0acd7a0e0cf3d6cad629.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/4e4a20a4462309f732af0acd7a0e0cf3d6cad629.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f1a17d84ba0f1852fe9bcca02265e9b0.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_93fb28dd84729b71ed04dd23cfb8185d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d026bfd0ab0b76b1056a0b6ee09e1689.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_6da5b84cb3037cbc6991d40c46bf727d.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3255fe9d28f6c0b50417ac6cb35f681f.jpeg"
+    ]
+  },
+  {
+    "name": "铜陵市曙光应急救援队",
+    "location": {
+      "lat": 30.89886,
+      "lng": 117.800037
+    },
+    "address": "安徽省铜陵市郊区铜都大道中段辅路",
+    "province": "安徽省",
+    "city": "铜陵市",
+    "area": "郊区",
+    "detail": 1,
+    "uid": "3b543de8085e8ec595f08c19",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ccc8aa042ea949653b2ca73298d4b918.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ccc8aa042ea949653b2ca73298d4b918.jpeg"
+    ]
+  }
+]

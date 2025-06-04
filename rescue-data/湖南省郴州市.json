@@ -1,0 +1,112 @@
+[
+  {
+    "name": "郴州市亮辉道路救援服务有限公司",
+    "location": {
+      "lat": 25.806991,
+      "lng": 113.025906
+    },
+    "address": "湖南省郴州市北湖区同心路16号金叶后山小区402号",
+    "province": "湖南省",
+    "city": "郴州市",
+    "area": "北湖区",
+    "telephone": "13825606016",
+    "detail": 1,
+    "uid": "8953b834e5e53ea3cc06a4e7",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B5f3001894011015ef0.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B5f3001894011015ef0.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ef383a3cc601d50423180671cf19fbf1.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B5f300189433ce109d0.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B5f3001893dc01126a4.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B5eb60a663ed3c11b44.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B5eb60a512c303175ea.jpeg"
+    ]
+  },
+  {
+    "name": "汝城县消防救援大队",
+    "location": {
+      "lat": 25.55887,
+      "lng": 113.702377
+    },
+    "address": "湖南省郴州市汝城县G357",
+    "province": "湖南省",
+    "city": "郴州市",
+    "area": "汝城县",
+    "detail": 1,
+    "uid": "519a711157ede746100daa04",
+    "cover": "https://pic-map.cdn.bcebos.com/img/e0ab0452210dca4684a5011dc8f770f8",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/e0ab0452210dca4684a5011dc8f770f8"
+    ]
+  },
+  {
+    "name": "永兴县沙子江消防救援站",
+    "location": {
+      "lat": 26.137635,
+      "lng": 113.126651
+    },
+    "address": "郴州市永兴县内环路中国石化(内环路加油站)东侧约80米",
+    "province": "湖南省",
+    "city": "郴州市",
+    "area": "永兴县",
+    "detail": 1,
+    "uid": "bebd6e1ce6dfb9b50289724f",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_bd08a64a6a80fbb0ac31fb6497e418f7.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bd08a64a6a80fbb0ac31fb6497e418f7.jpg"
+    ]
+  },
+  {
+    "name": "郴州南沃汽车拖车救援有限公司",
+    "location": {
+      "lat": 25.802776,
+      "lng": 113.041517
+    },
+    "address": "湖南省郴州市北湖区北苑妙街西通道楼梯二楼",
+    "province": "湖南省",
+    "city": "郴州市",
+    "area": "北湖区",
+    "detail": 1,
+    "uid": "62e44b53584f67e317948e85",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B60d427f9874fa17f32.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B60d427f9874fa17f32.jpeg"
+    ]
+  },
+  {
+    "name": "资兴市消防救援大队",
+    "location": {
+      "lat": 25.965962,
+      "lng": 113.240281
+    },
+    "address": "郴州市资兴市资兴大道云仙花园南侧约50米",
+    "province": "湖南省",
+    "city": "郴州市",
+    "area": "资兴市",
+    "detail": 1,
+    "uid": "efc66d55a0eb37890b69d9b7",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_348c75693bb611a1dc98aca32f87e1d2.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_348c75693bb611a1dc98aca32f87e1d2.jpg"
+    ]
+  },
+  {
+    "name": "郴州市安全生产应急救援指挥中心",
+    "location": {
+      "lat": 25.762604,
+      "lng": 113.01737
+    },
+    "address": "郴州市北湖区冲口路郴州市安全生产监督管理局",
+    "province": "湖南省",
+    "city": "郴州市",
+    "area": "北湖区",
+    "detail": 1,
+    "uid": "e430d801922008942d4733ef",
+    "cover": "https://taojin-his.cdn.bcebos.com/3bf33a87e950352a6ba8b3265c43fbf2b3118bd7.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/3bf33a87e950352a6ba8b3265c43fbf2b3118bd7.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3c7dbfaa70f927d2d2d754e13b6de656.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_937f2a2b0655567ca2a8abbda802f708.jpg"
+    ]
+  }
+]

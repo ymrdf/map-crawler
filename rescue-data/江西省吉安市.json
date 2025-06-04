@@ -1,0 +1,128 @@
+[
+  {
+    "name": "清障救援",
+    "location": {
+      "lat": 26.85419,
+      "lng": 114.925642
+    },
+    "address": "吉安市泰和县京珠线爱上幼儿园西侧",
+    "province": "江西省",
+    "city": "吉安市",
+    "area": "泰和县",
+    "detail": 1,
+    "uid": "265ae37c09c97dc232169b5e",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_37881da52bb4725dd08a9f74b3cc6bb0.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_37881da52bb4725dd08a9f74b3cc6bb0.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c8c70e7add849c1a7a6007747fa3a48d.jpg"
+    ]
+  },
+  {
+    "name": "遂川蓝天救援队",
+    "location": {
+      "lat": 26.337796,
+      "lng": 114.547132
+    },
+    "address": "吉安市遂川县遂兴大道思源华府小区东侧约170米",
+    "province": "江西省",
+    "city": "吉安市",
+    "area": "遂川县",
+    "detail": 1,
+    "uid": "98b95a548336f76e15a190a1",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_0abc171905c1e2e30535b7d2328e0727.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0abc171905c1e2e30535b7d2328e0727.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d063429f7baf045125ae2012f71b430f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_164e38aa1315ac5d85658ca8bad6cbbc.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B674e60cc244b0b118.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B67808ca226b6b110f2.jpeg"
+    ]
+  },
+  {
+    "name": "119消防救援",
+    "location": {
+      "lat": 27.089509,
+      "lng": 115.024455
+    },
+    "address": "吉安市青原区正气路东方兰园北侧",
+    "province": "江西省",
+    "city": "吉安市",
+    "area": "青原区",
+    "detail": 1,
+    "uid": "8f4ed0cca1c38dde33169b1a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_2d50a1fed94c0a00583183ebd1c808a0.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2d50a1fed94c0a00583183ebd1c808a0.jpeg"
+    ]
+  },
+  {
+    "name": "吉安市青原区应急救援指挥中心",
+    "location": {
+      "lat": 27.086031,
+      "lng": 115.021886
+    },
+    "address": "吉安市青原区正气路青原区人民政府南侧",
+    "province": "江西省",
+    "city": "吉安市",
+    "area": "青原区",
+    "detail": 1,
+    "uid": "9baf40e20ba16be72fb96d70",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ef9dd36277d0c3091669eeba0f5cf25e.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ef9dd36277d0c3091669eeba0f5cf25e.jpeg"
+    ]
+  },
+  {
+    "name": "吉安市应急航空救援队",
+    "location": {
+      "lat": 27.101944,
+      "lng": 114.988301
+    },
+    "address": "吉安市吉州区跃进路滨江·六合盛世鹭洲观澜西侧约50米",
+    "province": "江西省",
+    "city": "吉安市",
+    "area": "吉州区",
+    "detail": 1,
+    "uid": "19d28c4c6b95325103ff2d48",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_10e05af5956462bb403c74c11cb2f337.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_10e05af5956462bb403c74c11cb2f337.jpeg"
+    ]
+  },
+  {
+    "name": "吉水县消防救援大队",
+    "location": {
+      "lat": 27.24645,
+      "lng": 115.1158
+    },
+    "address": "江西省吉安市吉水县井冈山经贸学校南",
+    "province": "江西省",
+    "city": "吉安市",
+    "area": "吉水县",
+    "detail": 1,
+    "uid": "0292754eba720c7aa21de9d6",
+    "cover": "https://pic-map.cdn.bcebos.com/img/675506edd9057ae93bfce12349777f35",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/675506edd9057ae93bfce12349777f35"
+    ]
+  },
+  {
+    "name": "青原区蓝天救援队",
+    "location": {
+      "lat": 27.120078,
+      "lng": 115.027274
+    },
+    "address": "吉安市青原区梅苑路河东保育院西北侧约100米",
+    "province": "江西省",
+    "city": "吉安市",
+    "area": "青原区",
+    "detail": 1,
+    "uid": "7a53a07f6eac4579f03cba8a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_852c0f974d4a70ba9c3fc5f85edb43c2.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_852c0f974d4a70ba9c3fc5f85edb43c2.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B662b1b3b2f990e2cc.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6719b1e9ba27413035.jpeg"
+    ]
+  }
+]

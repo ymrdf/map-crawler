@@ -1,0 +1,146 @@
+[
+  {
+    "name": "防城港综合性救援支队",
+    "location": {
+      "lat": 21.68574,
+      "lng": 108.370342
+    },
+    "address": "广西壮族自治区防城港市港口区浦鱼岭街擎天悦海豪庭1栋16号",
+    "province": "广西壮族自治区",
+    "city": "防城港市",
+    "area": "港口区",
+    "detail": 1,
+    "uid": "59eb0f2be28ca80977026973",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_10521e4ace2981cc9ac778ad63b9a6c6.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_10521e4ace2981cc9ac778ad63b9a6c6.jpeg"
+    ]
+  },
+  {
+    "name": "防城港市消防救援支队",
+    "location": {
+      "lat": 21.664122,
+      "lng": 108.368436
+    },
+    "address": "防城港市港口区北部湾大道阳光国际西南侧约50米",
+    "province": "广西壮族自治区",
+    "city": "防城港市",
+    "area": "港口区",
+    "detail": 1,
+    "uid": "ea55e5ed13eaa3da7ec87632",
+    "cover": "https://pic-map.cdn.bcebos.com/img/c099c24b6452d3dcbeb63e85a3f2a321",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/c099c24b6452d3dcbeb63e85a3f2a321"
+    ]
+  },
+  {
+    "name": "防城港市综合应急救援支队",
+    "location": {
+      "lat": 21.664692,
+      "lng": 108.367922
+    },
+    "address": "广西壮族自治区防城港市港口区北部湾大道192号",
+    "province": "广西壮族自治区",
+    "city": "防城港市",
+    "area": "港口区",
+    "detail": 1,
+    "uid": "be8f6882e18cef43b64f54e3",
+    "cover": "https://pic-map.cdn.bcebos.com/img/7a3e5e72b177629a830851e64bf958ef",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/7a3e5e72b177629a830851e64bf958ef"
+    ]
+  },
+  {
+    "name": "防城区冲仑消防救援站",
+    "location": {
+      "lat": 21.794729,
+      "lng": 108.39005
+    },
+    "address": "防城港市防城区荣桂建材批发市场南侧约130米",
+    "province": "广西壮族自治区",
+    "city": "防城港市",
+    "area": "防城区",
+    "detail": 1,
+    "uid": "3cb41049f2fb9a72b9df8fee",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_569614ca221a4613ec35957782b881c5.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_569614ca221a4613ec35957782b881c5.jpeg"
+    ]
+  },
+  {
+    "name": "东兴市北仑河消防救援站",
+    "location": {
+      "lat": 21.55442,
+      "lng": 107.980834
+    },
+    "address": "防城港市东兴市民族路拓普实验幼儿园东南侧约60米",
+    "province": "广西壮族自治区",
+    "city": "防城港市",
+    "area": "东兴市",
+    "detail": 1,
+    "uid": "f578a700de7268a64354d7f1",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d0fa346fb61e6c672448435d79fbfc40.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d0fa346fb61e6c672448435d79fbfc40.jpeg"
+    ]
+  },
+  {
+    "name": "广西消防救援",
+    "location": {
+      "lat": 21.74445,
+      "lng": 108.370198
+    },
+    "address": "防城港市防城区群星大道七色花双语艺术幼儿园东南侧约70米",
+    "province": "广西壮族自治区",
+    "city": "防城港市",
+    "area": "防城区",
+    "detail": 1,
+    "uid": "f4fb24618714469f08f5ebe1",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_8b6f4ae78ca74ddc672f92c8c6253d8e.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8b6f4ae78ca74ddc672f92c8c6253d8e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0ece1f19bf234e4e2dbdb8b817ed31da.jpeg"
+    ]
+  },
+  {
+    "name": "东兴市升宏户外用品有限公司",
+    "location": {
+      "lat": 21.546376,
+      "lng": 107.963968
+    },
+    "address": "东兴市冲卜三路95号",
+    "province": "广西壮族自治区",
+    "city": "防城港市",
+    "area": "东兴市",
+    "telephone": "18277071845",
+    "detail": 1,
+    "uid": "cff4675f361bd785c51b75bb",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B5f128e7a21bc84ece.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B5f128e7a21bc84ece.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_14ace95b9d2e41043785e1ee59e31ba7.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0727e2d9918c163ff080396a5cdafa3e.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ad80eae9e2481d8a7ba46420ae37088f.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e35610bc9dc029c4059e9afe7fd88fbf.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3f82feda06ad466d81b11a8a12b17095.jpg"
+    ]
+  },
+  {
+    "name": "中国人保财险机动车理赔定损中心",
+    "location": {
+      "lat": 21.585709,
+      "lng": 108.483744
+    },
+    "address": "防城港市港口区卫东路强基汽车维修服务",
+    "province": "广西壮族自治区",
+    "city": "防城港市",
+    "area": "港口区",
+    "detail": 1,
+    "uid": "8be98068471fa1f143afe674",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_b36e3aa05902fbadaab27ba00a93f0a0.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b36e3aa05902fbadaab27ba00a93f0a0.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B67aeec392b3ce82ed.jpeg"
+    ]
+  }
+]

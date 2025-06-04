@@ -1,0 +1,19 @@
+[
+  {
+    "name": "补轮胎换机油",
+    "location": {
+      "lat": 37.274743,
+      "lng": 99.893735
+    },
+    "address": "海北藏族自治州刚察县西莎线",
+    "province": "青海省",
+    "city": "海北藏族自治州",
+    "area": "刚察县",
+    "detail": 1,
+    "uid": "ea3b7da85ca801bd43ab9ade",
+    "cover": "https://pic-map.cdn.bcebos.com/img/3bb0378315f52c1fc7cf33587a94cb6d",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/3bb0378315f52c1fc7cf33587a94cb6d"
+    ]
+  }
+]

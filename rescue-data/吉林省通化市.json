@@ -1,0 +1,152 @@
+[
+  {
+    "name": "道路救援",
+    "location": {
+      "lat": 42.551844,
+      "lng": 125.939698
+    },
+    "address": "通化市梅河口市Y008与Y117交叉路口往南约170米",
+    "province": "吉林省",
+    "city": "通化市",
+    "area": "梅河口市",
+    "detail": 1,
+    "uid": "9914aa666a215f4088f15d8d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_38e86be1cc9af929069197de65fdfd9b.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_38e86be1cc9af929069197de65fdfd9b.jpeg"
+    ]
+  },
+  {
+    "name": "东昌路消防",
+    "location": {
+      "lat": 41.725651,
+      "lng": 125.935039
+    },
+    "address": "通化市东昌区东昌路1243号",
+    "province": "吉林省",
+    "city": "通化市",
+    "area": "东昌区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "ea6c7040c398d4f25bf6bef8",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_fd26b9ca0bc7b9bf87e8b0180baa5757.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_fd26b9ca0bc7b9bf87e8b0180baa5757.jpeg",
+      "https://taojin-his.cdn.bcebos.com/9825bc315c6034a80303b497cd134954082376c6.jpg",
+      "https://taojin-his.cdn.bcebos.com/4610b912c8fcc3ceef2069469b45d688d53f20e6.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_253eeb05ea514e9907fe9c5604a4479c.jpeg"
+    ]
+  },
+  {
+    "name": "通化市东昌区新岭路消防救援站",
+    "location": {
+      "lat": 41.746533,
+      "lng": 125.979857
+    },
+    "address": "通化市东昌区新岭路丰泽园西南侧约50米",
+    "province": "吉林省",
+    "city": "通化市",
+    "area": "东昌区",
+    "detail": 1,
+    "uid": "3cd0347a0b582b3c100daa5b",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_581019086aa15fb399119ff616a1243f.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_581019086aa15fb399119ff616a1243f.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2beeeabb754b1ba3495c16f40bf6ec5f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_75b5bf82045b5d1fb5065624ff879f9c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f3f9799e1d27f8309122a275a4d55dbe.jpeg"
+    ]
+  },
+  {
+    "name": "柳河县消防救援大队建材城小型站",
+    "location": {
+      "lat": 42.293954,
+      "lng": 125.740811
+    },
+    "address": "通化市柳河县中华大街水岸公馆北侧约60米",
+    "province": "吉林省",
+    "city": "通化市",
+    "area": "柳河县",
+    "detail": 1,
+    "uid": "26b89bf800dcfe441b94c620",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_aae7fe528208826e3b548d3d29368e67.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_aae7fe528208826e3b548d3d29368e67.jpeg"
+    ]
+  },
+  {
+    "name": "梅河口市消防救援大队",
+    "location": {
+      "lat": 42.520968,
+      "lng": 125.717019
+    },
+    "address": "通化市梅河口市松江路紫御东郡西南侧约50米",
+    "province": "吉林省",
+    "city": "通化市",
+    "area": "梅河口市",
+    "detail": 1,
+    "uid": "5ef324533f3999ece9f853c7",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_08ea526c73bdf334e1ba734cb9dadf22.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_08ea526c73bdf334e1ba734cb9dadf22.jpeg"
+    ]
+  },
+  {
+    "name": "通化市鑫润汽车救援有限公司",
+    "location": {
+      "lat": 41.74628,
+      "lng": 125.977651
+    },
+    "address": "通化市东昌区建设大街通铁家园",
+    "province": "吉林省",
+    "city": "通化市",
+    "area": "东昌区",
+    "detail": 1,
+    "uid": "d52671bd96b4d5629122e0f0",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_e53af0d2b26010157cd1a9c1fa87e50c.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e53af0d2b26010157cd1a9c1fa87e50c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5c0246e2f230af9fe905803dd6cf2626.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f480c16d39487eeb094f0a3c7a3e1a67.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2bcc5af9f367ec397612e3822686aea6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_78422576fea61c6972713c153bd36d1a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2f38c453c8dbb972624748de298b3991.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 42.537282,
+      "lng": 125.701125
+    },
+    "address": "通化市梅河口市站前路建国新村南侧约70米",
+    "province": "吉林省",
+    "city": "通化市",
+    "area": "梅河口市",
+    "detail": 1,
+    "uid": "7c6393790801846e1894c6dd",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_67cf8faa257c5fd9124a8b64a7c16fb9.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_67cf8faa257c5fd9124a8b64a7c16fb9.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f17fc75b3fca56afa6b437b013a6c2fe.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 41.725653,
+      "lng": 125.935055
+    },
+    "address": "通化市东昌区东昌路光明西区西侧约30米",
+    "province": "吉林省",
+    "city": "通化市",
+    "area": "东昌区",
+    "detail": 1,
+    "uid": "a76b70f9d0c54bc94f5547bb",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_3ef4e84db360108a86a2a1b49ef9b933.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3ef4e84db360108a86a2a1b49ef9b933.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_52bc9b599dbbbe170078bfafb51000c7.jpeg"
+    ]
+  }
+]

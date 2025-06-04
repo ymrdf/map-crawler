@@ -1,0 +1,20 @@
+[
+  {
+    "name": "吉利装潢",
+    "location": {
+      "lat": 18.447403,
+      "lng": 109.692607
+    },
+    "address": "海南省保亭黎族苗族自治县三道农场十三队",
+    "province": "海南省",
+    "city": "保亭黎族苗族自治县",
+    "area": "",
+    "telephone": "18889667370",
+    "detail": 1,
+    "uid": "3f06a85edb27dd255cd4fef9",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_9b3749a94ca5de9c5fb8a3aad7a64e02.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9b3749a94ca5de9c5fb8a3aad7a64e02.jpeg"
+    ]
+  }
+]

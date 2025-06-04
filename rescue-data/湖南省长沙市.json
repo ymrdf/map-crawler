@@ -1,0 +1,138 @@
+[
+  {
+    "name": "119消防救援",
+    "location": {
+      "lat": 28.28353,
+      "lng": 112.950442
+    },
+    "address": "长沙市望城区",
+    "province": "湖南省",
+    "city": "长沙市",
+    "area": "望城区",
+    "detail": 1,
+    "uid": "ff5988be35d72be7fda77851",
+    "cover": "https://pic-map.cdn.bcebos.com/img/cd2a37fea58240ad5784c79b6e7049db",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/cd2a37fea58240ad5784c79b6e7049db"
+    ]
+  },
+  {
+    "name": "119消防救援",
+    "location": {
+      "lat": 28.308354,
+      "lng": 112.970348
+    },
+    "address": "长沙市开福区芙蓉北路兴联社区创新小区东侧约80米",
+    "province": "湖南省",
+    "city": "长沙市",
+    "area": "开福区",
+    "detail": 1,
+    "uid": "2f229169e18d18772b201ade",
+    "cover": "https://pic-map.cdn.bcebos.com/img/310cfdf27ab9d0d5890a4e3304e919cb",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/310cfdf27ab9d0d5890a4e3304e919cb"
+    ]
+  },
+  {
+    "name": "天心区新路消防救援站",
+    "location": {
+      "lat": 28.062411,
+      "lng": 112.98893
+    },
+    "address": "长沙市天心区新岭路长沙大托城外城建材市场南侧约160米",
+    "province": "湖南省",
+    "city": "长沙市",
+    "area": "天心区",
+    "detail": 1,
+    "uid": "f975a30126a3323be011033c",
+    "cover": "https://pic-map.cdn.bcebos.com/img/6f3fee3014450baa5d2c5067a408b47f",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/6f3fee3014450baa5d2c5067a408b47f"
+    ]
+  },
+  {
+    "name": "天心区暮云中心消防救援站",
+    "location": {
+      "lat": 28.033503,
+      "lng": 113.008933
+    },
+    "address": "长沙市天心区南湖大道中悦领秀豪庭东侧约80米",
+    "province": "湖南省",
+    "city": "长沙市",
+    "area": "天心区",
+    "detail": 1,
+    "uid": "bb5b4d9fe1917e9f774ff18e",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B60701b736efc915e1a.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B60701b736efc915e1a.jpeg",
+      "https://pic-map.cdn.bcebos.com/img/cc69bb94565248efa678ec8aae08418d"
+    ]
+  },
+  {
+    "name": "中冠汽修店·24H道路救援",
+    "location": {
+      "lat": 28.271024,
+      "lng": 113.055757
+    },
+    "address": "万家丽北路a17-005号龙塘小区a区a17栋005号",
+    "province": "湖南省",
+    "city": "长沙市",
+    "area": "长沙县",
+    "street_id": "1bfa4fd3f92b04a1e81e97fc",
+    "detail": 1,
+    "uid": "1bfa4fd3f92b04a1e81e97fc",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_7115d721598e55a9433d4493fa4f1618.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=1bfa4fd3f92b04a1e81e97fc&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b6029c9e14d81ce4088204b233e9a075.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_776f0b8c7463f2b21ab52d39b8a07109.jpg",
+      "https://taojin-his.cdn.bcebos.com/aa64034f78f0f736c89ffd1d0655b319ebc4134c.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_20b7a4c351e90989f136ccf0e16ce402.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_aa3e6b9bd00d8707f264aa0bee849836.jpeg"
+    ]
+  },
+  {
+    "name": "车辆救援",
+    "location": {
+      "lat": 28.228154,
+      "lng": 112.919724
+    },
+    "address": "长沙市麓天东路岳麓区车辆施救站",
+    "province": "湖南省",
+    "city": "长沙市",
+    "area": "岳麓区",
+    "street_id": "c392d25a87ad861404fef5ca",
+    "detail": 1,
+    "uid": "c392d25a87ad861404fef5ca",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_caf09350138c00e14cc20e7f4641d6ee.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=c392d25a87ad861404fef5ca&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8c0d9b03c03deb2a65e1aa658030a412.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7c2c7d5e1d0ff70a73295b1f04c62a60.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_33ecebd1761c65703671cf115ac8021e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_82de88c924384d6f7bf86bb4a4124977.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d6e1c9465d7754727d24c9b2775ede6c.jpeg"
+    ]
+  },
+  {
+    "name": "长沙市消防救援支队",
+    "location": {
+      "lat": 28.240086,
+      "lng": 113.012388
+    },
+    "address": "学堂园路1号",
+    "province": "湖南省",
+    "city": "长沙市",
+    "area": "开福区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "1a21a34c51895bac51e5c5ee",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ef5543c0a4acafff86ddae5c0a8b09ad.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ef5543c0a4acafff86ddae5c0a8b09ad.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f04652a49d6c93f46924adfc2ed68e99.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_15dd76956ba171f09dcd849cfd6eae7b.png",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2ca8508d4771cdd450a6b9faf9574e74.jpeg"
+    ]
+  }
+]

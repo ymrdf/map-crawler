@@ -1,0 +1,72 @@
+[
+  {
+    "name": "梅园大道消防救援站",
+    "location": {
+      "lat": 28.265921,
+      "lng": 117.071824
+    },
+    "address": "鹰潭市月湖区府前路供电北苑西南侧约40米",
+    "province": "江西省",
+    "city": "鹰潭市",
+    "area": "月湖区",
+    "detail": 1,
+    "uid": "761623b84caf4a2f17c8f631",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_165a4101039886bb78bce1dcb7cb39b6.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_165a4101039886bb78bce1dcb7cb39b6.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4586dea458eb4af35dd31dd76d73c1a4.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 28.289331,
+      "lng": 117.230966
+    },
+    "address": "鹰潭市贵溪市文明路阳光豪庭东南侧约100米",
+    "province": "江西省",
+    "city": "鹰潭市",
+    "area": "贵溪市",
+    "detail": 1,
+    "uid": "4420de6cd286d7dfc9fa5f96",
+    "cover": "https://pic-map.cdn.bcebos.com/img/824bda1b3b35b442338b972d3a71912c",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/824bda1b3b35b442338b972d3a71912c"
+    ]
+  },
+  {
+    "name": "柏里大道消防救援站",
+    "location": {
+      "lat": 28.331471,
+      "lng": 117.217016
+    },
+    "address": "鹰潭市贵溪市S206",
+    "province": "江西省",
+    "city": "鹰潭市",
+    "area": "贵溪市",
+    "detail": 1,
+    "uid": "6c3c493a929c64cc3686f4c4",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_cf4c16fc4cbc7b35544227e187aae8dc.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cf4c16fc4cbc7b35544227e187aae8dc.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 28.245086,
+      "lng": 117.036077
+    },
+    "address": "鹰潭市月湖区欣新路欣苑阁西侧约60米",
+    "province": "江西省",
+    "city": "鹰潭市",
+    "area": "月湖区",
+    "detail": 1,
+    "uid": "b4ff40b23cd00d04da2f284d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_4d6d77db89f0ebd3e24103dbe4181e75.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4d6d77db89f0ebd3e24103dbe4181e75.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65ee570a7238610ee8.jpeg"
+    ]
+  }
+]

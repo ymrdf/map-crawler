@@ -1,0 +1,56 @@
+[
+  {
+    "name": "淮北市水上救援训练基地",
+    "location": {
+      "lat": 33.934258,
+      "lng": 116.820389
+    },
+    "address": "安徽省淮北市相山区龙山路",
+    "province": "安徽省",
+    "city": "淮北市",
+    "area": "相山区",
+    "detail": 1,
+    "uid": "b50a3a8a884c5459ca1b9563",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_dfc405e5fecafc4633f5fc2f07e58e9e.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_dfc405e5fecafc4633f5fc2f07e58e9e.jpeg"
+    ]
+  },
+  {
+    "name": "淮北市烈山区消防救援大队",
+    "location": {
+      "lat": 33.895936,
+      "lng": 116.876342
+    },
+    "address": "淮北市烈山区宁山路与青谷路交叉路口往东南约270米",
+    "province": "安徽省",
+    "city": "淮北市",
+    "area": "烈山区",
+    "detail": 1,
+    "uid": "99ba86ad5ea1c02151e5c554",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B61988b8de79161801e.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B61988b8de79161801e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_64eee8b27f09cbb0e6a1928dfc0bd752.jpeg"
+    ]
+  },
+  {
+    "name": "淮北市消防救援支队",
+    "location": {
+      "lat": 33.985755,
+      "lng": 116.819482
+    },
+    "address": "安徽省淮北市相山区东山路60号",
+    "province": "安徽省",
+    "city": "淮北市",
+    "area": "相山区",
+    "street_id": "",
+    "telephone": "(0561)3158119",
+    "detail": 1,
+    "uid": "b47dee134968db4db11e367d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_5b265bb1a73ff94cdb80de73a76d7457.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5b265bb1a73ff94cdb80de73a76d7457.jpeg"
+    ]
+  }
+]

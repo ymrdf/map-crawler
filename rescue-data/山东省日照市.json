@@ -1,0 +1,65 @@
+[
+  {
+    "name": "拖车救援",
+    "location": {
+      "lat": 35.418302,
+      "lng": 119.437998
+    },
+    "address": "日照市东港区旭阳路南方家园",
+    "province": "山东省",
+    "city": "日照市",
+    "area": "东港区",
+    "telephone": "15806337028",
+    "detail": 1,
+    "uid": "1d65fe76b19491b4018972f0",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_06d42fb6aebcf2df6958cdd8be2d79fb.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_06d42fb6aebcf2df6958cdd8be2d79fb.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3919f445b5148f3f043656f9213d834f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ca49fd1ed7192af1e753d811ca568413.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3843d576cf1d4098269f2dfc52c5b13a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_28280685cd46a9521875136b15daf27f.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65ee928026aafe87a.jpeg"
+    ]
+  },
+  {
+    "name": "日照华洲汽车救援",
+    "location": {
+      "lat": 35.726748,
+      "lng": 119.211242
+    },
+    "address": "日照市五莲县洪凝街道滨河路2号光辉车队院内",
+    "province": "山东省",
+    "city": "日照市",
+    "area": "五莲县",
+    "detail": 1,
+    "uid": "d51d6353d49736d45a3ac8b8",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_92175b19e5952bb39b447b6f5c2b37cd.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_92175b19e5952bb39b447b6f5c2b37cd.jpeg"
+    ]
+  },
+  {
+    "name": "日照市东港区路尊道路救援服务站",
+    "location": {
+      "lat": 35.415336,
+      "lng": 119.512819
+    },
+    "address": "山东省日照市东港区临沂北路388号",
+    "province": "山东省",
+    "city": "日照市",
+    "area": "东港区",
+    "telephone": "15315930539",
+    "detail": 1,
+    "uid": "2b3356eaa8d1cbbdede4a5be",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/192ad7b7ee0b76de7500470f6409d633_7351.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/192ad7b7ee0b76de7500470f6409d633_7351.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/ccf643b2450d6b6c3cb966e18de0a2b8_9512.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/6f6e4520d32c8e25749124d6c30b63ee_7308.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/44a8afd956b232c67290c3ed3db44606_3407.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/334b94f2ddea54e8606f61146aa69237_1554.jpeg",
+      "https://pic-map.cdn.bcebos.com/img/d371ee5fd617e08b1f880719e72718b1"
+    ]
+  }
+]

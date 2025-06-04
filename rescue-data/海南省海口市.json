@@ -1,0 +1,189 @@
+[
+  {
+    "name": "海南吉诺救援",
+    "location": {
+      "lat": 20.013441,
+      "lng": 110.274948
+    },
+    "address": "海口市秀英区永万路维多利亚花园东南侧",
+    "province": "海南省",
+    "city": "海口市",
+    "area": "秀英区",
+    "telephone": "18589544888",
+    "detail": 1,
+    "uid": "2ad7010a3d87eada8936ee9a",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B61c5679abdc29a6f2.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B61c5679abdc29a6f2.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B61c56808dc65c12c54.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B61c567bae80aa11488.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1e1a793eb9d75b7791d88a45bd9533bd.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2f7ae7a1dd159be33aee96c1ca645596.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_35437a4fe8886aa6161c0affdfd721cd.jpeg"
+    ]
+  },
+  {
+    "name": "救援物资中心",
+    "location": {
+      "lat": 20.017069,
+      "lng": 110.310349
+    },
+    "address": "海口市龙华区滨濂村一里133号",
+    "province": "海南省",
+    "city": "海口市",
+    "area": "龙华区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "454318936a0be4c73686f4e6",
+    "cover": "https://taojin-his.cdn.bcebos.com/902397dda144ad34348d43f9dfa20cf431ad859a.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/902397dda144ad34348d43f9dfa20cf431ad859a.jpg"
+    ]
+  },
+  {
+    "name": "海南杨三兴汽车道路救援",
+    "location": {
+      "lat": 19.937049,
+      "lng": 110.27201
+    },
+    "address": "海口市秀英区火炬横路海南芳草农业开发有限责任公司",
+    "province": "海南省",
+    "city": "海口市",
+    "area": "秀英区",
+    "detail": 1,
+    "uid": "50e2033f59ded710774ff1a6",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B6254d22f1b09e30a8.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B6254d22f1b09e30a8.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 20.072612,
+      "lng": 110.336899
+    },
+    "address": "海口市美兰区怡心路海南省消防总队海甸住宅小区南侧",
+    "province": "海南省",
+    "city": "海口市",
+    "area": "美兰区",
+    "street_id": "388fb82afdad931d6e20b9e8",
+    "detail": 1,
+    "uid": "388fb82afdad931d6e20b9e8",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_3b3d7a302407185cd9cb6b3ea325d49f.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=388fb82afdad931d6e20b9e8&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_42b50bda83f0e8db19ddda00d81bf2d8.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 20.064064,
+      "lng": 110.356854
+    },
+    "address": "海口市美兰区和平大道二横路华夏别墅东南侧",
+    "province": "海南省",
+    "city": "海口市",
+    "area": "美兰区",
+    "detail": 1,
+    "uid": "dbfe8cfd31f01f33132935b9",
+    "cover": "https://pic-map.cdn.bcebos.com/img/174d08420a7dfce2c9e177377c5f0689",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/174d08420a7dfce2c9e177377c5f0689"
+    ]
+  },
+  {
+    "name": "海口市美兰区长堤路消防救援站",
+    "location": {
+      "lat": 20.050846,
+      "lng": 110.35601
+    },
+    "address": "海口市美兰区长堤路中国石化加油站(长风站)东南侧",
+    "province": "海南省",
+    "city": "海口市",
+    "area": "美兰区",
+    "detail": 1,
+    "uid": "8cea3fb94ce5116b6e20b9ff",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_e3c1ffd56abf46b71d140ba1f56795a4.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e3c1ffd56abf46b71d140ba1f56795a4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4a38a7143a080e0b60fba26a92260f0e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e220d984c76e41688aa81e8dcd046c38.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d3ac6750598bacb526051659383f728f.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 20.051078,
+      "lng": 110.35568
+    },
+    "address": "海口市美兰区长堤路中国石化加油站(长风站)",
+    "province": "海南省",
+    "city": "海口市",
+    "area": "美兰区",
+    "detail": 1,
+    "uid": "ac0be4ef41d29c19d92f289f",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_df6d635fdd2b392694770f6f725f4e5f.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_df6d635fdd2b392694770f6f725f4e5f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4a38a7143a080e0b60fba26a92260f0e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_77350804b26892d2a59e3caaee62d325.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 20.01651,
+      "lng": 110.289985
+    },
+    "address": "海口市秀英区玉书巷书场金鑫幼儿园东南侧约70米",
+    "province": "海南省",
+    "city": "海口市",
+    "area": "秀英区",
+    "detail": 1,
+    "uid": "a5458231b70f9443bda24082",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_e935d08f2f9d45da8377a523bb824dbe.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e935d08f2f9d45da8377a523bb824dbe.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1aaff01a1cc3204cab2f1c1493b220e8.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4ead0b705dd1327531fc1e4905cbb91a.jpeg"
+    ]
+  },
+  {
+    "name": "海口市秀英区长秀路消防救援站",
+    "location": {
+      "lat": 20.019267,
+      "lng": 110.268717
+    },
+    "address": "海口市秀英区紫园路仁恒海棠公园西南侧约40米",
+    "province": "海南省",
+    "city": "海口市",
+    "area": "秀英区",
+    "detail": 1,
+    "uid": "f07bbb554f9578f8fbdc85cd",
+    "cover": "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_8e34499807c55b000609a1bea0039bbc.jpg",
+    "photo_list": [
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_8e34499807c55b000609a1bea0039bbc.jpg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 20.019856,
+      "lng": 110.375211
+    },
+    "address": "海口市琼山区兴丹路华中师范大学海南附属中学西北门西侧约50米",
+    "province": "海南省",
+    "city": "海口市",
+    "area": "琼山区",
+    "street_id": "02f954df9d9b94a8e856fa98",
+    "detail": 1,
+    "uid": "02f954df9d9b94a8e856fa98",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_e37e1eed4af177eaa42df53f07a07e0d.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=02f954df9d9b94a8e856fa98&width=720&height=360&quality=80&fovx=120"
+    ]
+  }
+]

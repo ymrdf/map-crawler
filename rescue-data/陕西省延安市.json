@@ -1,0 +1,144 @@
+[
+  {
+    "name": "志丹县安全生产救援服务中心",
+    "location": {
+      "lat": 36.792712,
+      "lng": 108.781797
+    },
+    "address": "延安市志丹县迎宾街陕西信合(冠珠陶瓷)西侧约110米",
+    "province": "陕西省",
+    "city": "延安市",
+    "area": "志丹县",
+    "detail": 1,
+    "uid": "989117db5047993097f08c59",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_c9b5145200d0d815653e92e705cb58d5.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c9b5145200d0d815653e92e705cb58d5.jpeg"
+    ]
+  },
+  {
+    "name": "子长市永坪路消防救援站",
+    "location": {
+      "lat": 37.122809,
+      "lng": 109.682706
+    },
+    "address": "延安市子长市S205与环城南路交叉路口往南约120米",
+    "province": "陕西省",
+    "city": "延安市",
+    "area": "子长市",
+    "detail": 1,
+    "uid": "78369e4c2a17e13e734b8767",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ffc53ee0e582a409b1eb583391a42394.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ffc53ee0e582a409b1eb583391a42394.jpeg"
+    ]
+  },
+  {
+    "name": "延安市安全生产应急救援指挥中心",
+    "location": {
+      "lat": 36.625657,
+      "lng": 109.46019
+    },
+    "address": "陕西省延安市宝塔区枣园延安干部培训学院院内",
+    "province": "陕西省",
+    "city": "延安市",
+    "area": "宝塔区",
+    "detail": 1,
+    "uid": "64606331c6437b3b2d473382",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B614c38a74d2b212380.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B614c38a74d2b212380.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_30a95c35a728edfa038651f7af632d0b.jpeg"
+    ]
+  },
+  {
+    "name": "延安消防救援",
+    "location": {
+      "lat": 37.13359,
+      "lng": 109.660304
+    },
+    "address": "延安市子长市G210富源幼儿园东侧约100米",
+    "province": "陕西省",
+    "city": "延安市",
+    "area": "子长市",
+    "detail": 1,
+    "uid": "60dd523062da87ae80a00cd2",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_66ee39de5cb7cf1f3c7307949acbe25c.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_66ee39de5cb7cf1f3c7307949acbe25c.jpeg"
+    ]
+  },
+  {
+    "name": "洛川县顺源汽车救援有限责任公司",
+    "location": {
+      "lat": 35.780214,
+      "lng": 109.449078
+    },
+    "address": "延安市洛川县G210(旧)中国水利希望小学东南侧约40米",
+    "province": "陕西省",
+    "city": "延安市",
+    "area": "洛川县",
+    "detail": 1,
+    "uid": "847651f74d1d935dcb213d0d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_0b5a3d0d78b0470e892017652118107f.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0b5a3d0d78b0470e892017652118107f.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_defb7e577af4f0f3fd52370d5dedc1f9.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 36.619323,
+      "lng": 109.523614
+    },
+    "address": "延安市宝塔区双拥大道九朝酒店",
+    "province": "陕西省",
+    "city": "延安市",
+    "area": "宝塔区",
+    "detail": 1,
+    "uid": "03bf61d568fd195980a00c22",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_c153d3a55f26ff3ff3b6cf5528f66d62.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c153d3a55f26ff3ff3b6cf5528f66d62.jpeg"
+    ]
+  },
+  {
+    "name": "吴起县桃源街消防救援站",
+    "location": {
+      "lat": 36.894106,
+      "lng": 108.207692
+    },
+    "address": "延安市吴起县桃源街富乐嘉苑",
+    "province": "陕西省",
+    "city": "延安市",
+    "area": "吴起县",
+    "detail": 1,
+    "uid": "c045701529f98952bca82283",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a468ba65107fea16bc34a7ef51932c64.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a468ba65107fea16bc34a7ef51932c64.jpeg"
+    ]
+  },
+  {
+    "name": "宝塔区消防救援大队",
+    "location": {
+      "lat": 36.63086,
+      "lng": 109.399784
+    },
+    "address": "延安市宝塔区枣园九路与枣园南路交叉路口往东北约100米",
+    "province": "陕西省",
+    "city": "延安市",
+    "area": "宝塔区",
+    "detail": 1,
+    "uid": "03db20444afd18e0f6c59c5a",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B60a318202efb29d34.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B60a318202efb29d34.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B60a3186702aefbbb0.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B60a31820331a717219.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B60a3183b232bb7e62.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4b0b48a1bd58086eee62901e75986443.jpeg"
+    ]
+  }
+]

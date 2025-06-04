@@ -1,0 +1,120 @@
+[
+  {
+    "name": "应急救援",
+    "location": {
+      "lat": 36.877737,
+      "lng": 111.819268
+    },
+    "address": "晋中市灵石县新建东街与延安路交叉路口往西南约180米",
+    "province": "山西省",
+    "city": "晋中市",
+    "area": "灵石县",
+    "detail": 1,
+    "uid": "32d83c675ba619a96f47602c",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_2122a5d5ac0088efebae3b6b0153dd0b.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2122a5d5ac0088efebae3b6b0153dd0b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_704c2ad75c7eb9c142a0f06bffb1f4e1.jpeg"
+    ]
+  },
+  {
+    "name": "天龙救援队",
+    "location": {
+      "lat": 37.892043,
+      "lng": 113.187292
+    },
+    "address": "晋中市寿阳县府东街寿阳县东关小学东侧",
+    "province": "山西省",
+    "city": "晋中市",
+    "area": "寿阳县",
+    "detail": 1,
+    "uid": "4f68e2f04ca7eb4bc3f1cf58",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_5079a4387e6dcf13b5d2109d6ee86250.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5079a4387e6dcf13b5d2109d6ee86250.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7de43aea462f805a33faa1139b9c4c3d.jpeg"
+    ]
+  },
+  {
+    "name": "汽车电瓶24小时全城救援",
+    "location": {
+      "lat": 37.715003,
+      "lng": 112.719397
+    },
+    "address": "晋中市榆次区汇通北路延长壳牌加油站(晋中使赵)西北侧",
+    "province": "山西省",
+    "city": "晋中市",
+    "area": "榆次区",
+    "telephone": "15135155675,18135323877",
+    "detail": 1,
+    "uid": "c90529769ae2ee15901fc90a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_e450664a1cd2e599b38c2e9c5441b72f.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e450664a1cd2e599b38c2e9c5441b72f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_28576e4be82dc8a0520bb2c01901c514.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b1789177e276b4bc1e9ebbde1b198b0e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4f5731789e40d9d788bf466e23d401bc.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b5da9012c5b033a0b729542a77273ec5.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_671556ae9e935fb84fd3278867e39442.jpeg"
+    ]
+  },
+  {
+    "name": "灵石县畅通道路救援服务有限公司",
+    "location": {
+      "lat": 36.87778,
+      "lng": 111.819119
+    },
+    "address": "221省道西50米",
+    "province": "山西省",
+    "city": "晋中市",
+    "area": "灵石县",
+    "detail": 1,
+    "uid": "681bf46b17b0831afbdc8538",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_cd628b950a29f3c14fd3aed21c22ae75.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cd628b950a29f3c14fd3aed21c22ae75.jpeg",
+      "https://taojin-his.cdn.bcebos.com/8601a18b87d6277ffcd2a19526381f30e824fc5f.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2c6cd727845f2aa520e3f12bc28dde26.jpeg"
+    ]
+  },
+  {
+    "name": "邢威易损件24小时救援服务",
+    "location": {
+      "lat": 37.023803,
+      "lng": 111.936588
+    },
+    "address": "晋中市介休市定阳东路介休市农机大市场西侧约90米",
+    "province": "山西省",
+    "city": "晋中市",
+    "area": "介休市",
+    "detail": 1,
+    "uid": "800b2ad942a0fd756ca3ccc2",
+    "cover": "https://pic-map.cdn.bcebos.com/img/dd177e2e6469d558578800070a25b1ef",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/dd177e2e6469d558578800070a25b1ef"
+    ]
+  },
+  {
+    "name": "晋中市金时轮旅游汽车有限公司",
+    "location": {
+      "lat": 37.675793,
+      "lng": 112.757665
+    },
+    "address": "山西省晋中市榆次区南关路8号",
+    "province": "山西省",
+    "city": "晋中市",
+    "area": "榆次区",
+    "street_id": "93dff4a7bb949c1a9fec2b1c",
+    "detail": 1,
+    "uid": "93dff4a7bb949c1a9fec2b1c",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_8579eeda0c98c7b2bd4a9c6a5c93a97a.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=93dff4a7bb949c1a9fec2b1c&width=720&height=360&quality=80&fovx=120",
+      "https://taojin-his.cdn.bcebos.com/b7fd5266d0160924320faf39d90735fae6cd34ed.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6b036cd96598025f7e66cfd3c5e24ac5.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1c19e87f2e7ced8f62369923be38cd43.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b6702d28674f93df84c755f27873243b.jpg",
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_cc224d6aa40c93f08c1573c0a648751f.jpg"
+    ]
+  }
+]

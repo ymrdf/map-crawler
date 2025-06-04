@@ -1,0 +1,63 @@
+[
+  {
+    "name": "小施轮胎批发救援",
+    "location": {
+      "lat": 41.186773,
+      "lng": 104.229645
+    },
+    "address": "内蒙古自治区阿拉善盟阿拉善左旗S312",
+    "province": "内蒙古自治区",
+    "city": "阿拉善盟",
+    "area": "阿拉善左旗",
+    "telephone": "15248806995,17793429183",
+    "detail": 1,
+    "uid": "3327499f19fa93cbee74f85f",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_107c8f3b1e13df15ec116717a890cb53.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_107c8f3b1e13df15ec116717a890cb53.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_00b34f908a793bba8ed5185759e95c0c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ca03c05d75662ca52a6559f0e7e50ea9.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_45dd5df48b410c9d0f5cf67212be7fbf.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_70960453bcd05bc08256828a3773af54.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/97bd68b4fbd724dd8a0488dab164ff02_3145.jpeg"
+    ]
+  },
+  {
+    "name": "内蒙古蓝鑫救援服务有限公司",
+    "location": {
+      "lat": 38.831253,
+      "lng": 105.734487
+    },
+    "address": "阿拉善盟阿拉善左旗南二环路与安德街交叉路口往东约190米",
+    "province": "内蒙古自治区",
+    "city": "阿拉善盟",
+    "area": "阿拉善左旗",
+    "detail": 1,
+    "uid": "6a15b5c69127a609b21e36de",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ecd609d2666f8e37f700cb3428c4c03e.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ecd609d2666f8e37f700cb3428c4c03e.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B665ed4f9dcf6113a6d.jpeg"
+    ]
+  },
+  {
+    "name": "阿拉善盟臻爱商贸有限责任公司",
+    "location": {
+      "lat": 38.847118,
+      "lng": 105.689459
+    },
+    "address": "阿拉善盟阿拉善左旗定远营古城文化旅游创业园B-5号",
+    "province": "内蒙古自治区",
+    "city": "阿拉善盟",
+    "area": "阿拉善左旗",
+    "detail": 1,
+    "uid": "380b4c4260764be240afe6db",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_5b8bc38f83136b5f0b0ec7017b84c706.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5b8bc38f83136b5f0b0ec7017b84c706.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_85f833fdbed7711d6fd8067476b06441.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c224f3b4a4d7ee974a3ac98c32eca7ed.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a90bb8c75459c7d50a19156ffc59729d.jpeg"
+    ]
+  }
+]

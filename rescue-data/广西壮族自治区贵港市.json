@@ -1,0 +1,124 @@
+[
+  {
+    "name": "杰哥汽车轮胎机油美容服务中心",
+    "location": {
+      "lat": 22.869898,
+      "lng": 109.745328
+    },
+    "address": "广西省贵港市港南区木格高速出口往木格方向一公里汽修汽车保养轮胎机油拖车救援",
+    "province": "广西壮族自治区",
+    "city": "贵港市",
+    "area": "港南区",
+    "telephone": "(0775)4969299,19169566608",
+    "detail": 1,
+    "uid": "b976459978f206463a04b1ab",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ef92ad6187eb5b4d182e4e9b3bd33102.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ef92ad6187eb5b4d182e4e9b3bd33102.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_67665fdda96f2364e38b92ad16f8f9e0.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4743360c2ed8fbde1fe8d39eb90eb327.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3b2410a59d4eb5f1e991823b7cad18ee.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1102b9117caca670d90df48a1bcb6a4c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0bcde1cfa7d23bc5a89d4c35d684b995.jpeg"
+    ]
+  },
+  {
+    "name": "应急救援",
+    "location": {
+      "lat": 23.101484,
+      "lng": 109.595177
+    },
+    "address": "贵港市港北区江北大道中国石化加油站(城西站)西南侧约100米",
+    "province": "广西壮族自治区",
+    "city": "贵港市",
+    "area": "港北区",
+    "detail": 1,
+    "uid": "909aa71fa094fa5e43afe65a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_164cb6ee99a6c937870c65c4256d0cb3.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_164cb6ee99a6c937870c65c4256d0cb3.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_442cfbaa4d100f7ea2564b7f7522ea2c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_377a76b7711e8565ca4050b695065675.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f87ad60ee33a9f26573fc912dd5986a8.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_702d99299a7e688df1c58b8d9903db17.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65be0175b689d13064.jpeg"
+    ]
+  },
+  {
+    "name": "覃塘消防大队",
+    "location": {
+      "lat": 23.134887,
+      "lng": 109.455883
+    },
+    "address": "广西壮族自治区贵港市覃塘区G324(福昆线)",
+    "province": "广西壮族自治区",
+    "city": "贵港市",
+    "area": "覃塘区",
+    "detail": 1,
+    "uid": "db390e0049fac118c16c148c",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_aa7c0408fb5f916e567095f62009dd63.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_aa7c0408fb5f916e567095f62009dd63.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4b89eb1d0077c8b2d8d41df5d3f10e36.jpeg"
+    ]
+  },
+  {
+    "name": "桂平市综合应急救援大队",
+    "location": {
+      "lat": 23.392286,
+      "lng": 110.080529
+    },
+    "address": "贵港市桂平市桂贵路华龙居东北侧约60米",
+    "province": "广西壮族自治区",
+    "city": "贵港市",
+    "area": "桂平市",
+    "detail": 1,
+    "uid": "24120ba86a63d7b3343a7133",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_90330323789a6855054fc8b2d8ae6826.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_90330323789a6855054fc8b2d8ae6826.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6c0957456988d5dec41298c16b408d1b.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6f5cb041eb1bfe408efde272c1db690c.jpeg"
+    ]
+  },
+  {
+    "name": "广西消防救援",
+    "location": {
+      "lat": 23.552655,
+      "lng": 110.410274
+    },
+    "address": "贵港市平南县城湖路星辉幼儿园北侧约120米",
+    "province": "广西壮族自治区",
+    "city": "贵港市",
+    "area": "平南县",
+    "detail": 1,
+    "uid": "de4cc5d9725f8a538f1a89cb",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_acd5d52e51198d7a8718b0ad54894faa.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_acd5d52e51198d7a8718b0ad54894faa.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65f01e0fe4c84842d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b903ac1a5bc0239fccdde17c73e7ed43.jpeg"
+    ]
+  },
+  {
+    "name": "广西矿山救援大队贵港中队",
+    "location": {
+      "lat": 23.10144,
+      "lng": 109.595276
+    },
+    "address": "广西壮族自治区贵港市港北区贵城街道江北西路297号区矿山救援大队",
+    "province": "广西壮族自治区",
+    "city": "贵港市",
+    "area": "港北区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "85e3f018dcb176eb93114c09",
+    "cover": "https://taojin-his.cdn.bcebos.com/9c16fdfaaf51f3de6c3727839aeef01f3b297954.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/9c16fdfaaf51f3de6c3727839aeef01f3b297954.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_48aae4dd31190583485ba836b4841c8a.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_58f3c918ed417efbd043a20e9562fbcf.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_862ac8952dc47fc1352f8f1ee3370dc8.jpg"
+    ]
+  }
+]

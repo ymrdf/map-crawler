@@ -1,0 +1,21 @@
+[
+  {
+    "name": "亳州谯城区文帝路消防救援站",
+    "location": {
+      "lat": 33.867751,
+      "lng": 115.797509
+    },
+    "address": "亳州市谯城区白衣路谯城区综合应急救援大队",
+    "province": "安徽省",
+    "city": "亳州市",
+    "area": "谯城区",
+    "street_id": "618f4b7f4cd26764970319ca",
+    "detail": 1,
+    "uid": "618f4b7f4cd26764970319ca",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_4d8c1d46e90228fefdca324d36216c53.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=618f4b7f4cd26764970319ca&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d052147d07bc187f88ccbd8504356879.jpeg"
+    ]
+  }
+]

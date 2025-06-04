@@ -1,0 +1,101 @@
+[
+  {
+    "name": "无疆公益应急救援指挥部",
+    "location": {
+      "lat": 35.599977,
+      "lng": 114.440549
+    },
+    "address": "鹤壁市浚县永定线小河镇人民政府东南侧约100米",
+    "province": "河南省",
+    "city": "鹤壁市",
+    "area": "浚县",
+    "detail": 1,
+    "uid": "bc9e80898d60e8f459f6be2d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ecc13985fcb76c73ede5c164873c4609.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ecc13985fcb76c73ede5c164873c4609.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f2f4a17be5c132d07524ee32a36ac107.jpeg"
+    ]
+  },
+  {
+    "name": "浚县斑马救援大队善堂中队",
+    "location": {
+      "lat": 35.758331,
+      "lng": 114.687979
+    },
+    "address": "鹤壁市浚县大河路与发展路交叉路口往南约190米",
+    "province": "河南省",
+    "city": "鹤壁市",
+    "area": "浚县",
+    "detail": 1,
+    "uid": "d7708150d7c88cc340e192f9",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_7f22ce697bcf8eb280e723d6459181d9.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7f22ce697bcf8eb280e723d6459181d9.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d16ec3850402d3080f4e91531b8a0d79.jpeg"
+    ]
+  },
+  {
+    "name": "淇县斑马救援协会",
+    "location": {
+      "lat": 35.628475,
+      "lng": 114.181188
+    },
+    "address": "鹤壁市淇县工业路西城年华西北侧约280米",
+    "province": "河南省",
+    "city": "鹤壁市",
+    "area": "淇县",
+    "detail": 1,
+    "uid": "bd73aca4e75d74aa2fb17e64",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d8faa17a382610d95df6847d4e5c5cf3.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d8faa17a382610d95df6847d4e5c5cf3.jpg"
+    ]
+  },
+  {
+    "name": "经典车间",
+    "location": {
+      "lat": 35.758838,
+      "lng": 114.323728
+    },
+    "address": "河南省鹤壁市淇滨区黎阳路街道东海路84号",
+    "province": "河南省",
+    "city": "鹤壁市",
+    "area": "淇滨区",
+    "telephone": "18639238322",
+    "detail": 1,
+    "uid": "29419955fe68e5e2932ca3f1",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_f7fd1a3a3acec3d3561b6cd50de1c7eb.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_f7fd1a3a3acec3d3561b6cd50de1c7eb.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_78e7cfab996287e0540de104f2a1ce87.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_fc504b269e450ac5b5ac22e95979d7d4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a1ea04f9623a9a64e7a17b73b8916e2d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4e641ccdd03ed7e26b7413656f7cc18c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2a152487d9a899328d7eb926fce69a16.jpeg"
+    ]
+  },
+  {
+    "name": "鹤壁优优道路救援",
+    "location": {
+      "lat": 35.701295,
+      "lng": 114.317263
+    },
+    "address": "河南省鹤壁市淇滨区文化路南200米二楼",
+    "province": "河南省",
+    "city": "鹤壁市",
+    "area": "淇滨区",
+    "telephone": "17303924995",
+    "detail": 1,
+    "uid": "123dcf1619f90ff54afc8d6e",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/H72f082025aafa40f82cde2c7a464034f78f019a4.jpg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/H72f082025aafa40f82cde2c7a464034f78f019a4.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/H2cf5e0fe9925bc312e452d8251df8db1cb13708b.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/Hac6eddc451da81cb88f8afd75d66d01609243189.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4ea7a2a810ac4d53e4e10b232a498282.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_703a038b318fb8171d020881b2c53ec4.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bb29057ece5984b31f6831f1f45ecbbb.jpeg"
+    ]
+  }
+]

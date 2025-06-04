@@ -1,0 +1,126 @@
+[
+  {
+    "name": "顺途救援",
+    "location": {
+      "lat": 37.217714,
+      "lng": 122.06403
+    },
+    "address": "威海市文登区经一路环岛花园西南侧约30米",
+    "province": "山东省",
+    "city": "威海市",
+    "area": "文登区",
+    "detail": 1,
+    "uid": "e98e834ac9174759f603b87a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_037a15d2cf98ce7abf1de29cab88a2ba.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_037a15d2cf98ce7abf1de29cab88a2ba.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B62a5be71153eaf9a0.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B62a5bd1a993c4a0bb.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_43c085c4505bf66adb82a18710cbe2d7.jpeg"
+    ]
+  },
+  {
+    "name": "援速救援设备(威海展厅)",
+    "location": {
+      "lat": 37.429107,
+      "lng": 122.153154
+    },
+    "address": "威海市环翠区疏站路富城茗居",
+    "province": "山东省",
+    "city": "威海市",
+    "area": "环翠区",
+    "telephone": "15684599593,4000156119",
+    "detail": 1,
+    "uid": "0b479134c6d19d2928b97cae",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B6490250f41305179a7.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B6490250f41305179a7.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6490250f46eab17b4c.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B659201eef03b2173fc.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65920210912b5128c8.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65920299a7402f565.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B659201d36fd761449e.jpeg"
+    ]
+  },
+  {
+    "name": "威帜救援",
+    "location": {
+      "lat": 37.511085,
+      "lng": 122.088779
+    },
+    "address": "山东省威海市环翠区翠竹街13-9号",
+    "province": "山东省",
+    "city": "威海市",
+    "area": "环翠区",
+    "street_id": "",
+    "telephone": "(0631)5195351",
+    "detail": 1,
+    "uid": "8e1dbd673853926df6c59c18",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_03973f48bdf986f8307865246e3a00c1.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_03973f48bdf986f8307865246e3a00c1.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d4f0fba52d85e54292864e20980b8a11.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c2adb1105342ce69f8d3afb5a0e8207f.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B616ff5c2c2b68ee30.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B616ff5c3c4b8d136e4.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B616ff5c2a46fc36dc.jpeg"
+    ]
+  },
+  {
+    "name": "荣成市南山路消防救援站",
+    "location": {
+      "lat": 37.148598,
+      "lng": 122.424111
+    },
+    "address": "山东省威海市荣成市南山中路157号",
+    "province": "山东省",
+    "city": "威海市",
+    "area": "荣成市",
+    "street_id": "",
+    "detail": 1,
+    "uid": "6caa0f5464e3ce68fea77897",
+    "cover": "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_3205a61d02918ab40faef5ea26cc687b.jpg",
+    "photo_list": [
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_3205a61d02918ab40faef5ea26cc687b.jpg"
+    ]
+  },
+  {
+    "name": "百援精养(威海利强博思店)",
+    "location": {
+      "lat": 37.387021,
+      "lng": 122.165105
+    },
+    "address": "经济技术开发区风林街道办事处风鸣路201-5号",
+    "province": "山东省",
+    "city": "威海市",
+    "area": "环翠区",
+    "telephone": "15166113783",
+    "detail": 1,
+    "uid": "c0374e029389bdc803ff2d67",
+    "cover": "https://photo-meituan.cdn.bcebos.com/photo/1709722261f3eef55724b92573079367c74c060467",
+    "photo_list": [
+      "https://photo-meituan.cdn.bcebos.com/photo/1709722261f3eef55724b92573079367c74c060467",
+      "https://photo-meituan.cdn.bcebos.com/photo/1710848903f3eef55724b92573079367c74c060467",
+      "https://pic-map.cdn.bcebos.com/img/6852158ee31ff501980fb6dd70948c18",
+      "https://lbsugc.cdn.bcebos.com/images/B66d9483b1ce1112014.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B66d9483af2fa232ba.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 37.436143,
+      "lng": 122.154106
+    },
+    "address": "威海市环翠区时代路居然之家(威海店)东南侧约70米",
+    "province": "山东省",
+    "city": "威海市",
+    "area": "环翠区",
+    "detail": 1,
+    "uid": "760b444613a5ed44bfa8227e",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_3fd63090f626b3ad9dce830fd6820f78.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3fd63090f626b3ad9dce830fd6820f78.jpeg"
+    ]
+  }
+]

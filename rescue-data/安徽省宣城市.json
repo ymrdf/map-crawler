@@ -1,0 +1,103 @@
+[
+  {
+    "name": "广德路达救援服务有限公司",
+    "location": {
+      "lat": 30.903365,
+      "lng": 119.388726
+    },
+    "address": "宣城市广德市G235广德市励志小学西南侧约40米",
+    "province": "安徽省",
+    "city": "宣城市",
+    "area": "广德市",
+    "street_id": "13900967e5ae2b14f72310e4",
+    "telephone": "15956273332",
+    "detail": 1,
+    "uid": "13900967e5ae2b14f72310e4",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_73bd0d5edf2c18fba0112ca77d80c72c.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=13900967e5ae2b14f72310e4&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_13f3bb69d19e52a6a5c96fbb4ab7e12c.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_ccefa8647f01271aede70c8879ed4d60.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_280267235b3b2e83880537a022e3a299.jpeg"
+    ]
+  },
+  {
+    "name": "宣城市消防救援支队",
+    "location": {
+      "lat": 30.965649,
+      "lng": 118.750373
+    },
+    "address": "安徽省宣城市宣州区昭亭中路179号",
+    "province": "安徽省",
+    "city": "宣城市",
+    "area": "宣州区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "3826bc0830214e06a8f72923",
+    "cover": "https://taojin-his.cdn.bcebos.com/ac345982b2b7d0a2e4ae4b21c5ef76094b369a23.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/ac345982b2b7d0a2e4ae4b21c5ef76094b369a23.jpg",
+      "https://taojin-his.cdn.bcebos.com/aa18972bd40735fa1d94a26b90510fb30e2408f8.jpg",
+      "https://taojin-his.cdn.bcebos.com/574e9258d109b3ded52c809ac0bf6c81810a4cb4.jpg",
+      "https://taojin-his.cdn.bcebos.com/5882b2b7d0a20cf425039a2d7a094b36adaf99b4.jpg",
+      "https://taojin-his.cdn.bcebos.com/cdbf6c81800a19d89865cbb93dfa828ba61e4623.jpg",
+      "https://taojin-his.cdn.bcebos.com/d4628535e5dde711ead8753cabefce1b9c1661f5.jpg"
+    ]
+  },
+  {
+    "name": "宣城市宣州区昭亭路消防救援站",
+    "location": {
+      "lat": 30.965812,
+      "lng": 118.750934
+    },
+    "address": "宣城市宣州区昭亭中路阳光中学南侧约100米",
+    "province": "安徽省",
+    "city": "宣城市",
+    "area": "宣州区",
+    "detail": 1,
+    "uid": "f2c7639d3864c93d37b06cea",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_905f502d220eb31ee3721dd32dae2a19.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_905f502d220eb31ee3721dd32dae2a19.jpeg"
+    ]
+  },
+  {
+    "name": "广德市建设路消防救援站",
+    "location": {
+      "lat": 30.909974,
+      "lng": 119.466067
+    },
+    "address": "宣城市广德市建设路与鹏举路交叉路口往南约240米",
+    "province": "安徽省",
+    "city": "宣城市",
+    "area": "广德市",
+    "detail": 1,
+    "uid": "6923da50868dfa7a1894c6ff",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a1afa4b26edabb2eb3cb55c1ebebdce3.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a1afa4b26edabb2eb3cb55c1ebebdce3.jpg"
+    ]
+  },
+  {
+    "name": "广德东郊报废汽车回收有限公司",
+    "location": {
+      "lat": 30.914959,
+      "lng": 119.424077
+    },
+    "address": "亚夏汽车城A区3号楼(东郊修理厂)",
+    "province": "安徽省",
+    "city": "宣城市",
+    "area": "广德市",
+    "telephone": "13905637373",
+    "detail": 1,
+    "uid": "59b7b3c3daf3e41c2ce67b5c",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_2c2325814c4dd307650b4a9bdcdc324c.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2c2325814c4dd307650b4a9bdcdc324c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_fce2df40f4f437ccd6b24a8245387c03.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_84899d47811b8d66228519c4998227be.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6068fae11879e45e8.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3b311bb5f2ba10849efeca7b28b2c727.jpeg"
+    ]
+  }
+]

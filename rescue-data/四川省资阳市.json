@@ -1,0 +1,116 @@
+[
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 30.122785,
+      "lng": 104.669732
+    },
+    "address": "资阳市雁江区雁兴路东三巷资阳上善若水酒店西北侧",
+    "province": "四川省",
+    "city": "资阳市",
+    "area": "雁江区",
+    "detail": 1,
+    "uid": "297dbf42c13995f962685880",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_6958e6320d40f0d595391880996552a9.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6958e6320d40f0d595391880996552a9.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0410393e33e27c0aa21e7eed954f8d55.jpeg"
+    ]
+  },
+  {
+    "name": "资阳市雁江区汇兴路消防救援站",
+    "location": {
+      "lat": 30.106325,
+      "lng": 104.681171
+    },
+    "address": "资阳市雁江区汇兴路玫瑰园西侧约40米",
+    "province": "四川省",
+    "city": "资阳市",
+    "area": "雁江区",
+    "detail": 1,
+    "uid": "6547a4980eaca56bf50e77d5",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_60d90445950af0a6f92ffc3ad1fe79b0.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_60d90445950af0a6f92ffc3ad1fe79b0.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_3dc9549581b0f0863ec885433e030b9f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e0bbd6074576d0aafb548923f5b98bea.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65cd6dda7b67f8de9.jpeg"
+    ]
+  },
+  {
+    "name": "安岳县城北专职消防救援站",
+    "location": {
+      "lat": 30.117542,
+      "lng": 105.355021
+    },
+    "address": "四川省资阳市安岳县堰塘湾路62号",
+    "province": "四川省",
+    "city": "资阳市",
+    "area": "安岳县",
+    "detail": 1,
+    "uid": "776398d6fb27b5d9d12dd66e",
+    "cover": "https://pic-map.cdn.bcebos.com/img/759d3a78229340db1c82bcc1dde7eeba",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/759d3a78229340db1c82bcc1dde7eeba"
+    ]
+  },
+  {
+    "name": "林林汽修道路救援",
+    "location": {
+      "lat": 30.037233,
+      "lng": 105.10722
+    },
+    "address": "资阳市安岳县驯安路与镇驯路交叉路口往东南约70米",
+    "province": "四川省",
+    "city": "资阳市",
+    "area": "安岳县",
+    "telephone": "13421411555",
+    "detail": 1,
+    "uid": "69c30ae1eaf4ba4bc62ba145",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a752227c632c50900dce348c1ad6770c.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a752227c632c50900dce348c1ad6770c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_17c806f662a7cb4fa6c41dcbc7a2b72d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_68628f9dd915dd66fad833a32cb57daa.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5fbe0966a0c36a9da4cb22f10aa57b0d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_158fbf6b4a3086d7f295bdaca92b610c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a8a47fd222d915757fa739c97127166f.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 30.284356,
+      "lng": 105.022428
+    },
+    "address": "资阳市乐至县仙鹤大道福兴苑西南侧约90米",
+    "province": "四川省",
+    "city": "资阳市",
+    "area": "乐至县",
+    "detail": 1,
+    "uid": "11784876a8450ecec42ba1bf",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_981454569746c79ea02bd602f6850134.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_981454569746c79ea02bd602f6850134.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_414e8a822a3a6bc3745cd03c1ae743e5.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5bb48839563de9846fd5d801c5857f9c.jpeg"
+    ]
+  },
+  {
+    "name": "资阳市雁江区伍隍镇专职消防救援站",
+    "location": {
+      "lat": 29.988137,
+      "lng": 104.80401
+    },
+    "address": "资阳市雁江区乐一路与资资路交叉路口往南约60米",
+    "province": "四川省",
+    "city": "资阳市",
+    "area": "雁江区",
+    "detail": 1,
+    "uid": "feb0202c414f87a8b64f5497",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_52fc5efd7d7594115665f1fb7101b40a.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_52fc5efd7d7594115665f1fb7101b40a.jpeg"
+    ]
+  }
+]

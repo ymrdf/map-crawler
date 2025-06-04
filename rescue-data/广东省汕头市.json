@@ -1,0 +1,143 @@
+[
+  {
+    "name": "顺粤汽车救援服务公司",
+    "location": {
+      "lat": 23.265764,
+      "lng": 116.51751
+    },
+    "address": "广东省汕头市潮阳区金浦派出所梅花治安岗东南侧70米",
+    "province": "广东省",
+    "city": "汕头市",
+    "area": "潮阳区",
+    "telephone": "13922323713",
+    "detail": 1,
+    "uid": "f4f02f946233f2a66ea3cc9a",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B61066d99856c73593.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B61066d99856c73593.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_304cf951cf72a0f1692f09faf19edd91.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B61066d995305217969.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B61066d99842d313674.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B61066d9952eac153e2.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B61066d998620912fa9.jpeg"
+    ]
+  },
+  {
+    "name": "汕头市蓝天救援队",
+    "location": {
+      "lat": 23.410807,
+      "lng": 116.709446
+    },
+    "address": "广东省汕头市金平区鸥汀街道鸥下社区码头路",
+    "province": "广东省",
+    "city": "汕头市",
+    "area": "金平区",
+    "telephone": "18675419958",
+    "detail": 1,
+    "uid": "6f300cd1fddf2786d72ce245",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B64cdf8b9e2a97b82d.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B64cdf8b9e2a97b82d.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B64cdf8cc8d9e61766a.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B64491e29b4a2ee9e8.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B64491e72a648b17bfb.jpeg"
+    ]
+  },
+  {
+    "name": "慈心24小时救援",
+    "location": {
+      "lat": 23.185132,
+      "lng": 116.64205
+    },
+    "address": "广东省汕头市潮阳区S234(海尖路)",
+    "province": "广东省",
+    "city": "汕头市",
+    "area": "潮阳区",
+    "detail": 1,
+    "uid": "210a689d6b058633bda24008",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_96c2c0880bae388419c670ad6faaea97.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_96c2c0880bae388419c670ad6faaea97.jpeg"
+    ]
+  },
+  {
+    "name": "雄鹰救援",
+    "location": {
+      "lat": 23.37878,
+      "lng": 116.753252
+    },
+    "address": "广东省汕头市龙湖区格兰思达大厦9楼903室",
+    "province": "广东省",
+    "city": "汕头市",
+    "area": "龙湖区",
+    "telephone": "13902745207",
+    "detail": 1,
+    "uid": "df5198594ac8d0c5c27da2d2",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a9889f3165453b200a926c686436a02a.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a9889f3165453b200a926c686436a02a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_aceb2477b06e43fe1463285b6535993f.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_46de73a1b12738a5f8d429c231496cdd.jpeg"
+    ]
+  },
+  {
+    "name": "汕头市存心救援中心",
+    "location": {
+      "lat": 23.361031,
+      "lng": 116.683053
+    },
+    "address": "广东省汕头市金平区享祠直巷17号",
+    "province": "广东省",
+    "city": "汕头市",
+    "area": "金平区",
+    "street_id": "fe31dc3f3d0d9e38f02d8349",
+    "detail": 1,
+    "uid": "fe31dc3f3d0d9e38f02d8349",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a48033deb4473bc62fd8b0325e2c3d11.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=fe31dc3f3d0d9e38f02d8349&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b2c1df5407e3ff7df9809faf320abab9.jpeg"
+    ]
+  },
+  {
+    "name": "汕头市潮阳区消防救援大队",
+    "location": {
+      "lat": 23.278011,
+      "lng": 116.600691
+    },
+    "address": "广东省汕头市潮阳区G324(城西大道)",
+    "province": "广东省",
+    "city": "汕头市",
+    "area": "潮阳区",
+    "detail": 1,
+    "uid": "24beb05fdccfeb1e79b55c7e",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_00f38adce6faf608c91074bad9f7def6.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_00f38adce6faf608c91074bad9f7def6.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B615d52548c2493864.jpeg"
+    ]
+  },
+  {
+    "name": "汕头市金平区广厦消防救援站",
+    "location": {
+      "lat": 23.381245,
+      "lng": 116.712336
+    },
+    "address": "广东省汕头市金平区东厦路107号",
+    "province": "广东省",
+    "city": "汕头市",
+    "area": "金平区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "0c6463ce1a001b439c09f7ff",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_12471cbfe547a5d55e4c08eda250ad12.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_12471cbfe547a5d55e4c08eda250ad12.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_718d4a87298dea2e45f530bb18536f48.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_b98d66f6502c432b798a8abfef86a95e.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_6a2960d036db14781d2f1dd5130586fe.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_445771318dbe36aa8af399bead62d2a2.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_797ecad4b49fe6b182ac235ec7071d60.jpeg"
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 27.183969,
+      "lng": 99.298284
+    },
+    "address": "迪庆藏族自治州维西傈僳族自治县兴维大道天和中医院西北侧约200米",
+    "province": "云南省",
+    "city": "迪庆藏族自治州",
+    "area": "维西傈僳族自治县",
+    "detail": 1,
+    "uid": "2a0dbe2d790771a208a8d443",
+    "cover": "https://pic-map.cdn.bcebos.com/img/032dc7a92fb376b85783f884b7007123",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/032dc7a92fb376b85783f884b7007123"
+    ]
+  }
+]

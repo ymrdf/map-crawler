@@ -1,0 +1,119 @@
+[
+  {
+    "name": "海鹰救援",
+    "location": {
+      "lat": 28.032398,
+      "lng": 120.79089
+    },
+    "address": "浙江省温州市永嘉县兴业路19号",
+    "province": "浙江省",
+    "city": "温州市",
+    "area": "永嘉县",
+    "street_id": "40b33771ffed94bb3517dcef",
+    "detail": 1,
+    "uid": "40b33771ffed94bb3517dcef",
+    "cover": "https://taojin-his.cdn.bcebos.com/d1160924ab18972b675c2a5ce8cd7b899f510ac5.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/d1160924ab18972b675c2a5ce8cd7b899f510ac5.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_15a82e471c0494b206e809dbb5ce3590.jpg",
+      "https://taojin-his.cdn.bcebos.com/cb8065380cd791235181361ea0345982b2b78073.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e3f332264d0ca8ab90629179569b17bc.jpeg"
+    ]
+  },
+  {
+    "name": "群鹰救援",
+    "location": {
+      "lat": 27.500344,
+      "lng": 120.417364
+    },
+    "address": "温州市苍南县南鹤路华瑞府东北侧约30米",
+    "province": "浙江省",
+    "city": "温州市",
+    "area": "苍南县",
+    "detail": 1,
+    "uid": "2b8b2e1d13dd54d5461a3243",
+    "cover": "https://pic-map.cdn.bcebos.com/img/63160405fb5d8657b23bac2871fccc13",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/63160405fb5d8657b23bac2871fccc13"
+    ]
+  },
+  {
+    "name": "温州鼎稳道路应急救援施救中心",
+    "location": {
+      "lat": 27.972574,
+      "lng": 120.606254
+    },
+    "address": "浙江省温州市瓯海区瓯海大道1388号",
+    "province": "浙江省",
+    "city": "温州市",
+    "area": "瓯海区",
+    "telephone": "(0577)88812122",
+    "detail": 1,
+    "uid": "aed7c3efe0038c5d0c0e6be8",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B627f76cbe71d9613f.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B627f76cbe71d9613f.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B627f76c09177cf0d7.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8681bf0b1286fe7e04d9d5c145b3ca6c.jpeg"
+    ]
+  },
+  {
+    "name": "救援中心",
+    "location": {
+      "lat": 27.500231,
+      "lng": 120.417239
+    },
+    "address": "温州市苍南县南鹤路华瑞府东北侧",
+    "province": "浙江省",
+    "city": "温州市",
+    "area": "苍南县",
+    "detail": 1,
+    "uid": "336be493e07725d49cec2be0",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_cd0d8dcb1fef6b0e8c89454cd42e2176.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cd0d8dcb1fef6b0e8c89454cd42e2176.jpeg"
+    ]
+  },
+  {
+    "name": "平阳县海天救援",
+    "location": {
+      "lat": 27.609327,
+      "lng": 120.558748
+    },
+    "address": "温州市平阳县柳滨街利德公寓西侧约40米",
+    "province": "浙江省",
+    "city": "温州市",
+    "area": "平阳县",
+    "detail": 1,
+    "uid": "d529925f74510b0038e4a648",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ebdce6d9f56af33fc1371e97d83c7622.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ebdce6d9f56af33fc1371e97d83c7622.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_9c4084d480ee886180f9d8e07ed894d1.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_05020ef9022a599963eeaa0bf7051abc.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2790fa540e4a433b154320e21e1578c3.jpeg"
+    ]
+  },
+  {
+    "name": "火蓝救援",
+    "location": {
+      "lat": 27.986465,
+      "lng": 120.633784
+    },
+    "address": "温州市瓯海区六虹桥路梦多多小镇",
+    "province": "浙江省",
+    "city": "温州市",
+    "area": "瓯海区",
+    "detail": 1,
+    "uid": "c25edf821f75b9c05d17c369",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_8c81e8bbbc82ca33151582648f0641bb.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8c81e8bbbc82ca33151582648f0641bb.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_0c267dbf6405cea53a36d13a54d9e569.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_953d0aab4a3e5ff444166d3dc4d9d567.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6af1820392ca65fd4ad3ec7a238bf199.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B658792ca53a8acb3c.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B678a03a6aaa2515f0c.jpeg"
+    ]
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "name": "联合救援技术",
+    "location": {
+      "lat": 22.913856,
+      "lng": 113.707552
+    },
+    "address": "东莞市创业路东润达二手机械市场",
+    "province": "广东省",
+    "city": "东莞市",
+    "area": "",
+    "detail": 1,
+    "uid": "e0bf2510cb3695cc49fc8d19",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_8486131c2ad3718547fda9303851580e.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_8486131c2ad3718547fda9303851580e.jpeg"
+    ]
+  },
+  {
+    "name": "东莞市消防救援支队",
+    "location": {
+      "lat": 23.003668,
+      "lng": 113.786617
+    },
+    "address": "广东省东莞市莞长路23号",
+    "province": "广东省",
+    "city": "东莞市",
+    "area": "",
+    "street_id": "",
+    "detail": 1,
+    "uid": "94294041b251acf23904b152",
+    "cover": "https://taojin-his.cdn.bcebos.com/bd3eb13533fa828b3efba707f41f4134960a5a7d.jpg",
+    "photo_list": [
+      "https://taojin-his.cdn.bcebos.com/bd3eb13533fa828b3efba707f41f4134960a5a7d.jpg"
+    ]
+  },
+  {
+    "name": "东莞市利兆汽车拖车道路救援有限公司",
+    "location": {
+      "lat": 22.930295,
+      "lng": 114.124298
+    },
+    "address": "广东省东莞市沿河路66号",
+    "province": "广东省",
+    "city": "东莞市",
+    "area": "",
+    "detail": 1,
+    "uid": "130456251e367035581093c0",
+    "cover": "https://pic-map.cdn.bcebos.com/img/0c65a4489ae4bec6a5191f618e7e6364",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/0c65a4489ae4bec6a5191f618e7e6364",
+      "https://lbsugc.cdn.bcebos.com/images/B6777704930f2649a3.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B677770482b68c10350.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 23.043392,
+      "lng": 114.096415
+    },
+    "address": "东莞市李朗路与屋下巷交叉路口往西南约120米",
+    "province": "广东省",
+    "city": "东莞市",
+    "area": "",
+    "detail": 1,
+    "uid": "7e603831d8701bd4c51b75e6",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_937cba52e86db6a62e6147b508769368.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_937cba52e86db6a62e6147b508769368.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 23.028706,
+      "lng": 114.106899
+    },
+    "address": "东莞市光明路桥头镇正坑小区西南侧约30米",
+    "province": "广东省",
+    "city": "东莞市",
+    "area": "",
+    "street_id": "bc8d90fb21bfa6e707026f9a",
+    "detail": 1,
+    "uid": "bc8d90fb21bfa6e707026f9a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_24d2444d2f778915f9934e0689857ea0.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_24d2444d2f778915f9934e0689857ea0.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_40bb4fae35e307656c85ca193449e27b.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ecdff5cfc360555bac711985d7152d0f.jpg",
+      "https://poi-pic.cdn.bcebos.com/ecdff5cfc360555bac711985d7152d0f.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_7a7d5f5aaa95893640f99fb6cd80614f.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B66766728b22ae12691.jpeg"
+    ]
+  },
+  {
+    "name": "中国消防救援",
+    "location": {
+      "lat": 22.950556,
+      "lng": 113.865255
+    },
+    "address": "广东省东莞市志同岭街与石大路交叉口西北340米",
+    "province": "广东省",
+    "city": "东莞市",
+    "area": "",
+    "street_id": "d96a442439b4b8d4cac3db94",
+    "detail": 1,
+    "uid": "d96a442439b4b8d4cac3db94",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_f0f3ce588355124f6be82aa76eaa3ef6.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=d96a442439b4b8d4cac3db94&width=720&height=360&quality=80&fovx=120"
+    ]
+  }
+]

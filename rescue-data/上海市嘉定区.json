@@ -1,0 +1,130 @@
+[
+  {
+    "name": "嘉定区安亭消防救援站",
+    "location": {
+      "lat": 31.315405,
+      "lng": 121.173607
+    },
+    "address": "上海市嘉定区安亭镇宝安公路5363号",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "嘉定区",
+    "street_id": "c48f4cc538e1101a5a3ac897",
+    "telephone": "(021)59990570",
+    "detail": 1,
+    "uid": "c48f4cc538e1101a5a3ac897",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d78ee4675d709dd8c4f182f586f5ea37.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d78ee4675d709dd8c4f182f586f5ea37.jpeg"
+    ]
+  },
+  {
+    "name": "嘉定区新城消防救援站-北门",
+    "location": {
+      "lat": 31.342536,
+      "lng": 121.257843
+    },
+    "address": "上海市嘉定区胜辛路714号",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "嘉定区",
+    "detail": 1,
+    "uid": "87cc8ed8c43518f56ea3ccbe",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_c6b3a33f70c725dc9a2239cee5a284aa.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c6b3a33f70c725dc9a2239cee5a284aa.jpg"
+    ]
+  },
+  {
+    "name": "嘉定区新城消防救援站",
+    "location": {
+      "lat": 31.342076,
+      "lng": 121.258047
+    },
+    "address": "上海市嘉定区胜辛路714号",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "嘉定区",
+    "detail": 1,
+    "uid": "c7da440292f6222da8175a4d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_c6b3a33f70c725dc9a2239cee5a284aa.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_c6b3a33f70c725dc9a2239cee5a284aa.jpg",
+      "https://lbsugc.cdn.bcebos.com/images/B6400b2f4b19255bf0.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6400b2f57a48b65e6.jpeg"
+    ]
+  },
+  {
+    "name": "上汽大众消防救援站",
+    "location": {
+      "lat": 31.307525,
+      "lng": 121.17918
+    },
+    "address": "上海市嘉定区和静路上汽大众汽车公司大众汽车一厂东门西侧约50米",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "嘉定区",
+    "detail": 1,
+    "uid": "3a54fcfc177c030a2fe67ba9",
+    "cover": "https://pic-map.cdn.bcebos.com/img/31b79334e308804a0f8883339d0fda75",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/31b79334e308804a0f8883339d0fda75"
+    ]
+  },
+  {
+    "name": "嘉定区城南消防救援站",
+    "location": {
+      "lat": 31.371883,
+      "lng": 121.259164
+    },
+    "address": "上海市嘉定区阳川路嘉禾大厦东北侧约60米",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "嘉定区",
+    "street_id": "08517ee3244c63102fb9088d",
+    "detail": 1,
+    "uid": "08517ee3244c63102fb9088d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d626bd44b1383781fbc10358af987098.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=08517ee3244c63102fb9088d&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1b08ad597461ee313bf2c43503a5bafb.jpeg"
+    ]
+  },
+  {
+    "name": "嘉定工业区消防救援站",
+    "location": {
+      "lat": 31.435864,
+      "lng": 121.220056
+    },
+    "address": "上海市嘉定区大北街199号",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "嘉定区",
+    "detail": 1,
+    "uid": "7e946a2be0358d5321026225",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_e6599d8fb7ebecbb6825a0a9b19e38f8.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e6599d8fb7ebecbb6825a0a9b19e38f8.jpg",
+      "https://taojin-pic-gz.cdn.bcebos.com/bos_gz_fc70524b9f2ff30e5fb4db053586a974.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6a664b911c7e40ffbaf04ba22b04831a.jpeg"
+    ]
+  },
+  {
+    "name": "嘉定区嘉定消防救援站",
+    "location": {
+      "lat": 31.409511,
+      "lng": 121.275445
+    },
+    "address": "上海市嘉定区胜竹路旭辉锦庭西南侧约60米",
+    "province": "上海市",
+    "city": "上海市",
+    "area": "嘉定区",
+    "detail": 1,
+    "uid": "8076852828afc2a35d17c30c",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_ff56afe19abfd00e6ed7e5504811ec2a.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ff56afe19abfd00e6ed7e5504811ec2a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_cefaef2a1808c1fbf5deee30cbb10173.jpeg"
+    ]
+  }
+]

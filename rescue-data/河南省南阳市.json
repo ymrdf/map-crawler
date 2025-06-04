@@ -1,0 +1,167 @@
+[
+  {
+    "name": "蓝天救援",
+    "location": {
+      "lat": 32.658288,
+      "lng": 112.094746
+    },
+    "address": "南阳市邓州市邓襄路华龙石油(加油站)南侧约260米",
+    "province": "河南省",
+    "city": "南阳市",
+    "area": "邓州市",
+    "street_id": "dd298fb905e1a0881c580048",
+    "detail": 1,
+    "uid": "dd298fb905e1a0881c580048",
+    "cover": "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_9bb834ffa801069dd4246d2ec820f7c4.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=dd298fb905e1a0881c580048&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "内乡蓝天救援中心",
+    "location": {
+      "lat": 33.057796,
+      "lng": 111.858421
+    },
+    "address": "南阳市内乡县湍河西路中央御景东南侧约180米",
+    "province": "河南省",
+    "city": "南阳市",
+    "area": "内乡县",
+    "street_id": "8ab384e02150ab08abf729fb",
+    "detail": 1,
+    "uid": "8ab384e02150ab08abf729fb",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_4f663b629d43caebb2a5ee806d3966ab.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=8ab384e02150ab08abf729fb&width=720&height=360&quality=80&fovx=120",
+      "https://lbsugc.cdn.bcebos.com/images/B6548a7d71737c17054.jpeg"
+    ]
+  },
+  {
+    "name": "南阳市闪电救援有限公司",
+    "location": {
+      "lat": 33.238016,
+      "lng": 113.035409
+    },
+    "address": "南阳市方城县七峰大道与缯国大道交叉路口往西约230米",
+    "province": "河南省",
+    "city": "南阳市",
+    "area": "方城县",
+    "street_id": "275c7a1e79cc6b457dc87695",
+    "detail": 1,
+    "uid": "275c7a1e79cc6b457dc87695",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_c9772b3e9e8000819db51faf602b80d7.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=275c7a1e79cc6b457dc87695&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 32.996815,
+      "lng": 111.881304
+    },
+    "address": "南阳市内乡县大桥一初中西北侧约270米",
+    "province": "河南省",
+    "city": "南阳市",
+    "area": "内乡县",
+    "detail": 1,
+    "uid": "058dca4097dd8fb9c17da256",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_38975063213859224c4c6e69e76817a8.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_38975063213859224c4c6e69e76817a8.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 33.012192,
+      "lng": 112.499976
+    },
+    "address": "南阳市卧龙区麒麟路中原机械厂社区西侧约80米",
+    "province": "河南省",
+    "city": "南阳市",
+    "area": "卧龙区",
+    "street_id": "e485e17a0a65efdb3ce23135",
+    "detail": 1,
+    "uid": "e485e17a0a65efdb3ce23135",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_10165926e400664af06fa9c8646022bd.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=e485e17a0a65efdb3ce23135&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_4ecfa32bd3b534043acf7b1febd69ab8.jpeg"
+    ]
+  },
+  {
+    "name": "镇平县杏山路消防救援站",
+    "location": {
+      "lat": 33.054702,
+      "lng": 112.24074
+    },
+    "address": "南阳市镇平县杏山大道阳关嘉苑西南侧约40米",
+    "province": "河南省",
+    "city": "南阳市",
+    "area": "镇平县",
+    "street_id": "",
+    "detail": 1,
+    "uid": "bfdd1b99575d63bb59bbbc4d",
+    "cover": "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_45d71928a92ecabf23abe60a6769cd93.jpg",
+    "photo_list": [
+      "https://taojin-pic-bj.cdn.bcebos.com/bos_bj_45d71928a92ecabf23abe60a6769cd93.jpg"
+    ]
+  },
+  {
+    "name": "捷途汽车南阳鼎胜体验中心",
+    "location": {
+      "lat": 33.022558,
+      "lng": 112.50483
+    },
+    "address": "南阳市卧龙区北京北路金港小区(光武西路)西侧约60米",
+    "province": "河南省",
+    "city": "南阳市",
+    "area": "卧龙区",
+    "detail": 1,
+    "uid": "87dcbd663830e32f2bb97c28",
+    "cover": "https://lbsugc.cdn.bcebos.com/images/B65c5bdaf5978fda3c.jpeg",
+    "photo_list": [
+      "https://lbsugc.cdn.bcebos.com/images/B65c5bdaf5978fda3c.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_abf21aecdc337fdbf58ff0c25098bf97.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_ceab22976cded469a1beb80264537a9c.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B67bad648e38c44204.jpeg"
+    ]
+  },
+  {
+    "name": "南阳市宛城区长江路消防救援站",
+    "location": {
+      "lat": 32.982535,
+      "lng": 112.566865
+    },
+    "address": "河南省南阳市宛城区长江中路456号",
+    "province": "河南省",
+    "city": "南阳市",
+    "area": "宛城区",
+    "street_id": "",
+    "detail": 1,
+    "uid": "4113edf8252ca1a4c7f025be",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_73ebda559e8d2647703b2f97b5c1f6e5.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_73ebda559e8d2647703b2f97b5c1f6e5.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a2eafa2993d67ee3151b2a9c3e9fc1c7.jpeg"
+    ]
+  },
+  {
+    "name": "消防救援",
+    "location": {
+      "lat": 33.18926,
+      "lng": 112.631169
+    },
+    "address": "南阳市卧龙区中山街石桥镇政府东侧",
+    "province": "河南省",
+    "city": "南阳市",
+    "area": "卧龙区",
+    "detail": 1,
+    "uid": "9b22868fc57a48ea36b06ca1",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_d923ff96f2ddb9219f56b7e4d79a55b9.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d923ff96f2ddb9219f56b7e4d79a55b9.jpeg"
+    ]
+  }
+]

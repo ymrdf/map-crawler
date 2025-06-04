@@ -1,0 +1,159 @@
+[
+  {
+    "name": "马鞍山市紧急救援中心",
+    "location": {
+      "lat": 31.672908,
+      "lng": 118.529083
+    },
+    "address": "江东大道849号",
+    "province": "安徽省",
+    "city": "马鞍山市",
+    "area": "雨山区",
+    "street_id": "2848ffd665b91b0c48cc4a27",
+    "detail": 1,
+    "uid": "2848ffd665b91b0c48cc4a27",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_daf4a841ff5adfa1c42fbc834cd495c6.jpg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=2848ffd665b91b0c48cc4a27&width=720&height=360&quality=80&fovx=120"
+    ]
+  },
+  {
+    "name": "马鞍山顺达汽车救援",
+    "location": {
+      "lat": 31.659543,
+      "lng": 118.542366
+    },
+    "address": "马鞍山市雨山区慈湖河路鑫福家园14栋105室",
+    "province": "安徽省",
+    "city": "马鞍山市",
+    "area": "雨山区",
+    "telephone": "13956222973",
+    "detail": 1,
+    "uid": "5bf281b4fbdaad60f8dc85e7",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_5bb18954e0eb98d96f2de1afd624eb5d.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_5bb18954e0eb98d96f2de1afd624eb5d.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_207cbd9df3064397b4dda326d275a217.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_6b86e8a1c0de618a59c203f0843605b7.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_96dbe8e2e07bd894209a708531bb6adf.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e943f38ed3652e991870669078489db2.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_1a5d8a56e92e3a6d4b971968f12467ab.jpg"
+    ]
+  },
+  {
+    "name": "马鞍山市瑞宇道路救援有限公司",
+    "location": {
+      "lat": 31.733822,
+      "lng": 118.535385
+    },
+    "address": "马鞍山市花山区鹦鹉山路海龙王游泳馆东南侧约260米",
+    "province": "安徽省",
+    "city": "马鞍山市",
+    "area": "花山区",
+    "detail": 1,
+    "uid": "e164a8284ca62ed28b2fb52a",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_a7a5f31a2ab9f025477ef119d96f63ac.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a7a5f31a2ab9f025477ef119d96f63ac.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_82dda271db78a1002b5b5e331dd0303a.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_e0b488e2bfb07d28de9f56c8df81cc52.jpeg"
+    ]
+  },
+  {
+    "name": "和县蓝天救援队",
+    "location": {
+      "lat": 31.730908,
+      "lng": 118.366258
+    },
+    "address": "马鞍山市和县龙潭北路中国石化加油站(和县和城站)北侧约260米",
+    "province": "安徽省",
+    "city": "马鞍山市",
+    "area": "和县",
+    "detail": 1,
+    "uid": "7c9fbe04db121e624e776ed1",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_944916c76908ba6a944015fa0e2acf31.jpeg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_944916c76908ba6a944015fa0e2acf31.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_a75139bf28142d105f58c2ee1f230b89.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B677628827484816904.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B6776288263aa0ac76.jpeg"
+    ]
+  },
+  {
+    "name": "马鞍山市正祥道路救援有限公司",
+    "location": {
+      "lat": 31.671009,
+      "lng": 118.518778
+    },
+    "address": "马鞍山市雨山区碧溪翠庭12栋底商",
+    "province": "安徽省",
+    "city": "马鞍山市",
+    "area": "雨山区",
+    "street_id": "e8f72c055fc646452811d152",
+    "detail": 1,
+    "uid": "e8f72c055fc646452811d152",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_1aeeab4389555e9a1144f216d94548d1.jpeg",
+    "photo_list": [
+      "https://mapsv0.bdimg.com/?qt=pr3dpoi&uid=e8f72c055fc646452811d152&width=720&height=360&quality=80&fovx=120",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_92b93601a104634d5e57a815b880835e.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_487d1d02ee33b1249394fa3229902377.jpeg",
+      "https://lbsugc.cdn.bcebos.com/images/B65e3ca4d054ee10908.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_2140f7a2a6fca86f750221f6bfea8666.jpeg"
+    ]
+  },
+  {
+    "name": "和县消防救援大队",
+    "location": {
+      "lat": 31.729127,
+      "lng": 118.351558
+    },
+    "address": "马鞍山市和县禹锡路润和园南侧约250米",
+    "province": "安徽省",
+    "city": "马鞍山市",
+    "area": "和县",
+    "detail": 1,
+    "uid": "6097ac927660651d2811d132",
+    "cover": "https://pic-map.cdn.bcebos.com/img/0c0348539c60b19100c9947bc99a6114",
+    "photo_list": [
+      "https://pic-map.cdn.bcebos.com/img/0c0348539c60b19100c9947bc99a6114"
+    ]
+  },
+  {
+    "name": "当涂县消防救援大队",
+    "location": {
+      "lat": 31.558951,
+      "lng": 118.514577
+    },
+    "address": "安徽省马鞍山市当涂县姑孰镇提署东路224号",
+    "province": "安徽省",
+    "city": "马鞍山市",
+    "area": "当涂县",
+    "street_id": "",
+    "detail": 1,
+    "uid": "f7ce62250c088f24e011032d",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_bd676e5ac8f5138bfae272500db7395e.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bd676e5ac8f5138bfae272500db7395e.jpg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_d8b64866cdeaa22d190669e8062fa6ea.jpeg",
+      "https://poi-pic-gz.cdn.bcebos.com/pic_525f69d00bc0fe8da438dc08fab518a7.jpeg"
+    ]
+  },
+  {
+    "name": "当涂县太白消防救援站",
+    "location": {
+      "lat": 31.55883,
+      "lng": 118.514764
+    },
+    "address": "安徽省马鞍山市当涂县提署东路224号",
+    "province": "安徽省",
+    "city": "马鞍山市",
+    "area": "当涂县",
+    "street_id": "",
+    "detail": 1,
+    "uid": "dd89f9317401af4cf32d83bb",
+    "cover": "https://poi-pic-gz.cdn.bcebos.com/pic_bd676e5ac8f5138bfae272500db7395e.jpg",
+    "photo_list": [
+      "https://poi-pic-gz.cdn.bcebos.com/pic_bd676e5ac8f5138bfae272500db7395e.jpg"
+    ]
+  }
+]
